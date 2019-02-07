@@ -1,0 +1,95 @@
+('Bluegill Warrior',);0.5388888888888889
+('Chillwind Yeti',);0.6611111111111111
+('Defender of Argus',);0.7388888888888889
+('Dire Wolf Alpha',);0.7305555555555555
+('Doomguard',);0.7916666666666666
+('King Mukla',);0.7361111111111112
+('Master Swordsmith',);0.725
+('Mind Control Tech',);0.6944444444444444
+('Nightblade',);0.5944444444444444
+('Razorfen Hunter',);0.5222222222222223
+("Sen'jin Shieldmasta",);0.7472222222222222
+('Shattered Sun Cleric',);0.7777777777777778
+('Succubus',);0.6027777777777777
+('Voidwalker',);0.5305555555555556
+('Worgen Infiltrator',);0.5194444444444445
+('Youthful Brewmaster',);0.525
+('Chillwind Yeti', 'Defender of Argus');0.5555555555555556
+('Chillwind Yeti', 'Dire Wolf Alpha');0.525
+('Chillwind Yeti', 'Doomguard');0.5277777777777778
+('Chillwind Yeti', 'King Mukla');0.5111111111111111
+('Chillwind Yeti', 'Master Swordsmith');0.5027777777777778
+('Chillwind Yeti', "Sen'jin Shieldmasta");0.5055555555555555
+('Chillwind Yeti', 'Shattered Sun Cleric');0.5027777777777778
+('Defender of Argus', 'Dire Wolf Alpha');0.5138888888888888
+('Defender of Argus', 'Doomguard');0.5694444444444444
+('Defender of Argus', 'King Mukla');0.5666666666666667
+('Defender of Argus', 'Master Swordsmith');0.5777777777777777
+('Defender of Argus', 'Mind Control Tech');0.5527777777777778
+('Defender of Argus', "Sen'jin Shieldmasta");0.5972222222222222
+('Defender of Argus', 'Shattered Sun Cleric');0.5527777777777778
+('Dire Wolf Alpha', 'Doomguard');0.6055555555555555
+('Dire Wolf Alpha', 'King Mukla');0.5333333333333333
+('Dire Wolf Alpha', 'Master Swordsmith');0.5166666666666667
+('Dire Wolf Alpha', "Sen'jin Shieldmasta");0.5111111111111111
+('Dire Wolf Alpha', 'Shattered Sun Cleric');0.5861111111111111
+('Doomguard', 'King Mukla');0.5361111111111111
+('Doomguard', 'Master Swordsmith');0.5222222222222223
+('Doomguard', "Sen'jin Shieldmasta");0.55
+('Doomguard', 'Shattered Sun Cleric');0.6027777777777777
+('King Mukla', 'Master Swordsmith');0.6944444444444444
+('King Mukla', 'Mind Control Tech');0.6638888888888889
+('King Mukla', 'Nightblade');0.5611111111111111
+('King Mukla', "Sen'jin Shieldmasta");0.6583333333333333
+('King Mukla', 'Shattered Sun Cleric');0.5972222222222222
+('King Mukla', 'Succubus');0.525
+('Master Swordsmith', 'Mind Control Tech');0.6666666666666666
+('Master Swordsmith', 'Nightblade');0.575
+('Master Swordsmith', "Sen'jin Shieldmasta");0.675
+('Master Swordsmith', 'Shattered Sun Cleric');0.5861111111111111
+('Master Swordsmith', 'Succubus');0.5416666666666666
+('Mind Control Tech', 'Nightblade');0.55
+('Mind Control Tech', "Sen'jin Shieldmasta");0.6305555555555555
+('Mind Control Tech', 'Shattered Sun Cleric');0.5583333333333333
+('Mind Control Tech', 'Succubus');0.5055555555555555
+('Nightblade', "Sen'jin Shieldmasta");0.5388888888888889
+("Sen'jin Shieldmasta", 'Shattered Sun Cleric');0.6027777777777777
+("Sen'jin Shieldmasta", 'Succubus');0.5222222222222223
+('Shattered Sun Cleric', 'Succubus');0.5138888888888888
+('Defender of Argus', 'King Mukla', 'Master Swordsmith');0.5527777777777778
+('Defender of Argus', 'King Mukla', 'Mind Control Tech');0.5333333333333333
+('Defender of Argus', 'King Mukla', "Sen'jin Shieldmasta");0.5194444444444445
+('Defender of Argus', 'Master Swordsmith', 'Mind Control Tech');0.5388888888888889
+('Defender of Argus', 'Master Swordsmith', "Sen'jin Shieldmasta");0.5333333333333333
+('Defender of Argus', 'Mind Control Tech', "Sen'jin Shieldmasta");0.5055555555555555
+('Doomguard', 'King Mukla', 'Master Swordsmith');0.5
+('King Mukla', 'Master Swordsmith', 'Mind Control Tech');0.6472222222222223
+('King Mukla', 'Master Swordsmith', 'Nightblade');0.5555555555555556
+('King Mukla', 'Master Swordsmith', "Sen'jin Shieldmasta");0.65
+('King Mukla', 'Master Swordsmith', 'Shattered Sun Cleric');0.5611111111111111
+('King Mukla', 'Master Swordsmith', 'Succubus');0.5166666666666667
+('King Mukla', 'Mind Control Tech', 'Nightblade');0.5333333333333333
+('King Mukla', 'Mind Control Tech', "Sen'jin Shieldmasta");0.6111111111111112
+('King Mukla', 'Mind Control Tech', 'Shattered Sun Cleric');0.5388888888888889
+('King Mukla', 'Nightblade', "Sen'jin Shieldmasta");0.5222222222222223
+('King Mukla', "Sen'jin Shieldmasta", 'Shattered Sun Cleric');0.5444444444444444
+('King Mukla', "Sen'jin Shieldmasta", 'Succubus');0.5
+('Master Swordsmith', 'Mind Control Tech', 'Nightblade');0.5444444444444444
+('Master Swordsmith', 'Mind Control Tech', "Sen'jin Shieldmasta");0.6222222222222222
+('Master Swordsmith', 'Mind Control Tech', 'Shattered Sun Cleric');0.5416666666666666
+('Master Swordsmith', 'Nightblade', "Sen'jin Shieldmasta");0.5333333333333333
+('Master Swordsmith', "Sen'jin Shieldmasta", 'Shattered Sun Cleric');0.5611111111111111
+('Master Swordsmith', "Sen'jin Shieldmasta", 'Succubus');0.5138888888888888
+('Mind Control Tech', 'Nightblade', "Sen'jin Shieldmasta");0.5111111111111111
+('Mind Control Tech', "Sen'jin Shieldmasta", 'Shattered Sun Cleric');0.525
+('Defender of Argus', 'King Mukla', 'Master Swordsmith', 'Mind Control Tech');0.5222222222222223
+('Defender of Argus', 'King Mukla', 'Master Swordsmith', "Sen'jin Shieldmasta");0.5111111111111111
+('King Mukla', 'Master Swordsmith', 'Mind Control Tech', 'Nightblade');0.5277777777777778
+('King Mukla', 'Master Swordsmith', 'Mind Control Tech', "Sen'jin Shieldmasta");0.6027777777777777
+('King Mukla', 'Master Swordsmith', 'Mind Control Tech', 'Shattered Sun Cleric');0.5277777777777778
+('King Mukla', 'Master Swordsmith', 'Nightblade', "Sen'jin Shieldmasta");0.5166666666666667
+('King Mukla', 'Master Swordsmith', "Sen'jin Shieldmasta", 'Shattered Sun Cleric');0.5416666666666666
+('King Mukla', 'Mind Control Tech', "Sen'jin Shieldmasta", 'Shattered Sun Cleric');0.5111111111111111
+('Master Swordsmith', 'Mind Control Tech', 'Nightblade', "Sen'jin Shieldmasta");0.5055555555555555
+('Master Swordsmith', 'Mind Control Tech', "Sen'jin Shieldmasta", 'Shattered Sun Cleric');0.5222222222222223
+('King Mukla', 'Master Swordsmith', 'Mind Control Tech', "Sen'jin Shieldmasta", 'Shattered Sun Cleric');0.5083333333333333

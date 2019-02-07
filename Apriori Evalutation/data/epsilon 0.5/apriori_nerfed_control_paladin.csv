@@ -1,0 +1,839 @@
+('Acidic Swamp Ooze',);0.7925
+('Alexstrasza',);0.6375
+('Baron Geddon',);0.5425
+('Boulderfist Ogre',);0.565
+('Consecration',);1.0
+('Defender of Argus',);0.9225
+('Demolisher',);0.795
+('Dire Wolf Alpha',);0.86
+('Faerie Dragon',);0.745
+('Frostwolf Grunt',);0.715
+('Injured Blademaster',);0.5925
+('King Mukla',);0.54
+('Lay on Hands',);0.8025
+("Light's Justice",);0.62
+('Master Swordsmith',);0.7975
+('Murloc Tidehunter',);0.5725
+('Raid Leader',);0.5675
+('Silverback Patriarch',);0.9625
+('Stormwind Champion',);0.73
+('Tirion Fordring',);0.9825
+('Acidic Swamp Ooze', 'Alexstrasza');0.505
+('Acidic Swamp Ooze', 'Consecration');0.7925
+('Acidic Swamp Ooze', 'Defender of Argus');0.755
+('Acidic Swamp Ooze', 'Demolisher');0.6125
+('Acidic Swamp Ooze', 'Dire Wolf Alpha');0.6625
+('Acidic Swamp Ooze', 'Faerie Dragon');0.5925
+('Acidic Swamp Ooze', 'Frostwolf Grunt');0.55
+('Acidic Swamp Ooze', 'Lay on Hands');0.645
+('Acidic Swamp Ooze', "Light's Justice");0.5
+('Acidic Swamp Ooze', 'Master Swordsmith');0.61
+('Acidic Swamp Ooze', 'Silverback Patriarch');0.7675
+('Acidic Swamp Ooze', 'Stormwind Champion');0.5875
+('Acidic Swamp Ooze', 'Tirion Fordring');0.7775
+('Alexstrasza', 'Consecration');0.6375
+('Alexstrasza', 'Defender of Argus');0.5975
+('Alexstrasza', 'Demolisher');0.535
+('Alexstrasza', 'Dire Wolf Alpha');0.5575
+('Alexstrasza', 'Faerie Dragon');0.5225
+('Alexstrasza', 'Silverback Patriarch');0.6125
+('Alexstrasza', 'Tirion Fordring');0.6225
+('Baron Geddon', 'Consecration');0.5425
+('Baron Geddon', 'Defender of Argus');0.5025
+('Baron Geddon', 'Silverback Patriarch');0.52
+('Baron Geddon', 'Tirion Fordring');0.54
+('Boulderfist Ogre', 'Consecration');0.565
+('Boulderfist Ogre', 'Defender of Argus');0.5225
+('Boulderfist Ogre', 'Silverback Patriarch');0.545
+('Boulderfist Ogre', 'Tirion Fordring');0.56
+('Consecration', 'Defender of Argus');0.9225
+('Consecration', 'Demolisher');0.795
+('Consecration', 'Dire Wolf Alpha');0.86
+('Consecration', 'Faerie Dragon');0.745
+('Consecration', 'Frostwolf Grunt');0.715
+('Consecration', 'Injured Blademaster');0.5925
+('Consecration', 'King Mukla');0.54
+('Consecration', 'Lay on Hands');0.8025
+('Consecration', "Light's Justice");0.62
+('Consecration', 'Master Swordsmith');0.7975
+('Consecration', 'Murloc Tidehunter');0.5725
+('Consecration', 'Raid Leader');0.5675
+('Consecration', 'Silverback Patriarch');0.9625
+('Consecration', 'Stormwind Champion');0.73
+('Consecration', 'Tirion Fordring');0.9825
+('Defender of Argus', 'Demolisher');0.7225
+('Defender of Argus', 'Dire Wolf Alpha');0.7875
+('Defender of Argus', 'Faerie Dragon');0.695
+('Defender of Argus', 'Frostwolf Grunt');0.645
+('Defender of Argus', 'Injured Blademaster');0.5375
+('Defender of Argus', 'Lay on Hands');0.745
+('Defender of Argus', "Light's Justice");0.57
+('Defender of Argus', 'Master Swordsmith');0.73
+('Defender of Argus', 'Murloc Tidehunter');0.535
+('Defender of Argus', 'Raid Leader');0.5175
+('Defender of Argus', 'Silverback Patriarch');0.8875
+('Defender of Argus', 'Stormwind Champion');0.6725
+('Defender of Argus', 'Tirion Fordring');0.905
+('Demolisher', 'Dire Wolf Alpha');0.6725
+('Demolisher', 'Faerie Dragon');0.59
+('Demolisher', 'Frostwolf Grunt');0.565
+('Demolisher', 'Lay on Hands');0.6175
+('Demolisher', 'Master Swordsmith');0.6325
+('Demolisher', 'Silverback Patriarch');0.76
+('Demolisher', 'Stormwind Champion');0.565
+('Demolisher', 'Tirion Fordring');0.78
+('Dire Wolf Alpha', 'Faerie Dragon');0.67
+('Dire Wolf Alpha', 'Frostwolf Grunt');0.605
+('Dire Wolf Alpha', 'Injured Blademaster');0.515
+('Dire Wolf Alpha', 'Lay on Hands');0.6825
+('Dire Wolf Alpha', "Light's Justice");0.5425
+('Dire Wolf Alpha', 'Master Swordsmith');0.67
+('Dire Wolf Alpha', 'Murloc Tidehunter');0.525
+('Dire Wolf Alpha', 'Raid Leader');0.5125
+('Dire Wolf Alpha', 'Silverback Patriarch');0.8325
+('Dire Wolf Alpha', 'Stormwind Champion');0.605
+('Dire Wolf Alpha', 'Tirion Fordring');0.845
+('Faerie Dragon', 'Frostwolf Grunt');0.5325
+('Faerie Dragon', 'Lay on Hands');0.615
+('Faerie Dragon', "Light's Justice");0.5075
+('Faerie Dragon', 'Master Swordsmith');0.5825
+('Faerie Dragon', 'Silverback Patriarch');0.72
+('Faerie Dragon', 'Stormwind Champion');0.545
+('Faerie Dragon', 'Tirion Fordring');0.73
+('Frostwolf Grunt', 'Lay on Hands');0.58
+('Frostwolf Grunt', 'Master Swordsmith');0.6
+('Frostwolf Grunt', 'Silverback Patriarch');0.6875
+('Frostwolf Grunt', 'Stormwind Champion');0.5175
+('Frostwolf Grunt', 'Tirion Fordring');0.7025
+('Injured Blademaster', 'Silverback Patriarch');0.575
+('Injured Blademaster', 'Tirion Fordring');0.5825
+('King Mukla', 'Silverback Patriarch');0.5275
+('King Mukla', 'Tirion Fordring');0.525
+('Lay on Hands', "Light's Justice");0.5125
+('Lay on Hands', 'Master Swordsmith');0.655
+('Lay on Hands', 'Silverback Patriarch');0.775
+('Lay on Hands', 'Stormwind Champion');0.6025
+('Lay on Hands', 'Tirion Fordring');0.7925
+("Light's Justice", 'Silverback Patriarch');0.59
+("Light's Justice", 'Tirion Fordring');0.61
+('Master Swordsmith', 'Silverback Patriarch');0.7625
+('Master Swordsmith', 'Stormwind Champion');0.57
+('Master Swordsmith', 'Tirion Fordring');0.785
+('Murloc Tidehunter', 'Silverback Patriarch');0.5525
+('Murloc Tidehunter', 'Tirion Fordring');0.56
+('Raid Leader', 'Silverback Patriarch');0.5525
+('Raid Leader', 'Tirion Fordring');0.555
+('Silverback Patriarch', 'Stormwind Champion');0.7025
+('Silverback Patriarch', 'Tirion Fordring');0.945
+('Stormwind Champion', 'Tirion Fordring');0.7175
+('Acidic Swamp Ooze', 'Alexstrasza', 'Consecration');0.505
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus');0.755
+('Acidic Swamp Ooze', 'Consecration', 'Demolisher');0.6125
+('Acidic Swamp Ooze', 'Consecration', 'Dire Wolf Alpha');0.6625
+('Acidic Swamp Ooze', 'Consecration', 'Faerie Dragon');0.5925
+('Acidic Swamp Ooze', 'Consecration', 'Frostwolf Grunt');0.55
+('Acidic Swamp Ooze', 'Consecration', 'Lay on Hands');0.645
+('Acidic Swamp Ooze', 'Consecration', "Light's Justice");0.5
+('Acidic Swamp Ooze', 'Consecration', 'Master Swordsmith');0.61
+('Acidic Swamp Ooze', 'Consecration', 'Silverback Patriarch');0.7675
+('Acidic Swamp Ooze', 'Consecration', 'Stormwind Champion');0.5875
+('Acidic Swamp Ooze', 'Consecration', 'Tirion Fordring');0.7775
+('Acidic Swamp Ooze', 'Defender of Argus', 'Demolisher');0.58
+('Acidic Swamp Ooze', 'Defender of Argus', 'Dire Wolf Alpha');0.63
+('Acidic Swamp Ooze', 'Defender of Argus', 'Faerie Dragon');0.5725
+('Acidic Swamp Ooze', 'Defender of Argus', 'Frostwolf Grunt');0.5175
+('Acidic Swamp Ooze', 'Defender of Argus', 'Lay on Hands');0.625
+('Acidic Swamp Ooze', 'Defender of Argus', 'Master Swordsmith');0.5825
+('Acidic Swamp Ooze', 'Defender of Argus', 'Silverback Patriarch');0.7325
+('Acidic Swamp Ooze', 'Defender of Argus', 'Stormwind Champion');0.565
+('Acidic Swamp Ooze', 'Defender of Argus', 'Tirion Fordring');0.74
+('Acidic Swamp Ooze', 'Demolisher', 'Silverback Patriarch');0.5875
+('Acidic Swamp Ooze', 'Demolisher', 'Tirion Fordring');0.6
+('Acidic Swamp Ooze', 'Dire Wolf Alpha', 'Faerie Dragon');0.5175
+('Acidic Swamp Ooze', 'Dire Wolf Alpha', 'Lay on Hands');0.53
+('Acidic Swamp Ooze', 'Dire Wolf Alpha', 'Silverback Patriarch');0.64
+('Acidic Swamp Ooze', 'Dire Wolf Alpha', 'Tirion Fordring');0.65
+('Acidic Swamp Ooze', 'Faerie Dragon', 'Silverback Patriarch');0.57
+('Acidic Swamp Ooze', 'Faerie Dragon', 'Tirion Fordring');0.58
+('Acidic Swamp Ooze', 'Frostwolf Grunt', 'Silverback Patriarch');0.5325
+('Acidic Swamp Ooze', 'Frostwolf Grunt', 'Tirion Fordring');0.5375
+('Acidic Swamp Ooze', 'Lay on Hands', 'Master Swordsmith');0.51
+('Acidic Swamp Ooze', 'Lay on Hands', 'Silverback Patriarch');0.625
+('Acidic Swamp Ooze', 'Lay on Hands', 'Tirion Fordring');0.6375
+('Acidic Swamp Ooze', 'Master Swordsmith', 'Silverback Patriarch');0.5875
+('Acidic Swamp Ooze', 'Master Swordsmith', 'Tirion Fordring');0.5975
+('Acidic Swamp Ooze', 'Silverback Patriarch', 'Stormwind Champion');0.57
+('Acidic Swamp Ooze', 'Silverback Patriarch', 'Tirion Fordring');0.7525
+('Acidic Swamp Ooze', 'Stormwind Champion', 'Tirion Fordring');0.5775
+('Alexstrasza', 'Consecration', 'Defender of Argus');0.5975
+('Alexstrasza', 'Consecration', 'Demolisher');0.535
+('Alexstrasza', 'Consecration', 'Dire Wolf Alpha');0.5575
+('Alexstrasza', 'Consecration', 'Faerie Dragon');0.5225
+('Alexstrasza', 'Consecration', 'Silverback Patriarch');0.6125
+('Alexstrasza', 'Consecration', 'Tirion Fordring');0.6225
+('Alexstrasza', 'Defender of Argus', 'Dire Wolf Alpha');0.52
+('Alexstrasza', 'Defender of Argus', 'Silverback Patriarch');0.575
+('Alexstrasza', 'Defender of Argus', 'Tirion Fordring');0.5825
+('Alexstrasza', 'Demolisher', 'Silverback Patriarch');0.51
+('Alexstrasza', 'Demolisher', 'Tirion Fordring');0.5225
+('Alexstrasza', 'Dire Wolf Alpha', 'Silverback Patriarch');0.535
+('Alexstrasza', 'Dire Wolf Alpha', 'Tirion Fordring');0.545
+('Alexstrasza', 'Faerie Dragon', 'Silverback Patriarch');0.5
+('Alexstrasza', 'Faerie Dragon', 'Tirion Fordring');0.51
+('Alexstrasza', 'Silverback Patriarch', 'Tirion Fordring');0.5975
+('Baron Geddon', 'Consecration', 'Defender of Argus');0.5025
+('Baron Geddon', 'Consecration', 'Silverback Patriarch');0.52
+('Baron Geddon', 'Consecration', 'Tirion Fordring');0.54
+('Baron Geddon', 'Defender of Argus', 'Tirion Fordring');0.5
+('Baron Geddon', 'Silverback Patriarch', 'Tirion Fordring');0.5175
+('Boulderfist Ogre', 'Consecration', 'Defender of Argus');0.5225
+('Boulderfist Ogre', 'Consecration', 'Silverback Patriarch');0.545
+('Boulderfist Ogre', 'Consecration', 'Tirion Fordring');0.56
+('Boulderfist Ogre', 'Defender of Argus', 'Silverback Patriarch');0.5025
+('Boulderfist Ogre', 'Defender of Argus', 'Tirion Fordring');0.5175
+('Boulderfist Ogre', 'Silverback Patriarch', 'Tirion Fordring');0.54
+('Consecration', 'Defender of Argus', 'Demolisher');0.7225
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha');0.7875
+('Consecration', 'Defender of Argus', 'Faerie Dragon');0.695
+('Consecration', 'Defender of Argus', 'Frostwolf Grunt');0.645
+('Consecration', 'Defender of Argus', 'Injured Blademaster');0.5375
+('Consecration', 'Defender of Argus', 'Lay on Hands');0.745
+('Consecration', 'Defender of Argus', "Light's Justice");0.57
+('Consecration', 'Defender of Argus', 'Master Swordsmith');0.73
+('Consecration', 'Defender of Argus', 'Murloc Tidehunter');0.535
+('Consecration', 'Defender of Argus', 'Raid Leader');0.5175
+('Consecration', 'Defender of Argus', 'Silverback Patriarch');0.8875
+('Consecration', 'Defender of Argus', 'Stormwind Champion');0.6725
+('Consecration', 'Defender of Argus', 'Tirion Fordring');0.905
+('Consecration', 'Demolisher', 'Dire Wolf Alpha');0.6725
+('Consecration', 'Demolisher', 'Faerie Dragon');0.59
+('Consecration', 'Demolisher', 'Frostwolf Grunt');0.565
+('Consecration', 'Demolisher', 'Lay on Hands');0.6175
+('Consecration', 'Demolisher', 'Master Swordsmith');0.6325
+('Consecration', 'Demolisher', 'Silverback Patriarch');0.76
+('Consecration', 'Demolisher', 'Stormwind Champion');0.565
+('Consecration', 'Demolisher', 'Tirion Fordring');0.78
+('Consecration', 'Dire Wolf Alpha', 'Faerie Dragon');0.67
+('Consecration', 'Dire Wolf Alpha', 'Frostwolf Grunt');0.605
+('Consecration', 'Dire Wolf Alpha', 'Injured Blademaster');0.515
+('Consecration', 'Dire Wolf Alpha', 'Lay on Hands');0.6825
+('Consecration', 'Dire Wolf Alpha', "Light's Justice");0.5425
+('Consecration', 'Dire Wolf Alpha', 'Master Swordsmith');0.67
+('Consecration', 'Dire Wolf Alpha', 'Murloc Tidehunter');0.525
+('Consecration', 'Dire Wolf Alpha', 'Raid Leader');0.5125
+('Consecration', 'Dire Wolf Alpha', 'Silverback Patriarch');0.8325
+('Consecration', 'Dire Wolf Alpha', 'Stormwind Champion');0.605
+('Consecration', 'Dire Wolf Alpha', 'Tirion Fordring');0.845
+('Consecration', 'Faerie Dragon', 'Frostwolf Grunt');0.5325
+('Consecration', 'Faerie Dragon', 'Lay on Hands');0.615
+('Consecration', 'Faerie Dragon', "Light's Justice");0.5075
+('Consecration', 'Faerie Dragon', 'Master Swordsmith');0.5825
+('Consecration', 'Faerie Dragon', 'Silverback Patriarch');0.72
+('Consecration', 'Faerie Dragon', 'Stormwind Champion');0.545
+('Consecration', 'Faerie Dragon', 'Tirion Fordring');0.73
+('Consecration', 'Frostwolf Grunt', 'Lay on Hands');0.58
+('Consecration', 'Frostwolf Grunt', 'Master Swordsmith');0.6
+('Consecration', 'Frostwolf Grunt', 'Silverback Patriarch');0.6875
+('Consecration', 'Frostwolf Grunt', 'Stormwind Champion');0.5175
+('Consecration', 'Frostwolf Grunt', 'Tirion Fordring');0.7025
+('Consecration', 'Injured Blademaster', 'Silverback Patriarch');0.575
+('Consecration', 'Injured Blademaster', 'Tirion Fordring');0.5825
+('Consecration', 'King Mukla', 'Silverback Patriarch');0.5275
+('Consecration', 'King Mukla', 'Tirion Fordring');0.525
+('Consecration', 'Lay on Hands', "Light's Justice");0.5125
+('Consecration', 'Lay on Hands', 'Master Swordsmith');0.655
+('Consecration', 'Lay on Hands', 'Silverback Patriarch');0.775
+('Consecration', 'Lay on Hands', 'Stormwind Champion');0.6025
+('Consecration', 'Lay on Hands', 'Tirion Fordring');0.7925
+('Consecration', "Light's Justice", 'Silverback Patriarch');0.59
+('Consecration', "Light's Justice", 'Tirion Fordring');0.61
+('Consecration', 'Master Swordsmith', 'Silverback Patriarch');0.7625
+('Consecration', 'Master Swordsmith', 'Stormwind Champion');0.57
+('Consecration', 'Master Swordsmith', 'Tirion Fordring');0.785
+('Consecration', 'Murloc Tidehunter', 'Silverback Patriarch');0.5525
+('Consecration', 'Murloc Tidehunter', 'Tirion Fordring');0.56
+('Consecration', 'Raid Leader', 'Silverback Patriarch');0.5525
+('Consecration', 'Raid Leader', 'Tirion Fordring');0.555
+('Consecration', 'Silverback Patriarch', 'Stormwind Champion');0.7025
+('Consecration', 'Silverback Patriarch', 'Tirion Fordring');0.945
+('Consecration', 'Stormwind Champion', 'Tirion Fordring');0.7175
+('Defender of Argus', 'Demolisher', 'Dire Wolf Alpha');0.605
+('Defender of Argus', 'Demolisher', 'Faerie Dragon');0.545
+('Defender of Argus', 'Demolisher', 'Frostwolf Grunt');0.5
+('Defender of Argus', 'Demolisher', 'Lay on Hands');0.5625
+('Defender of Argus', 'Demolisher', 'Master Swordsmith');0.5675
+('Defender of Argus', 'Demolisher', 'Silverback Patriarch');0.69
+('Defender of Argus', 'Demolisher', 'Stormwind Champion');0.5125
+('Defender of Argus', 'Demolisher', 'Tirion Fordring');0.7075
+('Defender of Argus', 'Dire Wolf Alpha', 'Faerie Dragon');0.62
+('Defender of Argus', 'Dire Wolf Alpha', 'Frostwolf Grunt');0.54
+('Defender of Argus', 'Dire Wolf Alpha', 'Lay on Hands');0.6275
+('Defender of Argus', 'Dire Wolf Alpha', 'Master Swordsmith');0.6075
+('Defender of Argus', 'Dire Wolf Alpha', 'Silverback Patriarch');0.7625
+('Defender of Argus', 'Dire Wolf Alpha', 'Stormwind Champion');0.55
+('Defender of Argus', 'Dire Wolf Alpha', 'Tirion Fordring');0.7725
+('Defender of Argus', 'Faerie Dragon', 'Lay on Hands');0.58
+('Defender of Argus', 'Faerie Dragon', 'Master Swordsmith');0.54
+('Defender of Argus', 'Faerie Dragon', 'Silverback Patriarch');0.6725
+('Defender of Argus', 'Faerie Dragon', 'Stormwind Champion');0.505
+('Defender of Argus', 'Faerie Dragon', 'Tirion Fordring');0.68
+('Defender of Argus', 'Frostwolf Grunt', 'Lay on Hands');0.5275
+('Defender of Argus', 'Frostwolf Grunt', 'Master Swordsmith');0.535
+('Defender of Argus', 'Frostwolf Grunt', 'Silverback Patriarch');0.62
+('Defender of Argus', 'Frostwolf Grunt', 'Tirion Fordring');0.6325
+('Defender of Argus', 'Injured Blademaster', 'Silverback Patriarch');0.5225
+('Defender of Argus', 'Injured Blademaster', 'Tirion Fordring');0.5275
+('Defender of Argus', 'Lay on Hands', 'Master Swordsmith');0.6
+('Defender of Argus', 'Lay on Hands', 'Silverback Patriarch');0.7175
+('Defender of Argus', 'Lay on Hands', 'Stormwind Champion');0.56
+('Defender of Argus', 'Lay on Hands', 'Tirion Fordring');0.735
+('Defender of Argus', "Light's Justice", 'Silverback Patriarch');0.54
+('Defender of Argus', "Light's Justice", 'Tirion Fordring');0.56
+('Defender of Argus', 'Master Swordsmith', 'Silverback Patriarch');0.6975
+('Defender of Argus', 'Master Swordsmith', 'Stormwind Champion');0.5225
+('Defender of Argus', 'Master Swordsmith', 'Tirion Fordring');0.7175
+('Defender of Argus', 'Murloc Tidehunter', 'Silverback Patriarch');0.5175
+('Defender of Argus', 'Murloc Tidehunter', 'Tirion Fordring');0.5225
+('Defender of Argus', 'Raid Leader', 'Silverback Patriarch');0.505
+('Defender of Argus', 'Raid Leader', 'Tirion Fordring');0.505
+('Defender of Argus', 'Silverback Patriarch', 'Stormwind Champion');0.645
+('Defender of Argus', 'Silverback Patriarch', 'Tirion Fordring');0.87
+('Defender of Argus', 'Stormwind Champion', 'Tirion Fordring');0.66
+('Demolisher', 'Dire Wolf Alpha', 'Faerie Dragon');0.525
+('Demolisher', 'Dire Wolf Alpha', 'Lay on Hands');0.5125
+('Demolisher', 'Dire Wolf Alpha', 'Master Swordsmith');0.5225
+('Demolisher', 'Dire Wolf Alpha', 'Silverback Patriarch');0.645
+('Demolisher', 'Dire Wolf Alpha', 'Tirion Fordring');0.66
+('Demolisher', 'Faerie Dragon', 'Silverback Patriarch');0.565
+('Demolisher', 'Faerie Dragon', 'Tirion Fordring');0.5775
+('Demolisher', 'Frostwolf Grunt', 'Silverback Patriarch');0.54
+('Demolisher', 'Frostwolf Grunt', 'Tirion Fordring');0.555
+('Demolisher', 'Lay on Hands', 'Master Swordsmith');0.5025
+('Demolisher', 'Lay on Hands', 'Silverback Patriarch');0.59
+('Demolisher', 'Lay on Hands', 'Tirion Fordring');0.61
+('Demolisher', 'Master Swordsmith', 'Silverback Patriarch');0.6
+('Demolisher', 'Master Swordsmith', 'Tirion Fordring');0.6225
+('Demolisher', 'Silverback Patriarch', 'Stormwind Champion');0.54
+('Demolisher', 'Silverback Patriarch', 'Tirion Fordring');0.745
+('Demolisher', 'Stormwind Champion', 'Tirion Fordring');0.555
+('Dire Wolf Alpha', 'Faerie Dragon', 'Lay on Hands');0.545
+('Dire Wolf Alpha', 'Faerie Dragon', 'Master Swordsmith');0.52
+('Dire Wolf Alpha', 'Faerie Dragon', 'Silverback Patriarch');0.6475
+('Dire Wolf Alpha', 'Faerie Dragon', 'Tirion Fordring');0.6575
+('Dire Wolf Alpha', 'Frostwolf Grunt', 'Master Swordsmith');0.5025
+('Dire Wolf Alpha', 'Frostwolf Grunt', 'Silverback Patriarch');0.5825
+('Dire Wolf Alpha', 'Frostwolf Grunt', 'Tirion Fordring');0.595
+('Dire Wolf Alpha', 'Injured Blademaster', 'Silverback Patriarch');0.5
+('Dire Wolf Alpha', 'Injured Blademaster', 'Tirion Fordring');0.505
+('Dire Wolf Alpha', 'Lay on Hands', 'Master Swordsmith');0.545
+('Dire Wolf Alpha', 'Lay on Hands', 'Silverback Patriarch');0.6625
+('Dire Wolf Alpha', 'Lay on Hands', 'Tirion Fordring');0.6725
+('Dire Wolf Alpha', "Light's Justice", 'Silverback Patriarch');0.5225
+('Dire Wolf Alpha', "Light's Justice", 'Tirion Fordring');0.5325
+('Dire Wolf Alpha', 'Master Swordsmith', 'Silverback Patriarch');0.645
+('Dire Wolf Alpha', 'Master Swordsmith', 'Tirion Fordring');0.66
+('Dire Wolf Alpha', 'Murloc Tidehunter', 'Silverback Patriarch');0.505
+('Dire Wolf Alpha', 'Murloc Tidehunter', 'Tirion Fordring');0.515
+('Dire Wolf Alpha', 'Raid Leader', 'Tirion Fordring');0.5025
+('Dire Wolf Alpha', 'Silverback Patriarch', 'Stormwind Champion');0.5875
+('Dire Wolf Alpha', 'Silverback Patriarch', 'Tirion Fordring');0.8175
+('Dire Wolf Alpha', 'Stormwind Champion', 'Tirion Fordring');0.595
+('Faerie Dragon', 'Frostwolf Grunt', 'Silverback Patriarch');0.515
+('Faerie Dragon', 'Frostwolf Grunt', 'Tirion Fordring');0.5225
+('Faerie Dragon', 'Lay on Hands', 'Silverback Patriarch');0.5975
+('Faerie Dragon', 'Lay on Hands', 'Tirion Fordring');0.605
+('Faerie Dragon', 'Master Swordsmith', 'Silverback Patriarch');0.56
+('Faerie Dragon', 'Master Swordsmith', 'Tirion Fordring');0.5725
+('Faerie Dragon', 'Silverback Patriarch', 'Stormwind Champion');0.53
+('Faerie Dragon', 'Silverback Patriarch', 'Tirion Fordring');0.705
+('Faerie Dragon', 'Stormwind Champion', 'Tirion Fordring');0.5325
+('Frostwolf Grunt', 'Lay on Hands', 'Silverback Patriarch');0.5625
+('Frostwolf Grunt', 'Lay on Hands', 'Tirion Fordring');0.575
+('Frostwolf Grunt', 'Master Swordsmith', 'Silverback Patriarch');0.575
+('Frostwolf Grunt', 'Master Swordsmith', 'Tirion Fordring');0.5875
+('Frostwolf Grunt', 'Silverback Patriarch', 'Stormwind Champion');0.5
+('Frostwolf Grunt', 'Silverback Patriarch', 'Tirion Fordring');0.675
+('Frostwolf Grunt', 'Stormwind Champion', 'Tirion Fordring');0.51
+('Injured Blademaster', 'Silverback Patriarch', 'Tirion Fordring');0.565
+('King Mukla', 'Silverback Patriarch', 'Tirion Fordring');0.5125
+('Lay on Hands', "Light's Justice", 'Tirion Fordring');0.5025
+('Lay on Hands', 'Master Swordsmith', 'Silverback Patriarch');0.63
+('Lay on Hands', 'Master Swordsmith', 'Tirion Fordring');0.65
+('Lay on Hands', 'Silverback Patriarch', 'Stormwind Champion');0.58
+('Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.765
+('Lay on Hands', 'Stormwind Champion', 'Tirion Fordring');0.5925
+("Light's Justice", 'Silverback Patriarch', 'Tirion Fordring');0.58
+('Master Swordsmith', 'Silverback Patriarch', 'Stormwind Champion');0.5425
+('Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.75
+('Master Swordsmith', 'Stormwind Champion', 'Tirion Fordring');0.5625
+('Murloc Tidehunter', 'Silverback Patriarch', 'Tirion Fordring');0.54
+('Raid Leader', 'Silverback Patriarch', 'Tirion Fordring');0.54
+('Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.69
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Demolisher');0.58
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Dire Wolf Alpha');0.63
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Faerie Dragon');0.5725
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Frostwolf Grunt');0.5175
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Lay on Hands');0.625
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Master Swordsmith');0.5825
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Silverback Patriarch');0.7325
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Stormwind Champion');0.565
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Tirion Fordring');0.74
+('Acidic Swamp Ooze', 'Consecration', 'Demolisher', 'Silverback Patriarch');0.5875
+('Acidic Swamp Ooze', 'Consecration', 'Demolisher', 'Tirion Fordring');0.6
+('Acidic Swamp Ooze', 'Consecration', 'Dire Wolf Alpha', 'Faerie Dragon');0.5175
+('Acidic Swamp Ooze', 'Consecration', 'Dire Wolf Alpha', 'Lay on Hands');0.53
+('Acidic Swamp Ooze', 'Consecration', 'Dire Wolf Alpha', 'Silverback Patriarch');0.64
+('Acidic Swamp Ooze', 'Consecration', 'Dire Wolf Alpha', 'Tirion Fordring');0.65
+('Acidic Swamp Ooze', 'Consecration', 'Faerie Dragon', 'Silverback Patriarch');0.57
+('Acidic Swamp Ooze', 'Consecration', 'Faerie Dragon', 'Tirion Fordring');0.58
+('Acidic Swamp Ooze', 'Consecration', 'Frostwolf Grunt', 'Silverback Patriarch');0.5325
+('Acidic Swamp Ooze', 'Consecration', 'Frostwolf Grunt', 'Tirion Fordring');0.5375
+('Acidic Swamp Ooze', 'Consecration', 'Lay on Hands', 'Master Swordsmith');0.51
+('Acidic Swamp Ooze', 'Consecration', 'Lay on Hands', 'Silverback Patriarch');0.625
+('Acidic Swamp Ooze', 'Consecration', 'Lay on Hands', 'Tirion Fordring');0.6375
+('Acidic Swamp Ooze', 'Consecration', 'Master Swordsmith', 'Silverback Patriarch');0.5875
+('Acidic Swamp Ooze', 'Consecration', 'Master Swordsmith', 'Tirion Fordring');0.5975
+('Acidic Swamp Ooze', 'Consecration', 'Silverback Patriarch', 'Stormwind Champion');0.57
+('Acidic Swamp Ooze', 'Consecration', 'Silverback Patriarch', 'Tirion Fordring');0.7525
+('Acidic Swamp Ooze', 'Consecration', 'Stormwind Champion', 'Tirion Fordring');0.5775
+('Acidic Swamp Ooze', 'Defender of Argus', 'Demolisher', 'Silverback Patriarch');0.5575
+('Acidic Swamp Ooze', 'Defender of Argus', 'Demolisher', 'Tirion Fordring');0.5675
+('Acidic Swamp Ooze', 'Defender of Argus', 'Dire Wolf Alpha', 'Lay on Hands');0.5125
+('Acidic Swamp Ooze', 'Defender of Argus', 'Dire Wolf Alpha', 'Silverback Patriarch');0.61
+('Acidic Swamp Ooze', 'Defender of Argus', 'Dire Wolf Alpha', 'Tirion Fordring');0.6175
+('Acidic Swamp Ooze', 'Defender of Argus', 'Faerie Dragon', 'Silverback Patriarch');0.5525
+('Acidic Swamp Ooze', 'Defender of Argus', 'Faerie Dragon', 'Tirion Fordring');0.56
+('Acidic Swamp Ooze', 'Defender of Argus', 'Frostwolf Grunt', 'Silverback Patriarch');0.5025
+('Acidic Swamp Ooze', 'Defender of Argus', 'Frostwolf Grunt', 'Tirion Fordring');0.505
+('Acidic Swamp Ooze', 'Defender of Argus', 'Lay on Hands', 'Silverback Patriarch');0.605
+('Acidic Swamp Ooze', 'Defender of Argus', 'Lay on Hands', 'Tirion Fordring');0.6175
+('Acidic Swamp Ooze', 'Defender of Argus', 'Master Swordsmith', 'Silverback Patriarch');0.5625
+('Acidic Swamp Ooze', 'Defender of Argus', 'Master Swordsmith', 'Tirion Fordring');0.57
+('Acidic Swamp Ooze', 'Defender of Argus', 'Silverback Patriarch', 'Stormwind Champion');0.5475
+('Acidic Swamp Ooze', 'Defender of Argus', 'Silverback Patriarch', 'Tirion Fordring');0.7175
+('Acidic Swamp Ooze', 'Defender of Argus', 'Stormwind Champion', 'Tirion Fordring');0.555
+('Acidic Swamp Ooze', 'Demolisher', 'Silverback Patriarch', 'Tirion Fordring');0.575
+('Acidic Swamp Ooze', 'Dire Wolf Alpha', 'Faerie Dragon', 'Tirion Fordring');0.5075
+('Acidic Swamp Ooze', 'Dire Wolf Alpha', 'Lay on Hands', 'Silverback Patriarch');0.5125
+('Acidic Swamp Ooze', 'Dire Wolf Alpha', 'Lay on Hands', 'Tirion Fordring');0.5225
+('Acidic Swamp Ooze', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Tirion Fordring');0.6275
+('Acidic Swamp Ooze', 'Faerie Dragon', 'Silverback Patriarch', 'Tirion Fordring');0.5575
+('Acidic Swamp Ooze', 'Frostwolf Grunt', 'Silverback Patriarch', 'Tirion Fordring');0.52
+('Acidic Swamp Ooze', 'Lay on Hands', 'Master Swordsmith', 'Tirion Fordring');0.505
+('Acidic Swamp Ooze', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.6175
+('Acidic Swamp Ooze', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.575
+('Acidic Swamp Ooze', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.56
+('Alexstrasza', 'Consecration', 'Defender of Argus', 'Dire Wolf Alpha');0.52
+('Alexstrasza', 'Consecration', 'Defender of Argus', 'Silverback Patriarch');0.575
+('Alexstrasza', 'Consecration', 'Defender of Argus', 'Tirion Fordring');0.5825
+('Alexstrasza', 'Consecration', 'Demolisher', 'Silverback Patriarch');0.51
+('Alexstrasza', 'Consecration', 'Demolisher', 'Tirion Fordring');0.5225
+('Alexstrasza', 'Consecration', 'Dire Wolf Alpha', 'Silverback Patriarch');0.535
+('Alexstrasza', 'Consecration', 'Dire Wolf Alpha', 'Tirion Fordring');0.545
+('Alexstrasza', 'Consecration', 'Faerie Dragon', 'Silverback Patriarch');0.5
+('Alexstrasza', 'Consecration', 'Faerie Dragon', 'Tirion Fordring');0.51
+('Alexstrasza', 'Consecration', 'Silverback Patriarch', 'Tirion Fordring');0.5975
+('Alexstrasza', 'Defender of Argus', 'Dire Wolf Alpha', 'Silverback Patriarch');0.5
+('Alexstrasza', 'Defender of Argus', 'Dire Wolf Alpha', 'Tirion Fordring');0.5075
+('Alexstrasza', 'Defender of Argus', 'Silverback Patriarch', 'Tirion Fordring');0.56
+('Alexstrasza', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Tirion Fordring');0.5225
+('Baron Geddon', 'Consecration', 'Defender of Argus', 'Tirion Fordring');0.5
+('Baron Geddon', 'Consecration', 'Silverback Patriarch', 'Tirion Fordring');0.5175
+('Boulderfist Ogre', 'Consecration', 'Defender of Argus', 'Silverback Patriarch');0.5025
+('Boulderfist Ogre', 'Consecration', 'Defender of Argus', 'Tirion Fordring');0.5175
+('Boulderfist Ogre', 'Consecration', 'Silverback Patriarch', 'Tirion Fordring');0.54
+('Consecration', 'Defender of Argus', 'Demolisher', 'Dire Wolf Alpha');0.605
+('Consecration', 'Defender of Argus', 'Demolisher', 'Faerie Dragon');0.545
+('Consecration', 'Defender of Argus', 'Demolisher', 'Frostwolf Grunt');0.5
+('Consecration', 'Defender of Argus', 'Demolisher', 'Lay on Hands');0.5625
+('Consecration', 'Defender of Argus', 'Demolisher', 'Master Swordsmith');0.5675
+('Consecration', 'Defender of Argus', 'Demolisher', 'Silverback Patriarch');0.69
+('Consecration', 'Defender of Argus', 'Demolisher', 'Stormwind Champion');0.5125
+('Consecration', 'Defender of Argus', 'Demolisher', 'Tirion Fordring');0.7075
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Faerie Dragon');0.62
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Frostwolf Grunt');0.54
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Lay on Hands');0.6275
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Master Swordsmith');0.6075
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Silverback Patriarch');0.7625
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Stormwind Champion');0.55
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Tirion Fordring');0.7725
+('Consecration', 'Defender of Argus', 'Faerie Dragon', 'Lay on Hands');0.58
+('Consecration', 'Defender of Argus', 'Faerie Dragon', 'Master Swordsmith');0.54
+('Consecration', 'Defender of Argus', 'Faerie Dragon', 'Silverback Patriarch');0.6725
+('Consecration', 'Defender of Argus', 'Faerie Dragon', 'Stormwind Champion');0.505
+('Consecration', 'Defender of Argus', 'Faerie Dragon', 'Tirion Fordring');0.68
+('Consecration', 'Defender of Argus', 'Frostwolf Grunt', 'Lay on Hands');0.5275
+('Consecration', 'Defender of Argus', 'Frostwolf Grunt', 'Master Swordsmith');0.535
+('Consecration', 'Defender of Argus', 'Frostwolf Grunt', 'Silverback Patriarch');0.62
+('Consecration', 'Defender of Argus', 'Frostwolf Grunt', 'Tirion Fordring');0.6325
+('Consecration', 'Defender of Argus', 'Injured Blademaster', 'Silverback Patriarch');0.5225
+('Consecration', 'Defender of Argus', 'Injured Blademaster', 'Tirion Fordring');0.5275
+('Consecration', 'Defender of Argus', 'Lay on Hands', 'Master Swordsmith');0.6
+('Consecration', 'Defender of Argus', 'Lay on Hands', 'Silverback Patriarch');0.7175
+('Consecration', 'Defender of Argus', 'Lay on Hands', 'Stormwind Champion');0.56
+('Consecration', 'Defender of Argus', 'Lay on Hands', 'Tirion Fordring');0.735
+('Consecration', 'Defender of Argus', "Light's Justice", 'Silverback Patriarch');0.54
+('Consecration', 'Defender of Argus', "Light's Justice", 'Tirion Fordring');0.56
+('Consecration', 'Defender of Argus', 'Master Swordsmith', 'Silverback Patriarch');0.6975
+('Consecration', 'Defender of Argus', 'Master Swordsmith', 'Stormwind Champion');0.5225
+('Consecration', 'Defender of Argus', 'Master Swordsmith', 'Tirion Fordring');0.7175
+('Consecration', 'Defender of Argus', 'Murloc Tidehunter', 'Silverback Patriarch');0.5175
+('Consecration', 'Defender of Argus', 'Murloc Tidehunter', 'Tirion Fordring');0.5225
+('Consecration', 'Defender of Argus', 'Raid Leader', 'Silverback Patriarch');0.505
+('Consecration', 'Defender of Argus', 'Raid Leader', 'Tirion Fordring');0.505
+('Consecration', 'Defender of Argus', 'Silverback Patriarch', 'Stormwind Champion');0.645
+('Consecration', 'Defender of Argus', 'Silverback Patriarch', 'Tirion Fordring');0.87
+('Consecration', 'Defender of Argus', 'Stormwind Champion', 'Tirion Fordring');0.66
+('Consecration', 'Demolisher', 'Dire Wolf Alpha', 'Faerie Dragon');0.525
+('Consecration', 'Demolisher', 'Dire Wolf Alpha', 'Lay on Hands');0.5125
+('Consecration', 'Demolisher', 'Dire Wolf Alpha', 'Master Swordsmith');0.5225
+('Consecration', 'Demolisher', 'Dire Wolf Alpha', 'Silverback Patriarch');0.645
+('Consecration', 'Demolisher', 'Dire Wolf Alpha', 'Tirion Fordring');0.66
+('Consecration', 'Demolisher', 'Faerie Dragon', 'Silverback Patriarch');0.565
+('Consecration', 'Demolisher', 'Faerie Dragon', 'Tirion Fordring');0.5775
+('Consecration', 'Demolisher', 'Frostwolf Grunt', 'Silverback Patriarch');0.54
+('Consecration', 'Demolisher', 'Frostwolf Grunt', 'Tirion Fordring');0.555
+('Consecration', 'Demolisher', 'Lay on Hands', 'Master Swordsmith');0.5025
+('Consecration', 'Demolisher', 'Lay on Hands', 'Silverback Patriarch');0.59
+('Consecration', 'Demolisher', 'Lay on Hands', 'Tirion Fordring');0.61
+('Consecration', 'Demolisher', 'Master Swordsmith', 'Silverback Patriarch');0.6
+('Consecration', 'Demolisher', 'Master Swordsmith', 'Tirion Fordring');0.6225
+('Consecration', 'Demolisher', 'Silverback Patriarch', 'Stormwind Champion');0.54
+('Consecration', 'Demolisher', 'Silverback Patriarch', 'Tirion Fordring');0.745
+('Consecration', 'Demolisher', 'Stormwind Champion', 'Tirion Fordring');0.555
+('Consecration', 'Dire Wolf Alpha', 'Faerie Dragon', 'Lay on Hands');0.545
+('Consecration', 'Dire Wolf Alpha', 'Faerie Dragon', 'Master Swordsmith');0.52
+('Consecration', 'Dire Wolf Alpha', 'Faerie Dragon', 'Silverback Patriarch');0.6475
+('Consecration', 'Dire Wolf Alpha', 'Faerie Dragon', 'Tirion Fordring');0.6575
+('Consecration', 'Dire Wolf Alpha', 'Frostwolf Grunt', 'Master Swordsmith');0.5025
+('Consecration', 'Dire Wolf Alpha', 'Frostwolf Grunt', 'Silverback Patriarch');0.5825
+('Consecration', 'Dire Wolf Alpha', 'Frostwolf Grunt', 'Tirion Fordring');0.595
+('Consecration', 'Dire Wolf Alpha', 'Injured Blademaster', 'Silverback Patriarch');0.5
+('Consecration', 'Dire Wolf Alpha', 'Injured Blademaster', 'Tirion Fordring');0.505
+('Consecration', 'Dire Wolf Alpha', 'Lay on Hands', 'Master Swordsmith');0.545
+('Consecration', 'Dire Wolf Alpha', 'Lay on Hands', 'Silverback Patriarch');0.6625
+('Consecration', 'Dire Wolf Alpha', 'Lay on Hands', 'Tirion Fordring');0.6725
+('Consecration', 'Dire Wolf Alpha', "Light's Justice", 'Silverback Patriarch');0.5225
+('Consecration', 'Dire Wolf Alpha', "Light's Justice", 'Tirion Fordring');0.5325
+('Consecration', 'Dire Wolf Alpha', 'Master Swordsmith', 'Silverback Patriarch');0.645
+('Consecration', 'Dire Wolf Alpha', 'Master Swordsmith', 'Tirion Fordring');0.66
+('Consecration', 'Dire Wolf Alpha', 'Murloc Tidehunter', 'Silverback Patriarch');0.505
+('Consecration', 'Dire Wolf Alpha', 'Murloc Tidehunter', 'Tirion Fordring');0.515
+('Consecration', 'Dire Wolf Alpha', 'Raid Leader', 'Tirion Fordring');0.5025
+('Consecration', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Stormwind Champion');0.5875
+('Consecration', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Tirion Fordring');0.8175
+('Consecration', 'Dire Wolf Alpha', 'Stormwind Champion', 'Tirion Fordring');0.595
+('Consecration', 'Faerie Dragon', 'Frostwolf Grunt', 'Silverback Patriarch');0.515
+('Consecration', 'Faerie Dragon', 'Frostwolf Grunt', 'Tirion Fordring');0.5225
+('Consecration', 'Faerie Dragon', 'Lay on Hands', 'Silverback Patriarch');0.5975
+('Consecration', 'Faerie Dragon', 'Lay on Hands', 'Tirion Fordring');0.605
+('Consecration', 'Faerie Dragon', 'Master Swordsmith', 'Silverback Patriarch');0.56
+('Consecration', 'Faerie Dragon', 'Master Swordsmith', 'Tirion Fordring');0.5725
+('Consecration', 'Faerie Dragon', 'Silverback Patriarch', 'Stormwind Champion');0.53
+('Consecration', 'Faerie Dragon', 'Silverback Patriarch', 'Tirion Fordring');0.705
+('Consecration', 'Faerie Dragon', 'Stormwind Champion', 'Tirion Fordring');0.5325
+('Consecration', 'Frostwolf Grunt', 'Lay on Hands', 'Silverback Patriarch');0.5625
+('Consecration', 'Frostwolf Grunt', 'Lay on Hands', 'Tirion Fordring');0.575
+('Consecration', 'Frostwolf Grunt', 'Master Swordsmith', 'Silverback Patriarch');0.575
+('Consecration', 'Frostwolf Grunt', 'Master Swordsmith', 'Tirion Fordring');0.5875
+('Consecration', 'Frostwolf Grunt', 'Silverback Patriarch', 'Stormwind Champion');0.5
+('Consecration', 'Frostwolf Grunt', 'Silverback Patriarch', 'Tirion Fordring');0.675
+('Consecration', 'Frostwolf Grunt', 'Stormwind Champion', 'Tirion Fordring');0.51
+('Consecration', 'Injured Blademaster', 'Silverback Patriarch', 'Tirion Fordring');0.565
+('Consecration', 'King Mukla', 'Silverback Patriarch', 'Tirion Fordring');0.5125
+('Consecration', 'Lay on Hands', "Light's Justice", 'Tirion Fordring');0.5025
+('Consecration', 'Lay on Hands', 'Master Swordsmith', 'Silverback Patriarch');0.63
+('Consecration', 'Lay on Hands', 'Master Swordsmith', 'Tirion Fordring');0.65
+('Consecration', 'Lay on Hands', 'Silverback Patriarch', 'Stormwind Champion');0.58
+('Consecration', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.765
+('Consecration', 'Lay on Hands', 'Stormwind Champion', 'Tirion Fordring');0.5925
+('Consecration', "Light's Justice", 'Silverback Patriarch', 'Tirion Fordring');0.58
+('Consecration', 'Master Swordsmith', 'Silverback Patriarch', 'Stormwind Champion');0.5425
+('Consecration', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.75
+('Consecration', 'Master Swordsmith', 'Stormwind Champion', 'Tirion Fordring');0.5625
+('Consecration', 'Murloc Tidehunter', 'Silverback Patriarch', 'Tirion Fordring');0.54
+('Consecration', 'Raid Leader', 'Silverback Patriarch', 'Tirion Fordring');0.54
+('Consecration', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.69
+('Defender of Argus', 'Demolisher', 'Dire Wolf Alpha', 'Silverback Patriarch');0.58
+('Defender of Argus', 'Demolisher', 'Dire Wolf Alpha', 'Tirion Fordring');0.5925
+('Defender of Argus', 'Demolisher', 'Faerie Dragon', 'Silverback Patriarch');0.5225
+('Defender of Argus', 'Demolisher', 'Faerie Dragon', 'Tirion Fordring');0.5325
+('Defender of Argus', 'Demolisher', 'Lay on Hands', 'Silverback Patriarch');0.535
+('Defender of Argus', 'Demolisher', 'Lay on Hands', 'Tirion Fordring');0.555
+('Defender of Argus', 'Demolisher', 'Master Swordsmith', 'Silverback Patriarch');0.5375
+('Defender of Argus', 'Demolisher', 'Master Swordsmith', 'Tirion Fordring');0.5575
+('Defender of Argus', 'Demolisher', 'Silverback Patriarch', 'Tirion Fordring');0.675
+('Defender of Argus', 'Demolisher', 'Stormwind Champion', 'Tirion Fordring');0.5025
+('Defender of Argus', 'Dire Wolf Alpha', 'Faerie Dragon', 'Lay on Hands');0.51
+('Defender of Argus', 'Dire Wolf Alpha', 'Faerie Dragon', 'Silverback Patriarch');0.6
+('Defender of Argus', 'Dire Wolf Alpha', 'Faerie Dragon', 'Tirion Fordring');0.6075
+('Defender of Argus', 'Dire Wolf Alpha', 'Frostwolf Grunt', 'Silverback Patriarch');0.52
+('Defender of Argus', 'Dire Wolf Alpha', 'Frostwolf Grunt', 'Tirion Fordring');0.53
+('Defender of Argus', 'Dire Wolf Alpha', 'Lay on Hands', 'Silverback Patriarch');0.6075
+('Defender of Argus', 'Dire Wolf Alpha', 'Lay on Hands', 'Tirion Fordring');0.6175
+('Defender of Argus', 'Dire Wolf Alpha', 'Master Swordsmith', 'Silverback Patriarch');0.585
+('Defender of Argus', 'Dire Wolf Alpha', 'Master Swordsmith', 'Tirion Fordring');0.5975
+('Defender of Argus', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Stormwind Champion');0.5325
+('Defender of Argus', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Tirion Fordring');0.7475
+('Defender of Argus', 'Dire Wolf Alpha', 'Stormwind Champion', 'Tirion Fordring');0.54
+('Defender of Argus', 'Faerie Dragon', 'Lay on Hands', 'Silverback Patriarch');0.5625
+('Defender of Argus', 'Faerie Dragon', 'Lay on Hands', 'Tirion Fordring');0.57
+('Defender of Argus', 'Faerie Dragon', 'Master Swordsmith', 'Silverback Patriarch');0.52
+('Defender of Argus', 'Faerie Dragon', 'Master Swordsmith', 'Tirion Fordring');0.53
+('Defender of Argus', 'Faerie Dragon', 'Silverback Patriarch', 'Tirion Fordring');0.6575
+('Defender of Argus', 'Frostwolf Grunt', 'Lay on Hands', 'Silverback Patriarch');0.51
+('Defender of Argus', 'Frostwolf Grunt', 'Lay on Hands', 'Tirion Fordring');0.5225
+('Defender of Argus', 'Frostwolf Grunt', 'Master Swordsmith', 'Silverback Patriarch');0.5125
+('Defender of Argus', 'Frostwolf Grunt', 'Master Swordsmith', 'Tirion Fordring');0.5225
+('Defender of Argus', 'Frostwolf Grunt', 'Silverback Patriarch', 'Tirion Fordring');0.6075
+('Defender of Argus', 'Injured Blademaster', 'Silverback Patriarch', 'Tirion Fordring');0.5125
+('Defender of Argus', 'Lay on Hands', 'Master Swordsmith', 'Silverback Patriarch');0.575
+('Defender of Argus', 'Lay on Hands', 'Master Swordsmith', 'Tirion Fordring');0.595
+('Defender of Argus', 'Lay on Hands', 'Silverback Patriarch', 'Stormwind Champion');0.5375
+('Defender of Argus', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.7075
+('Defender of Argus', 'Lay on Hands', 'Stormwind Champion', 'Tirion Fordring');0.55
+('Defender of Argus', "Light's Justice", 'Silverback Patriarch', 'Tirion Fordring');0.53
+('Defender of Argus', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.685
+('Defender of Argus', 'Master Swordsmith', 'Stormwind Champion', 'Tirion Fordring');0.515
+('Defender of Argus', 'Murloc Tidehunter', 'Silverback Patriarch', 'Tirion Fordring');0.505
+('Defender of Argus', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.6325
+('Demolisher', 'Dire Wolf Alpha', 'Faerie Dragon', 'Silverback Patriarch');0.5025
+('Demolisher', 'Dire Wolf Alpha', 'Faerie Dragon', 'Tirion Fordring');0.515
+('Demolisher', 'Dire Wolf Alpha', 'Lay on Hands', 'Tirion Fordring');0.505
+('Demolisher', 'Dire Wolf Alpha', 'Master Swordsmith', 'Tirion Fordring');0.515
+('Demolisher', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Tirion Fordring');0.6325
+('Demolisher', 'Faerie Dragon', 'Silverback Patriarch', 'Tirion Fordring');0.5525
+('Demolisher', 'Frostwolf Grunt', 'Silverback Patriarch', 'Tirion Fordring');0.53
+('Demolisher', 'Lay on Hands', 'Master Swordsmith', 'Tirion Fordring');0.5
+('Demolisher', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.5825
+('Demolisher', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.59
+('Demolisher', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.53
+('Dire Wolf Alpha', 'Faerie Dragon', 'Lay on Hands', 'Silverback Patriarch');0.53
+('Dire Wolf Alpha', 'Faerie Dragon', 'Lay on Hands', 'Tirion Fordring');0.535
+('Dire Wolf Alpha', 'Faerie Dragon', 'Master Swordsmith', 'Silverback Patriarch');0.5
+('Dire Wolf Alpha', 'Faerie Dragon', 'Master Swordsmith', 'Tirion Fordring');0.5125
+('Dire Wolf Alpha', 'Faerie Dragon', 'Silverback Patriarch', 'Tirion Fordring');0.635
+('Dire Wolf Alpha', 'Frostwolf Grunt', 'Silverback Patriarch', 'Tirion Fordring');0.5725
+('Dire Wolf Alpha', 'Lay on Hands', 'Master Swordsmith', 'Silverback Patriarch');0.5275
+('Dire Wolf Alpha', 'Lay on Hands', 'Master Swordsmith', 'Tirion Fordring');0.54
+('Dire Wolf Alpha', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.6525
+('Dire Wolf Alpha', "Light's Justice", 'Silverback Patriarch', 'Tirion Fordring');0.5125
+('Dire Wolf Alpha', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.635
+('Dire Wolf Alpha', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.5775
+('Faerie Dragon', 'Frostwolf Grunt', 'Silverback Patriarch', 'Tirion Fordring');0.505
+('Faerie Dragon', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.5875
+('Faerie Dragon', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.55
+('Faerie Dragon', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.5175
+('Frostwolf Grunt', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.5575
+('Frostwolf Grunt', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.5625
+('Lay on Hands', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.625
+('Lay on Hands', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.57
+('Master Swordsmith', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.535
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Demolisher', 'Silverback Patriarch');0.5575
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Demolisher', 'Tirion Fordring');0.5675
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Lay on Hands');0.5125
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Silverback Patriarch');0.61
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Tirion Fordring');0.6175
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Faerie Dragon', 'Silverback Patriarch');0.5525
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Faerie Dragon', 'Tirion Fordring');0.56
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Frostwolf Grunt', 'Silverback Patriarch');0.5025
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Frostwolf Grunt', 'Tirion Fordring');0.505
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Lay on Hands', 'Silverback Patriarch');0.605
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Lay on Hands', 'Tirion Fordring');0.6175
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Master Swordsmith', 'Silverback Patriarch');0.5625
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Master Swordsmith', 'Tirion Fordring');0.57
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Silverback Patriarch', 'Stormwind Champion');0.5475
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Silverback Patriarch', 'Tirion Fordring');0.7175
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Stormwind Champion', 'Tirion Fordring');0.555
+('Acidic Swamp Ooze', 'Consecration', 'Demolisher', 'Silverback Patriarch', 'Tirion Fordring');0.575
+('Acidic Swamp Ooze', 'Consecration', 'Dire Wolf Alpha', 'Faerie Dragon', 'Tirion Fordring');0.5075
+('Acidic Swamp Ooze', 'Consecration', 'Dire Wolf Alpha', 'Lay on Hands', 'Silverback Patriarch');0.5125
+('Acidic Swamp Ooze', 'Consecration', 'Dire Wolf Alpha', 'Lay on Hands', 'Tirion Fordring');0.5225
+('Acidic Swamp Ooze', 'Consecration', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Tirion Fordring');0.6275
+('Acidic Swamp Ooze', 'Consecration', 'Faerie Dragon', 'Silverback Patriarch', 'Tirion Fordring');0.5575
+('Acidic Swamp Ooze', 'Consecration', 'Frostwolf Grunt', 'Silverback Patriarch', 'Tirion Fordring');0.52
+('Acidic Swamp Ooze', 'Consecration', 'Lay on Hands', 'Master Swordsmith', 'Tirion Fordring');0.505
+('Acidic Swamp Ooze', 'Consecration', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.6175
+('Acidic Swamp Ooze', 'Consecration', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.575
+('Acidic Swamp Ooze', 'Consecration', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.56
+('Acidic Swamp Ooze', 'Defender of Argus', 'Demolisher', 'Silverback Patriarch', 'Tirion Fordring');0.545
+('Acidic Swamp Ooze', 'Defender of Argus', 'Dire Wolf Alpha', 'Lay on Hands', 'Tirion Fordring');0.505
+('Acidic Swamp Ooze', 'Defender of Argus', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Tirion Fordring');0.5975
+('Acidic Swamp Ooze', 'Defender of Argus', 'Faerie Dragon', 'Silverback Patriarch', 'Tirion Fordring');0.54
+('Acidic Swamp Ooze', 'Defender of Argus', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.5975
+('Acidic Swamp Ooze', 'Defender of Argus', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.55
+('Acidic Swamp Ooze', 'Defender of Argus', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.5375
+('Acidic Swamp Ooze', 'Dire Wolf Alpha', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.505
+('Alexstrasza', 'Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Silverback Patriarch');0.5
+('Alexstrasza', 'Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Tirion Fordring');0.5075
+('Alexstrasza', 'Consecration', 'Defender of Argus', 'Silverback Patriarch', 'Tirion Fordring');0.56
+('Alexstrasza', 'Consecration', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Tirion Fordring');0.5225
+('Consecration', 'Defender of Argus', 'Demolisher', 'Dire Wolf Alpha', 'Silverback Patriarch');0.58
+('Consecration', 'Defender of Argus', 'Demolisher', 'Dire Wolf Alpha', 'Tirion Fordring');0.5925
+('Consecration', 'Defender of Argus', 'Demolisher', 'Faerie Dragon', 'Silverback Patriarch');0.5225
+('Consecration', 'Defender of Argus', 'Demolisher', 'Faerie Dragon', 'Tirion Fordring');0.5325
+('Consecration', 'Defender of Argus', 'Demolisher', 'Lay on Hands', 'Silverback Patriarch');0.535
+('Consecration', 'Defender of Argus', 'Demolisher', 'Lay on Hands', 'Tirion Fordring');0.555
+('Consecration', 'Defender of Argus', 'Demolisher', 'Master Swordsmith', 'Silverback Patriarch');0.5375
+('Consecration', 'Defender of Argus', 'Demolisher', 'Master Swordsmith', 'Tirion Fordring');0.5575
+('Consecration', 'Defender of Argus', 'Demolisher', 'Silverback Patriarch', 'Tirion Fordring');0.675
+('Consecration', 'Defender of Argus', 'Demolisher', 'Stormwind Champion', 'Tirion Fordring');0.5025
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Faerie Dragon', 'Lay on Hands');0.51
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Faerie Dragon', 'Silverback Patriarch');0.6
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Faerie Dragon', 'Tirion Fordring');0.6075
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Frostwolf Grunt', 'Silverback Patriarch');0.52
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Frostwolf Grunt', 'Tirion Fordring');0.53
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Lay on Hands', 'Silverback Patriarch');0.6075
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Lay on Hands', 'Tirion Fordring');0.6175
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Master Swordsmith', 'Silverback Patriarch');0.585
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Master Swordsmith', 'Tirion Fordring');0.5975
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Stormwind Champion');0.5325
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Tirion Fordring');0.7475
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Stormwind Champion', 'Tirion Fordring');0.54
+('Consecration', 'Defender of Argus', 'Faerie Dragon', 'Lay on Hands', 'Silverback Patriarch');0.5625
+('Consecration', 'Defender of Argus', 'Faerie Dragon', 'Lay on Hands', 'Tirion Fordring');0.57
+('Consecration', 'Defender of Argus', 'Faerie Dragon', 'Master Swordsmith', 'Silverback Patriarch');0.52
+('Consecration', 'Defender of Argus', 'Faerie Dragon', 'Master Swordsmith', 'Tirion Fordring');0.53
+('Consecration', 'Defender of Argus', 'Faerie Dragon', 'Silverback Patriarch', 'Tirion Fordring');0.6575
+('Consecration', 'Defender of Argus', 'Frostwolf Grunt', 'Lay on Hands', 'Silverback Patriarch');0.51
+('Consecration', 'Defender of Argus', 'Frostwolf Grunt', 'Lay on Hands', 'Tirion Fordring');0.5225
+('Consecration', 'Defender of Argus', 'Frostwolf Grunt', 'Master Swordsmith', 'Silverback Patriarch');0.5125
+('Consecration', 'Defender of Argus', 'Frostwolf Grunt', 'Master Swordsmith', 'Tirion Fordring');0.5225
+('Consecration', 'Defender of Argus', 'Frostwolf Grunt', 'Silverback Patriarch', 'Tirion Fordring');0.6075
+('Consecration', 'Defender of Argus', 'Injured Blademaster', 'Silverback Patriarch', 'Tirion Fordring');0.5125
+('Consecration', 'Defender of Argus', 'Lay on Hands', 'Master Swordsmith', 'Silverback Patriarch');0.575
+('Consecration', 'Defender of Argus', 'Lay on Hands', 'Master Swordsmith', 'Tirion Fordring');0.595
+('Consecration', 'Defender of Argus', 'Lay on Hands', 'Silverback Patriarch', 'Stormwind Champion');0.5375
+('Consecration', 'Defender of Argus', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.7075
+('Consecration', 'Defender of Argus', 'Lay on Hands', 'Stormwind Champion', 'Tirion Fordring');0.55
+('Consecration', 'Defender of Argus', "Light's Justice", 'Silverback Patriarch', 'Tirion Fordring');0.53
+('Consecration', 'Defender of Argus', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.685
+('Consecration', 'Defender of Argus', 'Master Swordsmith', 'Stormwind Champion', 'Tirion Fordring');0.515
+('Consecration', 'Defender of Argus', 'Murloc Tidehunter', 'Silverback Patriarch', 'Tirion Fordring');0.505
+('Consecration', 'Defender of Argus', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.6325
+('Consecration', 'Demolisher', 'Dire Wolf Alpha', 'Faerie Dragon', 'Silverback Patriarch');0.5025
+('Consecration', 'Demolisher', 'Dire Wolf Alpha', 'Faerie Dragon', 'Tirion Fordring');0.515
+('Consecration', 'Demolisher', 'Dire Wolf Alpha', 'Lay on Hands', 'Tirion Fordring');0.505
+('Consecration', 'Demolisher', 'Dire Wolf Alpha', 'Master Swordsmith', 'Tirion Fordring');0.515
+('Consecration', 'Demolisher', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Tirion Fordring');0.6325
+('Consecration', 'Demolisher', 'Faerie Dragon', 'Silverback Patriarch', 'Tirion Fordring');0.5525
+('Consecration', 'Demolisher', 'Frostwolf Grunt', 'Silverback Patriarch', 'Tirion Fordring');0.53
+('Consecration', 'Demolisher', 'Lay on Hands', 'Master Swordsmith', 'Tirion Fordring');0.5
+('Consecration', 'Demolisher', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.5825
+('Consecration', 'Demolisher', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.59
+('Consecration', 'Demolisher', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.53
+('Consecration', 'Dire Wolf Alpha', 'Faerie Dragon', 'Lay on Hands', 'Silverback Patriarch');0.53
+('Consecration', 'Dire Wolf Alpha', 'Faerie Dragon', 'Lay on Hands', 'Tirion Fordring');0.535
+('Consecration', 'Dire Wolf Alpha', 'Faerie Dragon', 'Master Swordsmith', 'Silverback Patriarch');0.5
+('Consecration', 'Dire Wolf Alpha', 'Faerie Dragon', 'Master Swordsmith', 'Tirion Fordring');0.5125
+('Consecration', 'Dire Wolf Alpha', 'Faerie Dragon', 'Silverback Patriarch', 'Tirion Fordring');0.635
+('Consecration', 'Dire Wolf Alpha', 'Frostwolf Grunt', 'Silverback Patriarch', 'Tirion Fordring');0.5725
+('Consecration', 'Dire Wolf Alpha', 'Lay on Hands', 'Master Swordsmith', 'Silverback Patriarch');0.5275
+('Consecration', 'Dire Wolf Alpha', 'Lay on Hands', 'Master Swordsmith', 'Tirion Fordring');0.54
+('Consecration', 'Dire Wolf Alpha', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.6525
+('Consecration', 'Dire Wolf Alpha', "Light's Justice", 'Silverback Patriarch', 'Tirion Fordring');0.5125
+('Consecration', 'Dire Wolf Alpha', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.635
+('Consecration', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.5775
+('Consecration', 'Faerie Dragon', 'Frostwolf Grunt', 'Silverback Patriarch', 'Tirion Fordring');0.505
+('Consecration', 'Faerie Dragon', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.5875
+('Consecration', 'Faerie Dragon', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.55
+('Consecration', 'Faerie Dragon', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.5175
+('Consecration', 'Frostwolf Grunt', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.5575
+('Consecration', 'Frostwolf Grunt', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.5625
+('Consecration', 'Lay on Hands', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.625
+('Consecration', 'Lay on Hands', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.57
+('Consecration', 'Master Swordsmith', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.535
+('Defender of Argus', 'Demolisher', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Tirion Fordring');0.5675
+('Defender of Argus', 'Demolisher', 'Faerie Dragon', 'Silverback Patriarch', 'Tirion Fordring');0.51
+('Defender of Argus', 'Demolisher', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.5275
+('Defender of Argus', 'Demolisher', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.5275
+('Defender of Argus', 'Dire Wolf Alpha', 'Faerie Dragon', 'Lay on Hands', 'Tirion Fordring');0.5
+('Defender of Argus', 'Dire Wolf Alpha', 'Faerie Dragon', 'Silverback Patriarch', 'Tirion Fordring');0.5875
+('Defender of Argus', 'Dire Wolf Alpha', 'Frostwolf Grunt', 'Silverback Patriarch', 'Tirion Fordring');0.51
+('Defender of Argus', 'Dire Wolf Alpha', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.5975
+('Defender of Argus', 'Dire Wolf Alpha', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.575
+('Defender of Argus', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.5225
+('Defender of Argus', 'Faerie Dragon', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.5525
+('Defender of Argus', 'Faerie Dragon', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.51
+('Defender of Argus', 'Frostwolf Grunt', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.505
+('Defender of Argus', 'Frostwolf Grunt', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.5
+('Defender of Argus', 'Lay on Hands', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.57
+('Defender of Argus', 'Lay on Hands', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.5275
+('Dire Wolf Alpha', 'Faerie Dragon', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.52
+('Dire Wolf Alpha', 'Lay on Hands', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.5225
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Demolisher', 'Silverback Patriarch', 'Tirion Fordring');0.545
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Lay on Hands', 'Tirion Fordring');0.505
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Tirion Fordring');0.5975
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Faerie Dragon', 'Silverback Patriarch', 'Tirion Fordring');0.54
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.5975
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.55
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.5375
+('Acidic Swamp Ooze', 'Consecration', 'Dire Wolf Alpha', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.505
+('Consecration', 'Defender of Argus', 'Demolisher', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Tirion Fordring');0.5675
+('Consecration', 'Defender of Argus', 'Demolisher', 'Faerie Dragon', 'Silverback Patriarch', 'Tirion Fordring');0.51
+('Consecration', 'Defender of Argus', 'Demolisher', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.5275
+('Consecration', 'Defender of Argus', 'Demolisher', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.5275
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Faerie Dragon', 'Lay on Hands', 'Tirion Fordring');0.5
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Faerie Dragon', 'Silverback Patriarch', 'Tirion Fordring');0.5875
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Frostwolf Grunt', 'Silverback Patriarch', 'Tirion Fordring');0.51
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.5975
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.575
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.5225
+('Consecration', 'Defender of Argus', 'Faerie Dragon', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.5525
+('Consecration', 'Defender of Argus', 'Faerie Dragon', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.51
+('Consecration', 'Defender of Argus', 'Frostwolf Grunt', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.505
+('Consecration', 'Defender of Argus', 'Frostwolf Grunt', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.5
+('Consecration', 'Defender of Argus', 'Lay on Hands', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.57
+('Consecration', 'Defender of Argus', 'Lay on Hands', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.5275
+('Consecration', 'Dire Wolf Alpha', 'Faerie Dragon', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.52
+('Consecration', 'Dire Wolf Alpha', 'Lay on Hands', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.5225
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Demolisher', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Tirion Fordring');0.44
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Demolisher', 'Faerie Dragon', 'Silverback Patriarch', 'Tirion Fordring');0.41
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Demolisher', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.44
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Demolisher', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.41
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Demolisher', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.3925
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.4875
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Faerie Dragon', 'Lay on Hands', 'Tirion Fordring');0.41
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Faerie Dragon', 'Silverback Patriarch', 'Tirion Fordring');0.47
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.4425
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.43
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Frostwolf Grunt', 'Silverback Patriarch', 'Tirion Fordring');0.395
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Faerie Dragon', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.4625
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Faerie Dragon', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.4025
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Faerie Dragon', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.41
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Lay on Hands', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.47
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Lay on Hands', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.4525
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Frostwolf Grunt', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.42
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Master Swordsmith', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.4075
+('Acidic Swamp Ooze', 'Consecration', 'Defender of Argus', 'Frostwolf Grunt', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.39
+('Acidic Swamp Ooze', 'Consecration', 'Dire Wolf Alpha', 'Faerie Dragon', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.4025
+('Acidic Swamp Ooze', 'Consecration', 'Dire Wolf Alpha', 'Lay on Hands', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.385
+('Consecration', 'Defender of Argus', 'Demolisher', 'Dire Wolf Alpha', 'Faerie Dragon', 'Silverback Patriarch', 'Tirion Fordring');0.45
+('Consecration', 'Defender of Argus', 'Demolisher', 'Dire Wolf Alpha', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.4325
+('Consecration', 'Defender of Argus', 'Demolisher', 'Dire Wolf Alpha', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.4325
+('Consecration', 'Defender of Argus', 'Demolisher', 'Dire Wolf Alpha', 'Frostwolf Grunt', 'Silverback Patriarch', 'Tirion Fordring');0.3825
+('Consecration', 'Defender of Argus', 'Demolisher', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.3825
+('Consecration', 'Defender of Argus', 'Demolisher', 'Faerie Dragon', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.41
+('Consecration', 'Defender of Argus', 'Demolisher', 'Faerie Dragon', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.395
+('Consecration', 'Defender of Argus', 'Demolisher', 'Lay on Hands', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.4225
+('Consecration', 'Defender of Argus', 'Demolisher', 'Frostwolf Grunt', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.37
+('Consecration', 'Defender of Argus', 'Demolisher', 'Lay on Hands', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.3825
+('Consecration', 'Defender of Argus', 'Demolisher', 'Frostwolf Grunt', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.3825
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Faerie Dragon', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.485
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Faerie Dragon', 'Frostwolf Grunt', 'Silverback Patriarch', 'Tirion Fordring');0.4075
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Faerie Dragon', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.4525
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Faerie Dragon', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.415
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Frostwolf Grunt', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.42
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Frostwolf Grunt', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.415
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Frostwolf Grunt', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.355
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Lay on Hands', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.47
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Lay on Hands', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.43
+('Consecration', 'Defender of Argus', 'Dire Wolf Alpha', 'Master Swordsmith', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.39
+('Consecration', 'Defender of Argus', 'Faerie Dragon', 'Lay on Hands', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.4225
+('Consecration', 'Defender of Argus', 'Faerie Dragon', 'Frostwolf Grunt', 'Lay on Hands', 'Silverback Patriarch', 'Tirion Fordring');0.385
+('Consecration', 'Defender of Argus', 'Faerie Dragon', 'Lay on Hands', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.4225
+('Consecration', 'Defender of Argus', 'Faerie Dragon', 'Frostwolf Grunt', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.36
+('Consecration', 'Defender of Argus', 'Frostwolf Grunt', 'Lay on Hands', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.4125
+('Consecration', 'Defender of Argus', 'Frostwolf Grunt', 'Lay on Hands', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.38
+('Consecration', 'Defender of Argus', 'Lay on Hands', 'Master Swordsmith', 'Silverback Patriarch', 'Stormwind Champion', 'Tirion Fordring');0.4175
+('Consecration', 'Dire Wolf Alpha', 'Faerie Dragon', 'Lay on Hands', 'Master Swordsmith', 'Silverback Patriarch', 'Tirion Fordring');0.3975

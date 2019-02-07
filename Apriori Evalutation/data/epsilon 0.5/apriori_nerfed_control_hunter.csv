@@ -1,0 +1,1017 @@
+('Amani Berserker',);0.958217270194986
+('Animal Companion',);0.8662952646239555
+('Argent Squire',);0.6908077994428969
+('Dire Wolf Alpha',);0.8272980501392758
+('Explosive Shot',);0.83008356545961
+('Fen Creeper',);0.6629526462395543
+('Harvest Golem',);0.5236768802228412
+('Kill Command',);0.6155988857938719
+('Leper Gnome',);0.6629526462395543
+('Multi-Shot',);0.8245125348189415
+('Questing Adventurer',);0.596100278551532
+('Raging Worgen',);0.7270194986072424
+('Silverback Patriarch',);0.9693593314763231
+('Southsea Captain',);0.8189415041782729
+('Southsea Deckhand',);0.5738161559888579
+('Stormpike Commando',);0.7047353760445683
+('Stormwind Champion',);0.8050139275766016
+('Twilight Drake',);0.5348189415041783
+('Voodoo Doctor',);0.7994428969359332
+('Wild Pyromancer',);0.6908077994428969
+('Amani Berserker', 'Animal Companion');0.8440111420612814
+('Amani Berserker', 'Argent Squire');0.6713091922005571
+('Amani Berserker', 'Dire Wolf Alpha');0.8161559888579387
+('Amani Berserker', 'Explosive Shot');0.8272980501392758
+('Amani Berserker', 'Fen Creeper');0.637883008356546
+('Amani Berserker', 'Harvest Golem');0.5069637883008357
+('Amani Berserker', 'Kill Command');0.6128133704735376
+('Amani Berserker', 'Leper Gnome');0.649025069637883
+('Amani Berserker', 'Multi-Shot');0.8050139275766016
+('Amani Berserker', 'Questing Adventurer');0.5877437325905293
+('Amani Berserker', 'Raging Worgen');0.7158774373259053
+('Amani Berserker', 'Silverback Patriarch');0.9275766016713092
+('Amani Berserker', 'Southsea Captain');0.7938718662952646
+('Amani Berserker', 'Southsea Deckhand');0.5431754874651811
+('Amani Berserker', 'Stormpike Commando');0.6935933147632312
+('Amani Berserker', 'Stormwind Champion');0.7855153203342619
+('Amani Berserker', 'Twilight Drake');0.5292479108635098
+('Amani Berserker', 'Voodoo Doctor');0.7743732590529248
+('Amani Berserker', 'Wild Pyromancer');0.6796657381615598
+('Animal Companion', 'Argent Squire');0.6128133704735376
+('Animal Companion', 'Dire Wolf Alpha');0.7437325905292479
+('Animal Companion', 'Explosive Shot');0.7493036211699164
+('Animal Companion', 'Fen Creeper');0.6434540389972145
+('Animal Companion', 'Kill Command');0.5738161559888579
+('Animal Companion', 'Leper Gnome');0.6128133704735376
+('Animal Companion', 'Multi-Shot');0.7437325905292479
+('Animal Companion', 'Questing Adventurer');0.5292479108635098
+('Animal Companion', 'Raging Worgen');0.6685236768802229
+('Animal Companion', 'Silverback Patriarch');0.8523676880222841
+('Animal Companion', 'Southsea Captain');0.713091922005571
+('Animal Companion', 'Stormpike Commando');0.6768802228412256
+('Animal Companion', 'Stormwind Champion');0.766016713091922
+('Animal Companion', 'Twilight Drake');0.520891364902507
+('Animal Companion', 'Voodoo Doctor');0.6991643454038997
+('Animal Companion', 'Wild Pyromancer');0.6239554317548747
+('Argent Squire', 'Dire Wolf Alpha');0.6239554317548747
+('Argent Squire', 'Explosive Shot');0.6016713091922006
+('Argent Squire', 'Multi-Shot');0.5403899721448467
+('Argent Squire', 'Raging Worgen');0.5069637883008357
+('Argent Squire', 'Silverback Patriarch');0.6713091922005571
+('Argent Squire', 'Southsea Captain');0.5877437325905293
+('Argent Squire', 'Stormpike Commando');0.5821727019498607
+('Argent Squire', 'Stormwind Champion');0.5766016713091922
+('Argent Squire', 'Voodoo Doctor');0.5598885793871866
+('Dire Wolf Alpha', 'Explosive Shot');0.7270194986072424
+('Dire Wolf Alpha', 'Fen Creeper');0.5459610027855153
+('Dire Wolf Alpha', 'Kill Command');0.5153203342618384
+('Dire Wolf Alpha', 'Leper Gnome');0.5738161559888579
+('Dire Wolf Alpha', 'Multi-Shot');0.7019498607242339
+('Dire Wolf Alpha', 'Questing Adventurer');0.5041782729805014
+('Dire Wolf Alpha', 'Raging Worgen');0.6183844011142061
+('Dire Wolf Alpha', 'Silverback Patriarch');0.7966573816155988
+('Dire Wolf Alpha', 'Southsea Captain');0.6852367688022284
+('Dire Wolf Alpha', 'Stormpike Commando');0.6239554317548747
+('Dire Wolf Alpha', 'Stormwind Champion');0.6713091922005571
+('Dire Wolf Alpha', 'Voodoo Doctor');0.6573816155988857
+('Dire Wolf Alpha', 'Wild Pyromancer');0.5793871866295265
+('Explosive Shot', 'Fen Creeper');0.5571030640668524
+('Explosive Shot', 'Kill Command');0.5738161559888579
+('Explosive Shot', 'Leper Gnome');0.5905292479108635
+('Explosive Shot', 'Multi-Shot');0.7075208913649025
+('Explosive Shot', 'Questing Adventurer');0.5376044568245125
+('Explosive Shot', 'Raging Worgen');0.6462395543175488
+('Explosive Shot', 'Silverback Patriarch');0.807799442896936
+('Explosive Shot', 'Southsea Captain');0.6768802228412256
+('Explosive Shot', 'Stormpike Commando');0.6406685236768802
+('Explosive Shot', 'Stormwind Champion');0.7019498607242339
+('Explosive Shot', 'Voodoo Doctor');0.6685236768802229
+('Explosive Shot', 'Wild Pyromancer');0.6211699164345403
+('Fen Creeper', 'Multi-Shot');0.5487465181058496
+('Fen Creeper', 'Silverback Patriarch');0.649025069637883
+('Fen Creeper', 'Southsea Captain');0.5933147632311978
+('Fen Creeper', 'Stormpike Commando');0.5153203342618384
+('Fen Creeper', 'Stormwind Champion');0.5598885793871866
+('Fen Creeper', 'Voodoo Doctor');0.5097493036211699
+('Harvest Golem', 'Silverback Patriarch');0.5097493036211699
+('Kill Command', 'Raging Worgen');0.5236768802228412
+('Kill Command', 'Silverback Patriarch');0.6016713091922006
+('Kill Command', 'Southsea Captain');0.5041782729805014
+('Kill Command', 'Stormwind Champion');0.5515320334261838
+('Kill Command', 'Voodoo Doctor');0.5236768802228412
+('Leper Gnome', 'Multi-Shot');0.5710306406685237
+('Leper Gnome', 'Raging Worgen');0.5097493036211699
+('Leper Gnome', 'Silverback Patriarch');0.6518105849582173
+('Leper Gnome', 'Southsea Captain');0.5431754874651811
+('Leper Gnome', 'Stormpike Commando');0.5125348189415042
+('Leper Gnome', 'Stormwind Champion');0.5487465181058496
+('Leper Gnome', 'Voodoo Doctor');0.5877437325905293
+('Multi-Shot', 'Raging Worgen');0.6072423398328691
+('Multi-Shot', 'Silverback Patriarch');0.7994428969359332
+('Multi-Shot', 'Southsea Captain');0.6573816155988857
+('Multi-Shot', 'Stormpike Commando');0.6072423398328691
+('Multi-Shot', 'Stormwind Champion');0.6880222841225627
+('Multi-Shot', 'Voodoo Doctor');0.6323119777158774
+('Multi-Shot', 'Wild Pyromancer');0.5710306406685237
+('Questing Adventurer', 'Silverback Patriarch');0.5821727019498607
+('Questing Adventurer', 'Southsea Captain');0.5153203342618384
+('Questing Adventurer', 'Voodoo Doctor');0.5515320334261838
+('Raging Worgen', 'Silverback Patriarch');0.7158774373259053
+('Raging Worgen', 'Southsea Captain');0.5933147632311978
+('Raging Worgen', 'Stormpike Commando');0.5348189415041783
+('Raging Worgen', 'Stormwind Champion');0.6100278551532033
+('Raging Worgen', 'Voodoo Doctor');0.5988857938718662
+('Raging Worgen', 'Wild Pyromancer');0.6072423398328691
+('Silverback Patriarch', 'Southsea Captain');0.7994428969359332
+('Silverback Patriarch', 'Southsea Deckhand');0.5431754874651811
+('Silverback Patriarch', 'Stormpike Commando');0.6908077994428969
+('Silverback Patriarch', 'Stormwind Champion');0.7910863509749304
+('Silverback Patriarch', 'Twilight Drake');0.5264623955431755
+('Silverback Patriarch', 'Voodoo Doctor');0.7855153203342619
+('Silverback Patriarch', 'Wild Pyromancer');0.6796657381615598
+('Southsea Captain', 'Stormpike Commando');0.5905292479108635
+('Southsea Captain', 'Stormwind Champion');0.6629526462395543
+('Southsea Captain', 'Voodoo Doctor');0.6657381615598886
+('Southsea Captain', 'Wild Pyromancer');0.5766016713091922
+('Southsea Deckhand', 'Voodoo Doctor');0.5069637883008357
+('Stormpike Commando', 'Stormwind Champion');0.6267409470752089
+('Stormpike Commando', 'Voodoo Doctor');0.5515320334261838
+('Stormpike Commando', 'Wild Pyromancer');0.520891364902507
+('Stormwind Champion', 'Voodoo Doctor');0.637883008356546
+('Stormwind Champion', 'Wild Pyromancer');0.5766016713091922
+('Voodoo Doctor', 'Wild Pyromancer');0.5459610027855153
+('Amani Berserker', 'Animal Companion', 'Argent Squire');0.6072423398328691
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha');0.7325905292479109
+('Amani Berserker', 'Animal Companion', 'Explosive Shot');0.7465181058495822
+('Amani Berserker', 'Animal Companion', 'Fen Creeper');0.6267409470752089
+('Amani Berserker', 'Animal Companion', 'Kill Command');0.5710306406685237
+('Amani Berserker', 'Animal Companion', 'Leper Gnome');0.6016713091922006
+('Amani Berserker', 'Animal Companion', 'Multi-Shot');0.7298050139275766
+('Amani Berserker', 'Animal Companion', 'Questing Adventurer');0.5236768802228412
+('Amani Berserker', 'Animal Companion', 'Raging Worgen');0.6573816155988857
+('Amani Berserker', 'Animal Companion', 'Silverback Patriarch');0.83008356545961
+('Amani Berserker', 'Animal Companion', 'Southsea Captain');0.7019498607242339
+('Amani Berserker', 'Animal Companion', 'Stormpike Commando');0.6685236768802229
+('Amani Berserker', 'Animal Companion', 'Stormwind Champion');0.7520891364902507
+('Amani Berserker', 'Animal Companion', 'Twilight Drake');0.5153203342618384
+('Amani Berserker', 'Animal Companion', 'Voodoo Doctor');0.6852367688022284
+('Amani Berserker', 'Animal Companion', 'Wild Pyromancer');0.6155988857938719
+('Amani Berserker', 'Argent Squire', 'Dire Wolf Alpha');0.6211699164345403
+('Amani Berserker', 'Argent Squire', 'Explosive Shot');0.5988857938718662
+('Amani Berserker', 'Argent Squire', 'Multi-Shot');0.5348189415041783
+('Amani Berserker', 'Argent Squire', 'Raging Worgen');0.5013927576601671
+('Amani Berserker', 'Argent Squire', 'Silverback Patriarch');0.6518105849582173
+('Amani Berserker', 'Argent Squire', 'Southsea Captain');0.5710306406685237
+('Amani Berserker', 'Argent Squire', 'Stormpike Commando');0.5738161559888579
+('Amani Berserker', 'Argent Squire', 'Stormwind Champion');0.5710306406685237
+('Amani Berserker', 'Argent Squire', 'Voodoo Doctor');0.5459610027855153
+('Amani Berserker', 'Dire Wolf Alpha', 'Explosive Shot');0.724233983286908
+('Amani Berserker', 'Dire Wolf Alpha', 'Fen Creeper');0.5348189415041783
+('Amani Berserker', 'Dire Wolf Alpha', 'Kill Command');0.5125348189415042
+('Amani Berserker', 'Dire Wolf Alpha', 'Leper Gnome');0.5682451253481894
+('Amani Berserker', 'Dire Wolf Alpha', 'Multi-Shot');0.6963788300835655
+('Amani Berserker', 'Dire Wolf Alpha', 'Questing Adventurer');0.5013927576601671
+('Amani Berserker', 'Dire Wolf Alpha', 'Raging Worgen');0.6100278551532033
+('Amani Berserker', 'Dire Wolf Alpha', 'Silverback Patriarch');0.7855153203342619
+('Amani Berserker', 'Dire Wolf Alpha', 'Southsea Captain');0.6768802228412256
+('Amani Berserker', 'Dire Wolf Alpha', 'Stormpike Commando');0.6183844011142061
+('Amani Berserker', 'Dire Wolf Alpha', 'Stormwind Champion');0.6657381615598886
+('Amani Berserker', 'Dire Wolf Alpha', 'Voodoo Doctor');0.649025069637883
+('Amani Berserker', 'Dire Wolf Alpha', 'Wild Pyromancer');0.5738161559888579
+('Amani Berserker', 'Explosive Shot', 'Fen Creeper');0.5543175487465181
+('Amani Berserker', 'Explosive Shot', 'Kill Command');0.5738161559888579
+('Amani Berserker', 'Explosive Shot', 'Leper Gnome');0.5877437325905293
+('Amani Berserker', 'Explosive Shot', 'Multi-Shot');0.7047353760445683
+('Amani Berserker', 'Explosive Shot', 'Questing Adventurer');0.5376044568245125
+('Amani Berserker', 'Explosive Shot', 'Raging Worgen');0.6434540389972145
+('Amani Berserker', 'Explosive Shot', 'Silverback Patriarch');0.8050139275766016
+('Amani Berserker', 'Explosive Shot', 'Southsea Captain');0.6768802228412256
+('Amani Berserker', 'Explosive Shot', 'Stormpike Commando');0.637883008356546
+('Amani Berserker', 'Explosive Shot', 'Stormwind Champion');0.6991643454038997
+('Amani Berserker', 'Explosive Shot', 'Voodoo Doctor');0.6685236768802229
+('Amani Berserker', 'Explosive Shot', 'Wild Pyromancer');0.6183844011142061
+('Amani Berserker', 'Fen Creeper', 'Multi-Shot');0.5403899721448467
+('Amani Berserker', 'Fen Creeper', 'Silverback Patriarch');0.6239554317548747
+('Amani Berserker', 'Fen Creeper', 'Southsea Captain');0.5738161559888579
+('Amani Berserker', 'Fen Creeper', 'Stormpike Commando');0.5041782729805014
+('Amani Berserker', 'Fen Creeper', 'Stormwind Champion');0.5515320334261838
+('Amani Berserker', 'Kill Command', 'Raging Worgen');0.520891364902507
+('Amani Berserker', 'Kill Command', 'Silverback Patriarch');0.5988857938718662
+('Amani Berserker', 'Kill Command', 'Southsea Captain');0.5013927576601671
+('Amani Berserker', 'Kill Command', 'Stormwind Champion');0.5487465181058496
+('Amani Berserker', 'Kill Command', 'Voodoo Doctor');0.520891364902507
+('Amani Berserker', 'Leper Gnome', 'Multi-Shot');0.5598885793871866
+('Amani Berserker', 'Leper Gnome', 'Raging Worgen');0.5013927576601671
+('Amani Berserker', 'Leper Gnome', 'Silverback Patriarch');0.637883008356546
+('Amani Berserker', 'Leper Gnome', 'Southsea Captain');0.5348189415041783
+('Amani Berserker', 'Leper Gnome', 'Stormpike Commando');0.5041782729805014
+('Amani Berserker', 'Leper Gnome', 'Stormwind Champion');0.5376044568245125
+('Amani Berserker', 'Leper Gnome', 'Voodoo Doctor');0.5821727019498607
+('Amani Berserker', 'Multi-Shot', 'Raging Worgen');0.5988857938718662
+('Amani Berserker', 'Multi-Shot', 'Silverback Patriarch');0.7799442896935933
+('Amani Berserker', 'Multi-Shot', 'Southsea Captain');0.6518105849582173
+('Amani Berserker', 'Multi-Shot', 'Stormpike Commando');0.5988857938718662
+('Amani Berserker', 'Multi-Shot', 'Stormwind Champion');0.6685236768802229
+('Amani Berserker', 'Multi-Shot', 'Voodoo Doctor');0.6267409470752089
+('Amani Berserker', 'Multi-Shot', 'Wild Pyromancer');0.5626740947075209
+('Amani Berserker', 'Questing Adventurer', 'Silverback Patriarch');0.5738161559888579
+('Amani Berserker', 'Questing Adventurer', 'Southsea Captain');0.5069637883008357
+('Amani Berserker', 'Questing Adventurer', 'Voodoo Doctor');0.5459610027855153
+('Amani Berserker', 'Raging Worgen', 'Silverback Patriarch');0.7047353760445683
+('Amani Berserker', 'Raging Worgen', 'Southsea Captain');0.584958217270195
+('Amani Berserker', 'Raging Worgen', 'Stormpike Commando');0.5264623955431755
+('Amani Berserker', 'Raging Worgen', 'Stormwind Champion');0.6016713091922006
+('Amani Berserker', 'Raging Worgen', 'Voodoo Doctor');0.5905292479108635
+('Amani Berserker', 'Raging Worgen', 'Wild Pyromancer');0.5988857938718662
+('Amani Berserker', 'Silverback Patriarch', 'Southsea Captain');0.7743732590529248
+('Amani Berserker', 'Silverback Patriarch', 'Southsea Deckhand');0.5125348189415042
+('Amani Berserker', 'Silverback Patriarch', 'Stormpike Commando');0.6796657381615598
+('Amani Berserker', 'Silverback Patriarch', 'Stormwind Champion');0.7715877437325905
+('Amani Berserker', 'Silverback Patriarch', 'Twilight Drake');0.520891364902507
+('Amani Berserker', 'Silverback Patriarch', 'Voodoo Doctor');0.7604456824512534
+('Amani Berserker', 'Silverback Patriarch', 'Wild Pyromancer');0.6685236768802229
+('Amani Berserker', 'Southsea Captain', 'Stormpike Commando');0.5821727019498607
+('Amani Berserker', 'Southsea Captain', 'Stormwind Champion');0.6573816155988857
+('Amani Berserker', 'Southsea Captain', 'Voodoo Doctor');0.6434540389972145
+('Amani Berserker', 'Southsea Captain', 'Wild Pyromancer');0.5682451253481894
+('Amani Berserker', 'Stormpike Commando', 'Stormwind Champion');0.6183844011142061
+('Amani Berserker', 'Stormpike Commando', 'Voodoo Doctor');0.5431754874651811
+('Amani Berserker', 'Stormpike Commando', 'Wild Pyromancer');0.5125348189415042
+('Amani Berserker', 'Stormwind Champion', 'Voodoo Doctor');0.6323119777158774
+('Amani Berserker', 'Stormwind Champion', 'Wild Pyromancer');0.5682451253481894
+('Amani Berserker', 'Voodoo Doctor', 'Wild Pyromancer');0.5403899721448467
+('Animal Companion', 'Argent Squire', 'Dire Wolf Alpha');0.5766016713091922
+('Animal Companion', 'Argent Squire', 'Explosive Shot');0.5571030640668524
+('Animal Companion', 'Argent Squire', 'Multi-Shot');0.5069637883008357
+('Animal Companion', 'Argent Squire', 'Silverback Patriarch');0.5988857938718662
+('Animal Companion', 'Argent Squire', 'Southsea Captain');0.5125348189415042
+('Animal Companion', 'Argent Squire', 'Stormpike Commando');0.5571030640668524
+('Animal Companion', 'Argent Squire', 'Stormwind Champion');0.5682451253481894
+('Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot');0.6518105849582173
+('Animal Companion', 'Dire Wolf Alpha', 'Fen Creeper');0.5403899721448467
+('Animal Companion', 'Dire Wolf Alpha', 'Leper Gnome');0.5292479108635098
+('Animal Companion', 'Dire Wolf Alpha', 'Multi-Shot');0.637883008356546
+('Animal Companion', 'Dire Wolf Alpha', 'Raging Worgen');0.5654596100278552
+('Animal Companion', 'Dire Wolf Alpha', 'Silverback Patriarch');0.7298050139275766
+('Animal Companion', 'Dire Wolf Alpha', 'Southsea Captain');0.6155988857938719
+('Animal Companion', 'Dire Wolf Alpha', 'Stormpike Commando');0.6016713091922006
+('Animal Companion', 'Dire Wolf Alpha', 'Stormwind Champion');0.6518105849582173
+('Animal Companion', 'Dire Wolf Alpha', 'Voodoo Doctor');0.5933147632311978
+('Animal Companion', 'Dire Wolf Alpha', 'Wild Pyromancer');0.520891364902507
+('Animal Companion', 'Explosive Shot', 'Fen Creeper');0.5459610027855153
+('Animal Companion', 'Explosive Shot', 'Kill Command');0.532033426183844
+('Animal Companion', 'Explosive Shot', 'Leper Gnome');0.5459610027855153
+('Animal Companion', 'Explosive Shot', 'Multi-Shot');0.6434540389972145
+('Animal Companion', 'Explosive Shot', 'Raging Worgen');0.5905292479108635
+('Animal Companion', 'Explosive Shot', 'Silverback Patriarch');0.7409470752089137
+('Animal Companion', 'Explosive Shot', 'Southsea Captain');0.6072423398328691
+('Animal Companion', 'Explosive Shot', 'Stormpike Commando');0.6155988857938719
+('Animal Companion', 'Explosive Shot', 'Stormwind Champion');0.6768802228412256
+('Animal Companion', 'Explosive Shot', 'Voodoo Doctor');0.6072423398328691
+('Animal Companion', 'Explosive Shot', 'Wild Pyromancer');0.5598885793871866
+('Animal Companion', 'Fen Creeper', 'Multi-Shot');0.5403899721448467
+('Animal Companion', 'Fen Creeper', 'Silverback Patriarch');0.6295264623955432
+('Animal Companion', 'Fen Creeper', 'Southsea Captain');0.5738161559888579
+('Animal Companion', 'Fen Creeper', 'Stormpike Commando');0.5069637883008357
+('Animal Companion', 'Fen Creeper', 'Stormwind Champion');0.5515320334261838
+('Animal Companion', 'Kill Command', 'Silverback Patriarch');0.5654596100278552
+('Animal Companion', 'Kill Command', 'Stormwind Champion');0.532033426183844
+('Animal Companion', 'Leper Gnome', 'Multi-Shot');0.5292479108635098
+('Animal Companion', 'Leper Gnome', 'Silverback Patriarch');0.6072423398328691
+('Animal Companion', 'Leper Gnome', 'Stormwind Champion');0.5376044568245125
+('Animal Companion', 'Leper Gnome', 'Voodoo Doctor');0.5431754874651811
+('Animal Companion', 'Multi-Shot', 'Raging Worgen');0.5598885793871866
+('Animal Companion', 'Multi-Shot', 'Silverback Patriarch');0.7325905292479109
+('Animal Companion', 'Multi-Shot', 'Southsea Captain');0.5988857938718662
+('Animal Companion', 'Multi-Shot', 'Stormpike Commando');0.5821727019498607
+('Animal Companion', 'Multi-Shot', 'Stormwind Champion');0.6601671309192201
+('Animal Companion', 'Multi-Shot', 'Voodoo Doctor');0.5766016713091922
+('Animal Companion', 'Multi-Shot', 'Wild Pyromancer');0.5236768802228412
+('Animal Companion', 'Questing Adventurer', 'Silverback Patriarch');0.520891364902507
+('Animal Companion', 'Raging Worgen', 'Silverback Patriarch');0.6629526462395543
+('Animal Companion', 'Raging Worgen', 'Southsea Captain');0.5348189415041783
+('Animal Companion', 'Raging Worgen', 'Stormpike Commando');0.5125348189415042
+('Animal Companion', 'Raging Worgen', 'Stormwind Champion');0.5905292479108635
+('Animal Companion', 'Raging Worgen', 'Voodoo Doctor');0.5487465181058496
+('Animal Companion', 'Raging Worgen', 'Wild Pyromancer');0.5515320334261838
+('Animal Companion', 'Silverback Patriarch', 'Southsea Captain');0.6991643454038997
+('Animal Companion', 'Silverback Patriarch', 'Stormpike Commando');0.6629526462395543
+('Animal Companion', 'Silverback Patriarch', 'Stormwind Champion');0.7520891364902507
+('Animal Companion', 'Silverback Patriarch', 'Twilight Drake');0.5125348189415042
+('Animal Companion', 'Silverback Patriarch', 'Voodoo Doctor');0.6908077994428969
+('Animal Companion', 'Silverback Patriarch', 'Wild Pyromancer');0.6211699164345403
+('Animal Companion', 'Southsea Captain', 'Stormpike Commando');0.5654596100278552
+('Animal Companion', 'Southsea Captain', 'Stormwind Champion');0.6406685236768802
+('Animal Companion', 'Southsea Captain', 'Voodoo Doctor');0.5738161559888579
+('Animal Companion', 'Southsea Captain', 'Wild Pyromancer');0.5153203342618384
+('Animal Companion', 'Stormpike Commando', 'Stormwind Champion');0.6211699164345403
+('Animal Companion', 'Stormpike Commando', 'Voodoo Doctor');0.5292479108635098
+('Animal Companion', 'Stormwind Champion', 'Voodoo Doctor');0.6128133704735376
+('Animal Companion', 'Stormwind Champion', 'Wild Pyromancer');0.5543175487465181
+('Argent Squire', 'Dire Wolf Alpha', 'Explosive Shot');0.5738161559888579
+('Argent Squire', 'Dire Wolf Alpha', 'Multi-Shot');0.5181058495821727
+('Argent Squire', 'Dire Wolf Alpha', 'Silverback Patriarch');0.6044568245125348
+('Argent Squire', 'Dire Wolf Alpha', 'Southsea Captain');0.5292479108635098
+('Argent Squire', 'Dire Wolf Alpha', 'Stormpike Commando');0.5487465181058496
+('Argent Squire', 'Dire Wolf Alpha', 'Stormwind Champion');0.5431754874651811
+('Argent Squire', 'Dire Wolf Alpha', 'Voodoo Doctor');0.5041782729805014
+('Argent Squire', 'Explosive Shot', 'Silverback Patriarch');0.5877437325905293
+('Argent Squire', 'Explosive Shot', 'Southsea Captain');0.5013927576601671
+('Argent Squire', 'Explosive Shot', 'Stormpike Commando');0.5348189415041783
+('Argent Squire', 'Explosive Shot', 'Stormwind Champion');0.5236768802228412
+('Argent Squire', 'Multi-Shot', 'Silverback Patriarch');0.5236768802228412
+('Argent Squire', 'Silverback Patriarch', 'Southsea Captain');0.5682451253481894
+('Argent Squire', 'Silverback Patriarch', 'Stormpike Commando');0.5682451253481894
+('Argent Squire', 'Silverback Patriarch', 'Stormwind Champion');0.5626740947075209
+('Argent Squire', 'Silverback Patriarch', 'Voodoo Doctor');0.5459610027855153
+('Argent Squire', 'Stormpike Commando', 'Stormwind Champion');0.5181058495821727
+('Dire Wolf Alpha', 'Explosive Shot', 'Leper Gnome');0.5125348189415042
+('Dire Wolf Alpha', 'Explosive Shot', 'Multi-Shot');0.6155988857938719
+('Dire Wolf Alpha', 'Explosive Shot', 'Raging Worgen');0.5515320334261838
+('Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch');0.7047353760445683
+('Dire Wolf Alpha', 'Explosive Shot', 'Southsea Captain');0.5877437325905293
+('Dire Wolf Alpha', 'Explosive Shot', 'Stormpike Commando');0.5738161559888579
+('Dire Wolf Alpha', 'Explosive Shot', 'Stormwind Champion');0.6016713091922006
+('Dire Wolf Alpha', 'Explosive Shot', 'Voodoo Doctor');0.5793871866295265
+('Dire Wolf Alpha', 'Explosive Shot', 'Wild Pyromancer');0.520891364902507
+('Dire Wolf Alpha', 'Fen Creeper', 'Silverback Patriarch');0.532033426183844
+('Dire Wolf Alpha', 'Kill Command', 'Silverback Patriarch');0.5013927576601671
+('Dire Wolf Alpha', 'Leper Gnome', 'Silverback Patriarch');0.5626740947075209
+('Dire Wolf Alpha', 'Leper Gnome', 'Voodoo Doctor');0.5153203342618384
+('Dire Wolf Alpha', 'Multi-Shot', 'Raging Worgen');0.5125348189415042
+('Dire Wolf Alpha', 'Multi-Shot', 'Silverback Patriarch');0.6768802228412256
+('Dire Wolf Alpha', 'Multi-Shot', 'Southsea Captain');0.5654596100278552
+('Dire Wolf Alpha', 'Multi-Shot', 'Stormpike Commando');0.5403899721448467
+('Dire Wolf Alpha', 'Multi-Shot', 'Stormwind Champion');0.5710306406685237
+('Dire Wolf Alpha', 'Multi-Shot', 'Voodoo Doctor');0.5376044568245125
+('Dire Wolf Alpha', 'Raging Worgen', 'Silverback Patriarch');0.6072423398328691
+('Dire Wolf Alpha', 'Raging Worgen', 'Stormwind Champion');0.5041782729805014
+('Dire Wolf Alpha', 'Raging Worgen', 'Voodoo Doctor');0.5013927576601671
+('Dire Wolf Alpha', 'Raging Worgen', 'Wild Pyromancer');0.5069637883008357
+('Dire Wolf Alpha', 'Silverback Patriarch', 'Southsea Captain');0.6657381615598886
+('Dire Wolf Alpha', 'Silverback Patriarch', 'Stormpike Commando');0.6100278551532033
+('Dire Wolf Alpha', 'Silverback Patriarch', 'Stormwind Champion');0.6573816155988857
+('Dire Wolf Alpha', 'Silverback Patriarch', 'Voodoo Doctor');0.6434540389972145
+('Dire Wolf Alpha', 'Silverback Patriarch', 'Wild Pyromancer');0.5682451253481894
+('Dire Wolf Alpha', 'Southsea Captain', 'Stormpike Commando');0.5264623955431755
+('Dire Wolf Alpha', 'Southsea Captain', 'Stormwind Champion');0.5654596100278552
+('Dire Wolf Alpha', 'Southsea Captain', 'Voodoo Doctor');0.5487465181058496
+('Dire Wolf Alpha', 'Stormpike Commando', 'Stormwind Champion');0.5515320334261838
+('Dire Wolf Alpha', 'Stormwind Champion', 'Voodoo Doctor');0.532033426183844
+('Explosive Shot', 'Fen Creeper', 'Silverback Patriarch');0.5487465181058496
+('Explosive Shot', 'Kill Command', 'Silverback Patriarch');0.5598885793871866
+('Explosive Shot', 'Kill Command', 'Stormwind Champion');0.5097493036211699
+('Explosive Shot', 'Leper Gnome', 'Multi-Shot');0.5069637883008357
+('Explosive Shot', 'Leper Gnome', 'Silverback Patriarch');0.584958217270195
+('Explosive Shot', 'Leper Gnome', 'Voodoo Doctor');0.5236768802228412
+('Explosive Shot', 'Multi-Shot', 'Raging Worgen');0.5376044568245125
+('Explosive Shot', 'Multi-Shot', 'Silverback Patriarch');0.6908077994428969
+('Explosive Shot', 'Multi-Shot', 'Southsea Captain');0.5598885793871866
+('Explosive Shot', 'Multi-Shot', 'Stormpike Commando');0.5543175487465181
+('Explosive Shot', 'Multi-Shot', 'Stormwind Champion');0.596100278551532
+('Explosive Shot', 'Multi-Shot', 'Voodoo Doctor');0.5515320334261838
+('Explosive Shot', 'Multi-Shot', 'Wild Pyromancer');0.5125348189415042
+('Explosive Shot', 'Questing Adventurer', 'Silverback Patriarch');0.5236768802228412
+('Explosive Shot', 'Raging Worgen', 'Silverback Patriarch');0.637883008356546
+('Explosive Shot', 'Raging Worgen', 'Southsea Captain');0.5153203342618384
+('Explosive Shot', 'Raging Worgen', 'Stormwind Champion');0.5459610027855153
+('Explosive Shot', 'Raging Worgen', 'Voodoo Doctor');0.5376044568245125
+('Explosive Shot', 'Raging Worgen', 'Wild Pyromancer');0.5459610027855153
+('Explosive Shot', 'Silverback Patriarch', 'Southsea Captain');0.6629526462395543
+('Explosive Shot', 'Silverback Patriarch', 'Stormpike Commando');0.6323119777158774
+('Explosive Shot', 'Silverback Patriarch', 'Stormwind Champion');0.6935933147632312
+('Explosive Shot', 'Silverback Patriarch', 'Voodoo Doctor');0.6601671309192201
+('Explosive Shot', 'Silverback Patriarch', 'Wild Pyromancer');0.6100278551532033
+('Explosive Shot', 'Southsea Captain', 'Stormpike Commando');0.5292479108635098
+('Explosive Shot', 'Southsea Captain', 'Stormwind Champion');0.5821727019498607
+('Explosive Shot', 'Southsea Captain', 'Voodoo Doctor');0.5459610027855153
+('Explosive Shot', 'Southsea Captain', 'Wild Pyromancer');0.5097493036211699
+('Explosive Shot', 'Stormpike Commando', 'Stormwind Champion');0.5682451253481894
+('Explosive Shot', 'Stormpike Commando', 'Voodoo Doctor');0.5041782729805014
+('Explosive Shot', 'Stormwind Champion', 'Voodoo Doctor');0.5654596100278552
+('Explosive Shot', 'Stormwind Champion', 'Wild Pyromancer');0.5292479108635098
+('Fen Creeper', 'Multi-Shot', 'Silverback Patriarch');0.5376044568245125
+('Fen Creeper', 'Silverback Patriarch', 'Southsea Captain');0.5793871866295265
+('Fen Creeper', 'Silverback Patriarch', 'Stormpike Commando');0.5013927576601671
+('Fen Creeper', 'Silverback Patriarch', 'Stormwind Champion');0.5459610027855153
+('Fen Creeper', 'Silverback Patriarch', 'Voodoo Doctor');0.5013927576601671
+('Fen Creeper', 'Southsea Captain', 'Stormwind Champion');0.5125348189415042
+('Kill Command', 'Raging Worgen', 'Silverback Patriarch');0.5153203342618384
+('Kill Command', 'Silverback Patriarch', 'Stormwind Champion');0.5431754874651811
+('Kill Command', 'Silverback Patriarch', 'Voodoo Doctor');0.5153203342618384
+('Leper Gnome', 'Multi-Shot', 'Silverback Patriarch');0.5598885793871866
+('Leper Gnome', 'Raging Worgen', 'Silverback Patriarch');0.5013927576601671
+('Leper Gnome', 'Silverback Patriarch', 'Southsea Captain');0.532033426183844
+('Leper Gnome', 'Silverback Patriarch', 'Stormpike Commando');0.5069637883008357
+('Leper Gnome', 'Silverback Patriarch', 'Stormwind Champion');0.5431754874651811
+('Leper Gnome', 'Silverback Patriarch', 'Voodoo Doctor');0.5766016713091922
+('Multi-Shot', 'Raging Worgen', 'Silverback Patriarch');0.5988857938718662
+('Multi-Shot', 'Raging Worgen', 'Stormwind Champion');0.5069637883008357
+('Multi-Shot', 'Raging Worgen', 'Wild Pyromancer');0.5013927576601671
+('Multi-Shot', 'Silverback Patriarch', 'Southsea Captain');0.6406685236768802
+('Multi-Shot', 'Silverback Patriarch', 'Stormpike Commando');0.596100278551532
+('Multi-Shot', 'Silverback Patriarch', 'Stormwind Champion');0.6768802228412256
+('Multi-Shot', 'Silverback Patriarch', 'Voodoo Doctor');0.6211699164345403
+('Multi-Shot', 'Silverback Patriarch', 'Wild Pyromancer');0.5654596100278552
+('Multi-Shot', 'Southsea Captain', 'Stormwind Champion');0.5515320334261838
+('Multi-Shot', 'Southsea Captain', 'Voodoo Doctor');0.5097493036211699
+('Multi-Shot', 'Stormpike Commando', 'Stormwind Champion');0.5403899721448467
+('Multi-Shot', 'Stormwind Champion', 'Voodoo Doctor');0.5236768802228412
+('Questing Adventurer', 'Silverback Patriarch', 'Southsea Captain');0.5013927576601671
+('Questing Adventurer', 'Silverback Patriarch', 'Voodoo Doctor');0.5431754874651811
+('Raging Worgen', 'Silverback Patriarch', 'Southsea Captain');0.5821727019498607
+('Raging Worgen', 'Silverback Patriarch', 'Stormpike Commando');0.5292479108635098
+('Raging Worgen', 'Silverback Patriarch', 'Stormwind Champion');0.6044568245125348
+('Raging Worgen', 'Silverback Patriarch', 'Voodoo Doctor');0.5877437325905293
+('Raging Worgen', 'Silverback Patriarch', 'Wild Pyromancer');0.5988857938718662
+('Raging Worgen', 'Southsea Captain', 'Stormwind Champion');0.5013927576601671
+('Raging Worgen', 'Southsea Captain', 'Wild Pyromancer');0.5097493036211699
+('Raging Worgen', 'Stormwind Champion', 'Wild Pyromancer');0.5125348189415042
+('Silverback Patriarch', 'Southsea Captain', 'Stormpike Commando');0.5766016713091922
+('Silverback Patriarch', 'Southsea Captain', 'Stormwind Champion');0.649025069637883
+('Silverback Patriarch', 'Southsea Captain', 'Voodoo Doctor');0.6518105849582173
+('Silverback Patriarch', 'Southsea Captain', 'Wild Pyromancer');0.5682451253481894
+('Silverback Patriarch', 'Stormpike Commando', 'Stormwind Champion');0.6128133704735376
+('Silverback Patriarch', 'Stormpike Commando', 'Voodoo Doctor');0.5431754874651811
+('Silverback Patriarch', 'Stormpike Commando', 'Wild Pyromancer');0.5181058495821727
+('Silverback Patriarch', 'Stormwind Champion', 'Voodoo Doctor');0.6295264623955432
+('Silverback Patriarch', 'Stormwind Champion', 'Wild Pyromancer');0.5738161559888579
+('Silverback Patriarch', 'Voodoo Doctor', 'Wild Pyromancer');0.5376044568245125
+('Southsea Captain', 'Stormpike Commando', 'Stormwind Champion');0.5348189415041783
+('Southsea Captain', 'Stormwind Champion', 'Voodoo Doctor');0.5292479108635098
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Dire Wolf Alpha');0.5738161559888579
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Explosive Shot');0.5543175487465181
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Multi-Shot');0.5013927576601671
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Silverback Patriarch');0.5933147632311978
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Southsea Captain');0.5097493036211699
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Stormpike Commando');0.5515320334261838
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Stormwind Champion');0.5626740947075209
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot');0.649025069637883
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Fen Creeper');0.5292479108635098
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Leper Gnome');0.5236768802228412
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Multi-Shot');0.6323119777158774
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Raging Worgen');0.5571030640668524
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Silverback Patriarch');0.7186629526462396
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Southsea Captain');0.6072423398328691
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Stormpike Commando');0.596100278551532
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Stormwind Champion');0.6462395543175488
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Voodoo Doctor');0.584958217270195
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Wild Pyromancer');0.5153203342618384
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Fen Creeper');0.5431754874651811
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Kill Command');0.532033426183844
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Leper Gnome');0.5431754874651811
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Multi-Shot');0.6406685236768802
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Raging Worgen');0.5877437325905293
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Silverback Patriarch');0.7381615598885793
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Southsea Captain');0.6072423398328691
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Stormpike Commando');0.6128133704735376
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Stormwind Champion');0.6740947075208914
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Voodoo Doctor');0.6072423398328691
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Wild Pyromancer');0.5571030640668524
+('Amani Berserker', 'Animal Companion', 'Fen Creeper', 'Multi-Shot');0.532033426183844
+('Amani Berserker', 'Animal Companion', 'Fen Creeper', 'Silverback Patriarch');0.6128133704735376
+('Amani Berserker', 'Animal Companion', 'Fen Creeper', 'Southsea Captain');0.5626740947075209
+('Amani Berserker', 'Animal Companion', 'Fen Creeper', 'Stormwind Champion');0.5431754874651811
+('Amani Berserker', 'Animal Companion', 'Kill Command', 'Silverback Patriarch');0.5626740947075209
+('Amani Berserker', 'Animal Companion', 'Kill Command', 'Stormwind Champion');0.5292479108635098
+('Amani Berserker', 'Animal Companion', 'Leper Gnome', 'Multi-Shot');0.5181058495821727
+('Amani Berserker', 'Animal Companion', 'Leper Gnome', 'Silverback Patriarch');0.596100278551532
+('Amani Berserker', 'Animal Companion', 'Leper Gnome', 'Stormwind Champion');0.5264623955431755
+('Amani Berserker', 'Animal Companion', 'Leper Gnome', 'Voodoo Doctor');0.5376044568245125
+('Amani Berserker', 'Animal Companion', 'Multi-Shot', 'Raging Worgen');0.5515320334261838
+('Amani Berserker', 'Animal Companion', 'Multi-Shot', 'Silverback Patriarch');0.7186629526462396
+('Amani Berserker', 'Animal Companion', 'Multi-Shot', 'Southsea Captain');0.5933147632311978
+('Amani Berserker', 'Animal Companion', 'Multi-Shot', 'Stormpike Commando');0.5738161559888579
+('Amani Berserker', 'Animal Companion', 'Multi-Shot', 'Stormwind Champion');0.6462395543175488
+('Amani Berserker', 'Animal Companion', 'Multi-Shot', 'Voodoo Doctor');0.5710306406685237
+('Amani Berserker', 'Animal Companion', 'Multi-Shot', 'Wild Pyromancer');0.5153203342618384
+('Amani Berserker', 'Animal Companion', 'Questing Adventurer', 'Silverback Patriarch');0.5153203342618384
+('Amani Berserker', 'Animal Companion', 'Raging Worgen', 'Silverback Patriarch');0.6518105849582173
+('Amani Berserker', 'Animal Companion', 'Raging Worgen', 'Southsea Captain');0.5264623955431755
+('Amani Berserker', 'Animal Companion', 'Raging Worgen', 'Stormpike Commando');0.5041782729805014
+('Amani Berserker', 'Animal Companion', 'Raging Worgen', 'Stormwind Champion');0.5821727019498607
+('Amani Berserker', 'Animal Companion', 'Raging Worgen', 'Voodoo Doctor');0.5403899721448467
+('Amani Berserker', 'Animal Companion', 'Raging Worgen', 'Wild Pyromancer');0.5431754874651811
+('Amani Berserker', 'Animal Companion', 'Silverback Patriarch', 'Southsea Captain');0.6880222841225627
+('Amani Berserker', 'Animal Companion', 'Silverback Patriarch', 'Stormpike Commando');0.6545961002785515
+('Amani Berserker', 'Animal Companion', 'Silverback Patriarch', 'Stormwind Champion');0.7381615598885793
+('Amani Berserker', 'Animal Companion', 'Silverback Patriarch', 'Twilight Drake');0.5069637883008357
+('Amani Berserker', 'Animal Companion', 'Silverback Patriarch', 'Voodoo Doctor');0.6768802228412256
+('Amani Berserker', 'Animal Companion', 'Silverback Patriarch', 'Wild Pyromancer');0.6128133704735376
+('Amani Berserker', 'Animal Companion', 'Southsea Captain', 'Stormpike Commando');0.5598885793871866
+('Amani Berserker', 'Animal Companion', 'Southsea Captain', 'Stormwind Champion');0.6350974930362117
+('Amani Berserker', 'Animal Companion', 'Southsea Captain', 'Voodoo Doctor');0.5626740947075209
+('Amani Berserker', 'Animal Companion', 'Southsea Captain', 'Wild Pyromancer');0.5097493036211699
+('Amani Berserker', 'Animal Companion', 'Stormpike Commando', 'Stormwind Champion');0.6128133704735376
+('Amani Berserker', 'Animal Companion', 'Stormpike Commando', 'Voodoo Doctor');0.5236768802228412
+('Amani Berserker', 'Animal Companion', 'Stormwind Champion', 'Voodoo Doctor');0.6072423398328691
+('Amani Berserker', 'Animal Companion', 'Stormwind Champion', 'Wild Pyromancer');0.5459610027855153
+('Amani Berserker', 'Argent Squire', 'Dire Wolf Alpha', 'Explosive Shot');0.5710306406685237
+('Amani Berserker', 'Argent Squire', 'Dire Wolf Alpha', 'Multi-Shot');0.5153203342618384
+('Amani Berserker', 'Argent Squire', 'Dire Wolf Alpha', 'Silverback Patriarch');0.6016713091922006
+('Amani Berserker', 'Argent Squire', 'Dire Wolf Alpha', 'Southsea Captain');0.5292479108635098
+('Amani Berserker', 'Argent Squire', 'Dire Wolf Alpha', 'Stormpike Commando');0.5459610027855153
+('Amani Berserker', 'Argent Squire', 'Dire Wolf Alpha', 'Stormwind Champion');0.5403899721448467
+('Amani Berserker', 'Argent Squire', 'Dire Wolf Alpha', 'Voodoo Doctor');0.5041782729805014
+('Amani Berserker', 'Argent Squire', 'Explosive Shot', 'Silverback Patriarch');0.584958217270195
+('Amani Berserker', 'Argent Squire', 'Explosive Shot', 'Southsea Captain');0.5013927576601671
+('Amani Berserker', 'Argent Squire', 'Explosive Shot', 'Stormpike Commando');0.532033426183844
+('Amani Berserker', 'Argent Squire', 'Explosive Shot', 'Stormwind Champion');0.520891364902507
+('Amani Berserker', 'Argent Squire', 'Multi-Shot', 'Silverback Patriarch');0.5181058495821727
+('Amani Berserker', 'Argent Squire', 'Silverback Patriarch', 'Southsea Captain');0.5515320334261838
+('Amani Berserker', 'Argent Squire', 'Silverback Patriarch', 'Stormpike Commando');0.5598885793871866
+('Amani Berserker', 'Argent Squire', 'Silverback Patriarch', 'Stormwind Champion');0.5571030640668524
+('Amani Berserker', 'Argent Squire', 'Silverback Patriarch', 'Voodoo Doctor');0.532033426183844
+('Amani Berserker', 'Argent Squire', 'Stormpike Commando', 'Stormwind Champion');0.5125348189415042
+('Amani Berserker', 'Dire Wolf Alpha', 'Explosive Shot', 'Leper Gnome');0.5097493036211699
+('Amani Berserker', 'Dire Wolf Alpha', 'Explosive Shot', 'Multi-Shot');0.6128133704735376
+('Amani Berserker', 'Dire Wolf Alpha', 'Explosive Shot', 'Raging Worgen');0.5487465181058496
+('Amani Berserker', 'Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch');0.7019498607242339
+('Amani Berserker', 'Dire Wolf Alpha', 'Explosive Shot', 'Southsea Captain');0.5877437325905293
+('Amani Berserker', 'Dire Wolf Alpha', 'Explosive Shot', 'Stormpike Commando');0.5710306406685237
+('Amani Berserker', 'Dire Wolf Alpha', 'Explosive Shot', 'Stormwind Champion');0.5988857938718662
+('Amani Berserker', 'Dire Wolf Alpha', 'Explosive Shot', 'Voodoo Doctor');0.5793871866295265
+('Amani Berserker', 'Dire Wolf Alpha', 'Explosive Shot', 'Wild Pyromancer');0.5181058495821727
+('Amani Berserker', 'Dire Wolf Alpha', 'Fen Creeper', 'Silverback Patriarch');0.520891364902507
+('Amani Berserker', 'Dire Wolf Alpha', 'Leper Gnome', 'Silverback Patriarch');0.5571030640668524
+('Amani Berserker', 'Dire Wolf Alpha', 'Leper Gnome', 'Voodoo Doctor');0.5125348189415042
+('Amani Berserker', 'Dire Wolf Alpha', 'Multi-Shot', 'Raging Worgen');0.5069637883008357
+('Amani Berserker', 'Dire Wolf Alpha', 'Multi-Shot', 'Silverback Patriarch');0.6713091922005571
+('Amani Berserker', 'Dire Wolf Alpha', 'Multi-Shot', 'Southsea Captain');0.5626740947075209
+('Amani Berserker', 'Dire Wolf Alpha', 'Multi-Shot', 'Stormpike Commando');0.5348189415041783
+('Amani Berserker', 'Dire Wolf Alpha', 'Multi-Shot', 'Stormwind Champion');0.5654596100278552
+('Amani Berserker', 'Dire Wolf Alpha', 'Multi-Shot', 'Voodoo Doctor');0.5348189415041783
+('Amani Berserker', 'Dire Wolf Alpha', 'Raging Worgen', 'Silverback Patriarch');0.5988857938718662
+('Amani Berserker', 'Dire Wolf Alpha', 'Raging Worgen', 'Wild Pyromancer');0.5013927576601671
+('Amani Berserker', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Southsea Captain');0.6573816155988857
+('Amani Berserker', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Stormpike Commando');0.6044568245125348
+('Amani Berserker', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Stormwind Champion');0.6518105849582173
+('Amani Berserker', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Voodoo Doctor');0.6350974930362117
+('Amani Berserker', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Wild Pyromancer');0.5626740947075209
+('Amani Berserker', 'Dire Wolf Alpha', 'Southsea Captain', 'Stormpike Commando');0.5236768802228412
+('Amani Berserker', 'Dire Wolf Alpha', 'Southsea Captain', 'Stormwind Champion');0.5626740947075209
+('Amani Berserker', 'Dire Wolf Alpha', 'Southsea Captain', 'Voodoo Doctor');0.5403899721448467
+('Amani Berserker', 'Dire Wolf Alpha', 'Stormpike Commando', 'Stormwind Champion');0.5459610027855153
+('Amani Berserker', 'Dire Wolf Alpha', 'Stormwind Champion', 'Voodoo Doctor');0.5292479108635098
+('Amani Berserker', 'Explosive Shot', 'Fen Creeper', 'Silverback Patriarch');0.5459610027855153
+('Amani Berserker', 'Explosive Shot', 'Kill Command', 'Silverback Patriarch');0.5598885793871866
+('Amani Berserker', 'Explosive Shot', 'Kill Command', 'Stormwind Champion');0.5097493036211699
+('Amani Berserker', 'Explosive Shot', 'Leper Gnome', 'Multi-Shot');0.5041782729805014
+('Amani Berserker', 'Explosive Shot', 'Leper Gnome', 'Silverback Patriarch');0.5821727019498607
+('Amani Berserker', 'Explosive Shot', 'Leper Gnome', 'Voodoo Doctor');0.5236768802228412
+('Amani Berserker', 'Explosive Shot', 'Multi-Shot', 'Raging Worgen');0.5348189415041783
+('Amani Berserker', 'Explosive Shot', 'Multi-Shot', 'Silverback Patriarch');0.6880222841225627
+('Amani Berserker', 'Explosive Shot', 'Multi-Shot', 'Southsea Captain');0.5598885793871866
+('Amani Berserker', 'Explosive Shot', 'Multi-Shot', 'Stormpike Commando');0.5515320334261838
+('Amani Berserker', 'Explosive Shot', 'Multi-Shot', 'Stormwind Champion');0.5933147632311978
+('Amani Berserker', 'Explosive Shot', 'Multi-Shot', 'Voodoo Doctor');0.5515320334261838
+('Amani Berserker', 'Explosive Shot', 'Multi-Shot', 'Wild Pyromancer');0.5097493036211699
+('Amani Berserker', 'Explosive Shot', 'Questing Adventurer', 'Silverback Patriarch');0.5236768802228412
+('Amani Berserker', 'Explosive Shot', 'Raging Worgen', 'Silverback Patriarch');0.6350974930362117
+('Amani Berserker', 'Explosive Shot', 'Raging Worgen', 'Southsea Captain');0.5153203342618384
+('Amani Berserker', 'Explosive Shot', 'Raging Worgen', 'Stormwind Champion');0.5431754874651811
+('Amani Berserker', 'Explosive Shot', 'Raging Worgen', 'Voodoo Doctor');0.5376044568245125
+('Amani Berserker', 'Explosive Shot', 'Raging Worgen', 'Wild Pyromancer');0.5431754874651811
+('Amani Berserker', 'Explosive Shot', 'Silverback Patriarch', 'Southsea Captain');0.6629526462395543
+('Amani Berserker', 'Explosive Shot', 'Silverback Patriarch', 'Stormpike Commando');0.6295264623955432
+('Amani Berserker', 'Explosive Shot', 'Silverback Patriarch', 'Stormwind Champion');0.6908077994428969
+('Amani Berserker', 'Explosive Shot', 'Silverback Patriarch', 'Voodoo Doctor');0.6601671309192201
+('Amani Berserker', 'Explosive Shot', 'Silverback Patriarch', 'Wild Pyromancer');0.6072423398328691
+('Amani Berserker', 'Explosive Shot', 'Southsea Captain', 'Stormpike Commando');0.5292479108635098
+('Amani Berserker', 'Explosive Shot', 'Southsea Captain', 'Stormwind Champion');0.5821727019498607
+('Amani Berserker', 'Explosive Shot', 'Southsea Captain', 'Voodoo Doctor');0.5459610027855153
+('Amani Berserker', 'Explosive Shot', 'Southsea Captain', 'Wild Pyromancer');0.5097493036211699
+('Amani Berserker', 'Explosive Shot', 'Stormpike Commando', 'Stormwind Champion');0.5654596100278552
+('Amani Berserker', 'Explosive Shot', 'Stormpike Commando', 'Voodoo Doctor');0.5041782729805014
+('Amani Berserker', 'Explosive Shot', 'Stormwind Champion', 'Voodoo Doctor');0.5654596100278552
+('Amani Berserker', 'Explosive Shot', 'Stormwind Champion', 'Wild Pyromancer');0.5264623955431755
+('Amani Berserker', 'Fen Creeper', 'Multi-Shot', 'Silverback Patriarch');0.5292479108635098
+('Amani Berserker', 'Fen Creeper', 'Silverback Patriarch', 'Southsea Captain');0.5598885793871866
+('Amani Berserker', 'Fen Creeper', 'Silverback Patriarch', 'Stormwind Champion');0.5376044568245125
+('Amani Berserker', 'Fen Creeper', 'Southsea Captain', 'Stormwind Champion');0.5069637883008357
+('Amani Berserker', 'Kill Command', 'Raging Worgen', 'Silverback Patriarch');0.5125348189415042
+('Amani Berserker', 'Kill Command', 'Silverback Patriarch', 'Stormwind Champion');0.5403899721448467
+('Amani Berserker', 'Kill Command', 'Silverback Patriarch', 'Voodoo Doctor');0.5125348189415042
+('Amani Berserker', 'Leper Gnome', 'Multi-Shot', 'Silverback Patriarch');0.5487465181058496
+('Amani Berserker', 'Leper Gnome', 'Silverback Patriarch', 'Southsea Captain');0.5236768802228412
+('Amani Berserker', 'Leper Gnome', 'Silverback Patriarch', 'Stormwind Champion');0.532033426183844
+('Amani Berserker', 'Leper Gnome', 'Silverback Patriarch', 'Voodoo Doctor');0.5710306406685237
+('Amani Berserker', 'Multi-Shot', 'Raging Worgen', 'Silverback Patriarch');0.5905292479108635
+('Amani Berserker', 'Multi-Shot', 'Silverback Patriarch', 'Southsea Captain');0.6350974930362117
+('Amani Berserker', 'Multi-Shot', 'Silverback Patriarch', 'Stormpike Commando');0.5877437325905293
+('Amani Berserker', 'Multi-Shot', 'Silverback Patriarch', 'Stormwind Champion');0.6573816155988857
+('Amani Berserker', 'Multi-Shot', 'Silverback Patriarch', 'Voodoo Doctor');0.6155988857938719
+('Amani Berserker', 'Multi-Shot', 'Silverback Patriarch', 'Wild Pyromancer');0.5571030640668524
+('Amani Berserker', 'Multi-Shot', 'Southsea Captain', 'Stormwind Champion');0.5459610027855153
+('Amani Berserker', 'Multi-Shot', 'Southsea Captain', 'Voodoo Doctor');0.5041782729805014
+('Amani Berserker', 'Multi-Shot', 'Stormpike Commando', 'Stormwind Champion');0.532033426183844
+('Amani Berserker', 'Multi-Shot', 'Stormwind Champion', 'Voodoo Doctor');0.5181058495821727
+('Amani Berserker', 'Questing Adventurer', 'Silverback Patriarch', 'Voodoo Doctor');0.5376044568245125
+('Amani Berserker', 'Raging Worgen', 'Silverback Patriarch', 'Southsea Captain');0.5738161559888579
+('Amani Berserker', 'Raging Worgen', 'Silverback Patriarch', 'Stormpike Commando');0.520891364902507
+('Amani Berserker', 'Raging Worgen', 'Silverback Patriarch', 'Stormwind Champion');0.596100278551532
+('Amani Berserker', 'Raging Worgen', 'Silverback Patriarch', 'Voodoo Doctor');0.5793871866295265
+('Amani Berserker', 'Raging Worgen', 'Silverback Patriarch', 'Wild Pyromancer');0.5905292479108635
+('Amani Berserker', 'Raging Worgen', 'Southsea Captain', 'Wild Pyromancer');0.5041782729805014
+('Amani Berserker', 'Raging Worgen', 'Stormwind Champion', 'Wild Pyromancer');0.5041782729805014
+('Amani Berserker', 'Silverback Patriarch', 'Southsea Captain', 'Stormpike Commando');0.5682451253481894
+('Amani Berserker', 'Silverback Patriarch', 'Southsea Captain', 'Stormwind Champion');0.6434540389972145
+('Amani Berserker', 'Silverback Patriarch', 'Southsea Captain', 'Voodoo Doctor');0.6295264623955432
+('Amani Berserker', 'Silverback Patriarch', 'Southsea Captain', 'Wild Pyromancer');0.5598885793871866
+('Amani Berserker', 'Silverback Patriarch', 'Stormpike Commando', 'Stormwind Champion');0.6044568245125348
+('Amani Berserker', 'Silverback Patriarch', 'Stormpike Commando', 'Voodoo Doctor');0.5348189415041783
+('Amani Berserker', 'Silverback Patriarch', 'Stormpike Commando', 'Wild Pyromancer');0.5097493036211699
+('Amani Berserker', 'Silverback Patriarch', 'Stormwind Champion', 'Voodoo Doctor');0.6239554317548747
+('Amani Berserker', 'Silverback Patriarch', 'Stormwind Champion', 'Wild Pyromancer');0.5654596100278552
+('Amani Berserker', 'Silverback Patriarch', 'Voodoo Doctor', 'Wild Pyromancer');0.532033426183844
+('Amani Berserker', 'Southsea Captain', 'Stormpike Commando', 'Stormwind Champion');0.5292479108635098
+('Amani Berserker', 'Southsea Captain', 'Stormwind Champion', 'Voodoo Doctor');0.5236768802228412
+('Animal Companion', 'Argent Squire', 'Dire Wolf Alpha', 'Explosive Shot');0.5292479108635098
+('Animal Companion', 'Argent Squire', 'Dire Wolf Alpha', 'Silverback Patriarch');0.5626740947075209
+('Animal Companion', 'Argent Squire', 'Dire Wolf Alpha', 'Stormpike Commando');0.5264623955431755
+('Animal Companion', 'Argent Squire', 'Dire Wolf Alpha', 'Stormwind Champion');0.5348189415041783
+('Animal Companion', 'Argent Squire', 'Explosive Shot', 'Silverback Patriarch');0.5487465181058496
+('Animal Companion', 'Argent Squire', 'Explosive Shot', 'Stormpike Commando');0.5125348189415042
+('Animal Companion', 'Argent Squire', 'Explosive Shot', 'Stormwind Champion');0.5153203342618384
+('Animal Companion', 'Argent Squire', 'Silverback Patriarch', 'Stormpike Commando');0.5431754874651811
+('Animal Companion', 'Argent Squire', 'Silverback Patriarch', 'Stormwind Champion');0.5543175487465181
+('Animal Companion', 'Argent Squire', 'Stormpike Commando', 'Stormwind Champion');0.5153203342618384
+('Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Multi-Shot');0.5571030640668524
+('Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Raging Worgen');0.5013927576601671
+('Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch');0.6434540389972145
+('Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Southsea Captain');0.5236768802228412
+('Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Stormpike Commando');0.5515320334261838
+('Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Stormwind Champion');0.5821727019498607
+('Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Voodoo Doctor');0.520891364902507
+('Animal Companion', 'Dire Wolf Alpha', 'Fen Creeper', 'Silverback Patriarch');0.5264623955431755
+('Animal Companion', 'Dire Wolf Alpha', 'Leper Gnome', 'Silverback Patriarch');0.5236768802228412
+('Animal Companion', 'Dire Wolf Alpha', 'Multi-Shot', 'Silverback Patriarch');0.6267409470752089
+('Animal Companion', 'Dire Wolf Alpha', 'Multi-Shot', 'Southsea Captain');0.5125348189415042
+('Animal Companion', 'Dire Wolf Alpha', 'Multi-Shot', 'Stormpike Commando');0.5181058495821727
+('Animal Companion', 'Dire Wolf Alpha', 'Multi-Shot', 'Stormwind Champion');0.5598885793871866
+('Animal Companion', 'Dire Wolf Alpha', 'Raging Worgen', 'Silverback Patriarch');0.5598885793871866
+('Animal Companion', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Southsea Captain');0.6016713091922006
+('Animal Companion', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Stormpike Commando');0.5877437325905293
+('Animal Companion', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Stormwind Champion');0.637883008356546
+('Animal Companion', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Voodoo Doctor');0.584958217270195
+('Animal Companion', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Wild Pyromancer');0.5181058495821727
+('Animal Companion', 'Dire Wolf Alpha', 'Southsea Captain', 'Stormpike Commando');0.5069637883008357
+('Animal Companion', 'Dire Wolf Alpha', 'Southsea Captain', 'Stormwind Champion');0.5487465181058496
+('Animal Companion', 'Dire Wolf Alpha', 'Stormpike Commando', 'Stormwind Champion');0.5487465181058496
+('Animal Companion', 'Dire Wolf Alpha', 'Stormwind Champion', 'Voodoo Doctor');0.5153203342618384
+('Animal Companion', 'Explosive Shot', 'Fen Creeper', 'Silverback Patriarch');0.5376044568245125
+('Animal Companion', 'Explosive Shot', 'Kill Command', 'Silverback Patriarch');0.5236768802228412
+('Animal Companion', 'Explosive Shot', 'Leper Gnome', 'Silverback Patriarch');0.5459610027855153
+('Animal Companion', 'Explosive Shot', 'Multi-Shot', 'Silverback Patriarch');0.637883008356546
+('Animal Companion', 'Explosive Shot', 'Multi-Shot', 'Southsea Captain');0.5041782729805014
+('Animal Companion', 'Explosive Shot', 'Multi-Shot', 'Stormpike Commando');0.5292479108635098
+('Animal Companion', 'Explosive Shot', 'Multi-Shot', 'Stormwind Champion');0.5793871866295265
+('Animal Companion', 'Explosive Shot', 'Multi-Shot', 'Voodoo Doctor');0.5013927576601671
+('Animal Companion', 'Explosive Shot', 'Raging Worgen', 'Silverback Patriarch');0.5877437325905293
+('Animal Companion', 'Explosive Shot', 'Raging Worgen', 'Stormwind Champion');0.5264623955431755
+('Animal Companion', 'Explosive Shot', 'Silverback Patriarch', 'Southsea Captain');0.5988857938718662
+('Animal Companion', 'Explosive Shot', 'Silverback Patriarch', 'Stormpike Commando');0.6072423398328691
+('Animal Companion', 'Explosive Shot', 'Silverback Patriarch', 'Stormwind Champion');0.6685236768802229
+('Animal Companion', 'Explosive Shot', 'Silverback Patriarch', 'Voodoo Doctor');0.6044568245125348
+('Animal Companion', 'Explosive Shot', 'Silverback Patriarch', 'Wild Pyromancer');0.5571030640668524
+('Animal Companion', 'Explosive Shot', 'Southsea Captain', 'Stormpike Commando');0.5069637883008357
+('Animal Companion', 'Explosive Shot', 'Southsea Captain', 'Stormwind Champion');0.5598885793871866
+('Animal Companion', 'Explosive Shot', 'Stormpike Commando', 'Stormwind Champion');0.5626740947075209
+('Animal Companion', 'Explosive Shot', 'Stormwind Champion', 'Voodoo Doctor');0.5459610027855153
+('Animal Companion', 'Explosive Shot', 'Stormwind Champion', 'Wild Pyromancer');0.5069637883008357
+('Animal Companion', 'Fen Creeper', 'Multi-Shot', 'Silverback Patriarch');0.5292479108635098
+('Animal Companion', 'Fen Creeper', 'Silverback Patriarch', 'Southsea Captain');0.5598885793871866
+('Animal Companion', 'Fen Creeper', 'Silverback Patriarch', 'Stormwind Champion');0.5376044568245125
+('Animal Companion', 'Fen Creeper', 'Southsea Captain', 'Stormwind Champion');0.5041782729805014
+('Animal Companion', 'Kill Command', 'Silverback Patriarch', 'Stormwind Champion');0.5236768802228412
+('Animal Companion', 'Leper Gnome', 'Multi-Shot', 'Silverback Patriarch');0.5236768802228412
+('Animal Companion', 'Leper Gnome', 'Silverback Patriarch', 'Stormwind Champion');0.532033426183844
+('Animal Companion', 'Leper Gnome', 'Silverback Patriarch', 'Voodoo Doctor');0.5376044568245125
+('Animal Companion', 'Multi-Shot', 'Raging Worgen', 'Silverback Patriarch');0.5571030640668524
+('Animal Companion', 'Multi-Shot', 'Silverback Patriarch', 'Southsea Captain');0.5877437325905293
+('Animal Companion', 'Multi-Shot', 'Silverback Patriarch', 'Stormpike Commando');0.5710306406685237
+('Animal Companion', 'Multi-Shot', 'Silverback Patriarch', 'Stormwind Champion');0.649025069637883
+('Animal Companion', 'Multi-Shot', 'Silverback Patriarch', 'Voodoo Doctor');0.5710306406685237
+('Animal Companion', 'Multi-Shot', 'Silverback Patriarch', 'Wild Pyromancer');0.5236768802228412
+('Animal Companion', 'Multi-Shot', 'Southsea Captain', 'Stormwind Champion');0.5376044568245125
+('Animal Companion', 'Multi-Shot', 'Stormpike Commando', 'Stormwind Champion');0.5348189415041783
+('Animal Companion', 'Multi-Shot', 'Stormwind Champion', 'Voodoo Doctor');0.5069637883008357
+('Animal Companion', 'Raging Worgen', 'Silverback Patriarch', 'Southsea Captain');0.5292479108635098
+('Animal Companion', 'Raging Worgen', 'Silverback Patriarch', 'Stormpike Commando');0.5069637883008357
+('Animal Companion', 'Raging Worgen', 'Silverback Patriarch', 'Stormwind Champion');0.584958217270195
+('Animal Companion', 'Raging Worgen', 'Silverback Patriarch', 'Voodoo Doctor');0.5431754874651811
+('Animal Companion', 'Raging Worgen', 'Silverback Patriarch', 'Wild Pyromancer');0.5487465181058496
+('Animal Companion', 'Silverback Patriarch', 'Southsea Captain', 'Stormpike Commando');0.5515320334261838
+('Animal Companion', 'Silverback Patriarch', 'Southsea Captain', 'Stormwind Champion');0.6267409470752089
+('Animal Companion', 'Silverback Patriarch', 'Southsea Captain', 'Voodoo Doctor');0.5654596100278552
+('Animal Companion', 'Silverback Patriarch', 'Southsea Captain', 'Wild Pyromancer');0.5125348189415042
+('Animal Companion', 'Silverback Patriarch', 'Stormpike Commando', 'Stormwind Champion');0.6072423398328691
+('Animal Companion', 'Silverback Patriarch', 'Stormpike Commando', 'Voodoo Doctor');0.520891364902507
+('Animal Companion', 'Silverback Patriarch', 'Stormwind Champion', 'Voodoo Doctor');0.6044568245125348
+('Animal Companion', 'Silverback Patriarch', 'Stormwind Champion', 'Wild Pyromancer');0.5515320334261838
+('Animal Companion', 'Southsea Captain', 'Stormpike Commando', 'Stormwind Champion');0.532033426183844
+('Animal Companion', 'Southsea Captain', 'Stormwind Champion', 'Voodoo Doctor');0.5125348189415042
+('Argent Squire', 'Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch');0.5598885793871866
+('Argent Squire', 'Dire Wolf Alpha', 'Explosive Shot', 'Stormpike Commando');0.5125348189415042
+('Argent Squire', 'Dire Wolf Alpha', 'Multi-Shot', 'Silverback Patriarch');0.5013927576601671
+('Argent Squire', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Southsea Captain');0.5097493036211699
+('Argent Squire', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Stormpike Commando');0.5348189415041783
+('Argent Squire', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Stormwind Champion');0.5292479108635098
+('Argent Squire', 'Explosive Shot', 'Silverback Patriarch', 'Stormpike Commando');0.5264623955431755
+('Argent Squire', 'Explosive Shot', 'Silverback Patriarch', 'Stormwind Champion');0.5153203342618384
+('Argent Squire', 'Silverback Patriarch', 'Stormpike Commando', 'Stormwind Champion');0.5041782729805014
+('Dire Wolf Alpha', 'Explosive Shot', 'Leper Gnome', 'Silverback Patriarch');0.5069637883008357
+('Dire Wolf Alpha', 'Explosive Shot', 'Multi-Shot', 'Silverback Patriarch');0.5988857938718662
+('Dire Wolf Alpha', 'Explosive Shot', 'Multi-Shot', 'Stormwind Champion');0.5069637883008357
+('Dire Wolf Alpha', 'Explosive Shot', 'Raging Worgen', 'Silverback Patriarch');0.5431754874651811
+('Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch', 'Southsea Captain');0.5738161559888579
+('Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch', 'Stormpike Commando');0.5654596100278552
+('Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch', 'Stormwind Champion');0.5933147632311978
+('Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch', 'Voodoo Doctor');0.5710306406685237
+('Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch', 'Wild Pyromancer');0.5097493036211699
+('Dire Wolf Alpha', 'Explosive Shot', 'Stormpike Commando', 'Stormwind Champion');0.5013927576601671
+('Dire Wolf Alpha', 'Leper Gnome', 'Silverback Patriarch', 'Voodoo Doctor');0.5041782729805014
+('Dire Wolf Alpha', 'Multi-Shot', 'Raging Worgen', 'Silverback Patriarch');0.5041782729805014
+('Dire Wolf Alpha', 'Multi-Shot', 'Silverback Patriarch', 'Southsea Captain');0.5487465181058496
+('Dire Wolf Alpha', 'Multi-Shot', 'Silverback Patriarch', 'Stormpike Commando');0.5292479108635098
+('Dire Wolf Alpha', 'Multi-Shot', 'Silverback Patriarch', 'Stormwind Champion');0.5598885793871866
+('Dire Wolf Alpha', 'Multi-Shot', 'Silverback Patriarch', 'Voodoo Doctor');0.5264623955431755
+('Dire Wolf Alpha', 'Silverback Patriarch', 'Southsea Captain', 'Stormpike Commando');0.5125348189415042
+('Dire Wolf Alpha', 'Silverback Patriarch', 'Southsea Captain', 'Stormwind Champion');0.5515320334261838
+('Dire Wolf Alpha', 'Silverback Patriarch', 'Southsea Captain', 'Voodoo Doctor');0.5348189415041783
+('Dire Wolf Alpha', 'Silverback Patriarch', 'Stormpike Commando', 'Stormwind Champion');0.5376044568245125
+('Dire Wolf Alpha', 'Silverback Patriarch', 'Stormwind Champion', 'Voodoo Doctor');0.5236768802228412
+('Explosive Shot', 'Kill Command', 'Silverback Patriarch', 'Stormwind Champion');0.5013927576601671
+('Explosive Shot', 'Leper Gnome', 'Multi-Shot', 'Silverback Patriarch');0.5013927576601671
+('Explosive Shot', 'Leper Gnome', 'Silverback Patriarch', 'Voodoo Doctor');0.5181058495821727
+('Explosive Shot', 'Multi-Shot', 'Raging Worgen', 'Silverback Patriarch');0.532033426183844
+('Explosive Shot', 'Multi-Shot', 'Silverback Patriarch', 'Southsea Captain');0.5487465181058496
+('Explosive Shot', 'Multi-Shot', 'Silverback Patriarch', 'Stormpike Commando');0.5487465181058496
+('Explosive Shot', 'Multi-Shot', 'Silverback Patriarch', 'Stormwind Champion');0.5905292479108635
+('Explosive Shot', 'Multi-Shot', 'Silverback Patriarch', 'Voodoo Doctor');0.5459610027855153
+('Explosive Shot', 'Multi-Shot', 'Silverback Patriarch', 'Wild Pyromancer');0.5069637883008357
+('Explosive Shot', 'Raging Worgen', 'Silverback Patriarch', 'Southsea Captain');0.5069637883008357
+('Explosive Shot', 'Raging Worgen', 'Silverback Patriarch', 'Stormwind Champion');0.5431754874651811
+('Explosive Shot', 'Raging Worgen', 'Silverback Patriarch', 'Voodoo Doctor');0.5292479108635098
+('Explosive Shot', 'Raging Worgen', 'Silverback Patriarch', 'Wild Pyromancer');0.5376044568245125
+('Explosive Shot', 'Silverback Patriarch', 'Southsea Captain', 'Stormpike Commando');0.520891364902507
+('Explosive Shot', 'Silverback Patriarch', 'Southsea Captain', 'Stormwind Champion');0.5738161559888579
+('Explosive Shot', 'Silverback Patriarch', 'Southsea Captain', 'Voodoo Doctor');0.5376044568245125
+('Explosive Shot', 'Silverback Patriarch', 'Southsea Captain', 'Wild Pyromancer');0.5013927576601671
+('Explosive Shot', 'Silverback Patriarch', 'Stormpike Commando', 'Stormwind Champion');0.5598885793871866
+('Explosive Shot', 'Silverback Patriarch', 'Stormpike Commando', 'Voodoo Doctor');0.5013927576601671
+('Explosive Shot', 'Silverback Patriarch', 'Stormwind Champion', 'Voodoo Doctor');0.5626740947075209
+('Explosive Shot', 'Silverback Patriarch', 'Stormwind Champion', 'Wild Pyromancer');0.5264623955431755
+('Multi-Shot', 'Raging Worgen', 'Silverback Patriarch', 'Stormwind Champion');0.5041782729805014
+('Multi-Shot', 'Silverback Patriarch', 'Southsea Captain', 'Stormwind Champion');0.5403899721448467
+('Multi-Shot', 'Silverback Patriarch', 'Stormpike Commando', 'Stormwind Champion');0.5292479108635098
+('Multi-Shot', 'Silverback Patriarch', 'Stormwind Champion', 'Voodoo Doctor');0.5181058495821727
+('Raging Worgen', 'Silverback Patriarch', 'Southsea Captain', 'Wild Pyromancer');0.5013927576601671
+('Raging Worgen', 'Silverback Patriarch', 'Stormwind Champion', 'Wild Pyromancer');0.5097493036211699
+('Silverback Patriarch', 'Southsea Captain', 'Stormpike Commando', 'Stormwind Champion');0.520891364902507
+('Silverback Patriarch', 'Southsea Captain', 'Stormwind Champion', 'Voodoo Doctor');0.520891364902507
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Dire Wolf Alpha', 'Explosive Shot');0.5264623955431755
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Dire Wolf Alpha', 'Silverback Patriarch');0.5598885793871866
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Dire Wolf Alpha', 'Stormpike Commando');0.5236768802228412
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Dire Wolf Alpha', 'Stormwind Champion');0.532033426183844
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Explosive Shot', 'Silverback Patriarch');0.5459610027855153
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Explosive Shot', 'Stormpike Commando');0.5097493036211699
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Explosive Shot', 'Stormwind Champion');0.5125348189415042
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Silverback Patriarch', 'Stormpike Commando');0.5376044568245125
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Silverback Patriarch', 'Stormwind Champion');0.5487465181058496
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Stormpike Commando', 'Stormwind Champion');0.5097493036211699
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Multi-Shot');0.5543175487465181
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch');0.6406685236768802
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Southsea Captain');0.5236768802228412
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Stormpike Commando');0.5487465181058496
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Stormwind Champion');0.5793871866295265
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Voodoo Doctor');0.520891364902507
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Fen Creeper', 'Silverback Patriarch');0.5153203342618384
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Leper Gnome', 'Silverback Patriarch');0.5181058495821727
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Multi-Shot', 'Silverback Patriarch');0.6211699164345403
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Multi-Shot', 'Southsea Captain');0.5097493036211699
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Multi-Shot', 'Stormpike Commando');0.5125348189415042
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Multi-Shot', 'Stormwind Champion');0.5543175487465181
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Raging Worgen', 'Silverback Patriarch');0.5515320334261838
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Southsea Captain');0.5933147632311978
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Stormpike Commando');0.5821727019498607
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Stormwind Champion');0.6323119777158774
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Voodoo Doctor');0.5766016713091922
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Wild Pyromancer');0.5125348189415042
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Southsea Captain', 'Stormpike Commando');0.5041782729805014
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Southsea Captain', 'Stormwind Champion');0.5459610027855153
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Stormpike Commando', 'Stormwind Champion');0.5431754874651811
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Stormwind Champion', 'Voodoo Doctor');0.5125348189415042
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Fen Creeper', 'Silverback Patriarch');0.5348189415041783
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Kill Command', 'Silverback Patriarch');0.5236768802228412
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Leper Gnome', 'Silverback Patriarch');0.5431754874651811
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Multi-Shot', 'Silverback Patriarch');0.6350974930362117
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Multi-Shot', 'Southsea Captain');0.5041782729805014
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Multi-Shot', 'Stormpike Commando');0.5264623955431755
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Multi-Shot', 'Stormwind Champion');0.5766016713091922
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Multi-Shot', 'Voodoo Doctor');0.5013927576601671
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Raging Worgen', 'Silverback Patriarch');0.584958217270195
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Raging Worgen', 'Stormwind Champion');0.5236768802228412
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Silverback Patriarch', 'Southsea Captain');0.5988857938718662
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Silverback Patriarch', 'Stormpike Commando');0.6044568245125348
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Silverback Patriarch', 'Stormwind Champion');0.6657381615598886
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Silverback Patriarch', 'Voodoo Doctor');0.6044568245125348
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Silverback Patriarch', 'Wild Pyromancer');0.5543175487465181
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Southsea Captain', 'Stormpike Commando');0.5069637883008357
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Southsea Captain', 'Stormwind Champion');0.5598885793871866
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Stormpike Commando', 'Stormwind Champion');0.5598885793871866
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Stormwind Champion', 'Voodoo Doctor');0.5459610027855153
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Stormwind Champion', 'Wild Pyromancer');0.5041782729805014
+('Amani Berserker', 'Animal Companion', 'Fen Creeper', 'Multi-Shot', 'Silverback Patriarch');0.520891364902507
+('Amani Berserker', 'Animal Companion', 'Fen Creeper', 'Silverback Patriarch', 'Southsea Captain');0.5487465181058496
+('Amani Berserker', 'Animal Companion', 'Fen Creeper', 'Silverback Patriarch', 'Stormwind Champion');0.5292479108635098
+('Amani Berserker', 'Animal Companion', 'Kill Command', 'Silverback Patriarch', 'Stormwind Champion');0.520891364902507
+('Amani Berserker', 'Animal Companion', 'Leper Gnome', 'Multi-Shot', 'Silverback Patriarch');0.5125348189415042
+('Amani Berserker', 'Animal Companion', 'Leper Gnome', 'Silverback Patriarch', 'Stormwind Champion');0.520891364902507
+('Amani Berserker', 'Animal Companion', 'Leper Gnome', 'Silverback Patriarch', 'Voodoo Doctor');0.532033426183844
+('Amani Berserker', 'Animal Companion', 'Multi-Shot', 'Raging Worgen', 'Silverback Patriarch');0.5487465181058496
+('Amani Berserker', 'Animal Companion', 'Multi-Shot', 'Silverback Patriarch', 'Southsea Captain');0.5821727019498607
+('Amani Berserker', 'Animal Companion', 'Multi-Shot', 'Silverback Patriarch', 'Stormpike Commando');0.5626740947075209
+('Amani Berserker', 'Animal Companion', 'Multi-Shot', 'Silverback Patriarch', 'Stormwind Champion');0.6350974930362117
+('Amani Berserker', 'Animal Companion', 'Multi-Shot', 'Silverback Patriarch', 'Voodoo Doctor');0.5654596100278552
+('Amani Berserker', 'Animal Companion', 'Multi-Shot', 'Silverback Patriarch', 'Wild Pyromancer');0.5153203342618384
+('Amani Berserker', 'Animal Companion', 'Multi-Shot', 'Southsea Captain', 'Stormwind Champion');0.532033426183844
+('Amani Berserker', 'Animal Companion', 'Multi-Shot', 'Stormpike Commando', 'Stormwind Champion');0.5264623955431755
+('Amani Berserker', 'Animal Companion', 'Multi-Shot', 'Stormwind Champion', 'Voodoo Doctor');0.5013927576601671
+('Amani Berserker', 'Animal Companion', 'Raging Worgen', 'Silverback Patriarch', 'Southsea Captain');0.520891364902507
+('Amani Berserker', 'Animal Companion', 'Raging Worgen', 'Silverback Patriarch', 'Stormwind Champion');0.5766016713091922
+('Amani Berserker', 'Animal Companion', 'Raging Worgen', 'Silverback Patriarch', 'Voodoo Doctor');0.5348189415041783
+('Amani Berserker', 'Animal Companion', 'Raging Worgen', 'Silverback Patriarch', 'Wild Pyromancer');0.5403899721448467
+('Amani Berserker', 'Animal Companion', 'Silverback Patriarch', 'Southsea Captain', 'Stormpike Commando');0.5459610027855153
+('Amani Berserker', 'Animal Companion', 'Silverback Patriarch', 'Southsea Captain', 'Stormwind Champion');0.6211699164345403
+('Amani Berserker', 'Animal Companion', 'Silverback Patriarch', 'Southsea Captain', 'Voodoo Doctor');0.5543175487465181
+('Amani Berserker', 'Animal Companion', 'Silverback Patriarch', 'Southsea Captain', 'Wild Pyromancer');0.5069637883008357
+('Amani Berserker', 'Animal Companion', 'Silverback Patriarch', 'Stormpike Commando', 'Stormwind Champion');0.5988857938718662
+('Amani Berserker', 'Animal Companion', 'Silverback Patriarch', 'Stormpike Commando', 'Voodoo Doctor');0.5153203342618384
+('Amani Berserker', 'Animal Companion', 'Silverback Patriarch', 'Stormwind Champion', 'Voodoo Doctor');0.5988857938718662
+('Amani Berserker', 'Animal Companion', 'Silverback Patriarch', 'Stormwind Champion', 'Wild Pyromancer');0.5431754874651811
+('Amani Berserker', 'Animal Companion', 'Southsea Captain', 'Stormpike Commando', 'Stormwind Champion');0.5264623955431755
+('Amani Berserker', 'Animal Companion', 'Southsea Captain', 'Stormwind Champion', 'Voodoo Doctor');0.5069637883008357
+('Amani Berserker', 'Argent Squire', 'Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch');0.5571030640668524
+('Amani Berserker', 'Argent Squire', 'Dire Wolf Alpha', 'Explosive Shot', 'Stormpike Commando');0.5097493036211699
+('Amani Berserker', 'Argent Squire', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Southsea Captain');0.5097493036211699
+('Amani Berserker', 'Argent Squire', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Stormpike Commando');0.532033426183844
+('Amani Berserker', 'Argent Squire', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Stormwind Champion');0.5264623955431755
+('Amani Berserker', 'Argent Squire', 'Explosive Shot', 'Silverback Patriarch', 'Stormpike Commando');0.5236768802228412
+('Amani Berserker', 'Argent Squire', 'Explosive Shot', 'Silverback Patriarch', 'Stormwind Champion');0.5125348189415042
+('Amani Berserker', 'Dire Wolf Alpha', 'Explosive Shot', 'Leper Gnome', 'Silverback Patriarch');0.5041782729805014
+('Amani Berserker', 'Dire Wolf Alpha', 'Explosive Shot', 'Multi-Shot', 'Silverback Patriarch');0.596100278551532
+('Amani Berserker', 'Dire Wolf Alpha', 'Explosive Shot', 'Multi-Shot', 'Stormwind Champion');0.5041782729805014
+('Amani Berserker', 'Dire Wolf Alpha', 'Explosive Shot', 'Raging Worgen', 'Silverback Patriarch');0.5403899721448467
+('Amani Berserker', 'Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch', 'Southsea Captain');0.5738161559888579
+('Amani Berserker', 'Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch', 'Stormpike Commando');0.5626740947075209
+('Amani Berserker', 'Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch', 'Stormwind Champion');0.5905292479108635
+('Amani Berserker', 'Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch', 'Voodoo Doctor');0.5710306406685237
+('Amani Berserker', 'Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch', 'Wild Pyromancer');0.5069637883008357
+('Amani Berserker', 'Dire Wolf Alpha', 'Leper Gnome', 'Silverback Patriarch', 'Voodoo Doctor');0.5013927576601671
+('Amani Berserker', 'Dire Wolf Alpha', 'Multi-Shot', 'Silverback Patriarch', 'Southsea Captain');0.5459610027855153
+('Amani Berserker', 'Dire Wolf Alpha', 'Multi-Shot', 'Silverback Patriarch', 'Stormpike Commando');0.5236768802228412
+('Amani Berserker', 'Dire Wolf Alpha', 'Multi-Shot', 'Silverback Patriarch', 'Stormwind Champion');0.5543175487465181
+('Amani Berserker', 'Dire Wolf Alpha', 'Multi-Shot', 'Silverback Patriarch', 'Voodoo Doctor');0.5236768802228412
+('Amani Berserker', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Southsea Captain', 'Stormpike Commando');0.5097493036211699
+('Amani Berserker', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Southsea Captain', 'Stormwind Champion');0.5487465181058496
+('Amani Berserker', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Southsea Captain', 'Voodoo Doctor');0.5264623955431755
+('Amani Berserker', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Stormpike Commando', 'Stormwind Champion');0.532033426183844
+('Amani Berserker', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Stormwind Champion', 'Voodoo Doctor');0.520891364902507
+('Amani Berserker', 'Explosive Shot', 'Kill Command', 'Silverback Patriarch', 'Stormwind Champion');0.5013927576601671
+('Amani Berserker', 'Explosive Shot', 'Leper Gnome', 'Silverback Patriarch', 'Voodoo Doctor');0.5181058495821727
+('Amani Berserker', 'Explosive Shot', 'Multi-Shot', 'Raging Worgen', 'Silverback Patriarch');0.5292479108635098
+('Amani Berserker', 'Explosive Shot', 'Multi-Shot', 'Silverback Patriarch', 'Southsea Captain');0.5487465181058496
+('Amani Berserker', 'Explosive Shot', 'Multi-Shot', 'Silverback Patriarch', 'Stormpike Commando');0.5459610027855153
+('Amani Berserker', 'Explosive Shot', 'Multi-Shot', 'Silverback Patriarch', 'Stormwind Champion');0.5877437325905293
+('Amani Berserker', 'Explosive Shot', 'Multi-Shot', 'Silverback Patriarch', 'Voodoo Doctor');0.5459610027855153
+('Amani Berserker', 'Explosive Shot', 'Multi-Shot', 'Silverback Patriarch', 'Wild Pyromancer');0.5041782729805014
+('Amani Berserker', 'Explosive Shot', 'Raging Worgen', 'Silverback Patriarch', 'Southsea Captain');0.5069637883008357
+('Amani Berserker', 'Explosive Shot', 'Raging Worgen', 'Silverback Patriarch', 'Stormwind Champion');0.5403899721448467
+('Amani Berserker', 'Explosive Shot', 'Raging Worgen', 'Silverback Patriarch', 'Voodoo Doctor');0.5292479108635098
+('Amani Berserker', 'Explosive Shot', 'Raging Worgen', 'Silverback Patriarch', 'Wild Pyromancer');0.5348189415041783
+('Amani Berserker', 'Explosive Shot', 'Silverback Patriarch', 'Southsea Captain', 'Stormpike Commando');0.520891364902507
+('Amani Berserker', 'Explosive Shot', 'Silverback Patriarch', 'Southsea Captain', 'Stormwind Champion');0.5738161559888579
+('Amani Berserker', 'Explosive Shot', 'Silverback Patriarch', 'Southsea Captain', 'Voodoo Doctor');0.5376044568245125
+('Amani Berserker', 'Explosive Shot', 'Silverback Patriarch', 'Southsea Captain', 'Wild Pyromancer');0.5013927576601671
+('Amani Berserker', 'Explosive Shot', 'Silverback Patriarch', 'Stormpike Commando', 'Stormwind Champion');0.5571030640668524
+('Amani Berserker', 'Explosive Shot', 'Silverback Patriarch', 'Stormpike Commando', 'Voodoo Doctor');0.5013927576601671
+('Amani Berserker', 'Explosive Shot', 'Silverback Patriarch', 'Stormwind Champion', 'Voodoo Doctor');0.5626740947075209
+('Amani Berserker', 'Explosive Shot', 'Silverback Patriarch', 'Stormwind Champion', 'Wild Pyromancer');0.5236768802228412
+('Amani Berserker', 'Multi-Shot', 'Silverback Patriarch', 'Southsea Captain', 'Stormwind Champion');0.5348189415041783
+('Amani Berserker', 'Multi-Shot', 'Silverback Patriarch', 'Stormpike Commando', 'Stormwind Champion');0.520891364902507
+('Amani Berserker', 'Multi-Shot', 'Silverback Patriarch', 'Stormwind Champion', 'Voodoo Doctor');0.5125348189415042
+('Amani Berserker', 'Raging Worgen', 'Silverback Patriarch', 'Stormwind Champion', 'Wild Pyromancer');0.5013927576601671
+('Amani Berserker', 'Silverback Patriarch', 'Southsea Captain', 'Stormpike Commando', 'Stormwind Champion');0.5153203342618384
+('Amani Berserker', 'Silverback Patriarch', 'Southsea Captain', 'Stormwind Champion', 'Voodoo Doctor');0.5153203342618384
+('Animal Companion', 'Argent Squire', 'Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch');0.520891364902507
+('Animal Companion', 'Argent Squire', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Stormpike Commando');0.5125348189415042
+('Animal Companion', 'Argent Squire', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Stormwind Champion');0.520891364902507
+('Animal Companion', 'Argent Squire', 'Explosive Shot', 'Silverback Patriarch', 'Stormpike Commando');0.5041782729805014
+('Animal Companion', 'Argent Squire', 'Explosive Shot', 'Silverback Patriarch', 'Stormwind Champion');0.5069637883008357
+('Animal Companion', 'Argent Squire', 'Silverback Patriarch', 'Stormpike Commando', 'Stormwind Champion');0.5013927576601671
+('Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Multi-Shot', 'Silverback Patriarch');0.5515320334261838
+('Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch', 'Southsea Captain');0.5153203342618384
+('Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch', 'Stormpike Commando');0.5431754874651811
+('Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch', 'Stormwind Champion');0.5738161559888579
+('Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch', 'Voodoo Doctor');0.5181058495821727
+('Animal Companion', 'Dire Wolf Alpha', 'Multi-Shot', 'Silverback Patriarch', 'Southsea Captain');0.5013927576601671
+('Animal Companion', 'Dire Wolf Alpha', 'Multi-Shot', 'Silverback Patriarch', 'Stormpike Commando');0.5069637883008357
+('Animal Companion', 'Dire Wolf Alpha', 'Multi-Shot', 'Silverback Patriarch', 'Stormwind Champion');0.5487465181058496
+('Animal Companion', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Southsea Captain', 'Stormwind Champion');0.5348189415041783
+('Animal Companion', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Stormpike Commando', 'Stormwind Champion');0.5348189415041783
+('Animal Companion', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Stormwind Champion', 'Voodoo Doctor');0.5069637883008357
+('Animal Companion', 'Explosive Shot', 'Multi-Shot', 'Silverback Patriarch', 'Stormpike Commando');0.5236768802228412
+('Animal Companion', 'Explosive Shot', 'Multi-Shot', 'Silverback Patriarch', 'Stormwind Champion');0.5738161559888579
+('Animal Companion', 'Explosive Shot', 'Multi-Shot', 'Silverback Patriarch', 'Voodoo Doctor');0.5013927576601671
+('Animal Companion', 'Explosive Shot', 'Raging Worgen', 'Silverback Patriarch', 'Stormwind Champion');0.5236768802228412
+('Animal Companion', 'Explosive Shot', 'Silverback Patriarch', 'Southsea Captain', 'Stormwind Champion');0.5515320334261838
+('Animal Companion', 'Explosive Shot', 'Silverback Patriarch', 'Stormpike Commando', 'Stormwind Champion');0.5543175487465181
+('Animal Companion', 'Explosive Shot', 'Silverback Patriarch', 'Stormwind Champion', 'Voodoo Doctor');0.5431754874651811
+('Animal Companion', 'Explosive Shot', 'Silverback Patriarch', 'Stormwind Champion', 'Wild Pyromancer');0.5041782729805014
+('Animal Companion', 'Multi-Shot', 'Silverback Patriarch', 'Southsea Captain', 'Stormwind Champion');0.5264623955431755
+('Animal Companion', 'Multi-Shot', 'Silverback Patriarch', 'Stormpike Commando', 'Stormwind Champion');0.5236768802228412
+('Animal Companion', 'Multi-Shot', 'Silverback Patriarch', 'Stormwind Champion', 'Voodoo Doctor');0.5013927576601671
+('Animal Companion', 'Silverback Patriarch', 'Southsea Captain', 'Stormpike Commando', 'Stormwind Champion');0.5181058495821727
+('Animal Companion', 'Silverback Patriarch', 'Southsea Captain', 'Stormwind Champion', 'Voodoo Doctor');0.5041782729805014
+('Argent Squire', 'Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch', 'Stormpike Commando');0.5041782729805014
+('Dire Wolf Alpha', 'Explosive Shot', 'Multi-Shot', 'Silverback Patriarch', 'Stormwind Champion');0.5013927576601671
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch');0.5181058495821727
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Stormpike Commando');0.5097493036211699
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Stormwind Champion');0.5181058495821727
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Explosive Shot', 'Silverback Patriarch', 'Stormpike Commando');0.5013927576601671
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Explosive Shot', 'Silverback Patriarch', 'Stormwind Champion');0.5041782729805014
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Multi-Shot', 'Silverback Patriarch');0.5487465181058496
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch', 'Southsea Captain');0.5153203342618384
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch', 'Stormpike Commando');0.5403899721448467
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch', 'Stormwind Champion');0.5710306406685237
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch', 'Voodoo Doctor');0.5181058495821727
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Multi-Shot', 'Silverback Patriarch', 'Stormpike Commando');0.5013927576601671
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Multi-Shot', 'Silverback Patriarch', 'Stormwind Champion');0.5431754874651811
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Southsea Captain', 'Stormwind Champion');0.532033426183844
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Stormpike Commando', 'Stormwind Champion');0.5292479108635098
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Stormwind Champion', 'Voodoo Doctor');0.5041782729805014
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Multi-Shot', 'Silverback Patriarch', 'Stormpike Commando');0.520891364902507
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Multi-Shot', 'Silverback Patriarch', 'Stormwind Champion');0.5710306406685237
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Multi-Shot', 'Silverback Patriarch', 'Voodoo Doctor');0.5013927576601671
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Raging Worgen', 'Silverback Patriarch', 'Stormwind Champion');0.520891364902507
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Silverback Patriarch', 'Southsea Captain', 'Stormwind Champion');0.5515320334261838
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Silverback Patriarch', 'Stormpike Commando', 'Stormwind Champion');0.5515320334261838
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Silverback Patriarch', 'Stormwind Champion', 'Voodoo Doctor');0.5431754874651811
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Silverback Patriarch', 'Stormwind Champion', 'Wild Pyromancer');0.5013927576601671
+('Amani Berserker', 'Animal Companion', 'Multi-Shot', 'Silverback Patriarch', 'Southsea Captain', 'Stormwind Champion');0.520891364902507
+('Amani Berserker', 'Animal Companion', 'Multi-Shot', 'Silverback Patriarch', 'Stormpike Commando', 'Stormwind Champion');0.5153203342618384
+('Amani Berserker', 'Animal Companion', 'Silverback Patriarch', 'Southsea Captain', 'Stormpike Commando', 'Stormwind Champion');0.5125348189415042
+('Amani Berserker', 'Argent Squire', 'Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch', 'Stormpike Commando');0.5013927576601671
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch', 'Stormpike Commando');0.479108635097493
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch', 'Stormwind Champion');0.4763231197771588
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Dire Wolf Alpha', 'Explosive Shot', 'Multi-Shot', 'Silverback Patriarch');0.43454038997214484
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch', 'Southsea Captain');0.42896935933147634
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch', 'Voodoo Doctor');0.4178272980501393
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Stormpike Commando', 'Stormwind Champion');0.47075208913649025
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Dire Wolf Alpha', 'Multi-Shot', 'Silverback Patriarch', 'Stormpike Commando');0.4373259052924791
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Dire Wolf Alpha', 'Multi-Shot', 'Silverback Patriarch', 'Stormwind Champion');0.4373259052924791
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Southsea Captain', 'Stormwind Champion');0.4456824512534819
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Stormwind Champion', 'Voodoo Doctor');0.4178272980501393
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Explosive Shot', 'Silverback Patriarch', 'Stormpike Commando', 'Stormwind Champion');0.4623955431754875
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Explosive Shot', 'Multi-Shot', 'Silverback Patriarch', 'Stormpike Commando');0.42618384401114207
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Explosive Shot', 'Multi-Shot', 'Silverback Patriarch', 'Stormwind Champion');0.4178272980501393
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Explosive Shot', 'Raging Worgen', 'Silverback Patriarch', 'Stormwind Champion');0.38440111420612816
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Explosive Shot', 'Silverback Patriarch', 'Southsea Captain', 'Stormwind Champion');0.42618384401114207
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Explosive Shot', 'Silverback Patriarch', 'Stormwind Champion', 'Voodoo Doctor');0.4011142061281337
+('Amani Berserker', 'Animal Companion', 'Argent Squire', 'Explosive Shot', 'Silverback Patriarch', 'Stormwind Champion', 'Wild Pyromancer');0.3732590529247911
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Multi-Shot', 'Silverback Patriarch', 'Southsea Captain');0.42618384401114207
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Multi-Shot', 'Silverback Patriarch', 'Stormpike Commando');0.46518105849582175
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Multi-Shot', 'Silverback Patriarch', 'Stormwind Champion');0.48746518105849584
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Multi-Shot', 'Silverback Patriarch', 'Voodoo Doctor');0.42618384401114207
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch', 'Southsea Captain', 'Stormpike Commando');0.44846796657381616
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch', 'Southsea Captain', 'Stormwind Champion');0.47075208913649025
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch', 'Southsea Captain', 'Voodoo Doctor');0.41225626740947074
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch', 'Stormpike Commando', 'Stormwind Champion');0.48746518105849584
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch', 'Stormpike Commando', 'Voodoo Doctor');0.42618384401114207
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch', 'Stormwind Champion', 'Voodoo Doctor');0.4596100278551532
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Raging Worgen', 'Silverback Patriarch', 'Stormwind Champion');0.43454038997214484
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Explosive Shot', 'Silverback Patriarch', 'Stormwind Champion', 'Wild Pyromancer');0.40947075208913647
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Multi-Shot', 'Silverback Patriarch', 'Stormpike Commando', 'Stormwind Champion');0.4568245125348189
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Multi-Shot', 'Silverback Patriarch', 'Southsea Captain', 'Stormwind Champion');0.4428969359331476
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Multi-Shot', 'Silverback Patriarch', 'Stormwind Champion', 'Voodoo Doctor');0.415041782729805
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Southsea Captain', 'Stormpike Commando', 'Stormwind Champion');0.4596100278551532
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Southsea Captain', 'Stormwind Champion', 'Voodoo Doctor');0.4206128133704735
+('Amani Berserker', 'Animal Companion', 'Dire Wolf Alpha', 'Silverback Patriarch', 'Stormpike Commando', 'Stormwind Champion', 'Voodoo Doctor');0.40947075208913647
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Multi-Shot', 'Silverback Patriarch', 'Stormpike Commando', 'Stormwind Champion');0.4763231197771588
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Multi-Shot', 'Silverback Patriarch', 'Stormpike Commando', 'Voodoo Doctor');0.3983286908077994
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Multi-Shot', 'Silverback Patriarch', 'Stormwind Champion', 'Voodoo Doctor');0.44846796657381616
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Multi-Shot', 'Raging Worgen', 'Silverback Patriarch', 'Stormwind Champion');0.43454038997214484
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Multi-Shot', 'Silverback Patriarch', 'Southsea Captain', 'Stormwind Champion');0.4568245125348189
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Multi-Shot', 'Silverback Patriarch', 'Stormwind Champion', 'Wild Pyromancer');0.4178272980501393
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Raging Worgen', 'Silverback Patriarch', 'Southsea Captain', 'Stormwind Champion');0.4178272980501393
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Raging Worgen', 'Silverback Patriarch', 'Stormpike Commando', 'Stormwind Champion');0.415041782729805
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Raging Worgen', 'Silverback Patriarch', 'Stormwind Champion', 'Voodoo Doctor');0.42896935933147634
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Raging Worgen', 'Silverback Patriarch', 'Stormwind Champion', 'Wild Pyromancer');0.4428969359331476
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Silverback Patriarch', 'Southsea Captain', 'Stormpike Commando', 'Stormwind Champion');0.467966573816156
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Silverback Patriarch', 'Southsea Captain', 'Stormwind Champion', 'Voodoo Doctor');0.4456824512534819
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Silverback Patriarch', 'Southsea Captain', 'Stormwind Champion', 'Wild Pyromancer');0.41225626740947074
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Silverback Patriarch', 'Stormpike Commando', 'Stormwind Champion', 'Voodoo Doctor');0.4401114206128134
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Silverback Patriarch', 'Stormpike Commando', 'Stormwind Champion', 'Wild Pyromancer');0.4178272980501393
+('Amani Berserker', 'Animal Companion', 'Explosive Shot', 'Silverback Patriarch', 'Stormwind Champion', 'Voodoo Doctor', 'Wild Pyromancer');0.3983286908077994
+('Amani Berserker', 'Animal Companion', 'Multi-Shot', 'Silverback Patriarch', 'Southsea Captain', 'Stormpike Commando', 'Stormwind Champion');0.43175487465181056

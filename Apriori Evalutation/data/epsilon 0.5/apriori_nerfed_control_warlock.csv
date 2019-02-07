@@ -1,0 +1,740 @@
+('Alexstrasza',);0.8575
+('Blood Knight',);0.8275
+('Defender of Argus',);0.6525
+('Doomguard',);0.6175
+('Dread Infernal',);0.8
+('Frostwolf Grunt',);0.5875
+('Imp Master',);0.5225
+('Kobold Geomancer',);0.5175
+('Loot Hoarder',);0.725
+('Millhouse Manastorm',);0.88
+('Mountain Giant',);0.52
+('Raging Worgen',);0.9875
+('Shadow Bolt',);0.64
+('Shadowflame',);0.8
+('Siphon Soul',);0.79
+('Stampeding Kodo',);0.78
+('Sunfury Protector',);0.9225
+('The Black Knight',);0.6075
+('Alexstrasza', 'Blood Knight');0.7075
+('Alexstrasza', 'Defender of Argus');0.6
+('Alexstrasza', 'Doomguard');0.555
+('Alexstrasza', 'Dread Infernal');0.685
+('Alexstrasza', 'Frostwolf Grunt');0.5325
+('Alexstrasza', 'Imp Master');0.505
+('Alexstrasza', 'Loot Hoarder');0.635
+('Alexstrasza', 'Millhouse Manastorm');0.76
+('Alexstrasza', 'Raging Worgen');0.8475
+('Alexstrasza', 'Shadow Bolt');0.57
+('Alexstrasza', 'Shadowflame');0.7175
+('Alexstrasza', 'Siphon Soul');0.7275
+('Alexstrasza', 'Stampeding Kodo');0.72
+('Alexstrasza', 'Sunfury Protector');0.79
+('Alexstrasza', 'The Black Knight');0.5075
+('Blood Knight', 'Defender of Argus');0.54
+('Blood Knight', 'Doomguard');0.51
+('Blood Knight', 'Dread Infernal');0.68
+('Blood Knight', 'Loot Hoarder');0.59
+('Blood Knight', 'Millhouse Manastorm');0.7725
+('Blood Knight', 'Raging Worgen');0.815
+('Blood Knight', 'Shadow Bolt');0.5675
+('Blood Knight', 'Shadowflame');0.6675
+('Blood Knight', 'Siphon Soul');0.6425
+('Blood Knight', 'Stampeding Kodo');0.65
+('Blood Knight', 'Sunfury Protector');0.7725
+('Defender of Argus', 'Dread Infernal');0.515
+('Defender of Argus', 'Loot Hoarder');0.5625
+('Defender of Argus', 'Millhouse Manastorm');0.585
+('Defender of Argus', 'Raging Worgen');0.6475
+('Defender of Argus', 'Shadowflame');0.55
+('Defender of Argus', 'Siphon Soul');0.6375
+('Defender of Argus', 'Stampeding Kodo');0.65
+('Defender of Argus', 'Sunfury Protector');0.62
+('Doomguard', 'Loot Hoarder');0.51
+('Doomguard', 'Millhouse Manastorm');0.56
+('Doomguard', 'Raging Worgen');0.615
+('Doomguard', 'Siphon Soul');0.5925
+('Doomguard', 'Stampeding Kodo');0.605
+('Doomguard', 'Sunfury Protector');0.5925
+('Dread Infernal', 'Frostwolf Grunt');0.515
+('Dread Infernal', 'Loot Hoarder');0.57
+('Dread Infernal', 'Millhouse Manastorm');0.725
+('Dread Infernal', 'Raging Worgen');0.7875
+('Dread Infernal', 'Shadow Bolt');0.535
+('Dread Infernal', 'Shadowflame');0.6575
+('Dread Infernal', 'Siphon Soul');0.625
+('Dread Infernal', 'Stampeding Kodo');0.6325
+('Dread Infernal', 'Sunfury Protector');0.7575
+('Dread Infernal', 'The Black Knight');0.5225
+('Frostwolf Grunt', 'Millhouse Manastorm');0.5325
+('Frostwolf Grunt', 'Raging Worgen');0.5825
+('Frostwolf Grunt', 'Siphon Soul');0.5675
+('Frostwolf Grunt', 'Stampeding Kodo');0.5775
+('Frostwolf Grunt', 'Sunfury Protector');0.5475
+('Imp Master', 'Raging Worgen');0.52
+('Imp Master', 'Siphon Soul');0.5125
+('Imp Master', 'Stampeding Kodo');0.515
+('Kobold Geomancer', 'Raging Worgen');0.515
+('Kobold Geomancer', 'Siphon Soul');0.5025
+('Kobold Geomancer', 'Stampeding Kodo');0.5125
+('Kobold Geomancer', 'Sunfury Protector');0.505
+('Loot Hoarder', 'Millhouse Manastorm');0.6275
+('Loot Hoarder', 'Raging Worgen');0.72
+('Loot Hoarder', 'Shadowflame');0.5475
+('Loot Hoarder', 'Siphon Soul');0.66
+('Loot Hoarder', 'Stampeding Kodo');0.66
+('Loot Hoarder', 'Sunfury Protector');0.6675
+('Millhouse Manastorm', 'Raging Worgen');0.8675
+('Millhouse Manastorm', 'Shadow Bolt');0.59
+('Millhouse Manastorm', 'Shadowflame');0.725
+('Millhouse Manastorm', 'Siphon Soul');0.6925
+('Millhouse Manastorm', 'Stampeding Kodo');0.7025
+('Millhouse Manastorm', 'Sunfury Protector');0.8275
+('Mountain Giant', 'Raging Worgen');0.52
+('Mountain Giant', 'Sunfury Protector');0.505
+('Raging Worgen', 'Shadow Bolt');0.6275
+('Raging Worgen', 'Shadowflame');0.79
+('Raging Worgen', 'Siphon Soul');0.785
+('Raging Worgen', 'Stampeding Kodo');0.775
+('Raging Worgen', 'Sunfury Protector');0.9125
+('Raging Worgen', 'The Black Knight');0.6
+('Shadow Bolt', 'Shadowflame');0.56
+('Shadow Bolt', 'Siphon Soul');0.5025
+('Shadow Bolt', 'Stampeding Kodo');0.5075
+('Shadow Bolt', 'Sunfury Protector');0.605
+('Shadowflame', 'Siphon Soul');0.635
+('Shadowflame', 'Stampeding Kodo');0.64
+('Shadowflame', 'Sunfury Protector');0.76
+('Shadowflame', 'The Black Knight');0.515
+('Siphon Soul', 'Stampeding Kodo');0.76
+('Siphon Soul', 'Sunfury Protector');0.7425
+('Stampeding Kodo', 'Sunfury Protector');0.7425
+('Sunfury Protector', 'The Black Knight');0.56
+('Alexstrasza', 'Blood Knight', 'Dread Infernal');0.58
+('Alexstrasza', 'Blood Knight', 'Loot Hoarder');0.515
+('Alexstrasza', 'Blood Knight', 'Millhouse Manastorm');0.665
+('Alexstrasza', 'Blood Knight', 'Raging Worgen');0.6975
+('Alexstrasza', 'Blood Knight', 'Shadow Bolt');0.5025
+('Alexstrasza', 'Blood Knight', 'Shadowflame');0.595
+('Alexstrasza', 'Blood Knight', 'Siphon Soul');0.5925
+('Alexstrasza', 'Blood Knight', 'Stampeding Kodo');0.6
+('Alexstrasza', 'Blood Knight', 'Sunfury Protector');0.66
+('Alexstrasza', 'Defender of Argus', 'Loot Hoarder');0.51
+('Alexstrasza', 'Defender of Argus', 'Millhouse Manastorm');0.5325
+('Alexstrasza', 'Defender of Argus', 'Raging Worgen');0.595
+('Alexstrasza', 'Defender of Argus', 'Shadowflame');0.5225
+('Alexstrasza', 'Defender of Argus', 'Siphon Soul');0.5875
+('Alexstrasza', 'Defender of Argus', 'Stampeding Kodo');0.5975
+('Alexstrasza', 'Defender of Argus', 'Sunfury Protector');0.5675
+('Alexstrasza', 'Doomguard', 'Millhouse Manastorm');0.5
+('Alexstrasza', 'Doomguard', 'Raging Worgen');0.5525
+('Alexstrasza', 'Doomguard', 'Siphon Soul');0.5375
+('Alexstrasza', 'Doomguard', 'Stampeding Kodo');0.55
+('Alexstrasza', 'Doomguard', 'Sunfury Protector');0.535
+('Alexstrasza', 'Dread Infernal', 'Loot Hoarder');0.505
+('Alexstrasza', 'Dread Infernal', 'Millhouse Manastorm');0.6275
+('Alexstrasza', 'Dread Infernal', 'Raging Worgen');0.675
+('Alexstrasza', 'Dread Infernal', 'Shadowflame');0.585
+('Alexstrasza', 'Dread Infernal', 'Siphon Soul');0.58
+('Alexstrasza', 'Dread Infernal', 'Stampeding Kodo');0.585
+('Alexstrasza', 'Dread Infernal', 'Sunfury Protector');0.6425
+('Alexstrasza', 'Frostwolf Grunt', 'Raging Worgen');0.5275
+('Alexstrasza', 'Frostwolf Grunt', 'Siphon Soul');0.5175
+('Alexstrasza', 'Frostwolf Grunt', 'Stampeding Kodo');0.525
+('Alexstrasza', 'Imp Master', 'Raging Worgen');0.5025
+('Alexstrasza', 'Imp Master', 'Stampeding Kodo');0.5
+('Alexstrasza', 'Loot Hoarder', 'Millhouse Manastorm');0.5575
+('Alexstrasza', 'Loot Hoarder', 'Raging Worgen');0.63
+('Alexstrasza', 'Loot Hoarder', 'Shadowflame');0.5125
+('Alexstrasza', 'Loot Hoarder', 'Siphon Soul');0.605
+('Alexstrasza', 'Loot Hoarder', 'Stampeding Kodo');0.605
+('Alexstrasza', 'Loot Hoarder', 'Sunfury Protector');0.585
+('Alexstrasza', 'Millhouse Manastorm', 'Raging Worgen');0.75
+('Alexstrasza', 'Millhouse Manastorm', 'Shadow Bolt');0.52
+('Alexstrasza', 'Millhouse Manastorm', 'Shadowflame');0.6425
+('Alexstrasza', 'Millhouse Manastorm', 'Siphon Soul');0.6375
+('Alexstrasza', 'Millhouse Manastorm', 'Stampeding Kodo');0.645
+('Alexstrasza', 'Millhouse Manastorm', 'Sunfury Protector');0.715
+('Alexstrasza', 'Raging Worgen', 'Shadow Bolt');0.56
+('Alexstrasza', 'Raging Worgen', 'Shadowflame');0.71
+('Alexstrasza', 'Raging Worgen', 'Siphon Soul');0.7225
+('Alexstrasza', 'Raging Worgen', 'Stampeding Kodo');0.715
+('Alexstrasza', 'Raging Worgen', 'Sunfury Protector');0.7825
+('Alexstrasza', 'Raging Worgen', 'The Black Knight');0.5025
+('Alexstrasza', 'Shadow Bolt', 'Shadowflame');0.51
+('Alexstrasza', 'Shadow Bolt', 'Sunfury Protector');0.535
+('Alexstrasza', 'Shadowflame', 'Siphon Soul');0.605
+('Alexstrasza', 'Shadowflame', 'Stampeding Kodo');0.6075
+('Alexstrasza', 'Shadowflame', 'Sunfury Protector');0.6775
+('Alexstrasza', 'Siphon Soul', 'Stampeding Kodo');0.705
+('Alexstrasza', 'Siphon Soul', 'Sunfury Protector');0.6825
+('Alexstrasza', 'Stampeding Kodo', 'Sunfury Protector');0.6825
+('Blood Knight', 'Defender of Argus', 'Millhouse Manastorm');0.5075
+('Blood Knight', 'Defender of Argus', 'Raging Worgen');0.535
+('Blood Knight', 'Defender of Argus', 'Siphon Soul');0.525
+('Blood Knight', 'Defender of Argus', 'Stampeding Kodo');0.5375
+('Blood Knight', 'Defender of Argus', 'Sunfury Protector');0.51
+('Blood Knight', 'Doomguard', 'Raging Worgen');0.5075
+('Blood Knight', 'Doomguard', 'Stampeding Kodo');0.5
+('Blood Knight', 'Dread Infernal', 'Millhouse Manastorm');0.6275
+('Blood Knight', 'Dread Infernal', 'Raging Worgen');0.6675
+('Blood Knight', 'Dread Infernal', 'Shadowflame');0.55
+('Blood Knight', 'Dread Infernal', 'Siphon Soul');0.525
+('Blood Knight', 'Dread Infernal', 'Stampeding Kodo');0.53
+('Blood Knight', 'Dread Infernal', 'Sunfury Protector');0.6375
+('Blood Knight', 'Loot Hoarder', 'Millhouse Manastorm');0.545
+('Blood Knight', 'Loot Hoarder', 'Raging Worgen');0.585
+('Blood Knight', 'Loot Hoarder', 'Siphon Soul');0.535
+('Blood Knight', 'Loot Hoarder', 'Stampeding Kodo');0.5475
+('Blood Knight', 'Loot Hoarder', 'Sunfury Protector');0.5525
+('Blood Knight', 'Millhouse Manastorm', 'Raging Worgen');0.76
+('Blood Knight', 'Millhouse Manastorm', 'Shadow Bolt');0.54
+('Blood Knight', 'Millhouse Manastorm', 'Shadowflame');0.6275
+('Blood Knight', 'Millhouse Manastorm', 'Siphon Soul');0.6
+('Blood Knight', 'Millhouse Manastorm', 'Stampeding Kodo');0.6125
+('Blood Knight', 'Millhouse Manastorm', 'Sunfury Protector');0.72
+('Blood Knight', 'Raging Worgen', 'Shadow Bolt');0.555
+('Blood Knight', 'Raging Worgen', 'Shadowflame');0.6575
+('Blood Knight', 'Raging Worgen', 'Siphon Soul');0.6375
+('Blood Knight', 'Raging Worgen', 'Stampeding Kodo');0.645
+('Blood Knight', 'Raging Worgen', 'Sunfury Protector');0.7625
+('Blood Knight', 'Shadow Bolt', 'Sunfury Protector');0.535
+('Blood Knight', 'Shadowflame', 'Siphon Soul');0.5175
+('Blood Knight', 'Shadowflame', 'Stampeding Kodo');0.525
+('Blood Knight', 'Shadowflame', 'Sunfury Protector');0.63
+('Blood Knight', 'Siphon Soul', 'Stampeding Kodo');0.6325
+('Blood Knight', 'Siphon Soul', 'Sunfury Protector');0.6125
+('Blood Knight', 'Stampeding Kodo', 'Sunfury Protector');0.6175
+('Defender of Argus', 'Dread Infernal', 'Raging Worgen');0.51
+('Defender of Argus', 'Dread Infernal', 'Siphon Soul');0.5025
+('Defender of Argus', 'Dread Infernal', 'Stampeding Kodo');0.5125
+('Defender of Argus', 'Loot Hoarder', 'Millhouse Manastorm');0.5075
+('Defender of Argus', 'Loot Hoarder', 'Raging Worgen');0.5575
+('Defender of Argus', 'Loot Hoarder', 'Siphon Soul');0.5475
+('Defender of Argus', 'Loot Hoarder', 'Stampeding Kodo');0.56
+('Defender of Argus', 'Loot Hoarder', 'Sunfury Protector');0.535
+('Defender of Argus', 'Millhouse Manastorm', 'Raging Worgen');0.58
+('Defender of Argus', 'Millhouse Manastorm', 'Siphon Soul');0.57
+('Defender of Argus', 'Millhouse Manastorm', 'Stampeding Kodo');0.5825
+('Defender of Argus', 'Millhouse Manastorm', 'Sunfury Protector');0.5575
+('Defender of Argus', 'Raging Worgen', 'Shadowflame');0.5475
+('Defender of Argus', 'Raging Worgen', 'Siphon Soul');0.6325
+('Defender of Argus', 'Raging Worgen', 'Stampeding Kodo');0.645
+('Defender of Argus', 'Raging Worgen', 'Sunfury Protector');0.615
+('Defender of Argus', 'Shadowflame', 'Siphon Soul');0.535
+('Defender of Argus', 'Shadowflame', 'Stampeding Kodo');0.5475
+('Defender of Argus', 'Shadowflame', 'Sunfury Protector');0.52
+('Defender of Argus', 'Siphon Soul', 'Stampeding Kodo');0.6375
+('Defender of Argus', 'Siphon Soul', 'Sunfury Protector');0.6075
+('Defender of Argus', 'Stampeding Kodo', 'Sunfury Protector');0.6175
+('Doomguard', 'Loot Hoarder', 'Raging Worgen');0.5075
+('Doomguard', 'Millhouse Manastorm', 'Raging Worgen');0.5575
+('Doomguard', 'Millhouse Manastorm', 'Siphon Soul');0.535
+('Doomguard', 'Millhouse Manastorm', 'Stampeding Kodo');0.55
+('Doomguard', 'Millhouse Manastorm', 'Sunfury Protector');0.5375
+('Doomguard', 'Raging Worgen', 'Siphon Soul');0.59
+('Doomguard', 'Raging Worgen', 'Stampeding Kodo');0.6025
+('Doomguard', 'Raging Worgen', 'Sunfury Protector');0.59
+('Doomguard', 'Siphon Soul', 'Stampeding Kodo');0.59
+('Doomguard', 'Siphon Soul', 'Sunfury Protector');0.575
+('Doomguard', 'Stampeding Kodo', 'Sunfury Protector');0.5875
+('Dread Infernal', 'Frostwolf Grunt', 'Raging Worgen');0.51
+('Dread Infernal', 'Frostwolf Grunt', 'Stampeding Kodo');0.505
+('Dread Infernal', 'Loot Hoarder', 'Millhouse Manastorm');0.5125
+('Dread Infernal', 'Loot Hoarder', 'Raging Worgen');0.565
+('Dread Infernal', 'Loot Hoarder', 'Siphon Soul');0.5275
+('Dread Infernal', 'Loot Hoarder', 'Stampeding Kodo');0.54
+('Dread Infernal', 'Loot Hoarder', 'Sunfury Protector');0.5425
+('Dread Infernal', 'Millhouse Manastorm', 'Raging Worgen');0.7125
+('Dread Infernal', 'Millhouse Manastorm', 'Shadow Bolt');0.5025
+('Dread Infernal', 'Millhouse Manastorm', 'Shadowflame');0.6025
+('Dread Infernal', 'Millhouse Manastorm', 'Siphon Soul');0.5675
+('Dread Infernal', 'Millhouse Manastorm', 'Stampeding Kodo');0.5775
+('Dread Infernal', 'Millhouse Manastorm', 'Sunfury Protector');0.685
+('Dread Infernal', 'Raging Worgen', 'Shadow Bolt');0.5225
+('Dread Infernal', 'Raging Worgen', 'Shadowflame');0.6475
+('Dread Infernal', 'Raging Worgen', 'Siphon Soul');0.62
+('Dread Infernal', 'Raging Worgen', 'Stampeding Kodo');0.6275
+('Dread Infernal', 'Raging Worgen', 'Sunfury Protector');0.7475
+('Dread Infernal', 'Raging Worgen', 'The Black Knight');0.515
+('Dread Infernal', 'Shadow Bolt', 'Sunfury Protector');0.505
+('Dread Infernal', 'Shadowflame', 'Siphon Soul');0.5075
+('Dread Infernal', 'Shadowflame', 'Stampeding Kodo');0.5125
+('Dread Infernal', 'Shadowflame', 'Sunfury Protector');0.62
+('Dread Infernal', 'Siphon Soul', 'Stampeding Kodo');0.615
+('Dread Infernal', 'Siphon Soul', 'Sunfury Protector');0.595
+('Dread Infernal', 'Stampeding Kodo', 'Sunfury Protector');0.6
+('Dread Infernal', 'Sunfury Protector', 'The Black Knight');0.5
+('Frostwolf Grunt', 'Millhouse Manastorm', 'Raging Worgen');0.5275
+('Frostwolf Grunt', 'Millhouse Manastorm', 'Siphon Soul');0.5125
+('Frostwolf Grunt', 'Millhouse Manastorm', 'Stampeding Kodo');0.5225
+('Frostwolf Grunt', 'Raging Worgen', 'Siphon Soul');0.565
+('Frostwolf Grunt', 'Raging Worgen', 'Stampeding Kodo');0.575
+('Frostwolf Grunt', 'Raging Worgen', 'Sunfury Protector');0.545
+('Frostwolf Grunt', 'Siphon Soul', 'Stampeding Kodo');0.5675
+('Frostwolf Grunt', 'Siphon Soul', 'Sunfury Protector');0.5375
+('Frostwolf Grunt', 'Stampeding Kodo', 'Sunfury Protector');0.545
+('Imp Master', 'Raging Worgen', 'Siphon Soul');0.51
+('Imp Master', 'Raging Worgen', 'Stampeding Kodo');0.5125
+('Imp Master', 'Siphon Soul', 'Stampeding Kodo');0.5125
+('Kobold Geomancer', 'Raging Worgen', 'Siphon Soul');0.5
+('Kobold Geomancer', 'Raging Worgen', 'Stampeding Kodo');0.51
+('Kobold Geomancer', 'Raging Worgen', 'Sunfury Protector');0.5025
+('Kobold Geomancer', 'Siphon Soul', 'Stampeding Kodo');0.5025
+('Kobold Geomancer', 'Stampeding Kodo', 'Sunfury Protector');0.5
+('Loot Hoarder', 'Millhouse Manastorm', 'Raging Worgen');0.6225
+('Loot Hoarder', 'Millhouse Manastorm', 'Siphon Soul');0.5825
+('Loot Hoarder', 'Millhouse Manastorm', 'Stampeding Kodo');0.5975
+('Loot Hoarder', 'Millhouse Manastorm', 'Sunfury Protector');0.5925
+('Loot Hoarder', 'Raging Worgen', 'Shadowflame');0.545
+('Loot Hoarder', 'Raging Worgen', 'Siphon Soul');0.655
+('Loot Hoarder', 'Raging Worgen', 'Stampeding Kodo');0.655
+('Loot Hoarder', 'Raging Worgen', 'Sunfury Protector');0.6625
+('Loot Hoarder', 'Shadowflame', 'Siphon Soul');0.5175
+('Loot Hoarder', 'Shadowflame', 'Stampeding Kodo');0.53
+('Loot Hoarder', 'Shadowflame', 'Sunfury Protector');0.52
+('Loot Hoarder', 'Siphon Soul', 'Stampeding Kodo');0.6425
+('Loot Hoarder', 'Siphon Soul', 'Sunfury Protector');0.62
+('Loot Hoarder', 'Stampeding Kodo', 'Sunfury Protector');0.6275
+('Millhouse Manastorm', 'Raging Worgen', 'Shadow Bolt');0.5775
+('Millhouse Manastorm', 'Raging Worgen', 'Shadowflame');0.715
+('Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul');0.6875
+('Millhouse Manastorm', 'Raging Worgen', 'Stampeding Kodo');0.6975
+('Millhouse Manastorm', 'Raging Worgen', 'Sunfury Protector');0.8175
+('Millhouse Manastorm', 'Shadow Bolt', 'Shadowflame');0.5125
+('Millhouse Manastorm', 'Shadow Bolt', 'Sunfury Protector');0.56
+('Millhouse Manastorm', 'Shadowflame', 'Siphon Soul');0.5625
+('Millhouse Manastorm', 'Shadowflame', 'Stampeding Kodo');0.57
+('Millhouse Manastorm', 'Shadowflame', 'Sunfury Protector');0.69
+('Millhouse Manastorm', 'Siphon Soul', 'Stampeding Kodo');0.685
+('Millhouse Manastorm', 'Siphon Soul', 'Sunfury Protector');0.665
+('Millhouse Manastorm', 'Stampeding Kodo', 'Sunfury Protector');0.6725
+('Mountain Giant', 'Raging Worgen', 'Sunfury Protector');0.505
+('Raging Worgen', 'Shadow Bolt', 'Shadowflame');0.55
+('Raging Worgen', 'Shadow Bolt', 'Stampeding Kodo');0.5025
+('Raging Worgen', 'Shadow Bolt', 'Sunfury Protector');0.595
+('Raging Worgen', 'Shadowflame', 'Siphon Soul');0.6325
+('Raging Worgen', 'Shadowflame', 'Stampeding Kodo');0.6375
+('Raging Worgen', 'Shadowflame', 'Sunfury Protector');0.7525
+('Raging Worgen', 'Shadowflame', 'The Black Knight');0.5075
+('Raging Worgen', 'Siphon Soul', 'Stampeding Kodo');0.755
+('Raging Worgen', 'Siphon Soul', 'Sunfury Protector');0.7375
+('Raging Worgen', 'Stampeding Kodo', 'Sunfury Protector');0.7375
+('Raging Worgen', 'Sunfury Protector', 'The Black Knight');0.5525
+('Shadow Bolt', 'Shadowflame', 'Sunfury Protector');0.53
+('Shadowflame', 'Siphon Soul', 'Stampeding Kodo');0.625
+('Shadowflame', 'Siphon Soul', 'Sunfury Protector');0.6075
+('Shadowflame', 'Stampeding Kodo', 'Sunfury Protector');0.61
+('Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.725
+('Alexstrasza', 'Blood Knight', 'Dread Infernal', 'Millhouse Manastorm');0.54
+('Alexstrasza', 'Blood Knight', 'Dread Infernal', 'Raging Worgen');0.57
+('Alexstrasza', 'Blood Knight', 'Dread Infernal', 'Sunfury Protector');0.5375
+('Alexstrasza', 'Blood Knight', 'Loot Hoarder', 'Raging Worgen');0.51
+('Alexstrasza', 'Blood Knight', 'Loot Hoarder', 'Stampeding Kodo');0.5025
+('Alexstrasza', 'Blood Knight', 'Millhouse Manastorm', 'Raging Worgen');0.655
+('Alexstrasza', 'Blood Knight', 'Millhouse Manastorm', 'Shadowflame');0.555
+('Alexstrasza', 'Blood Knight', 'Millhouse Manastorm', 'Siphon Soul');0.5525
+('Alexstrasza', 'Blood Knight', 'Millhouse Manastorm', 'Stampeding Kodo');0.5625
+('Alexstrasza', 'Blood Knight', 'Millhouse Manastorm', 'Sunfury Protector');0.62
+('Alexstrasza', 'Blood Knight', 'Raging Worgen', 'Shadowflame');0.5875
+('Alexstrasza', 'Blood Knight', 'Raging Worgen', 'Siphon Soul');0.5875
+('Alexstrasza', 'Blood Knight', 'Raging Worgen', 'Stampeding Kodo');0.595
+('Alexstrasza', 'Blood Knight', 'Raging Worgen', 'Sunfury Protector');0.6525
+('Alexstrasza', 'Blood Knight', 'Shadowflame', 'Sunfury Protector');0.5575
+('Alexstrasza', 'Blood Knight', 'Siphon Soul', 'Stampeding Kodo');0.585
+('Alexstrasza', 'Blood Knight', 'Siphon Soul', 'Sunfury Protector');0.5625
+('Alexstrasza', 'Blood Knight', 'Stampeding Kodo', 'Sunfury Protector');0.5675
+('Alexstrasza', 'Defender of Argus', 'Loot Hoarder', 'Raging Worgen');0.505
+('Alexstrasza', 'Defender of Argus', 'Loot Hoarder', 'Stampeding Kodo');0.5075
+('Alexstrasza', 'Defender of Argus', 'Millhouse Manastorm', 'Raging Worgen');0.5275
+('Alexstrasza', 'Defender of Argus', 'Millhouse Manastorm', 'Siphon Soul');0.52
+('Alexstrasza', 'Defender of Argus', 'Millhouse Manastorm', 'Stampeding Kodo');0.53
+('Alexstrasza', 'Defender of Argus', 'Millhouse Manastorm', 'Sunfury Protector');0.505
+('Alexstrasza', 'Defender of Argus', 'Raging Worgen', 'Shadowflame');0.52
+('Alexstrasza', 'Defender of Argus', 'Raging Worgen', 'Siphon Soul');0.5825
+('Alexstrasza', 'Defender of Argus', 'Raging Worgen', 'Stampeding Kodo');0.5925
+('Alexstrasza', 'Defender of Argus', 'Raging Worgen', 'Sunfury Protector');0.5625
+('Alexstrasza', 'Defender of Argus', 'Shadowflame', 'Siphon Soul');0.51
+('Alexstrasza', 'Defender of Argus', 'Shadowflame', 'Stampeding Kodo');0.52
+('Alexstrasza', 'Defender of Argus', 'Siphon Soul', 'Stampeding Kodo');0.5875
+('Alexstrasza', 'Defender of Argus', 'Siphon Soul', 'Sunfury Protector');0.5575
+('Alexstrasza', 'Defender of Argus', 'Stampeding Kodo', 'Sunfury Protector');0.565
+('Alexstrasza', 'Doomguard', 'Raging Worgen', 'Siphon Soul');0.535
+('Alexstrasza', 'Doomguard', 'Raging Worgen', 'Stampeding Kodo');0.5475
+('Alexstrasza', 'Doomguard', 'Raging Worgen', 'Sunfury Protector');0.5325
+('Alexstrasza', 'Doomguard', 'Siphon Soul', 'Stampeding Kodo');0.5375
+('Alexstrasza', 'Doomguard', 'Siphon Soul', 'Sunfury Protector');0.52
+('Alexstrasza', 'Doomguard', 'Stampeding Kodo', 'Sunfury Protector');0.5325
+('Alexstrasza', 'Dread Infernal', 'Loot Hoarder', 'Raging Worgen');0.5
+('Alexstrasza', 'Dread Infernal', 'Millhouse Manastorm', 'Raging Worgen');0.6175
+('Alexstrasza', 'Dread Infernal', 'Millhouse Manastorm', 'Shadowflame');0.53
+('Alexstrasza', 'Dread Infernal', 'Millhouse Manastorm', 'Siphon Soul');0.525
+('Alexstrasza', 'Dread Infernal', 'Millhouse Manastorm', 'Stampeding Kodo');0.5325
+('Alexstrasza', 'Dread Infernal', 'Millhouse Manastorm', 'Sunfury Protector');0.5875
+('Alexstrasza', 'Dread Infernal', 'Raging Worgen', 'Shadowflame');0.5775
+('Alexstrasza', 'Dread Infernal', 'Raging Worgen', 'Siphon Soul');0.575
+('Alexstrasza', 'Dread Infernal', 'Raging Worgen', 'Stampeding Kodo');0.58
+('Alexstrasza', 'Dread Infernal', 'Raging Worgen', 'Sunfury Protector');0.635
+('Alexstrasza', 'Dread Infernal', 'Shadowflame', 'Sunfury Protector');0.5475
+('Alexstrasza', 'Dread Infernal', 'Siphon Soul', 'Stampeding Kodo');0.5725
+('Alexstrasza', 'Dread Infernal', 'Siphon Soul', 'Sunfury Protector');0.55
+('Alexstrasza', 'Dread Infernal', 'Stampeding Kodo', 'Sunfury Protector');0.5525
+('Alexstrasza', 'Frostwolf Grunt', 'Raging Worgen', 'Siphon Soul');0.515
+('Alexstrasza', 'Frostwolf Grunt', 'Raging Worgen', 'Stampeding Kodo');0.5225
+('Alexstrasza', 'Frostwolf Grunt', 'Siphon Soul', 'Stampeding Kodo');0.5175
+('Alexstrasza', 'Loot Hoarder', 'Millhouse Manastorm', 'Raging Worgen');0.5525
+('Alexstrasza', 'Loot Hoarder', 'Millhouse Manastorm', 'Siphon Soul');0.5325
+('Alexstrasza', 'Loot Hoarder', 'Millhouse Manastorm', 'Stampeding Kodo');0.545
+('Alexstrasza', 'Loot Hoarder', 'Millhouse Manastorm', 'Sunfury Protector');0.53
+('Alexstrasza', 'Loot Hoarder', 'Raging Worgen', 'Shadowflame');0.51
+('Alexstrasza', 'Loot Hoarder', 'Raging Worgen', 'Siphon Soul');0.6
+('Alexstrasza', 'Loot Hoarder', 'Raging Worgen', 'Stampeding Kodo');0.6
+('Alexstrasza', 'Loot Hoarder', 'Raging Worgen', 'Sunfury Protector');0.58
+('Alexstrasza', 'Loot Hoarder', 'Shadowflame', 'Stampeding Kodo');0.5025
+('Alexstrasza', 'Loot Hoarder', 'Siphon Soul', 'Stampeding Kodo');0.5925
+('Alexstrasza', 'Loot Hoarder', 'Siphon Soul', 'Sunfury Protector');0.565
+('Alexstrasza', 'Loot Hoarder', 'Stampeding Kodo', 'Sunfury Protector');0.5725
+('Alexstrasza', 'Millhouse Manastorm', 'Raging Worgen', 'Shadow Bolt');0.51
+('Alexstrasza', 'Millhouse Manastorm', 'Raging Worgen', 'Shadowflame');0.635
+('Alexstrasza', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul');0.6325
+('Alexstrasza', 'Millhouse Manastorm', 'Raging Worgen', 'Stampeding Kodo');0.64
+('Alexstrasza', 'Millhouse Manastorm', 'Raging Worgen', 'Sunfury Protector');0.7075
+('Alexstrasza', 'Millhouse Manastorm', 'Shadowflame', 'Siphon Soul');0.5325
+('Alexstrasza', 'Millhouse Manastorm', 'Shadowflame', 'Stampeding Kodo');0.5375
+('Alexstrasza', 'Millhouse Manastorm', 'Shadowflame', 'Sunfury Protector');0.6075
+('Alexstrasza', 'Millhouse Manastorm', 'Siphon Soul', 'Stampeding Kodo');0.63
+('Alexstrasza', 'Millhouse Manastorm', 'Siphon Soul', 'Sunfury Protector');0.61
+('Alexstrasza', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunfury Protector');0.615
+('Alexstrasza', 'Raging Worgen', 'Shadow Bolt', 'Shadowflame');0.5025
+('Alexstrasza', 'Raging Worgen', 'Shadow Bolt', 'Sunfury Protector');0.5275
+('Alexstrasza', 'Raging Worgen', 'Shadowflame', 'Siphon Soul');0.6025
+('Alexstrasza', 'Raging Worgen', 'Shadowflame', 'Stampeding Kodo');0.605
+('Alexstrasza', 'Raging Worgen', 'Shadowflame', 'Sunfury Protector');0.6725
+('Alexstrasza', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo');0.7
+('Alexstrasza', 'Raging Worgen', 'Siphon Soul', 'Sunfury Protector');0.6775
+('Alexstrasza', 'Raging Worgen', 'Stampeding Kodo', 'Sunfury Protector');0.6775
+('Alexstrasza', 'Shadowflame', 'Siphon Soul', 'Stampeding Kodo');0.595
+('Alexstrasza', 'Shadowflame', 'Siphon Soul', 'Sunfury Protector');0.5775
+('Alexstrasza', 'Shadowflame', 'Stampeding Kodo', 'Sunfury Protector');0.5775
+('Alexstrasza', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.67
+('Blood Knight', 'Defender of Argus', 'Millhouse Manastorm', 'Raging Worgen');0.5025
+('Blood Knight', 'Defender of Argus', 'Millhouse Manastorm', 'Stampeding Kodo');0.505
+('Blood Knight', 'Defender of Argus', 'Raging Worgen', 'Siphon Soul');0.52
+('Blood Knight', 'Defender of Argus', 'Raging Worgen', 'Stampeding Kodo');0.5325
+('Blood Knight', 'Defender of Argus', 'Raging Worgen', 'Sunfury Protector');0.505
+('Blood Knight', 'Defender of Argus', 'Siphon Soul', 'Stampeding Kodo');0.525
+('Blood Knight', 'Defender of Argus', 'Stampeding Kodo', 'Sunfury Protector');0.5075
+('Blood Knight', 'Dread Infernal', 'Millhouse Manastorm', 'Raging Worgen');0.615
+('Blood Knight', 'Dread Infernal', 'Millhouse Manastorm', 'Shadowflame');0.5125
+('Blood Knight', 'Dread Infernal', 'Millhouse Manastorm', 'Sunfury Protector');0.5875
+('Blood Knight', 'Dread Infernal', 'Raging Worgen', 'Shadowflame');0.54
+('Blood Knight', 'Dread Infernal', 'Raging Worgen', 'Siphon Soul');0.52
+('Blood Knight', 'Dread Infernal', 'Raging Worgen', 'Stampeding Kodo');0.525
+('Blood Knight', 'Dread Infernal', 'Raging Worgen', 'Sunfury Protector');0.6275
+('Blood Knight', 'Dread Infernal', 'Shadowflame', 'Sunfury Protector');0.5125
+('Blood Knight', 'Dread Infernal', 'Siphon Soul', 'Stampeding Kodo');0.515
+('Blood Knight', 'Loot Hoarder', 'Millhouse Manastorm', 'Raging Worgen');0.54
+('Blood Knight', 'Loot Hoarder', 'Millhouse Manastorm', 'Siphon Soul');0.5
+('Blood Knight', 'Loot Hoarder', 'Millhouse Manastorm', 'Stampeding Kodo');0.515
+('Blood Knight', 'Loot Hoarder', 'Millhouse Manastorm', 'Sunfury Protector');0.51
+('Blood Knight', 'Loot Hoarder', 'Raging Worgen', 'Siphon Soul');0.53
+('Blood Knight', 'Loot Hoarder', 'Raging Worgen', 'Stampeding Kodo');0.5425
+('Blood Knight', 'Loot Hoarder', 'Raging Worgen', 'Sunfury Protector');0.5475
+('Blood Knight', 'Loot Hoarder', 'Siphon Soul', 'Stampeding Kodo');0.5325
+('Blood Knight', 'Loot Hoarder', 'Siphon Soul', 'Sunfury Protector');0.51
+('Blood Knight', 'Loot Hoarder', 'Stampeding Kodo', 'Sunfury Protector');0.52
+('Blood Knight', 'Millhouse Manastorm', 'Raging Worgen', 'Shadow Bolt');0.5275
+('Blood Knight', 'Millhouse Manastorm', 'Raging Worgen', 'Shadowflame');0.6175
+('Blood Knight', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul');0.595
+('Blood Knight', 'Millhouse Manastorm', 'Raging Worgen', 'Stampeding Kodo');0.6075
+('Blood Knight', 'Millhouse Manastorm', 'Raging Worgen', 'Sunfury Protector');0.71
+('Blood Knight', 'Millhouse Manastorm', 'Shadow Bolt', 'Sunfury Protector');0.51
+('Blood Knight', 'Millhouse Manastorm', 'Shadowflame', 'Sunfury Protector');0.5925
+('Blood Knight', 'Millhouse Manastorm', 'Siphon Soul', 'Stampeding Kodo');0.595
+('Blood Knight', 'Millhouse Manastorm', 'Siphon Soul', 'Sunfury Protector');0.5725
+('Blood Knight', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunfury Protector');0.5825
+('Blood Knight', 'Raging Worgen', 'Shadow Bolt', 'Sunfury Protector');0.525
+('Blood Knight', 'Raging Worgen', 'Shadowflame', 'Siphon Soul');0.515
+('Blood Knight', 'Raging Worgen', 'Shadowflame', 'Stampeding Kodo');0.5225
+('Blood Knight', 'Raging Worgen', 'Shadowflame', 'Sunfury Protector');0.6225
+('Blood Knight', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo');0.6275
+('Blood Knight', 'Raging Worgen', 'Siphon Soul', 'Sunfury Protector');0.6075
+('Blood Knight', 'Raging Worgen', 'Stampeding Kodo', 'Sunfury Protector');0.6125
+('Blood Knight', 'Shadowflame', 'Siphon Soul', 'Stampeding Kodo');0.51
+('Blood Knight', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.6025
+('Defender of Argus', 'Dread Infernal', 'Raging Worgen', 'Stampeding Kodo');0.5075
+('Defender of Argus', 'Dread Infernal', 'Siphon Soul', 'Stampeding Kodo');0.5025
+('Defender of Argus', 'Loot Hoarder', 'Millhouse Manastorm', 'Raging Worgen');0.5025
+('Defender of Argus', 'Loot Hoarder', 'Millhouse Manastorm', 'Stampeding Kodo');0.505
+('Defender of Argus', 'Loot Hoarder', 'Raging Worgen', 'Siphon Soul');0.5425
+('Defender of Argus', 'Loot Hoarder', 'Raging Worgen', 'Stampeding Kodo');0.555
+('Defender of Argus', 'Loot Hoarder', 'Raging Worgen', 'Sunfury Protector');0.53
+('Defender of Argus', 'Loot Hoarder', 'Siphon Soul', 'Stampeding Kodo');0.5475
+('Defender of Argus', 'Loot Hoarder', 'Siphon Soul', 'Sunfury Protector');0.5225
+('Defender of Argus', 'Loot Hoarder', 'Stampeding Kodo', 'Sunfury Protector');0.5325
+('Defender of Argus', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul');0.565
+('Defender of Argus', 'Millhouse Manastorm', 'Raging Worgen', 'Stampeding Kodo');0.5775
+('Defender of Argus', 'Millhouse Manastorm', 'Raging Worgen', 'Sunfury Protector');0.5525
+('Defender of Argus', 'Millhouse Manastorm', 'Siphon Soul', 'Stampeding Kodo');0.57
+('Defender of Argus', 'Millhouse Manastorm', 'Siphon Soul', 'Sunfury Protector');0.545
+('Defender of Argus', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunfury Protector');0.555
+('Defender of Argus', 'Raging Worgen', 'Shadowflame', 'Siphon Soul');0.5325
+('Defender of Argus', 'Raging Worgen', 'Shadowflame', 'Stampeding Kodo');0.545
+('Defender of Argus', 'Raging Worgen', 'Shadowflame', 'Sunfury Protector');0.5175
+('Defender of Argus', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo');0.6325
+('Defender of Argus', 'Raging Worgen', 'Siphon Soul', 'Sunfury Protector');0.6025
+('Defender of Argus', 'Raging Worgen', 'Stampeding Kodo', 'Sunfury Protector');0.6125
+('Defender of Argus', 'Shadowflame', 'Siphon Soul', 'Stampeding Kodo');0.535
+('Defender of Argus', 'Shadowflame', 'Siphon Soul', 'Sunfury Protector');0.5075
+('Defender of Argus', 'Shadowflame', 'Stampeding Kodo', 'Sunfury Protector');0.5175
+('Defender of Argus', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.6075
+('Doomguard', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul');0.5325
+('Doomguard', 'Millhouse Manastorm', 'Raging Worgen', 'Stampeding Kodo');0.5475
+('Doomguard', 'Millhouse Manastorm', 'Raging Worgen', 'Sunfury Protector');0.535
+('Doomguard', 'Millhouse Manastorm', 'Siphon Soul', 'Stampeding Kodo');0.535
+('Doomguard', 'Millhouse Manastorm', 'Siphon Soul', 'Sunfury Protector');0.52
+('Doomguard', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunfury Protector');0.535
+('Doomguard', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo');0.5875
+('Doomguard', 'Raging Worgen', 'Siphon Soul', 'Sunfury Protector');0.5725
+('Doomguard', 'Raging Worgen', 'Stampeding Kodo', 'Sunfury Protector');0.585
+('Doomguard', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.5725
+('Dread Infernal', 'Frostwolf Grunt', 'Raging Worgen', 'Stampeding Kodo');0.5025
+('Dread Infernal', 'Loot Hoarder', 'Millhouse Manastorm', 'Raging Worgen');0.5075
+('Dread Infernal', 'Loot Hoarder', 'Raging Worgen', 'Siphon Soul');0.5225
+('Dread Infernal', 'Loot Hoarder', 'Raging Worgen', 'Stampeding Kodo');0.535
+('Dread Infernal', 'Loot Hoarder', 'Raging Worgen', 'Sunfury Protector');0.5375
+('Dread Infernal', 'Loot Hoarder', 'Siphon Soul', 'Stampeding Kodo');0.525
+('Dread Infernal', 'Loot Hoarder', 'Siphon Soul', 'Sunfury Protector');0.5025
+('Dread Infernal', 'Loot Hoarder', 'Stampeding Kodo', 'Sunfury Protector');0.5125
+('Dread Infernal', 'Millhouse Manastorm', 'Raging Worgen', 'Shadowflame');0.5925
+('Dread Infernal', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul');0.5625
+('Dread Infernal', 'Millhouse Manastorm', 'Raging Worgen', 'Stampeding Kodo');0.5725
+('Dread Infernal', 'Millhouse Manastorm', 'Raging Worgen', 'Sunfury Protector');0.675
+('Dread Infernal', 'Millhouse Manastorm', 'Shadowflame', 'Sunfury Protector');0.5675
+('Dread Infernal', 'Millhouse Manastorm', 'Siphon Soul', 'Stampeding Kodo');0.5625
+('Dread Infernal', 'Millhouse Manastorm', 'Siphon Soul', 'Sunfury Protector');0.54
+('Dread Infernal', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunfury Protector');0.5475
+('Dread Infernal', 'Raging Worgen', 'Shadowflame', 'Siphon Soul');0.505
+('Dread Infernal', 'Raging Worgen', 'Shadowflame', 'Stampeding Kodo');0.51
+('Dread Infernal', 'Raging Worgen', 'Shadowflame', 'Sunfury Protector');0.6125
+('Dread Infernal', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo');0.61
+('Dread Infernal', 'Raging Worgen', 'Siphon Soul', 'Sunfury Protector');0.59
+('Dread Infernal', 'Raging Worgen', 'Stampeding Kodo', 'Sunfury Protector');0.595
+('Dread Infernal', 'Shadowflame', 'Siphon Soul', 'Stampeding Kodo');0.5
+('Dread Infernal', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.585
+('Frostwolf Grunt', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul');0.51
+('Frostwolf Grunt', 'Millhouse Manastorm', 'Raging Worgen', 'Stampeding Kodo');0.52
+('Frostwolf Grunt', 'Millhouse Manastorm', 'Siphon Soul', 'Stampeding Kodo');0.5125
+('Frostwolf Grunt', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo');0.565
+('Frostwolf Grunt', 'Raging Worgen', 'Siphon Soul', 'Sunfury Protector');0.535
+('Frostwolf Grunt', 'Raging Worgen', 'Stampeding Kodo', 'Sunfury Protector');0.5425
+('Frostwolf Grunt', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.5375
+('Imp Master', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo');0.51
+('Kobold Geomancer', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo');0.5
+('Loot Hoarder', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul');0.5775
+('Loot Hoarder', 'Millhouse Manastorm', 'Raging Worgen', 'Stampeding Kodo');0.5925
+('Loot Hoarder', 'Millhouse Manastorm', 'Raging Worgen', 'Sunfury Protector');0.5875
+('Loot Hoarder', 'Millhouse Manastorm', 'Siphon Soul', 'Stampeding Kodo');0.5825
+('Loot Hoarder', 'Millhouse Manastorm', 'Siphon Soul', 'Sunfury Protector');0.56
+('Loot Hoarder', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunfury Protector');0.5725
+('Loot Hoarder', 'Raging Worgen', 'Shadowflame', 'Siphon Soul');0.515
+('Loot Hoarder', 'Raging Worgen', 'Shadowflame', 'Stampeding Kodo');0.5275
+('Loot Hoarder', 'Raging Worgen', 'Shadowflame', 'Sunfury Protector');0.5175
+('Loot Hoarder', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo');0.6375
+('Loot Hoarder', 'Raging Worgen', 'Siphon Soul', 'Sunfury Protector');0.615
+('Loot Hoarder', 'Raging Worgen', 'Stampeding Kodo', 'Sunfury Protector');0.6225
+('Loot Hoarder', 'Shadowflame', 'Siphon Soul', 'Stampeding Kodo');0.5175
+('Loot Hoarder', 'Shadowflame', 'Stampeding Kodo', 'Sunfury Protector');0.5025
+('Loot Hoarder', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.6125
+('Millhouse Manastorm', 'Raging Worgen', 'Shadow Bolt', 'Shadowflame');0.5025
+('Millhouse Manastorm', 'Raging Worgen', 'Shadow Bolt', 'Sunfury Protector');0.55
+('Millhouse Manastorm', 'Raging Worgen', 'Shadowflame', 'Siphon Soul');0.56
+('Millhouse Manastorm', 'Raging Worgen', 'Shadowflame', 'Stampeding Kodo');0.5675
+('Millhouse Manastorm', 'Raging Worgen', 'Shadowflame', 'Sunfury Protector');0.6825
+('Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo');0.68
+('Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul', 'Sunfury Protector');0.66
+('Millhouse Manastorm', 'Raging Worgen', 'Stampeding Kodo', 'Sunfury Protector');0.6675
+('Millhouse Manastorm', 'Shadowflame', 'Siphon Soul', 'Stampeding Kodo');0.555
+('Millhouse Manastorm', 'Shadowflame', 'Siphon Soul', 'Sunfury Protector');0.54
+('Millhouse Manastorm', 'Shadowflame', 'Stampeding Kodo', 'Sunfury Protector');0.545
+('Millhouse Manastorm', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.6575
+('Raging Worgen', 'Shadow Bolt', 'Shadowflame', 'Sunfury Protector');0.5225
+('Raging Worgen', 'Shadowflame', 'Siphon Soul', 'Stampeding Kodo');0.6225
+('Raging Worgen', 'Shadowflame', 'Siphon Soul', 'Sunfury Protector');0.605
+('Raging Worgen', 'Shadowflame', 'Stampeding Kodo', 'Sunfury Protector');0.6075
+('Raging Worgen', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.72
+('Shadowflame', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.5975
+('Alexstrasza', 'Blood Knight', 'Dread Infernal', 'Millhouse Manastorm', 'Raging Worgen');0.53
+('Alexstrasza', 'Blood Knight', 'Dread Infernal', 'Millhouse Manastorm', 'Sunfury Protector');0.5
+('Alexstrasza', 'Blood Knight', 'Dread Infernal', 'Raging Worgen', 'Sunfury Protector');0.53
+('Alexstrasza', 'Blood Knight', 'Millhouse Manastorm', 'Raging Worgen', 'Shadowflame');0.5475
+('Alexstrasza', 'Blood Knight', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul');0.5475
+('Alexstrasza', 'Blood Knight', 'Millhouse Manastorm', 'Raging Worgen', 'Stampeding Kodo');0.5575
+('Alexstrasza', 'Blood Knight', 'Millhouse Manastorm', 'Raging Worgen', 'Sunfury Protector');0.6125
+('Alexstrasza', 'Blood Knight', 'Millhouse Manastorm', 'Shadowflame', 'Sunfury Protector');0.52
+('Alexstrasza', 'Blood Knight', 'Millhouse Manastorm', 'Siphon Soul', 'Stampeding Kodo');0.5475
+('Alexstrasza', 'Blood Knight', 'Millhouse Manastorm', 'Siphon Soul', 'Sunfury Protector');0.525
+('Alexstrasza', 'Blood Knight', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunfury Protector');0.5325
+('Alexstrasza', 'Blood Knight', 'Raging Worgen', 'Shadowflame', 'Sunfury Protector');0.5525
+('Alexstrasza', 'Blood Knight', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo');0.58
+('Alexstrasza', 'Blood Knight', 'Raging Worgen', 'Siphon Soul', 'Sunfury Protector');0.5575
+('Alexstrasza', 'Blood Knight', 'Raging Worgen', 'Stampeding Kodo', 'Sunfury Protector');0.5625
+('Alexstrasza', 'Blood Knight', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.555
+('Alexstrasza', 'Defender of Argus', 'Loot Hoarder', 'Raging Worgen', 'Stampeding Kodo');0.5025
+('Alexstrasza', 'Defender of Argus', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul');0.515
+('Alexstrasza', 'Defender of Argus', 'Millhouse Manastorm', 'Raging Worgen', 'Stampeding Kodo');0.525
+('Alexstrasza', 'Defender of Argus', 'Millhouse Manastorm', 'Raging Worgen', 'Sunfury Protector');0.5
+('Alexstrasza', 'Defender of Argus', 'Millhouse Manastorm', 'Siphon Soul', 'Stampeding Kodo');0.52
+('Alexstrasza', 'Defender of Argus', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunfury Protector');0.5025
+('Alexstrasza', 'Defender of Argus', 'Raging Worgen', 'Shadowflame', 'Siphon Soul');0.5075
+('Alexstrasza', 'Defender of Argus', 'Raging Worgen', 'Shadowflame', 'Stampeding Kodo');0.5175
+('Alexstrasza', 'Defender of Argus', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo');0.5825
+('Alexstrasza', 'Defender of Argus', 'Raging Worgen', 'Siphon Soul', 'Sunfury Protector');0.5525
+('Alexstrasza', 'Defender of Argus', 'Raging Worgen', 'Stampeding Kodo', 'Sunfury Protector');0.56
+('Alexstrasza', 'Defender of Argus', 'Shadowflame', 'Siphon Soul', 'Stampeding Kodo');0.51
+('Alexstrasza', 'Defender of Argus', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.5575
+('Alexstrasza', 'Doomguard', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo');0.535
+('Alexstrasza', 'Doomguard', 'Raging Worgen', 'Siphon Soul', 'Sunfury Protector');0.5175
+('Alexstrasza', 'Doomguard', 'Raging Worgen', 'Stampeding Kodo', 'Sunfury Protector');0.53
+('Alexstrasza', 'Doomguard', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.52
+('Alexstrasza', 'Dread Infernal', 'Millhouse Manastorm', 'Raging Worgen', 'Shadowflame');0.5225
+('Alexstrasza', 'Dread Infernal', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul');0.52
+('Alexstrasza', 'Dread Infernal', 'Millhouse Manastorm', 'Raging Worgen', 'Stampeding Kodo');0.5275
+('Alexstrasza', 'Dread Infernal', 'Millhouse Manastorm', 'Raging Worgen', 'Sunfury Protector');0.58
+('Alexstrasza', 'Dread Infernal', 'Millhouse Manastorm', 'Siphon Soul', 'Stampeding Kodo');0.52
+('Alexstrasza', 'Dread Infernal', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunfury Protector');0.5025
+('Alexstrasza', 'Dread Infernal', 'Raging Worgen', 'Shadowflame', 'Sunfury Protector');0.5425
+('Alexstrasza', 'Dread Infernal', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo');0.5675
+('Alexstrasza', 'Dread Infernal', 'Raging Worgen', 'Siphon Soul', 'Sunfury Protector');0.545
+('Alexstrasza', 'Dread Infernal', 'Raging Worgen', 'Stampeding Kodo', 'Sunfury Protector');0.5475
+('Alexstrasza', 'Dread Infernal', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.5425
+('Alexstrasza', 'Frostwolf Grunt', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo');0.515
+('Alexstrasza', 'Loot Hoarder', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul');0.5275
+('Alexstrasza', 'Loot Hoarder', 'Millhouse Manastorm', 'Raging Worgen', 'Stampeding Kodo');0.54
+('Alexstrasza', 'Loot Hoarder', 'Millhouse Manastorm', 'Raging Worgen', 'Sunfury Protector');0.525
+('Alexstrasza', 'Loot Hoarder', 'Millhouse Manastorm', 'Siphon Soul', 'Stampeding Kodo');0.5325
+('Alexstrasza', 'Loot Hoarder', 'Millhouse Manastorm', 'Siphon Soul', 'Sunfury Protector');0.51
+('Alexstrasza', 'Loot Hoarder', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunfury Protector');0.52
+('Alexstrasza', 'Loot Hoarder', 'Raging Worgen', 'Shadowflame', 'Stampeding Kodo');0.5
+('Alexstrasza', 'Loot Hoarder', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo');0.5875
+('Alexstrasza', 'Loot Hoarder', 'Raging Worgen', 'Siphon Soul', 'Sunfury Protector');0.56
+('Alexstrasza', 'Loot Hoarder', 'Raging Worgen', 'Stampeding Kodo', 'Sunfury Protector');0.5675
+('Alexstrasza', 'Loot Hoarder', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.5625
+('Alexstrasza', 'Millhouse Manastorm', 'Raging Worgen', 'Shadowflame', 'Siphon Soul');0.53
+('Alexstrasza', 'Millhouse Manastorm', 'Raging Worgen', 'Shadowflame', 'Stampeding Kodo');0.535
+('Alexstrasza', 'Millhouse Manastorm', 'Raging Worgen', 'Shadowflame', 'Sunfury Protector');0.6025
+('Alexstrasza', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo');0.625
+('Alexstrasza', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul', 'Sunfury Protector');0.605
+('Alexstrasza', 'Millhouse Manastorm', 'Raging Worgen', 'Stampeding Kodo', 'Sunfury Protector');0.61
+('Alexstrasza', 'Millhouse Manastorm', 'Shadowflame', 'Siphon Soul', 'Stampeding Kodo');0.525
+('Alexstrasza', 'Millhouse Manastorm', 'Shadowflame', 'Siphon Soul', 'Sunfury Protector');0.51
+('Alexstrasza', 'Millhouse Manastorm', 'Shadowflame', 'Stampeding Kodo', 'Sunfury Protector');0.5125
+('Alexstrasza', 'Millhouse Manastorm', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.6025
+('Alexstrasza', 'Raging Worgen', 'Shadowflame', 'Siphon Soul', 'Stampeding Kodo');0.5925
+('Alexstrasza', 'Raging Worgen', 'Shadowflame', 'Siphon Soul', 'Sunfury Protector');0.575
+('Alexstrasza', 'Raging Worgen', 'Shadowflame', 'Stampeding Kodo', 'Sunfury Protector');0.575
+('Alexstrasza', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.665
+('Alexstrasza', 'Shadowflame', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.5675
+('Blood Knight', 'Defender of Argus', 'Millhouse Manastorm', 'Raging Worgen', 'Stampeding Kodo');0.5
+('Blood Knight', 'Defender of Argus', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo');0.52
+('Blood Knight', 'Defender of Argus', 'Raging Worgen', 'Stampeding Kodo', 'Sunfury Protector');0.5025
+('Blood Knight', 'Dread Infernal', 'Millhouse Manastorm', 'Raging Worgen', 'Shadowflame');0.5025
+('Blood Knight', 'Dread Infernal', 'Millhouse Manastorm', 'Raging Worgen', 'Sunfury Protector');0.5775
+('Blood Knight', 'Dread Infernal', 'Raging Worgen', 'Shadowflame', 'Sunfury Protector');0.505
+('Blood Knight', 'Dread Infernal', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo');0.51
+('Blood Knight', 'Loot Hoarder', 'Millhouse Manastorm', 'Raging Worgen', 'Stampeding Kodo');0.51
+('Blood Knight', 'Loot Hoarder', 'Millhouse Manastorm', 'Raging Worgen', 'Sunfury Protector');0.505
+('Blood Knight', 'Loot Hoarder', 'Millhouse Manastorm', 'Siphon Soul', 'Stampeding Kodo');0.5
+('Blood Knight', 'Loot Hoarder', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo');0.5275
+('Blood Knight', 'Loot Hoarder', 'Raging Worgen', 'Siphon Soul', 'Sunfury Protector');0.505
+('Blood Knight', 'Loot Hoarder', 'Raging Worgen', 'Stampeding Kodo', 'Sunfury Protector');0.515
+('Blood Knight', 'Loot Hoarder', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.5075
+('Blood Knight', 'Millhouse Manastorm', 'Raging Worgen', 'Shadow Bolt', 'Sunfury Protector');0.5
+('Blood Knight', 'Millhouse Manastorm', 'Raging Worgen', 'Shadowflame', 'Sunfury Protector');0.585
+('Blood Knight', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo');0.59
+('Blood Knight', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul', 'Sunfury Protector');0.5675
+('Blood Knight', 'Millhouse Manastorm', 'Raging Worgen', 'Stampeding Kodo', 'Sunfury Protector');0.5775
+('Blood Knight', 'Millhouse Manastorm', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.5675
+('Blood Knight', 'Raging Worgen', 'Shadowflame', 'Siphon Soul', 'Stampeding Kodo');0.5075
+('Blood Knight', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.5975
+('Defender of Argus', 'Loot Hoarder', 'Millhouse Manastorm', 'Raging Worgen', 'Stampeding Kodo');0.5
+('Defender of Argus', 'Loot Hoarder', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo');0.5425
+('Defender of Argus', 'Loot Hoarder', 'Raging Worgen', 'Siphon Soul', 'Sunfury Protector');0.5175
+('Defender of Argus', 'Loot Hoarder', 'Raging Worgen', 'Stampeding Kodo', 'Sunfury Protector');0.5275
+('Defender of Argus', 'Loot Hoarder', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.5225
+('Defender of Argus', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo');0.565
+('Defender of Argus', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul', 'Sunfury Protector');0.54
+('Defender of Argus', 'Millhouse Manastorm', 'Raging Worgen', 'Stampeding Kodo', 'Sunfury Protector');0.55
+('Defender of Argus', 'Millhouse Manastorm', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.545
+('Defender of Argus', 'Raging Worgen', 'Shadowflame', 'Siphon Soul', 'Stampeding Kodo');0.5325
+('Defender of Argus', 'Raging Worgen', 'Shadowflame', 'Siphon Soul', 'Sunfury Protector');0.505
+('Defender of Argus', 'Raging Worgen', 'Shadowflame', 'Stampeding Kodo', 'Sunfury Protector');0.515
+('Defender of Argus', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.6025
+('Defender of Argus', 'Shadowflame', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.5075
+('Doomguard', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo');0.5325
+('Doomguard', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul', 'Sunfury Protector');0.5175
+('Doomguard', 'Millhouse Manastorm', 'Raging Worgen', 'Stampeding Kodo', 'Sunfury Protector');0.5325
+('Doomguard', 'Millhouse Manastorm', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.52
+('Doomguard', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.57
+('Dread Infernal', 'Loot Hoarder', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo');0.52
+('Dread Infernal', 'Loot Hoarder', 'Raging Worgen', 'Stampeding Kodo', 'Sunfury Protector');0.5075
+('Dread Infernal', 'Loot Hoarder', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.5
+('Dread Infernal', 'Millhouse Manastorm', 'Raging Worgen', 'Shadowflame', 'Sunfury Protector');0.56
+('Dread Infernal', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo');0.5575
+('Dread Infernal', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul', 'Sunfury Protector');0.535
+('Dread Infernal', 'Millhouse Manastorm', 'Raging Worgen', 'Stampeding Kodo', 'Sunfury Protector');0.5425
+('Dread Infernal', 'Millhouse Manastorm', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.535
+('Dread Infernal', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.58
+('Frostwolf Grunt', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo');0.51
+('Frostwolf Grunt', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.535
+('Loot Hoarder', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo');0.5775
+('Loot Hoarder', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul', 'Sunfury Protector');0.555
+('Loot Hoarder', 'Millhouse Manastorm', 'Raging Worgen', 'Stampeding Kodo', 'Sunfury Protector');0.5675
+('Loot Hoarder', 'Millhouse Manastorm', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.56
+('Loot Hoarder', 'Raging Worgen', 'Shadowflame', 'Siphon Soul', 'Stampeding Kodo');0.515
+('Loot Hoarder', 'Raging Worgen', 'Shadowflame', 'Stampeding Kodo', 'Sunfury Protector');0.5
+('Loot Hoarder', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.6075
+('Millhouse Manastorm', 'Raging Worgen', 'Shadowflame', 'Siphon Soul', 'Stampeding Kodo');0.5525
+('Millhouse Manastorm', 'Raging Worgen', 'Shadowflame', 'Siphon Soul', 'Sunfury Protector');0.5375
+('Millhouse Manastorm', 'Raging Worgen', 'Shadowflame', 'Stampeding Kodo', 'Sunfury Protector');0.5425
+('Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.6525
+('Millhouse Manastorm', 'Shadowflame', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.5325
+('Raging Worgen', 'Shadowflame', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.595
+('Alexstrasza', 'Blood Knight', 'Millhouse Manastorm', 'Raging Worgen', 'Shadowflame', 'Sunfury Protector');0.515
+('Alexstrasza', 'Blood Knight', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo');0.5425
+('Alexstrasza', 'Blood Knight', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul', 'Sunfury Protector');0.52
+('Alexstrasza', 'Blood Knight', 'Millhouse Manastorm', 'Raging Worgen', 'Stampeding Kodo', 'Sunfury Protector');0.5275
+('Alexstrasza', 'Blood Knight', 'Millhouse Manastorm', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.52
+('Alexstrasza', 'Blood Knight', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.55
+('Alexstrasza', 'Defender of Argus', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo');0.515
+('Alexstrasza', 'Defender of Argus', 'Raging Worgen', 'Shadowflame', 'Siphon Soul', 'Stampeding Kodo');0.5075
+('Alexstrasza', 'Defender of Argus', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.5525
+('Alexstrasza', 'Doomguard', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.5175
+('Alexstrasza', 'Dread Infernal', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo');0.515
+('Alexstrasza', 'Dread Infernal', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.5375
+('Alexstrasza', 'Loot Hoarder', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo');0.5275
+('Alexstrasza', 'Loot Hoarder', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul', 'Sunfury Protector');0.505
+('Alexstrasza', 'Loot Hoarder', 'Millhouse Manastorm', 'Raging Worgen', 'Stampeding Kodo', 'Sunfury Protector');0.515
+('Alexstrasza', 'Loot Hoarder', 'Millhouse Manastorm', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.51
+('Alexstrasza', 'Loot Hoarder', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.5575
+('Alexstrasza', 'Millhouse Manastorm', 'Raging Worgen', 'Shadowflame', 'Siphon Soul', 'Stampeding Kodo');0.5225
+('Alexstrasza', 'Millhouse Manastorm', 'Raging Worgen', 'Shadowflame', 'Siphon Soul', 'Sunfury Protector');0.5075
+('Alexstrasza', 'Millhouse Manastorm', 'Raging Worgen', 'Shadowflame', 'Stampeding Kodo', 'Sunfury Protector');0.51
+('Alexstrasza', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.5975
+('Alexstrasza', 'Millhouse Manastorm', 'Shadowflame', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.5025
+('Alexstrasza', 'Raging Worgen', 'Shadowflame', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.565
+('Blood Knight', 'Loot Hoarder', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.5025
+('Blood Knight', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.5625
+('Defender of Argus', 'Loot Hoarder', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.5175
+('Defender of Argus', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.54
+('Defender of Argus', 'Raging Worgen', 'Shadowflame', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.505
+('Doomguard', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.5175
+('Dread Infernal', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.53
+('Loot Hoarder', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.555
+('Millhouse Manastorm', 'Raging Worgen', 'Shadowflame', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.53
+('Alexstrasza', 'Blood Knight', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.515
+('Alexstrasza', 'Loot Hoarder', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.505
+('Alexstrasza', 'Millhouse Manastorm', 'Raging Worgen', 'Shadowflame', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.5
+('Alexstrasza', 'Blood Knight', 'Loot Hoarder', 'Millhouse Manastorm', 'Raging Worgen', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.43
+('Alexstrasza', 'Blood Knight', 'Millhouse Manastorm', 'Raging Worgen', 'Shadowflame', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.425
+('Alexstrasza', 'Loot Hoarder', 'Millhouse Manastorm', 'Raging Worgen', 'Shadowflame', 'Siphon Soul', 'Stampeding Kodo', 'Sunfury Protector');0.415

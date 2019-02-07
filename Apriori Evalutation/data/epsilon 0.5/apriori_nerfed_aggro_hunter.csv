@@ -1,0 +1,20 @@
+('Animal Companion',);0.7333333333333333
+('Eaglehorn Bow',);0.5611111111111111
+('Leeroy Jenkins',);0.6861111111111111
+('Mind Control Tech',);0.7638888888888888
+('Nightblade',);0.5
+('Stormwind Knight',);0.5083333333333333
+('Unleash the Hounds',);0.8777777777777778
+('Wolfrider',);0.6638888888888889
+('Worgen Infiltrator',);0.5472222222222223
+('Animal Companion', 'Mind Control Tech');0.5527777777777778
+('Animal Companion', 'Unleash the Hounds');0.6166666666666667
+('Eaglehorn Bow', 'Leeroy Jenkins');0.5111111111111111
+('Eaglehorn Bow', 'Unleash the Hounds');0.5527777777777778
+('Leeroy Jenkins', 'Unleash the Hounds');0.5722222222222222
+('Mind Control Tech', 'Unleash the Hounds');0.7527777777777778
+('Stormwind Knight', 'Wolfrider');0.5
+('Unleash the Hounds', 'Wolfrider');0.5472222222222223
+('Unleash the Hounds', 'Worgen Infiltrator');0.5333333333333333
+('Animal Companion', 'Mind Control Tech', 'Unleash the Hounds');0.5472222222222223
+('Eaglehorn Bow', 'Leeroy Jenkins', 'Unleash the Hounds');0.5027777777777778

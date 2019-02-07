@@ -1,0 +1,81 @@
+('Acidic Swamp Ooze',);0.6180904522613065
+('Blessing of Kings',);0.9346733668341709
+('Bloodfen Raptor',);0.7160804020100503
+('Bloodsail Corsair',);0.5678391959798995
+('Consecration',);0.6105527638190955
+('Dire Wolf Alpha',);0.5251256281407035
+('Earthen Ring Farseer',);0.6331658291457286
+('Goldshire Footman',);0.6909547738693468
+('King Mukla',);0.8517587939698492
+('Knife Juggler',);0.8417085427135679
+("Sen'jin Shieldmasta",);0.6180904522613065
+('Stampeding Kodo',);0.5979899497487438
+('The Beast',);0.8618090452261307
+('Acidic Swamp Ooze', 'Blessing of Kings');0.5804020100502513
+('Acidic Swamp Ooze', 'King Mukla');0.5201005025125628
+('Acidic Swamp Ooze', 'Knife Juggler');0.535175879396985
+('Acidic Swamp Ooze', "Sen'jin Shieldmasta");0.5326633165829145
+('Acidic Swamp Ooze', 'The Beast');0.5201005025125628
+('Blessing of Kings', 'Bloodfen Raptor');0.6633165829145728
+('Blessing of Kings', 'Bloodsail Corsair');0.507537688442211
+('Blessing of Kings', 'Consecration');0.5778894472361809
+('Blessing of Kings', 'Earthen Ring Farseer');0.5829145728643216
+('Blessing of Kings', 'Goldshire Footman');0.6482412060301508
+('Blessing of Kings', 'King Mukla');0.7889447236180904
+('Blessing of Kings', 'Knife Juggler');0.7788944723618091
+('Blessing of Kings', "Sen'jin Shieldmasta");0.5778894472361809
+('Blessing of Kings', 'Stampeding Kodo');0.5628140703517588
+('Blessing of Kings', 'The Beast');0.8065326633165829
+('Bloodfen Raptor', 'Earthen Ring Farseer');0.5050251256281407
+('Bloodfen Raptor', 'Goldshire Footman');0.5251256281407035
+('Bloodfen Raptor', 'King Mukla');0.6306532663316583
+('Bloodfen Raptor', 'Knife Juggler');0.6005025125628141
+('Bloodfen Raptor', 'The Beast');0.628140703517588
+('Bloodsail Corsair', 'King Mukla');0.5251256281407035
+('Bloodsail Corsair', 'Knife Juggler');0.5402010050251256
+('Consecration', 'Dire Wolf Alpha');0.5125628140703518
+('Consecration', 'King Mukla');0.5025125628140703
+('Consecration', 'Stampeding Kodo');0.5778894472361809
+('Consecration', 'The Beast');0.5150753768844221
+('Dire Wolf Alpha', 'Stampeding Kodo');0.5201005025125628
+('Earthen Ring Farseer', 'King Mukla');0.5728643216080402
+('Earthen Ring Farseer', 'Knife Juggler');0.5829145728643216
+('Earthen Ring Farseer', 'The Beast');0.5603015075376885
+('Goldshire Footman', 'King Mukla');0.5728643216080402
+('Goldshire Footman', 'Knife Juggler');0.5728643216080402
+('Goldshire Footman', 'The Beast');0.6231155778894473
+('King Mukla', 'Knife Juggler');0.7336683417085427
+('King Mukla', "Sen'jin Shieldmasta");0.5326633165829145
+('King Mukla', 'Stampeding Kodo');0.5
+('King Mukla', 'The Beast');0.7386934673366834
+('Knife Juggler', "Sen'jin Shieldmasta");0.5477386934673367
+('Knife Juggler', 'The Beast');0.7110552763819096
+("Sen'jin Shieldmasta", 'The Beast');0.5301507537688442
+('Stampeding Kodo', 'The Beast');0.5050251256281407
+('Blessing of Kings', 'Bloodfen Raptor', 'King Mukla');0.5804020100502513
+('Blessing of Kings', 'Bloodfen Raptor', 'Knife Juggler');0.550251256281407
+('Blessing of Kings', 'Bloodfen Raptor', 'The Beast');0.5829145728643216
+('Blessing of Kings', 'Consecration', 'Stampeding Kodo');0.5452261306532663
+('Blessing of Kings', 'Earthen Ring Farseer', 'King Mukla');0.5226130653266332
+('Blessing of Kings', 'Earthen Ring Farseer', 'Knife Juggler');0.5326633165829145
+('Blessing of Kings', 'Earthen Ring Farseer', 'The Beast');0.5201005025125628
+('Blessing of Kings', 'Goldshire Footman', 'King Mukla');0.5326633165829145
+('Blessing of Kings', 'Goldshire Footman', 'Knife Juggler');0.5301507537688442
+('Blessing of Kings', 'Goldshire Footman', 'The Beast');0.5879396984924623
+('Blessing of Kings', 'King Mukla', 'Knife Juggler');0.6733668341708543
+('Blessing of Kings', 'King Mukla', 'The Beast');0.6859296482412061
+('Blessing of Kings', 'Knife Juggler', "Sen'jin Shieldmasta");0.507537688442211
+('Blessing of Kings', 'Knife Juggler', 'The Beast');0.6582914572864321
+('Bloodfen Raptor', 'King Mukla', 'Knife Juggler');0.535175879396985
+('Bloodfen Raptor', 'King Mukla', 'The Beast');0.5477386934673367
+('Bloodfen Raptor', 'Knife Juggler', 'The Beast');0.5150753768844221
+('Bloodsail Corsair', 'King Mukla', 'Knife Juggler');0.5100502512562815
+('Consecration', 'Dire Wolf Alpha', 'Stampeding Kodo');0.5125628140703518
+('Earthen Ring Farseer', 'King Mukla', 'Knife Juggler');0.5402010050251256
+('Earthen Ring Farseer', 'King Mukla', 'The Beast');0.5050251256281407
+('Earthen Ring Farseer', 'Knife Juggler', 'The Beast');0.5125628140703518
+('Goldshire Footman', 'King Mukla', 'The Beast');0.5226130653266332
+('Goldshire Footman', 'Knife Juggler', 'The Beast');0.5125628140703518
+('King Mukla', 'Knife Juggler', 'The Beast');0.6231155778894473
+('Blessing of Kings', 'Bloodfen Raptor', 'King Mukla', 'The Beast');0.5050251256281407
+('Blessing of Kings', 'King Mukla', 'Knife Juggler', 'The Beast');0.5728643216080402

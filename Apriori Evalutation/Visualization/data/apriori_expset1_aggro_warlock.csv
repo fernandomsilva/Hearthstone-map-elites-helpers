@@ -1,0 +1,39 @@
+('Argent Commander',);0.6766917293233082
+('Doomguard',);0.7142857142857143
+('Dread Infernal',);0.6340852130325815
+('Faerie Dragon',);0.8045112781954887
+('Flesheating Ghoul',);0.5388471177944862
+('Injured Blademaster',);0.6365914786967418
+('King Mukla',);0.5263157894736842
+('Mountain Giant',);0.5764411027568922
+('Onyxia',);0.6942355889724311
+('Raging Worgen',);0.5162907268170426
+('Sea Giant',);0.581453634085213
+("Sen'jin Shieldmasta",);0.5939849624060151
+('Silverback Patriarch',);0.7919799498746867
+('Succubus',);0.7694235588972431
+('Sunwalker',);0.5037593984962406
+('Argent Commander', 'Faerie Dragon');0.5338345864661654
+('Argent Commander', 'Silverback Patriarch');0.5288220551378446
+('Argent Commander', 'Succubus');0.531328320802005
+('Doomguard', 'Dread Infernal');0.506265664160401
+('Doomguard', 'Faerie Dragon');0.5363408521303258
+('Doomguard', 'Flesheating Ghoul');0.5238095238095238
+('Doomguard', 'Onyxia');0.5288220551378446
+('Doomguard', "Sen'jin Shieldmasta");0.5288220551378446
+('Doomguard', 'Silverback Patriarch');0.6190476190476191
+('Doomguard', 'Succubus');0.5238095238095238
+('Dread Infernal', 'Silverback Patriarch');0.5338345864661654
+('Faerie Dragon', 'Injured Blademaster');0.5588972431077694
+('Faerie Dragon', 'Onyxia');0.5488721804511278
+('Faerie Dragon', 'Silverback Patriarch');0.631578947368421
+('Faerie Dragon', 'Succubus');0.6616541353383458
+('Flesheating Ghoul', "Sen'jin Shieldmasta");0.5263157894736842
+('Injured Blademaster', 'Silverback Patriarch');0.5338345864661654
+('Injured Blademaster', 'Succubus');0.5012531328320802
+('Onyxia', 'Silverback Patriarch');0.5538847117794486
+('Onyxia', 'Succubus');0.5964912280701754
+('Silverback Patriarch', 'Succubus');0.5864661654135338
+('Doomguard', 'Flesheating Ghoul', "Sen'jin Shieldmasta");0.5137844611528822
+('Faerie Dragon', 'Onyxia', 'Succubus');0.5012531328320802
+('Faerie Dragon', 'Silverback Patriarch', 'Succubus');0.5012531328320802

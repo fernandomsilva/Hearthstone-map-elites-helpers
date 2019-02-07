@@ -1,0 +1,18 @@
+('Argent Squire',);0.8153034300791556
+('Avenging Wrath',);0.9656992084432717
+('Blessing of Kings',);0.9709762532981531
+('Consecration',);0.9709762532981531
+('Stampeding Kodo',);0.7678100263852242
+('Argent Squire', 'Avenging Wrath');0.7810026385224275
+('Argent Squire', 'Blessing of Kings');0.7889182058047494
+('Argent Squire', 'Consecration');0.8021108179419525
+('Avenging Wrath', 'Blessing of Kings');0.9393139841688655
+('Avenging Wrath', 'Consecration');0.9393139841688655
+('Avenging Wrath', 'Stampeding Kodo');0.7546174142480211
+('Blessing of Kings', 'Consecration');0.9445910290237467
+('Consecration', 'Stampeding Kodo');0.7572559366754618
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings');0.7572559366754618
+('Argent Squire', 'Avenging Wrath', 'Consecration');0.7704485488126649
+('Argent Squire', 'Blessing of Kings', 'Consecration');0.7783641160949868
+('Avenging Wrath', 'Blessing of Kings', 'Consecration');0.9129287598944591
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings', 'Consecration');0.7467018469656992

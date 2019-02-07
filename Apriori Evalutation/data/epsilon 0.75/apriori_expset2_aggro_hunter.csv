@@ -1,0 +1,37 @@
+('Animal Companion',);0.995
+('Bluegill Warrior',);0.9225
+('Earthen Ring Farseer',);0.965
+('Leeroy Jenkins',);0.84
+('Lightwarden',);0.8
+('Reckless Rocketeer',);0.7675
+('The Black Knight',);0.8825
+('Wolfrider',);0.76
+('Ysera',);0.8325
+('Animal Companion', 'Bluegill Warrior');0.9175
+('Animal Companion', 'Earthen Ring Farseer');0.96
+('Animal Companion', 'Leeroy Jenkins');0.84
+('Animal Companion', 'Lightwarden');0.795
+('Animal Companion', 'Reckless Rocketeer');0.7625
+('Animal Companion', 'The Black Knight');0.8775
+('Animal Companion', 'Wolfrider');0.755
+('Animal Companion', 'Ysera');0.8275
+('Bluegill Warrior', 'Earthen Ring Farseer');0.8875
+('Bluegill Warrior', 'Leeroy Jenkins');0.765
+('Bluegill Warrior', 'The Black Knight');0.8075
+('Bluegill Warrior', 'Ysera');0.7575
+('Earthen Ring Farseer', 'Leeroy Jenkins');0.82
+('Earthen Ring Farseer', 'Lightwarden');0.77
+('Earthen Ring Farseer', 'The Black Knight');0.8525
+('Earthen Ring Farseer', 'Ysera');0.8025
+('Leeroy Jenkins', 'The Black Knight');0.755
+('Animal Companion', 'Bluegill Warrior', 'Earthen Ring Farseer');0.8825
+('Animal Companion', 'Bluegill Warrior', 'Leeroy Jenkins');0.765
+('Animal Companion', 'Bluegill Warrior', 'The Black Knight');0.8025
+('Animal Companion', 'Bluegill Warrior', 'Ysera');0.7525
+('Animal Companion', 'Earthen Ring Farseer', 'Leeroy Jenkins');0.82
+('Animal Companion', 'Earthen Ring Farseer', 'Lightwarden');0.765
+('Animal Companion', 'Earthen Ring Farseer', 'The Black Knight');0.8475
+('Animal Companion', 'Earthen Ring Farseer', 'Ysera');0.7975
+('Animal Companion', 'Leeroy Jenkins', 'The Black Knight');0.755
+('Bluegill Warrior', 'Earthen Ring Farseer', 'The Black Knight');0.7775
+('Animal Companion', 'Bluegill Warrior', 'Earthen Ring Farseer', 'The Black Knight');0.7725

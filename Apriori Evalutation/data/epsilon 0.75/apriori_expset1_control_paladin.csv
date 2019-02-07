@@ -1,0 +1,214 @@
+('Aldor Peacekeeper',);0.8796992481203008
+('Argent Protector',);0.8395989974937343
+('Chillwind Yeti',);0.7644110275689223
+('Darkscale Healer',);0.9373433583959899
+('Faerie Dragon',);0.9649122807017544
+('Fen Creeper',);0.8621553884711779
+('King Mukla',);0.8822055137844611
+('Master Swordsmith',);0.924812030075188
+('Millhouse Manastorm',);0.8446115288220551
+('Pint-Sized Summoner',);0.8696741854636592
+('Razorfen Hunter',);0.9097744360902256
+('Sunwalker',);0.8922305764411027
+('Wild Pyromancer',);0.8295739348370927
+('Worgen Infiltrator',);0.8345864661654135
+('Young Priestess',);0.9423558897243107
+('Aldor Peacekeeper', 'Argent Protector');0.7719298245614035
+('Aldor Peacekeeper', 'Darkscale Healer');0.8320802005012531
+('Aldor Peacekeeper', 'Faerie Dragon');0.8446115288220551
+('Aldor Peacekeeper', 'Fen Creeper');0.7543859649122807
+('Aldor Peacekeeper', 'King Mukla');0.7694235588972431
+('Aldor Peacekeeper', 'Master Swordsmith');0.8220551378446115
+('Aldor Peacekeeper', 'Millhouse Manastorm');0.7769423558897243
+('Aldor Peacekeeper', 'Pint-Sized Summoner');0.7593984962406015
+('Aldor Peacekeeper', 'Razorfen Hunter');0.8045112781954887
+('Aldor Peacekeeper', 'Sunwalker');0.8045112781954887
+('Aldor Peacekeeper', 'Young Priestess');0.8345864661654135
+('Argent Protector', 'Darkscale Healer');0.8070175438596491
+('Argent Protector', 'Faerie Dragon');0.8170426065162907
+('Argent Protector', 'Master Swordsmith');0.8095238095238095
+('Argent Protector', 'Millhouse Manastorm');0.7619047619047619
+('Argent Protector', 'Razorfen Hunter');0.7794486215538847
+('Argent Protector', 'Sunwalker');0.7794486215538847
+('Argent Protector', 'Young Priestess');0.7944862155388471
+('Darkscale Healer', 'Faerie Dragon');0.9072681704260651
+('Darkscale Healer', 'Fen Creeper');0.8045112781954887
+('Darkscale Healer', 'King Mukla');0.8245614035087719
+('Darkscale Healer', 'Master Swordsmith');0.8646616541353384
+('Darkscale Healer', 'Millhouse Manastorm');0.8095238095238095
+('Darkscale Healer', 'Pint-Sized Summoner');0.8220551378446115
+('Darkscale Healer', 'Razorfen Hunter');0.8521303258145363
+('Darkscale Healer', 'Sunwalker');0.8596491228070176
+('Darkscale Healer', 'Wild Pyromancer');0.7969924812030075
+('Darkscale Healer', 'Worgen Infiltrator');0.7844611528822055
+('Darkscale Healer', 'Young Priestess');0.8847117794486216
+('Faerie Dragon', 'Fen Creeper');0.8270676691729323
+('Faerie Dragon', 'King Mukla');0.8546365914786967
+('Faerie Dragon', 'Master Swordsmith');0.8972431077694235
+('Faerie Dragon', 'Millhouse Manastorm');0.8170426065162907
+('Faerie Dragon', 'Pint-Sized Summoner');0.8395989974937343
+('Faerie Dragon', 'Razorfen Hunter');0.8822055137844611
+('Faerie Dragon', 'Sunwalker');0.8671679197994987
+('Faerie Dragon', 'Wild Pyromancer');0.8045112781954887
+('Faerie Dragon', 'Worgen Infiltrator');0.8070175438596491
+('Faerie Dragon', 'Young Priestess');0.9097744360902256
+('Fen Creeper', 'King Mukla');0.7543859649122807
+('Fen Creeper', 'Master Swordsmith');0.7869674185463659
+('Fen Creeper', 'Razorfen Hunter');0.7819548872180451
+('Fen Creeper', 'Sunwalker');0.7619047619047619
+('Fen Creeper', 'Young Priestess');0.8120300751879699
+('King Mukla', 'Master Swordsmith');0.8295739348370927
+('King Mukla', 'Pint-Sized Summoner');0.7619047619047619
+('King Mukla', 'Razorfen Hunter');0.8220551378446115
+('King Mukla', 'Sunwalker');0.7844611528822055
+('King Mukla', 'Young Priestess');0.8295739348370927
+('Master Swordsmith', 'Millhouse Manastorm');0.7994987468671679
+('Master Swordsmith', 'Pint-Sized Summoner');0.8070175438596491
+('Master Swordsmith', 'Razorfen Hunter');0.849624060150376
+('Master Swordsmith', 'Sunwalker');0.8170426065162907
+('Master Swordsmith', 'Wild Pyromancer');0.7619047619047619
+('Master Swordsmith', 'Worgen Infiltrator');0.7919799498746867
+('Master Swordsmith', 'Young Priestess');0.8771929824561403
+('Millhouse Manastorm', 'Razorfen Hunter');0.7769423558897243
+('Millhouse Manastorm', 'Sunwalker');0.7944862155388471
+('Millhouse Manastorm', 'Young Priestess');0.8020050125313283
+('Pint-Sized Summoner', 'Razorfen Hunter');0.7944862155388471
+('Pint-Sized Summoner', 'Sunwalker');0.7744360902255639
+('Pint-Sized Summoner', 'Young Priestess');0.8145363408521303
+('Razorfen Hunter', 'Sunwalker');0.8095238095238095
+('Razorfen Hunter', 'Worgen Infiltrator');0.7719298245614035
+('Razorfen Hunter', 'Young Priestess');0.8571428571428571
+('Sunwalker', 'Young Priestess');0.8446115288220551
+('Wild Pyromancer', 'Young Priestess');0.7794486215538847
+('Worgen Infiltrator', 'Young Priestess');0.7819548872180451
+('Aldor Peacekeeper', 'Darkscale Healer', 'Faerie Dragon');0.8020050125313283
+('Aldor Peacekeeper', 'Darkscale Healer', 'Master Swordsmith');0.7744360902255639
+('Aldor Peacekeeper', 'Darkscale Healer', 'Razorfen Hunter');0.7568922305764411
+('Aldor Peacekeeper', 'Darkscale Healer', 'Sunwalker');0.7769423558897243
+('Aldor Peacekeeper', 'Darkscale Healer', 'Young Priestess');0.7894736842105263
+('Aldor Peacekeeper', 'Faerie Dragon', 'Master Swordsmith');0.7944862155388471
+('Aldor Peacekeeper', 'Faerie Dragon', 'Razorfen Hunter');0.7769423558897243
+('Aldor Peacekeeper', 'Faerie Dragon', 'Sunwalker');0.7794486215538847
+('Aldor Peacekeeper', 'Faerie Dragon', 'Young Priestess');0.8020050125313283
+('Aldor Peacekeeper', 'Master Swordsmith', 'Razorfen Hunter');0.7619047619047619
+('Aldor Peacekeeper', 'Master Swordsmith', 'Young Priestess');0.7819548872180451
+('Aldor Peacekeeper', 'Razorfen Hunter', 'Young Priestess');0.7619047619047619
+('Aldor Peacekeeper', 'Sunwalker', 'Young Priestess');0.7694235588972431
+('Argent Protector', 'Darkscale Healer', 'Faerie Dragon');0.7844611528822055
+('Argent Protector', 'Darkscale Healer', 'Master Swordsmith');0.7769423558897243
+('Argent Protector', 'Darkscale Healer', 'Sunwalker');0.7543859649122807
+('Argent Protector', 'Darkscale Healer', 'Young Priestess');0.7669172932330827
+('Argent Protector', 'Faerie Dragon', 'Master Swordsmith');0.7869674185463659
+('Argent Protector', 'Faerie Dragon', 'Razorfen Hunter');0.7619047619047619
+('Argent Protector', 'Faerie Dragon', 'Sunwalker');0.7619047619047619
+('Argent Protector', 'Faerie Dragon', 'Young Priestess');0.7744360902255639
+('Argent Protector', 'Master Swordsmith', 'Razorfen Hunter');0.7518796992481203
+('Argent Protector', 'Master Swordsmith', 'Young Priestess');0.7669172932330827
+('Darkscale Healer', 'Faerie Dragon', 'Fen Creeper');0.7744360902255639
+('Darkscale Healer', 'Faerie Dragon', 'King Mukla');0.8020050125313283
+('Darkscale Healer', 'Faerie Dragon', 'Master Swordsmith');0.8421052631578947
+('Darkscale Healer', 'Faerie Dragon', 'Millhouse Manastorm');0.7819548872180451
+('Darkscale Healer', 'Faerie Dragon', 'Pint-Sized Summoner');0.7969924812030075
+('Darkscale Healer', 'Faerie Dragon', 'Razorfen Hunter');0.8295739348370927
+('Darkscale Healer', 'Faerie Dragon', 'Sunwalker');0.8345864661654135
+('Darkscale Healer', 'Faerie Dragon', 'Wild Pyromancer');0.7719298245614035
+('Darkscale Healer', 'Faerie Dragon', 'Worgen Infiltrator');0.7619047619047619
+('Darkscale Healer', 'Faerie Dragon', 'Young Priestess');0.8571428571428571
+('Darkscale Healer', 'Fen Creeper', 'Young Priestess');0.7593984962406015
+('Darkscale Healer', 'King Mukla', 'Master Swordsmith');0.7744360902255639
+('Darkscale Healer', 'King Mukla', 'Razorfen Hunter');0.7694235588972431
+('Darkscale Healer', 'King Mukla', 'Sunwalker');0.7568922305764411
+('Darkscale Healer', 'King Mukla', 'Young Priestess');0.7769423558897243
+('Darkscale Healer', 'Master Swordsmith', 'Millhouse Manastorm');0.7644110275689223
+('Darkscale Healer', 'Master Swordsmith', 'Pint-Sized Summoner');0.7619047619047619
+('Darkscale Healer', 'Master Swordsmith', 'Razorfen Hunter');0.7944862155388471
+('Darkscale Healer', 'Master Swordsmith', 'Sunwalker');0.7869674185463659
+('Darkscale Healer', 'Master Swordsmith', 'Young Priestess');0.8220551378446115
+('Darkscale Healer', 'Millhouse Manastorm', 'Sunwalker');0.7669172932330827
+('Darkscale Healer', 'Millhouse Manastorm', 'Young Priestess');0.7694235588972431
+('Darkscale Healer', 'Pint-Sized Summoner', 'Razorfen Hunter');0.7518796992481203
+('Darkscale Healer', 'Pint-Sized Summoner', 'Sunwalker');0.7518796992481203
+('Darkscale Healer', 'Pint-Sized Summoner', 'Young Priestess');0.7694235588972431
+('Darkscale Healer', 'Razorfen Hunter', 'Sunwalker');0.7769423558897243
+('Darkscale Healer', 'Razorfen Hunter', 'Young Priestess');0.8045112781954887
+('Darkscale Healer', 'Sunwalker', 'Young Priestess');0.8145363408521303
+('Faerie Dragon', 'Fen Creeper', 'Master Swordsmith');0.7593984962406015
+('Faerie Dragon', 'Fen Creeper', 'Razorfen Hunter');0.7543859649122807
+('Faerie Dragon', 'Fen Creeper', 'Young Priestess');0.7794486215538847
+('Faerie Dragon', 'King Mukla', 'Master Swordsmith');0.8070175438596491
+('Faerie Dragon', 'King Mukla', 'Razorfen Hunter');0.7944862155388471
+('Faerie Dragon', 'King Mukla', 'Sunwalker');0.7669172932330827
+('Faerie Dragon', 'King Mukla', 'Young Priestess');0.8045112781954887
+('Faerie Dragon', 'Master Swordsmith', 'Millhouse Manastorm');0.7794486215538847
+('Faerie Dragon', 'Master Swordsmith', 'Pint-Sized Summoner');0.7794486215538847
+('Faerie Dragon', 'Master Swordsmith', 'Razorfen Hunter');0.8270676691729323
+('Faerie Dragon', 'Master Swordsmith', 'Sunwalker');0.7994987468671679
+('Faerie Dragon', 'Master Swordsmith', 'Worgen Infiltrator');0.7644110275689223
+('Faerie Dragon', 'Master Swordsmith', 'Young Priestess');0.8521303258145363
+('Faerie Dragon', 'Millhouse Manastorm', 'Razorfen Hunter');0.7568922305764411
+('Faerie Dragon', 'Millhouse Manastorm', 'Sunwalker');0.7719298245614035
+('Faerie Dragon', 'Millhouse Manastorm', 'Young Priestess');0.7769423558897243
+('Faerie Dragon', 'Pint-Sized Summoner', 'Razorfen Hunter');0.7719298245614035
+('Faerie Dragon', 'Pint-Sized Summoner', 'Sunwalker');0.7543859649122807
+('Faerie Dragon', 'Pint-Sized Summoner', 'Young Priestess');0.7869674185463659
+('Faerie Dragon', 'Razorfen Hunter', 'Sunwalker');0.7919799498746867
+('Faerie Dragon', 'Razorfen Hunter', 'Young Priestess');0.8320802005012531
+('Faerie Dragon', 'Sunwalker', 'Young Priestess');0.8195488721804511
+('Faerie Dragon', 'Wild Pyromancer', 'Young Priestess');0.7543859649122807
+('Faerie Dragon', 'Worgen Infiltrator', 'Young Priestess');0.7568922305764411
+('King Mukla', 'Master Swordsmith', 'Razorfen Hunter');0.7694235588972431
+('King Mukla', 'Master Swordsmith', 'Young Priestess');0.7869674185463659
+('King Mukla', 'Razorfen Hunter', 'Young Priestess');0.7719298245614035
+('Master Swordsmith', 'Millhouse Manastorm', 'Young Priestess');0.7619047619047619
+('Master Swordsmith', 'Pint-Sized Summoner', 'Young Priestess');0.7619047619047619
+('Master Swordsmith', 'Razorfen Hunter', 'Young Priestess');0.8070175438596491
+('Master Swordsmith', 'Sunwalker', 'Young Priestess');0.7794486215538847
+('Millhouse Manastorm', 'Sunwalker', 'Young Priestess');0.7593984962406015
+('Razorfen Hunter', 'Sunwalker', 'Young Priestess');0.7669172932330827
+('Aldor Peacekeeper', 'Darkscale Healer', 'Faerie Dragon', 'Master Swordsmith');0.7518796992481203
+('Aldor Peacekeeper', 'Darkscale Healer', 'Faerie Dragon', 'Sunwalker');0.7518796992481203
+('Aldor Peacekeeper', 'Darkscale Healer', 'Faerie Dragon', 'Young Priestess');0.7619047619047619
+('Aldor Peacekeeper', 'Faerie Dragon', 'Master Swordsmith', 'Young Priestess');0.7568922305764411
+('Argent Protector', 'Darkscale Healer', 'Faerie Dragon', 'Master Swordsmith');0.7543859649122807
+('Darkscale Healer', 'Faerie Dragon', 'King Mukla', 'Master Swordsmith');0.7568922305764411
+('Darkscale Healer', 'Faerie Dragon', 'King Mukla', 'Young Priestess');0.7568922305764411
+('Darkscale Healer', 'Faerie Dragon', 'Master Swordsmith', 'Razorfen Hunter');0.7769423558897243
+('Darkscale Healer', 'Faerie Dragon', 'Master Swordsmith', 'Sunwalker');0.7694235588972431
+('Darkscale Healer', 'Faerie Dragon', 'Master Swordsmith', 'Young Priestess');0.8020050125313283
+('Darkscale Healer', 'Faerie Dragon', 'Razorfen Hunter', 'Sunwalker');0.7593984962406015
+('Darkscale Healer', 'Faerie Dragon', 'Razorfen Hunter', 'Young Priestess');0.7844611528822055
+('Darkscale Healer', 'Faerie Dragon', 'Sunwalker', 'Young Priestess');0.7894736842105263
+('Darkscale Healer', 'Master Swordsmith', 'Razorfen Hunter', 'Young Priestess');0.7568922305764411
+('Darkscale Healer', 'Master Swordsmith', 'Sunwalker', 'Young Priestess');0.7518796992481203
+('Faerie Dragon', 'King Mukla', 'Master Swordsmith', 'Young Priestess');0.7669172932330827
+('Faerie Dragon', 'Master Swordsmith', 'Razorfen Hunter', 'Young Priestess');0.7869674185463659
+('Faerie Dragon', 'Master Swordsmith', 'Sunwalker', 'Young Priestess');0.7619047619047619
+('Aldor Peacekeeper', 'Darkscale Healer', 'Faerie Dragon', 'Master Swordsmith', 'Sunwalker');0.7017543859649122
+('Aldor Peacekeeper', 'Darkscale Healer', 'Faerie Dragon', 'Master Swordsmith', 'Young Priestess');0.7167919799498746
+('Aldor Peacekeeper', 'Argent Protector', 'Darkscale Healer', 'Faerie Dragon', 'Master Swordsmith');0.6892230576441103
+('Aldor Peacekeeper', 'Darkscale Healer', 'Faerie Dragon', 'King Mukla', 'Master Swordsmith');0.6741854636591479
+('Aldor Peacekeeper', 'Darkscale Healer', 'Faerie Dragon', 'Master Swordsmith', 'Razorfen Hunter');0.6967418546365914
+('Aldor Peacekeeper', 'Darkscale Healer', 'Faerie Dragon', 'Sunwalker', 'Young Priestess');0.7167919799498746
+('Aldor Peacekeeper', 'Darkscale Healer', 'Faerie Dragon', 'Razorfen Hunter', 'Sunwalker');0.6842105263157895
+('Aldor Peacekeeper', 'Darkscale Healer', 'Faerie Dragon', 'King Mukla', 'Young Priestess');0.6691729323308271
+('Aldor Peacekeeper', 'Darkscale Healer', 'Faerie Dragon', 'Razorfen Hunter', 'Young Priestess');0.6967418546365914
+('Aldor Peacekeeper', 'Faerie Dragon', 'King Mukla', 'Master Swordsmith', 'Young Priestess');0.6791979949874687
+('Aldor Peacekeeper', 'Faerie Dragon', 'Master Swordsmith', 'Razorfen Hunter', 'Young Priestess');0.7042606516290727
+('Aldor Peacekeeper', 'Faerie Dragon', 'Master Swordsmith', 'Sunwalker', 'Young Priestess');0.6992481203007519
+('Argent Protector', 'Darkscale Healer', 'Faerie Dragon', 'King Mukla', 'Master Swordsmith');0.6791979949874687
+('Argent Protector', 'Darkscale Healer', 'Faerie Dragon', 'Master Swordsmith', 'Razorfen Hunter');0.7017543859649122
+('Argent Protector', 'Darkscale Healer', 'Faerie Dragon', 'Master Swordsmith', 'Sunwalker');0.706766917293233
+('Argent Protector', 'Darkscale Healer', 'Faerie Dragon', 'Master Swordsmith', 'Young Priestess');0.7192982456140351
+('Darkscale Healer', 'Faerie Dragon', 'King Mukla', 'Master Swordsmith', 'Young Priestess');0.7218045112781954
+('Darkscale Healer', 'Faerie Dragon', 'King Mukla', 'Master Swordsmith', 'Razorfen Hunter');0.7017543859649122
+('Darkscale Healer', 'Faerie Dragon', 'King Mukla', 'Master Swordsmith', 'Sunwalker');0.6942355889724311
+('Darkscale Healer', 'Faerie Dragon', 'King Mukla', 'Razorfen Hunter', 'Young Priestess');0.7042606516290727
+('Darkscale Healer', 'Faerie Dragon', 'King Mukla', 'Sunwalker', 'Young Priestess');0.6967418546365914
+('Darkscale Healer', 'Faerie Dragon', 'Master Swordsmith', 'Razorfen Hunter', 'Sunwalker');0.706766917293233
+('Darkscale Healer', 'Faerie Dragon', 'Master Swordsmith', 'Razorfen Hunter', 'Young Priestess');0.7418546365914787
+('Darkscale Healer', 'Faerie Dragon', 'Master Swordsmith', 'Sunwalker', 'Young Priestess');0.7343358395989975
+('Darkscale Healer', 'Faerie Dragon', 'Razorfen Hunter', 'Sunwalker', 'Young Priestess');0.7192982456140351
+('Darkscale Healer', 'Master Swordsmith', 'Razorfen Hunter', 'Sunwalker', 'Young Priestess');0.6892230576441103
+('Faerie Dragon', 'King Mukla', 'Master Swordsmith', 'Razorfen Hunter', 'Young Priestess');0.7092731829573935
+('Faerie Dragon', 'King Mukla', 'Master Swordsmith', 'Sunwalker', 'Young Priestess');0.6842105263157895
+('Faerie Dragon', 'Master Swordsmith', 'Razorfen Hunter', 'Sunwalker', 'Young Priestess');0.7042606516290727

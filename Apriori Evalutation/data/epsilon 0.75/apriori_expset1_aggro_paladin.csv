@@ -1,0 +1,10 @@
+('Blessing of Kings',);0.9346733668341709
+('King Mukla',);0.8517587939698492
+('Knife Juggler',);0.8417085427135679
+('The Beast',);0.8618090452261307
+('Blessing of Kings', 'King Mukla');0.7889447236180904
+('Blessing of Kings', 'Knife Juggler');0.7788944723618091
+('Blessing of Kings', 'The Beast');0.8065326633165829
+('Blessing of Kings', 'King Mukla', 'Knife Juggler');0.6733668341708543
+('Blessing of Kings', 'King Mukla', 'The Beast');0.6859296482412061
+('Blessing of Kings', 'Knife Juggler', 'The Beast');0.6582914572864321

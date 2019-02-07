@@ -1,0 +1,16 @@
+('Chillwind Yeti',);0.565
+('Dark Iron Dwarf',);0.5375
+('Doomguard',);0.58
+('Sea Giant',);0.545
+('Stormwind Champion',);0.7425
+('Sunwalker',);0.745
+('The Black Knight',);0.75
+('Wild Pyromancer',);0.6275
+('Doomguard', 'The Black Knight');0.5075
+('Stormwind Champion', 'Sunwalker');0.62
+('Stormwind Champion', 'The Black Knight');0.6225
+('Stormwind Champion', 'Wild Pyromancer');0.5375
+('Sunwalker', 'The Black Knight');0.635
+('Sunwalker', 'Wild Pyromancer');0.5475
+('The Black Knight', 'Wild Pyromancer');0.53
+('Stormwind Champion', 'Sunwalker', 'The Black Knight');0.52

@@ -1,0 +1,515 @@
+('Argent Squire',);0.8153034300791556
+('Avenging Wrath',);0.9656992084432717
+('Blessing of Kings',);0.9709762532981531
+('Blood Knight',);0.6701846965699209
+('Consecration',);0.9709762532981531
+('Demolisher',);0.575197889182058
+('Earthen Ring Farseer',);0.6094986807387863
+('Emperor Cobra',);0.5488126649076517
+('Frostwolf Grunt',);0.5963060686015831
+('Injured Blademaster',);0.7071240105540897
+("Mogu'shan Warden",);0.5356200527704486
+('Raid Leader',);0.5804749340369393
+('Reckless Rocketeer',);0.7044854881266491
+('River Crocolisk',);0.5699208443271768
+("Sen'jin Shieldmasta",);0.5514511873350924
+('Southsea Captain',);0.5356200527704486
+('Stampeding Kodo',);0.7678100263852242
+('Tauren Warrior',);0.6411609498680739
+('Wild Pyromancer',);0.5065963060686016
+('Young Priestess',);0.7387862796833773
+('Argent Squire', 'Avenging Wrath');0.7810026385224275
+('Argent Squire', 'Blessing of Kings');0.7889182058047494
+('Argent Squire', 'Blood Knight');0.6200527704485488
+('Argent Squire', 'Consecration');0.8021108179419525
+('Argent Squire', 'Earthen Ring Farseer');0.5171503957783641
+('Argent Squire', 'Frostwolf Grunt');0.5382585751978892
+('Argent Squire', 'Injured Blademaster');0.5620052770448549
+('Argent Squire', 'Reckless Rocketeer');0.6094986807387863
+('Argent Squire', 'River Crocolisk');0.5065963060686016
+('Argent Squire', 'Stampeding Kodo');0.6939313984168866
+('Argent Squire', 'Tauren Warrior');0.5620052770448549
+('Argent Squire', 'Young Priestess');0.6464379947229552
+('Avenging Wrath', 'Blessing of Kings');0.9393139841688655
+('Avenging Wrath', 'Blood Knight');0.6543535620052771
+('Avenging Wrath', 'Consecration');0.9393139841688655
+('Avenging Wrath', 'Demolisher');0.5646437994722955
+('Avenging Wrath', 'Earthen Ring Farseer');0.6015831134564644
+('Avenging Wrath', 'Emperor Cobra');0.5435356200527705
+('Avenging Wrath', 'Frostwolf Grunt');0.58311345646438
+('Avenging Wrath', 'Injured Blademaster');0.6886543535620053
+('Avenging Wrath', "Mogu'shan Warden");0.525065963060686
+('Avenging Wrath', 'Raid Leader');0.575197889182058
+('Avenging Wrath', 'Reckless Rocketeer');0.6939313984168866
+('Avenging Wrath', 'River Crocolisk');0.5620052770448549
+('Avenging Wrath', "Sen'jin Shieldmasta");0.5356200527704486
+('Avenging Wrath', 'Southsea Captain');0.5277044854881267
+('Avenging Wrath', 'Stampeding Kodo');0.7546174142480211
+('Avenging Wrath', 'Tauren Warrior');0.633245382585752
+('Avenging Wrath', 'Young Priestess');0.7176781002638523
+('Blessing of Kings', 'Blood Knight');0.6464379947229552
+('Blessing of Kings', 'Consecration');0.9445910290237467
+('Blessing of Kings', 'Demolisher');0.5593667546174143
+('Blessing of Kings', 'Earthen Ring Farseer');0.5910290237467019
+('Blessing of Kings', 'Emperor Cobra');0.5277044854881267
+('Blessing of Kings', 'Frostwolf Grunt');0.5778364116094987
+('Blessing of Kings', 'Injured Blademaster');0.6807387862796834
+('Blessing of Kings', "Mogu'shan Warden");0.5224274406332454
+('Blessing of Kings', 'Raid Leader');0.5672823218997362
+('Blessing of Kings', 'Reckless Rocketeer');0.683377308707124
+('Blessing of Kings', 'River Crocolisk');0.5514511873350924
+('Blessing of Kings', "Sen'jin Shieldmasta");0.5303430079155673
+('Blessing of Kings', 'Southsea Captain');0.5197889182058048
+('Blessing of Kings', 'Stampeding Kodo');0.741424802110818
+('Blessing of Kings', 'Tauren Warrior');0.6226912928759895
+('Blessing of Kings', 'Young Priestess');0.7150395778364116
+('Blood Knight', 'Consecration');0.6464379947229552
+('Blood Knight', 'Frostwolf Grunt');0.5197889182058048
+('Blood Knight', 'Reckless Rocketeer');0.5725593667546174
+('Blood Knight', "Sen'jin Shieldmasta");0.5013192612137203
+('Blood Knight', 'Stampeding Kodo');0.6385224274406333
+('Blood Knight', 'Tauren Warrior');0.5013192612137203
+('Blood Knight', 'Young Priestess');0.5963060686015831
+('Consecration', 'Demolisher');0.5567282321899736
+('Consecration', 'Earthen Ring Farseer');0.5910290237467019
+('Consecration', 'Emperor Cobra');0.5435356200527705
+('Consecration', 'Frostwolf Grunt');0.58311345646438
+('Consecration', 'Injured Blademaster');0.6992084432717678
+('Consecration', "Mogu'shan Warden");0.5224274406332454
+('Consecration', 'Raid Leader');0.5646437994722955
+('Consecration', 'Reckless Rocketeer');0.683377308707124
+('Consecration', 'River Crocolisk');0.5567282321899736
+('Consecration', "Sen'jin Shieldmasta");0.5303430079155673
+('Consecration', 'Southsea Captain');0.5171503957783641
+('Consecration', 'Stampeding Kodo');0.7572559366754618
+('Consecration', 'Tauren Warrior');0.6306068601583114
+('Consecration', 'Young Priestess');0.7176781002638523
+('Demolisher', 'Reckless Rocketeer');0.5013192612137203
+('Demolisher', 'Stampeding Kodo');0.5514511873350924
+('Demolisher', 'Young Priestess');0.5224274406332454
+('Earthen Ring Farseer', 'Reckless Rocketeer');0.5145118733509235
+('Earthen Ring Farseer', 'Stampeding Kodo');0.5699208443271768
+('Earthen Ring Farseer', 'Young Priestess');0.5408970976253298
+('Emperor Cobra', 'Stampeding Kodo');0.5488126649076517
+('Emperor Cobra', 'Young Priestess');0.5171503957783641
+('Frostwolf Grunt', 'Reckless Rocketeer');0.5065963060686016
+('Frostwolf Grunt', 'Stampeding Kodo');0.5699208443271768
+('Frostwolf Grunt', 'Young Priestess');0.5408970976253298
+('Injured Blademaster', 'Stampeding Kodo');0.5171503957783641
+("Mogu'shan Warden", 'Stampeding Kodo');0.5118733509234829
+('Raid Leader', 'Stampeding Kodo');0.5329815303430079
+('Raid Leader', 'Young Priestess');0.5092348284960422
+('Reckless Rocketeer', 'Stampeding Kodo');0.6675461741424802
+('Reckless Rocketeer', 'Tauren Warrior');0.554089709762533
+('Reckless Rocketeer', 'Young Priestess');0.6490765171503958
+('River Crocolisk', 'Stampeding Kodo');0.5118733509234829
+("Sen'jin Shieldmasta", 'Stampeding Kodo');0.5277044854881267
+("Sen'jin Shieldmasta", 'Young Priestess');0.503957783641161
+('Southsea Captain', 'Stampeding Kodo');0.503957783641161
+('Stampeding Kodo', 'Tauren Warrior');0.6015831134564644
+('Stampeding Kodo', 'Young Priestess');0.6992084432717678
+('Tauren Warrior', 'Young Priestess');0.5620052770448549
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings');0.7572559366754618
+('Argent Squire', 'Avenging Wrath', 'Blood Knight');0.604221635883905
+('Argent Squire', 'Avenging Wrath', 'Consecration');0.7704485488126649
+('Argent Squire', 'Avenging Wrath', 'Earthen Ring Farseer');0.5092348284960422
+('Argent Squire', 'Avenging Wrath', 'Frostwolf Grunt');0.525065963060686
+('Argent Squire', 'Avenging Wrath', 'Injured Blademaster');0.5435356200527705
+('Argent Squire', 'Avenging Wrath', 'Reckless Rocketeer');0.5989445910290238
+('Argent Squire', 'Avenging Wrath', 'Stampeding Kodo');0.6807387862796834
+('Argent Squire', 'Avenging Wrath', 'Tauren Warrior');0.554089709762533
+('Argent Squire', 'Avenging Wrath', 'Young Priestess');0.6253298153034301
+('Argent Squire', 'Blessing of Kings', 'Blood Knight');0.5963060686015831
+('Argent Squire', 'Blessing of Kings', 'Consecration');0.7783641160949868
+('Argent Squire', 'Blessing of Kings', 'Frostwolf Grunt');0.5224274406332454
+('Argent Squire', 'Blessing of Kings', 'Injured Blademaster');0.5356200527704486
+('Argent Squire', 'Blessing of Kings', 'Reckless Rocketeer');0.5910290237467019
+('Argent Squire', 'Blessing of Kings', 'Stampeding Kodo');0.6701846965699209
+('Argent Squire', 'Blessing of Kings', 'Tauren Warrior');0.5461741424802111
+('Argent Squire', 'Blessing of Kings', 'Young Priestess');0.6253298153034301
+('Argent Squire', 'Blood Knight', 'Consecration');0.6094986807387863
+('Argent Squire', 'Blood Knight', 'Reckless Rocketeer');0.5277044854881267
+('Argent Squire', 'Blood Knight', 'Stampeding Kodo');0.6068601583113457
+('Argent Squire', 'Blood Knight', 'Young Priestess');0.554089709762533
+('Argent Squire', 'Consecration', 'Earthen Ring Farseer');0.5092348284960422
+('Argent Squire', 'Consecration', 'Frostwolf Grunt');0.5356200527704486
+('Argent Squire', 'Consecration', 'Injured Blademaster');0.554089709762533
+('Argent Squire', 'Consecration', 'Reckless Rocketeer');0.5989445910290238
+('Argent Squire', 'Consecration', 'River Crocolisk');0.5013192612137203
+('Argent Squire', 'Consecration', 'Stampeding Kodo');0.683377308707124
+('Argent Squire', 'Consecration', 'Tauren Warrior');0.5514511873350924
+('Argent Squire', 'Consecration', 'Young Priestess');0.6358839050131926
+('Argent Squire', 'Earthen Ring Farseer', 'Stampeding Kodo');0.5118733509234829
+('Argent Squire', 'Frostwolf Grunt', 'Stampeding Kodo');0.5303430079155673
+('Argent Squire', 'Reckless Rocketeer', 'Stampeding Kodo');0.604221635883905
+('Argent Squire', 'Reckless Rocketeer', 'Young Priestess');0.5672823218997362
+('Argent Squire', 'Stampeding Kodo', 'Tauren Warrior');0.5408970976253298
+('Argent Squire', 'Stampeding Kodo', 'Young Priestess');0.6306068601583114
+('Avenging Wrath', 'Blessing of Kings', 'Blood Knight');0.633245382585752
+('Avenging Wrath', 'Blessing of Kings', 'Consecration');0.9129287598944591
+('Avenging Wrath', 'Blessing of Kings', 'Demolisher');0.5488126649076517
+('Avenging Wrath', 'Blessing of Kings', 'Earthen Ring Farseer');0.58311345646438
+('Avenging Wrath', 'Blessing of Kings', 'Emperor Cobra');0.5224274406332454
+('Avenging Wrath', 'Blessing of Kings', 'Frostwolf Grunt');0.5646437994722955
+('Avenging Wrath', 'Blessing of Kings', 'Injured Blademaster');0.6649076517150396
+('Avenging Wrath', 'Blessing of Kings', "Mogu'shan Warden");0.5118733509234829
+('Avenging Wrath', 'Blessing of Kings', 'Raid Leader');0.5620052770448549
+('Avenging Wrath', 'Blessing of Kings', 'Reckless Rocketeer');0.6728232189973615
+('Avenging Wrath', 'Blessing of Kings', 'River Crocolisk');0.5435356200527705
+('Avenging Wrath', 'Blessing of Kings', "Sen'jin Shieldmasta");0.5171503957783641
+('Avenging Wrath', 'Blessing of Kings', 'Southsea Captain');0.5118733509234829
+('Avenging Wrath', 'Blessing of Kings', 'Stampeding Kodo');0.7282321899736148
+('Avenging Wrath', 'Blessing of Kings', 'Tauren Warrior');0.6147757255936676
+('Avenging Wrath', 'Blessing of Kings', 'Young Priestess');0.6939313984168866
+('Avenging Wrath', 'Blood Knight', 'Consecration');0.633245382585752
+('Avenging Wrath', 'Blood Knight', 'Frostwolf Grunt');0.5065963060686016
+('Avenging Wrath', 'Blood Knight', 'Reckless Rocketeer');0.5620052770448549
+('Avenging Wrath', 'Blood Knight', 'Stampeding Kodo');0.6253298153034301
+('Avenging Wrath', 'Blood Knight', 'Young Priestess');0.58311345646438
+('Avenging Wrath', 'Consecration', 'Demolisher');0.5461741424802111
+('Avenging Wrath', 'Consecration', 'Earthen Ring Farseer');0.58311345646438
+('Avenging Wrath', 'Consecration', 'Emperor Cobra');0.5382585751978892
+('Avenging Wrath', 'Consecration', 'Frostwolf Grunt');0.5699208443271768
+('Avenging Wrath', 'Consecration', 'Injured Blademaster');0.683377308707124
+('Avenging Wrath', 'Consecration', "Mogu'shan Warden");0.5118733509234829
+('Avenging Wrath', 'Consecration', 'Raid Leader');0.5593667546174143
+('Avenging Wrath', 'Consecration', 'Reckless Rocketeer');0.6728232189973615
+('Avenging Wrath', 'Consecration', 'River Crocolisk');0.5488126649076517
+('Avenging Wrath', 'Consecration', "Sen'jin Shieldmasta");0.5171503957783641
+('Avenging Wrath', 'Consecration', 'Southsea Captain');0.5092348284960422
+('Avenging Wrath', 'Consecration', 'Stampeding Kodo');0.7440633245382586
+('Avenging Wrath', 'Consecration', 'Tauren Warrior');0.6226912928759895
+('Avenging Wrath', 'Consecration', 'Young Priestess');0.6965699208443272
+('Avenging Wrath', 'Demolisher', 'Stampeding Kodo');0.5408970976253298
+('Avenging Wrath', 'Demolisher', 'Young Priestess');0.5118733509234829
+('Avenging Wrath', 'Earthen Ring Farseer', 'Reckless Rocketeer');0.5065963060686016
+('Avenging Wrath', 'Earthen Ring Farseer', 'Stampeding Kodo');0.5620052770448549
+('Avenging Wrath', 'Earthen Ring Farseer', 'Young Priestess');0.5329815303430079
+('Avenging Wrath', 'Emperor Cobra', 'Stampeding Kodo');0.5435356200527705
+('Avenging Wrath', 'Emperor Cobra', 'Young Priestess');0.5118733509234829
+('Avenging Wrath', 'Frostwolf Grunt', 'Stampeding Kodo');0.5567282321899736
+('Avenging Wrath', 'Frostwolf Grunt', 'Young Priestess');0.5277044854881267
+('Avenging Wrath', 'Injured Blademaster', 'Stampeding Kodo');0.5092348284960422
+('Avenging Wrath', "Mogu'shan Warden", 'Stampeding Kodo');0.5013192612137203
+('Avenging Wrath', 'Raid Leader', 'Stampeding Kodo');0.5277044854881267
+('Avenging Wrath', 'Raid Leader', 'Young Priestess');0.503957783641161
+('Avenging Wrath', 'Reckless Rocketeer', 'Stampeding Kodo');0.6569920844327177
+('Avenging Wrath', 'Reckless Rocketeer', 'Tauren Warrior');0.5488126649076517
+('Avenging Wrath', 'Reckless Rocketeer', 'Young Priestess');0.6385224274406333
+('Avenging Wrath', 'River Crocolisk', 'Stampeding Kodo');0.503957783641161
+('Avenging Wrath', "Sen'jin Shieldmasta", 'Stampeding Kodo');0.5145118733509235
+('Avenging Wrath', 'Stampeding Kodo', 'Tauren Warrior');0.5936675461741425
+('Avenging Wrath', 'Stampeding Kodo', 'Young Priestess');0.6860158311345647
+('Avenging Wrath', 'Tauren Warrior', 'Young Priestess');0.554089709762533
+('Blessing of Kings', 'Blood Knight', 'Consecration');0.6253298153034301
+('Blessing of Kings', 'Blood Knight', 'Frostwolf Grunt');0.503957783641161
+('Blessing of Kings', 'Blood Knight', 'Reckless Rocketeer');0.5567282321899736
+('Blessing of Kings', 'Blood Knight', 'Stampeding Kodo');0.6174142480211082
+('Blessing of Kings', 'Blood Knight', 'Young Priestess');0.5778364116094987
+('Blessing of Kings', 'Consecration', 'Demolisher');0.5408970976253298
+('Blessing of Kings', 'Consecration', 'Earthen Ring Farseer');0.5725593667546174
+('Blessing of Kings', 'Consecration', 'Emperor Cobra');0.5224274406332454
+('Blessing of Kings', 'Consecration', 'Frostwolf Grunt');0.5646437994722955
+('Blessing of Kings', 'Consecration', 'Injured Blademaster');0.6754617414248021
+('Blessing of Kings', 'Consecration', "Mogu'shan Warden");0.5092348284960422
+('Blessing of Kings', 'Consecration', 'Raid Leader');0.5514511873350924
+('Blessing of Kings', 'Consecration', 'Reckless Rocketeer');0.662269129287599
+('Blessing of Kings', 'Consecration', 'River Crocolisk');0.5382585751978892
+('Blessing of Kings', 'Consecration', "Sen'jin Shieldmasta");0.5118733509234829
+('Blessing of Kings', 'Consecration', 'Southsea Captain');0.5013192612137203
+('Blessing of Kings', 'Consecration', 'Stampeding Kodo');0.7308707124010554
+('Blessing of Kings', 'Consecration', 'Tauren Warrior');0.6121372031662269
+('Blessing of Kings', 'Consecration', 'Young Priestess');0.6939313984168866
+('Blessing of Kings', 'Demolisher', 'Stampeding Kodo');0.5356200527704486
+('Blessing of Kings', 'Demolisher', 'Young Priestess');0.5092348284960422
+('Blessing of Kings', 'Earthen Ring Farseer', 'Reckless Rocketeer');0.5013192612137203
+('Blessing of Kings', 'Earthen Ring Farseer', 'Stampeding Kodo');0.5514511873350924
+('Blessing of Kings', 'Earthen Ring Farseer', 'Young Priestess');0.525065963060686
+('Blessing of Kings', 'Emperor Cobra', 'Stampeding Kodo');0.5277044854881267
+('Blessing of Kings', 'Frostwolf Grunt', 'Stampeding Kodo');0.5514511873350924
+('Blessing of Kings', 'Frostwolf Grunt', 'Young Priestess');0.525065963060686
+('Blessing of Kings', 'Raid Leader', 'Stampeding Kodo');0.5197889182058048
+('Blessing of Kings', 'Reckless Rocketeer', 'Stampeding Kodo');0.6464379947229552
+('Blessing of Kings', 'Reckless Rocketeer', 'Tauren Warrior');0.5382585751978892
+('Blessing of Kings', 'Reckless Rocketeer', 'Young Priestess');0.6279683377308707
+('Blessing of Kings', "Sen'jin Shieldmasta", 'Stampeding Kodo');0.5092348284960422
+('Blessing of Kings', 'Stampeding Kodo', 'Tauren Warrior');0.58311345646438
+('Blessing of Kings', 'Stampeding Kodo', 'Young Priestess');0.6754617414248021
+('Blessing of Kings', 'Tauren Warrior', 'Young Priestess');0.5435356200527705
+('Blood Knight', 'Consecration', 'Frostwolf Grunt');0.5065963060686016
+('Blood Knight', 'Consecration', 'Reckless Rocketeer');0.554089709762533
+('Blood Knight', 'Consecration', 'Stampeding Kodo');0.6306068601583114
+('Blood Knight', 'Consecration', 'Young Priestess');0.5778364116094987
+('Blood Knight', 'Reckless Rocketeer', 'Stampeding Kodo');0.554089709762533
+('Blood Knight', 'Reckless Rocketeer', 'Young Priestess');0.5303430079155673
+('Blood Knight', 'Stampeding Kodo', 'Tauren Warrior');0.5013192612137203
+('Blood Knight', 'Stampeding Kodo', 'Young Priestess');0.575197889182058
+('Consecration', 'Demolisher', 'Stampeding Kodo');0.5435356200527705
+('Consecration', 'Demolisher', 'Young Priestess');0.503957783641161
+('Consecration', 'Earthen Ring Farseer', 'Stampeding Kodo');0.5620052770448549
+('Consecration', 'Earthen Ring Farseer', 'Young Priestess');0.5224274406332454
+('Consecration', 'Emperor Cobra', 'Stampeding Kodo');0.5435356200527705
+('Consecration', 'Emperor Cobra', 'Young Priestess');0.5118733509234829
+('Consecration', 'Frostwolf Grunt', 'Stampeding Kodo');0.5672823218997362
+('Consecration', 'Frostwolf Grunt', 'Young Priestess');0.5277044854881267
+('Consecration', 'Injured Blademaster', 'Stampeding Kodo');0.5118733509234829
+('Consecration', "Mogu'shan Warden", 'Stampeding Kodo');0.5092348284960422
+('Consecration', 'Raid Leader', 'Stampeding Kodo');0.525065963060686
+('Consecration', 'Reckless Rocketeer', 'Stampeding Kodo');0.6569920844327177
+('Consecration', 'Reckless Rocketeer', 'Tauren Warrior');0.5435356200527705
+('Consecration', 'Reckless Rocketeer', 'Young Priestess');0.6279683377308707
+('Consecration', 'River Crocolisk', 'Stampeding Kodo');0.5065963060686016
+('Consecration', "Sen'jin Shieldmasta", 'Stampeding Kodo');0.5197889182058048
+('Consecration', 'Stampeding Kodo', 'Tauren Warrior');0.5910290237467019
+('Consecration', 'Stampeding Kodo', 'Young Priestess');0.6886543535620053
+('Consecration', 'Tauren Warrior', 'Young Priestess');0.5514511873350924
+('Demolisher', 'Stampeding Kodo', 'Young Priestess');0.5013192612137203
+('Earthen Ring Farseer', 'Stampeding Kodo', 'Young Priestess');0.5118733509234829
+('Emperor Cobra', 'Stampeding Kodo', 'Young Priestess');0.5171503957783641
+('Frostwolf Grunt', 'Stampeding Kodo', 'Young Priestess');0.5171503957783641
+('Reckless Rocketeer', 'Stampeding Kodo', 'Tauren Warrior');0.5488126649076517
+('Reckless Rocketeer', 'Stampeding Kodo', 'Young Priestess');0.6226912928759895
+('Reckless Rocketeer', 'Tauren Warrior', 'Young Priestess');0.5145118733509235
+('Stampeding Kodo', 'Tauren Warrior', 'Young Priestess');0.5567282321899736
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings', 'Blood Knight');0.58311345646438
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings', 'Consecration');0.7467018469656992
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings', 'Frostwolf Grunt');0.5092348284960422
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings', 'Injured Blademaster');0.5197889182058048
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings', 'Reckless Rocketeer');0.5804749340369393
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings', 'Stampeding Kodo');0.6569920844327177
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings', 'Tauren Warrior');0.5382585751978892
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings', 'Young Priestess');0.604221635883905
+('Argent Squire', 'Avenging Wrath', 'Blood Knight', 'Consecration');0.5963060686015831
+('Argent Squire', 'Avenging Wrath', 'Blood Knight', 'Reckless Rocketeer');0.5171503957783641
+('Argent Squire', 'Avenging Wrath', 'Blood Knight', 'Stampeding Kodo');0.5936675461741425
+('Argent Squire', 'Avenging Wrath', 'Blood Knight', 'Young Priestess');0.5408970976253298
+('Argent Squire', 'Avenging Wrath', 'Consecration', 'Earthen Ring Farseer');0.5013192612137203
+('Argent Squire', 'Avenging Wrath', 'Consecration', 'Frostwolf Grunt');0.5224274406332454
+('Argent Squire', 'Avenging Wrath', 'Consecration', 'Injured Blademaster');0.5382585751978892
+('Argent Squire', 'Avenging Wrath', 'Consecration', 'Reckless Rocketeer');0.5883905013192612
+('Argent Squire', 'Avenging Wrath', 'Consecration', 'Stampeding Kodo');0.6701846965699209
+('Argent Squire', 'Avenging Wrath', 'Consecration', 'Tauren Warrior');0.5435356200527705
+('Argent Squire', 'Avenging Wrath', 'Consecration', 'Young Priestess');0.6147757255936676
+('Argent Squire', 'Avenging Wrath', 'Earthen Ring Farseer', 'Stampeding Kodo');0.503957783641161
+('Argent Squire', 'Avenging Wrath', 'Frostwolf Grunt', 'Stampeding Kodo');0.5171503957783641
+('Argent Squire', 'Avenging Wrath', 'Reckless Rocketeer', 'Stampeding Kodo');0.5936675461741425
+('Argent Squire', 'Avenging Wrath', 'Reckless Rocketeer', 'Young Priestess');0.5567282321899736
+('Argent Squire', 'Avenging Wrath', 'Stampeding Kodo', 'Tauren Warrior');0.5329815303430079
+('Argent Squire', 'Avenging Wrath', 'Stampeding Kodo', 'Young Priestess');0.6174142480211082
+('Argent Squire', 'Blessing of Kings', 'Blood Knight', 'Consecration');0.5883905013192612
+('Argent Squire', 'Blessing of Kings', 'Blood Knight', 'Reckless Rocketeer');0.5118733509234829
+('Argent Squire', 'Blessing of Kings', 'Blood Knight', 'Stampeding Kodo');0.5857519788918206
+('Argent Squire', 'Blessing of Kings', 'Blood Knight', 'Young Priestess');0.5356200527704486
+('Argent Squire', 'Blessing of Kings', 'Consecration', 'Frostwolf Grunt');0.5197889182058048
+('Argent Squire', 'Blessing of Kings', 'Consecration', 'Injured Blademaster');0.5303430079155673
+('Argent Squire', 'Blessing of Kings', 'Consecration', 'Reckless Rocketeer');0.5804749340369393
+('Argent Squire', 'Blessing of Kings', 'Consecration', 'Stampeding Kodo');0.6596306068601583
+('Argent Squire', 'Blessing of Kings', 'Consecration', 'Tauren Warrior');0.5356200527704486
+('Argent Squire', 'Blessing of Kings', 'Consecration', 'Young Priestess');0.6147757255936676
+('Argent Squire', 'Blessing of Kings', 'Frostwolf Grunt', 'Stampeding Kodo');0.5145118733509235
+('Argent Squire', 'Blessing of Kings', 'Reckless Rocketeer', 'Stampeding Kodo');0.5857519788918206
+('Argent Squire', 'Blessing of Kings', 'Reckless Rocketeer', 'Young Priestess');0.5488126649076517
+('Argent Squire', 'Blessing of Kings', 'Stampeding Kodo', 'Tauren Warrior');0.525065963060686
+('Argent Squire', 'Blessing of Kings', 'Stampeding Kodo', 'Young Priestess');0.6094986807387863
+('Argent Squire', 'Blood Knight', 'Consecration', 'Reckless Rocketeer');0.5197889182058048
+('Argent Squire', 'Blood Knight', 'Consecration', 'Stampeding Kodo');0.5989445910290238
+('Argent Squire', 'Blood Knight', 'Consecration', 'Young Priestess');0.5461741424802111
+('Argent Squire', 'Blood Knight', 'Reckless Rocketeer', 'Stampeding Kodo');0.525065963060686
+('Argent Squire', 'Blood Knight', 'Stampeding Kodo', 'Young Priestess');0.5488126649076517
+('Argent Squire', 'Consecration', 'Earthen Ring Farseer', 'Stampeding Kodo');0.503957783641161
+('Argent Squire', 'Consecration', 'Frostwolf Grunt', 'Stampeding Kodo');0.5277044854881267
+('Argent Squire', 'Consecration', 'Reckless Rocketeer', 'Stampeding Kodo');0.5936675461741425
+('Argent Squire', 'Consecration', 'Reckless Rocketeer', 'Young Priestess');0.5567282321899736
+('Argent Squire', 'Consecration', 'Stampeding Kodo', 'Tauren Warrior');0.5303430079155673
+('Argent Squire', 'Consecration', 'Stampeding Kodo', 'Young Priestess');0.6200527704485488
+('Argent Squire', 'Reckless Rocketeer', 'Stampeding Kodo', 'Young Priestess');0.5646437994722955
+('Avenging Wrath', 'Blessing of Kings', 'Blood Knight', 'Consecration');0.6121372031662269
+('Avenging Wrath', 'Blessing of Kings', 'Blood Knight', 'Reckless Rocketeer');0.5461741424802111
+('Avenging Wrath', 'Blessing of Kings', 'Blood Knight', 'Stampeding Kodo');0.604221635883905
+('Avenging Wrath', 'Blessing of Kings', 'Blood Knight', 'Young Priestess');0.5646437994722955
+('Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Demolisher');0.5303430079155673
+('Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Earthen Ring Farseer');0.5646437994722955
+('Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Emperor Cobra');0.5171503957783641
+('Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Frostwolf Grunt');0.5514511873350924
+('Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Injured Blademaster');0.6596306068601583
+('Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Raid Leader');0.5461741424802111
+('Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Reckless Rocketeer');0.6517150395778364
+('Avenging Wrath', 'Blessing of Kings', 'Consecration', 'River Crocolisk');0.5303430079155673
+('Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Stampeding Kodo');0.7176781002638523
+('Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Tauren Warrior');0.604221635883905
+('Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Young Priestess');0.6728232189973615
+('Avenging Wrath', 'Blessing of Kings', 'Demolisher', 'Stampeding Kodo');0.525065963060686
+('Avenging Wrath', 'Blessing of Kings', 'Earthen Ring Farseer', 'Stampeding Kodo');0.5435356200527705
+('Avenging Wrath', 'Blessing of Kings', 'Earthen Ring Farseer', 'Young Priestess');0.5171503957783641
+('Avenging Wrath', 'Blessing of Kings', 'Emperor Cobra', 'Stampeding Kodo');0.5224274406332454
+('Avenging Wrath', 'Blessing of Kings', 'Frostwolf Grunt', 'Stampeding Kodo');0.5382585751978892
+('Avenging Wrath', 'Blessing of Kings', 'Frostwolf Grunt', 'Young Priestess');0.5118733509234829
+('Avenging Wrath', 'Blessing of Kings', 'Raid Leader', 'Stampeding Kodo');0.5145118733509235
+('Avenging Wrath', 'Blessing of Kings', 'Reckless Rocketeer', 'Stampeding Kodo');0.6358839050131926
+('Avenging Wrath', 'Blessing of Kings', 'Reckless Rocketeer', 'Tauren Warrior');0.5329815303430079
+('Avenging Wrath', 'Blessing of Kings', 'Reckless Rocketeer', 'Young Priestess');0.6174142480211082
+('Avenging Wrath', 'Blessing of Kings', 'Stampeding Kodo', 'Tauren Warrior');0.575197889182058
+('Avenging Wrath', 'Blessing of Kings', 'Stampeding Kodo', 'Young Priestess');0.662269129287599
+('Avenging Wrath', 'Blessing of Kings', 'Tauren Warrior', 'Young Priestess');0.5356200527704486
+('Avenging Wrath', 'Blood Knight', 'Consecration', 'Reckless Rocketeer');0.5435356200527705
+('Avenging Wrath', 'Blood Knight', 'Consecration', 'Stampeding Kodo');0.6174142480211082
+('Avenging Wrath', 'Blood Knight', 'Consecration', 'Young Priestess');0.5646437994722955
+('Avenging Wrath', 'Blood Knight', 'Reckless Rocketeer', 'Stampeding Kodo');0.5435356200527705
+('Avenging Wrath', 'Blood Knight', 'Reckless Rocketeer', 'Young Priestess');0.5197889182058048
+('Avenging Wrath', 'Blood Knight', 'Stampeding Kodo', 'Young Priestess');0.5620052770448549
+('Avenging Wrath', 'Consecration', 'Demolisher', 'Stampeding Kodo');0.5329815303430079
+('Avenging Wrath', 'Consecration', 'Earthen Ring Farseer', 'Stampeding Kodo');0.554089709762533
+('Avenging Wrath', 'Consecration', 'Earthen Ring Farseer', 'Young Priestess');0.5145118733509235
+('Avenging Wrath', 'Consecration', 'Emperor Cobra', 'Stampeding Kodo');0.5382585751978892
+('Avenging Wrath', 'Consecration', 'Emperor Cobra', 'Young Priestess');0.5065963060686016
+('Avenging Wrath', 'Consecration', 'Frostwolf Grunt', 'Stampeding Kodo');0.554089709762533
+('Avenging Wrath', 'Consecration', 'Frostwolf Grunt', 'Young Priestess');0.5145118733509235
+('Avenging Wrath', 'Consecration', 'Injured Blademaster', 'Stampeding Kodo');0.503957783641161
+('Avenging Wrath', 'Consecration', 'Raid Leader', 'Stampeding Kodo');0.5197889182058048
+('Avenging Wrath', 'Consecration', 'Reckless Rocketeer', 'Stampeding Kodo');0.6464379947229552
+('Avenging Wrath', 'Consecration', 'Reckless Rocketeer', 'Tauren Warrior');0.5382585751978892
+('Avenging Wrath', 'Consecration', 'Reckless Rocketeer', 'Young Priestess');0.6174142480211082
+('Avenging Wrath', 'Consecration', "Sen'jin Shieldmasta", 'Stampeding Kodo');0.5065963060686016
+('Avenging Wrath', 'Consecration', 'Stampeding Kodo', 'Tauren Warrior');0.58311345646438
+('Avenging Wrath', 'Consecration', 'Stampeding Kodo', 'Young Priestess');0.6754617414248021
+('Avenging Wrath', 'Consecration', 'Tauren Warrior', 'Young Priestess');0.5435356200527705
+('Avenging Wrath', 'Earthen Ring Farseer', 'Stampeding Kodo', 'Young Priestess');0.503957783641161
+('Avenging Wrath', 'Emperor Cobra', 'Stampeding Kodo', 'Young Priestess');0.5118733509234829
+('Avenging Wrath', 'Frostwolf Grunt', 'Stampeding Kodo', 'Young Priestess');0.503957783641161
+('Avenging Wrath', 'Reckless Rocketeer', 'Stampeding Kodo', 'Tauren Warrior');0.5435356200527705
+('Avenging Wrath', 'Reckless Rocketeer', 'Stampeding Kodo', 'Young Priestess');0.6121372031662269
+('Avenging Wrath', 'Reckless Rocketeer', 'Tauren Warrior', 'Young Priestess');0.5092348284960422
+('Avenging Wrath', 'Stampeding Kodo', 'Tauren Warrior', 'Young Priestess');0.5488126649076517
+('Blessing of Kings', 'Blood Knight', 'Consecration', 'Reckless Rocketeer');0.5382585751978892
+('Blessing of Kings', 'Blood Knight', 'Consecration', 'Stampeding Kodo');0.6094986807387863
+('Blessing of Kings', 'Blood Knight', 'Consecration', 'Young Priestess');0.5593667546174143
+('Blessing of Kings', 'Blood Knight', 'Reckless Rocketeer', 'Stampeding Kodo');0.5382585751978892
+('Blessing of Kings', 'Blood Knight', 'Reckless Rocketeer', 'Young Priestess');0.5145118733509235
+('Blessing of Kings', 'Blood Knight', 'Stampeding Kodo', 'Young Priestess');0.5567282321899736
+('Blessing of Kings', 'Consecration', 'Demolisher', 'Stampeding Kodo');0.5277044854881267
+('Blessing of Kings', 'Consecration', 'Earthen Ring Farseer', 'Stampeding Kodo');0.5435356200527705
+('Blessing of Kings', 'Consecration', 'Earthen Ring Farseer', 'Young Priestess');0.5065963060686016
+('Blessing of Kings', 'Consecration', 'Emperor Cobra', 'Stampeding Kodo');0.5224274406332454
+('Blessing of Kings', 'Consecration', 'Frostwolf Grunt', 'Stampeding Kodo');0.5488126649076517
+('Blessing of Kings', 'Consecration', 'Frostwolf Grunt', 'Young Priestess');0.5118733509234829
+('Blessing of Kings', 'Consecration', 'Raid Leader', 'Stampeding Kodo');0.5118733509234829
+('Blessing of Kings', 'Consecration', 'Reckless Rocketeer', 'Stampeding Kodo');0.6358839050131926
+('Blessing of Kings', 'Consecration', 'Reckless Rocketeer', 'Tauren Warrior');0.5277044854881267
+('Blessing of Kings', 'Consecration', 'Reckless Rocketeer', 'Young Priestess');0.6068601583113457
+('Blessing of Kings', 'Consecration', "Sen'jin Shieldmasta", 'Stampeding Kodo');0.5013192612137203
+('Blessing of Kings', 'Consecration', 'Stampeding Kodo', 'Tauren Warrior');0.5725593667546174
+('Blessing of Kings', 'Consecration', 'Stampeding Kodo', 'Young Priestess');0.6649076517150396
+('Blessing of Kings', 'Consecration', 'Tauren Warrior', 'Young Priestess');0.5329815303430079
+('Blessing of Kings', 'Frostwolf Grunt', 'Stampeding Kodo', 'Young Priestess');0.5013192612137203
+('Blessing of Kings', 'Reckless Rocketeer', 'Stampeding Kodo', 'Tauren Warrior');0.5329815303430079
+('Blessing of Kings', 'Reckless Rocketeer', 'Stampeding Kodo', 'Young Priestess');0.6015831134564644
+('Blessing of Kings', 'Stampeding Kodo', 'Tauren Warrior', 'Young Priestess');0.5382585751978892
+('Blood Knight', 'Consecration', 'Reckless Rocketeer', 'Stampeding Kodo');0.5461741424802111
+('Blood Knight', 'Consecration', 'Reckless Rocketeer', 'Young Priestess');0.5118733509234829
+('Blood Knight', 'Consecration', 'Stampeding Kodo', 'Young Priestess');0.5672823218997362
+('Blood Knight', 'Reckless Rocketeer', 'Stampeding Kodo', 'Young Priestess');0.5118733509234829
+('Consecration', 'Earthen Ring Farseer', 'Stampeding Kodo', 'Young Priestess');0.503957783641161
+('Consecration', 'Emperor Cobra', 'Stampeding Kodo', 'Young Priestess');0.5118733509234829
+('Consecration', 'Frostwolf Grunt', 'Stampeding Kodo', 'Young Priestess');0.5145118733509235
+('Consecration', 'Reckless Rocketeer', 'Stampeding Kodo', 'Tauren Warrior');0.5382585751978892
+('Consecration', 'Reckless Rocketeer', 'Stampeding Kodo', 'Young Priestess');0.6121372031662269
+('Consecration', 'Reckless Rocketeer', 'Tauren Warrior', 'Young Priestess');0.503957783641161
+('Consecration', 'Stampeding Kodo', 'Tauren Warrior', 'Young Priestess');0.5461741424802111
+('Reckless Rocketeer', 'Stampeding Kodo', 'Tauren Warrior', 'Young Priestess');0.5092348284960422
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings', 'Blood Knight', 'Consecration');0.575197889182058
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings', 'Blood Knight', 'Reckless Rocketeer');0.5013192612137203
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings', 'Blood Knight', 'Stampeding Kodo');0.5725593667546174
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings', 'Blood Knight', 'Young Priestess');0.5224274406332454
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Frostwolf Grunt');0.5065963060686016
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Injured Blademaster');0.5145118733509235
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Reckless Rocketeer');0.5699208443271768
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Stampeding Kodo');0.6464379947229552
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Tauren Warrior');0.5277044854881267
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Young Priestess');0.5936675461741425
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings', 'Frostwolf Grunt', 'Stampeding Kodo');0.5013192612137203
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings', 'Reckless Rocketeer', 'Stampeding Kodo');0.575197889182058
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings', 'Reckless Rocketeer', 'Young Priestess');0.5382585751978892
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings', 'Stampeding Kodo', 'Tauren Warrior');0.5171503957783641
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings', 'Stampeding Kodo', 'Young Priestess');0.5963060686015831
+('Argent Squire', 'Avenging Wrath', 'Blood Knight', 'Consecration', 'Reckless Rocketeer');0.5092348284960422
+('Argent Squire', 'Avenging Wrath', 'Blood Knight', 'Consecration', 'Stampeding Kodo');0.5857519788918206
+('Argent Squire', 'Avenging Wrath', 'Blood Knight', 'Consecration', 'Young Priestess');0.5329815303430079
+('Argent Squire', 'Avenging Wrath', 'Blood Knight', 'Reckless Rocketeer', 'Stampeding Kodo');0.5145118733509235
+('Argent Squire', 'Avenging Wrath', 'Blood Knight', 'Stampeding Kodo', 'Young Priestess');0.5356200527704486
+('Argent Squire', 'Avenging Wrath', 'Consecration', 'Frostwolf Grunt', 'Stampeding Kodo');0.5145118733509235
+('Argent Squire', 'Avenging Wrath', 'Consecration', 'Reckless Rocketeer', 'Stampeding Kodo');0.58311345646438
+('Argent Squire', 'Avenging Wrath', 'Consecration', 'Reckless Rocketeer', 'Young Priestess');0.5461741424802111
+('Argent Squire', 'Avenging Wrath', 'Consecration', 'Stampeding Kodo', 'Tauren Warrior');0.5224274406332454
+('Argent Squire', 'Avenging Wrath', 'Consecration', 'Stampeding Kodo', 'Young Priestess');0.6068601583113457
+('Argent Squire', 'Avenging Wrath', 'Reckless Rocketeer', 'Stampeding Kodo', 'Young Priestess');0.554089709762533
+('Argent Squire', 'Blessing of Kings', 'Blood Knight', 'Consecration', 'Reckless Rocketeer');0.503957783641161
+('Argent Squire', 'Blessing of Kings', 'Blood Knight', 'Consecration', 'Stampeding Kodo');0.5778364116094987
+('Argent Squire', 'Blessing of Kings', 'Blood Knight', 'Consecration', 'Young Priestess');0.5277044854881267
+('Argent Squire', 'Blessing of Kings', 'Blood Knight', 'Reckless Rocketeer', 'Stampeding Kodo');0.5092348284960422
+('Argent Squire', 'Blessing of Kings', 'Blood Knight', 'Stampeding Kodo', 'Young Priestess');0.5303430079155673
+('Argent Squire', 'Blessing of Kings', 'Consecration', 'Frostwolf Grunt', 'Stampeding Kodo');0.5118733509234829
+('Argent Squire', 'Blessing of Kings', 'Consecration', 'Reckless Rocketeer', 'Stampeding Kodo');0.575197889182058
+('Argent Squire', 'Blessing of Kings', 'Consecration', 'Reckless Rocketeer', 'Young Priestess');0.5382585751978892
+('Argent Squire', 'Blessing of Kings', 'Consecration', 'Stampeding Kodo', 'Tauren Warrior');0.5145118733509235
+('Argent Squire', 'Blessing of Kings', 'Consecration', 'Stampeding Kodo', 'Young Priestess');0.5989445910290238
+('Argent Squire', 'Blessing of Kings', 'Reckless Rocketeer', 'Stampeding Kodo', 'Young Priestess');0.5461741424802111
+('Argent Squire', 'Blood Knight', 'Consecration', 'Reckless Rocketeer', 'Stampeding Kodo');0.5171503957783641
+('Argent Squire', 'Blood Knight', 'Consecration', 'Stampeding Kodo', 'Young Priestess');0.5408970976253298
+('Argent Squire', 'Consecration', 'Reckless Rocketeer', 'Stampeding Kodo', 'Young Priestess');0.554089709762533
+('Avenging Wrath', 'Blessing of Kings', 'Blood Knight', 'Consecration', 'Reckless Rocketeer');0.5277044854881267
+('Avenging Wrath', 'Blessing of Kings', 'Blood Knight', 'Consecration', 'Stampeding Kodo');0.5963060686015831
+('Avenging Wrath', 'Blessing of Kings', 'Blood Knight', 'Consecration', 'Young Priestess');0.5461741424802111
+('Avenging Wrath', 'Blessing of Kings', 'Blood Knight', 'Reckless Rocketeer', 'Stampeding Kodo');0.5277044854881267
+('Avenging Wrath', 'Blessing of Kings', 'Blood Knight', 'Reckless Rocketeer', 'Young Priestess');0.503957783641161
+('Avenging Wrath', 'Blessing of Kings', 'Blood Knight', 'Stampeding Kodo', 'Young Priestess');0.5435356200527705
+('Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Demolisher', 'Stampeding Kodo');0.5171503957783641
+('Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Earthen Ring Farseer', 'Stampeding Kodo');0.5356200527704486
+('Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Emperor Cobra', 'Stampeding Kodo');0.5171503957783641
+('Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Frostwolf Grunt', 'Stampeding Kodo');0.5356200527704486
+('Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Raid Leader', 'Stampeding Kodo');0.5065963060686016
+('Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Reckless Rocketeer', 'Stampeding Kodo');0.6253298153034301
+('Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Reckless Rocketeer', 'Tauren Warrior');0.5224274406332454
+('Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Reckless Rocketeer', 'Young Priestess');0.5963060686015831
+('Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Stampeding Kodo', 'Tauren Warrior');0.5646437994722955
+('Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Stampeding Kodo', 'Young Priestess');0.6517150395778364
+('Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Tauren Warrior', 'Young Priestess');0.525065963060686
+('Avenging Wrath', 'Blessing of Kings', 'Reckless Rocketeer', 'Stampeding Kodo', 'Tauren Warrior');0.5277044854881267
+('Avenging Wrath', 'Blessing of Kings', 'Reckless Rocketeer', 'Stampeding Kodo', 'Young Priestess');0.5910290237467019
+('Avenging Wrath', 'Blessing of Kings', 'Stampeding Kodo', 'Tauren Warrior', 'Young Priestess');0.5303430079155673
+('Avenging Wrath', 'Blood Knight', 'Consecration', 'Reckless Rocketeer', 'Stampeding Kodo');0.5356200527704486
+('Avenging Wrath', 'Blood Knight', 'Consecration', 'Reckless Rocketeer', 'Young Priestess');0.5013192612137203
+('Avenging Wrath', 'Blood Knight', 'Consecration', 'Stampeding Kodo', 'Young Priestess');0.554089709762533
+('Avenging Wrath', 'Blood Knight', 'Reckless Rocketeer', 'Stampeding Kodo', 'Young Priestess');0.5013192612137203
+('Avenging Wrath', 'Consecration', 'Emperor Cobra', 'Stampeding Kodo', 'Young Priestess');0.5065963060686016
+('Avenging Wrath', 'Consecration', 'Frostwolf Grunt', 'Stampeding Kodo', 'Young Priestess');0.5013192612137203
+('Avenging Wrath', 'Consecration', 'Reckless Rocketeer', 'Stampeding Kodo', 'Tauren Warrior');0.5329815303430079
+('Avenging Wrath', 'Consecration', 'Reckless Rocketeer', 'Stampeding Kodo', 'Young Priestess');0.6015831134564644
+('Avenging Wrath', 'Consecration', 'Stampeding Kodo', 'Tauren Warrior', 'Young Priestess');0.5382585751978892
+('Avenging Wrath', 'Reckless Rocketeer', 'Stampeding Kodo', 'Tauren Warrior', 'Young Priestess');0.503957783641161
+('Blessing of Kings', 'Blood Knight', 'Consecration', 'Reckless Rocketeer', 'Stampeding Kodo');0.5303430079155673
+('Blessing of Kings', 'Blood Knight', 'Consecration', 'Stampeding Kodo', 'Young Priestess');0.5488126649076517
+('Blessing of Kings', 'Consecration', 'Reckless Rocketeer', 'Stampeding Kodo', 'Tauren Warrior');0.5224274406332454
+('Blessing of Kings', 'Consecration', 'Reckless Rocketeer', 'Stampeding Kodo', 'Young Priestess');0.5910290237467019
+('Blessing of Kings', 'Consecration', 'Stampeding Kodo', 'Tauren Warrior', 'Young Priestess');0.5277044854881267
+('Blood Knight', 'Consecration', 'Reckless Rocketeer', 'Stampeding Kodo', 'Young Priestess');0.503957783641161
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings', 'Blood Knight', 'Consecration', 'Stampeding Kodo');0.5646437994722955
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings', 'Blood Knight', 'Consecration', 'Young Priestess');0.5145118733509235
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings', 'Blood Knight', 'Stampeding Kodo', 'Young Priestess');0.5171503957783641
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Reckless Rocketeer', 'Stampeding Kodo');0.5646437994722955
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Reckless Rocketeer', 'Young Priestess');0.5277044854881267
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Stampeding Kodo', 'Tauren Warrior');0.5065963060686016
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Stampeding Kodo', 'Young Priestess');0.5857519788918206
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings', 'Reckless Rocketeer', 'Stampeding Kodo', 'Young Priestess');0.5356200527704486
+('Argent Squire', 'Avenging Wrath', 'Blood Knight', 'Consecration', 'Reckless Rocketeer', 'Stampeding Kodo');0.5065963060686016
+('Argent Squire', 'Avenging Wrath', 'Blood Knight', 'Consecration', 'Stampeding Kodo', 'Young Priestess');0.5277044854881267
+('Argent Squire', 'Avenging Wrath', 'Consecration', 'Reckless Rocketeer', 'Stampeding Kodo', 'Young Priestess');0.5435356200527705
+('Argent Squire', 'Blessing of Kings', 'Blood Knight', 'Consecration', 'Reckless Rocketeer', 'Stampeding Kodo');0.5013192612137203
+('Argent Squire', 'Blessing of Kings', 'Blood Knight', 'Consecration', 'Stampeding Kodo', 'Young Priestess');0.5224274406332454
+('Argent Squire', 'Blessing of Kings', 'Consecration', 'Reckless Rocketeer', 'Stampeding Kodo', 'Young Priestess');0.5356200527704486
+('Avenging Wrath', 'Blessing of Kings', 'Blood Knight', 'Consecration', 'Reckless Rocketeer', 'Stampeding Kodo');0.5197889182058048
+('Avenging Wrath', 'Blessing of Kings', 'Blood Knight', 'Consecration', 'Stampeding Kodo', 'Young Priestess');0.5356200527704486
+('Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Reckless Rocketeer', 'Stampeding Kodo', 'Tauren Warrior');0.5171503957783641
+('Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Reckless Rocketeer', 'Stampeding Kodo', 'Young Priestess');0.5804749340369393
+('Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Stampeding Kodo', 'Tauren Warrior', 'Young Priestess');0.5197889182058048
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings', 'Blood Knight', 'Consecration', 'Stampeding Kodo', 'Young Priestess');0.5092348284960422
+('Argent Squire', 'Avenging Wrath', 'Blessing of Kings', 'Consecration', 'Reckless Rocketeer', 'Stampeding Kodo', 'Young Priestess');0.525065963060686

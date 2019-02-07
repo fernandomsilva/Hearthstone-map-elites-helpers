@@ -1,0 +1,67 @@
+('Aldor Peacekeeper',);0.5614035087719298
+('Baron Geddon',);0.5614035087719298
+('Blessing of Kings',);0.8847117794486216
+('Bloodsail Raider',);0.6090225563909775
+('Consecration',);0.9298245614035088
+('Flesheating Ghoul',);1.0
+('Mind Control Tech',);0.7994987468671679
+('Silverback Patriarch',);0.5238095238095238
+('Southsea Deckhand',);0.7393483709273183
+('Aldor Peacekeeper', 'Blessing of Kings');0.5413533834586466
+('Aldor Peacekeeper', 'Consecration');0.5588972431077694
+('Aldor Peacekeeper', 'Flesheating Ghoul');0.5614035087719298
+('Baron Geddon', 'Blessing of Kings');0.5538847117794486
+('Baron Geddon', 'Flesheating Ghoul');0.5614035087719298
+('Baron Geddon', 'Mind Control Tech');0.5012531328320802
+('Blessing of Kings', 'Bloodsail Raider');0.6040100250626567
+('Blessing of Kings', 'Consecration');0.8245614035087719
+('Blessing of Kings', 'Flesheating Ghoul');0.8847117794486216
+('Blessing of Kings', 'Mind Control Tech');0.7192982456140351
+('Blessing of Kings', 'Southsea Deckhand');0.7268170426065163
+('Bloodsail Raider', 'Consecration');0.5664160401002506
+('Bloodsail Raider', 'Flesheating Ghoul');0.6090225563909775
+('Bloodsail Raider', 'Mind Control Tech');0.506265664160401
+('Bloodsail Raider', 'Southsea Deckhand');0.5739348370927319
+('Consecration', 'Flesheating Ghoul');0.9298245614035088
+('Consecration', 'Mind Control Tech');0.7393483709273183
+('Consecration', 'Southsea Deckhand');0.681704260651629
+('Flesheating Ghoul', 'Mind Control Tech');0.7994987468671679
+('Flesheating Ghoul', 'Silverback Patriarch');0.5238095238095238
+('Flesheating Ghoul', 'Southsea Deckhand');0.7393483709273183
+('Mind Control Tech', 'Southsea Deckhand');0.6215538847117794
+('Aldor Peacekeeper', 'Blessing of Kings', 'Consecration');0.5413533834586466
+('Aldor Peacekeeper', 'Blessing of Kings', 'Flesheating Ghoul');0.5413533834586466
+('Aldor Peacekeeper', 'Consecration', 'Flesheating Ghoul');0.5588972431077694
+('Baron Geddon', 'Blessing of Kings', 'Flesheating Ghoul');0.5538847117794486
+('Baron Geddon', 'Flesheating Ghoul', 'Mind Control Tech');0.5012531328320802
+('Blessing of Kings', 'Bloodsail Raider', 'Consecration');0.5664160401002506
+('Blessing of Kings', 'Bloodsail Raider', 'Flesheating Ghoul');0.6040100250626567
+('Blessing of Kings', 'Bloodsail Raider', 'Mind Control Tech');0.5037593984962406
+('Blessing of Kings', 'Bloodsail Raider', 'Southsea Deckhand');0.568922305764411
+('Blessing of Kings', 'Consecration', 'Flesheating Ghoul');0.8245614035087719
+('Blessing of Kings', 'Consecration', 'Mind Control Tech');0.6666666666666666
+('Blessing of Kings', 'Consecration', 'Southsea Deckhand');0.6741854636591479
+('Blessing of Kings', 'Flesheating Ghoul', 'Mind Control Tech');0.7192982456140351
+('Blessing of Kings', 'Flesheating Ghoul', 'Southsea Deckhand');0.7268170426065163
+('Blessing of Kings', 'Mind Control Tech', 'Southsea Deckhand');0.6115288220551378
+('Bloodsail Raider', 'Consecration', 'Flesheating Ghoul');0.5664160401002506
+('Bloodsail Raider', 'Consecration', 'Southsea Deckhand');0.5338345864661654
+('Bloodsail Raider', 'Flesheating Ghoul', 'Mind Control Tech');0.506265664160401
+('Bloodsail Raider', 'Flesheating Ghoul', 'Southsea Deckhand');0.5739348370927319
+('Consecration', 'Flesheating Ghoul', 'Mind Control Tech');0.7393483709273183
+('Consecration', 'Flesheating Ghoul', 'Southsea Deckhand');0.681704260651629
+('Consecration', 'Mind Control Tech', 'Southsea Deckhand');0.568922305764411
+('Flesheating Ghoul', 'Mind Control Tech', 'Southsea Deckhand');0.6215538847117794
+('Aldor Peacekeeper', 'Blessing of Kings', 'Consecration', 'Flesheating Ghoul');0.5413533834586466
+('Blessing of Kings', 'Bloodsail Raider', 'Consecration', 'Flesheating Ghoul');0.5664160401002506
+('Blessing of Kings', 'Bloodsail Raider', 'Consecration', 'Southsea Deckhand');0.5338345864661654
+('Blessing of Kings', 'Bloodsail Raider', 'Flesheating Ghoul', 'Mind Control Tech');0.5037593984962406
+('Blessing of Kings', 'Bloodsail Raider', 'Flesheating Ghoul', 'Southsea Deckhand');0.568922305764411
+('Blessing of Kings', 'Consecration', 'Flesheating Ghoul', 'Mind Control Tech');0.6666666666666666
+('Blessing of Kings', 'Consecration', 'Flesheating Ghoul', 'Southsea Deckhand');0.6741854636591479
+('Blessing of Kings', 'Consecration', 'Mind Control Tech', 'Southsea Deckhand');0.5614035087719298
+('Blessing of Kings', 'Flesheating Ghoul', 'Mind Control Tech', 'Southsea Deckhand');0.6115288220551378
+('Bloodsail Raider', 'Consecration', 'Flesheating Ghoul', 'Southsea Deckhand');0.5338345864661654
+('Consecration', 'Flesheating Ghoul', 'Mind Control Tech', 'Southsea Deckhand');0.568922305764411
+('Blessing of Kings', 'Bloodsail Raider', 'Consecration', 'Flesheating Ghoul', 'Southsea Deckhand');0.5338345864661654
+('Blessing of Kings', 'Consecration', 'Flesheating Ghoul', 'Mind Control Tech', 'Southsea Deckhand');0.5614035087719298

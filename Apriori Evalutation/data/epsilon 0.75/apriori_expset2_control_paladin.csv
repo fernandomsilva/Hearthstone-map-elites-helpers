@@ -1,0 +1,61 @@
+('Aldor Peacekeeper',);0.8060941828254847
+('Alexstrasza',);0.8919667590027701
+('Consecration',);1.0
+('Millhouse Manastorm',);0.9556786703601108
+('Stampeding Kodo',);0.8227146814404432
+('Sunwalker',);0.9889196675900277
+('The Black Knight',);0.9667590027700831
+('Aldor Peacekeeper', 'Consecration');0.8060941828254847
+('Aldor Peacekeeper', 'Millhouse Manastorm');0.7839335180055401
+('Aldor Peacekeeper', 'Sunwalker');0.7950138504155124
+('Aldor Peacekeeper', 'The Black Knight');0.7839335180055401
+('Alexstrasza', 'Consecration');0.8919667590027701
+('Alexstrasza', 'Millhouse Manastorm');0.850415512465374
+('Alexstrasza', 'Sunwalker');0.8808864265927978
+('Alexstrasza', 'The Black Knight');0.8670360110803325
+('Consecration', 'Millhouse Manastorm');0.9556786703601108
+('Consecration', 'Stampeding Kodo');0.8227146814404432
+('Consecration', 'Sunwalker');0.9889196675900277
+('Consecration', 'The Black Knight');0.9667590027700831
+('Millhouse Manastorm', 'Stampeding Kodo');0.7811634349030471
+('Millhouse Manastorm', 'Sunwalker');0.9473684210526315
+('Millhouse Manastorm', 'The Black Knight');0.9279778393351801
+('Stampeding Kodo', 'Sunwalker');0.8116343490304709
+('Stampeding Kodo', 'The Black Knight');0.7894736842105263
+('Sunwalker', 'The Black Knight');0.9556786703601108
+('Aldor Peacekeeper', 'Consecration', 'Millhouse Manastorm');0.7839335180055401
+('Aldor Peacekeeper', 'Consecration', 'Sunwalker');0.7950138504155124
+('Aldor Peacekeeper', 'Consecration', 'The Black Knight');0.7839335180055401
+('Aldor Peacekeeper', 'Millhouse Manastorm', 'Sunwalker');0.775623268698061
+('Aldor Peacekeeper', 'Millhouse Manastorm', 'The Black Knight');0.7645429362880887
+('Aldor Peacekeeper', 'Sunwalker', 'The Black Knight');0.7728531855955678
+('Alexstrasza', 'Consecration', 'Millhouse Manastorm');0.850415512465374
+('Alexstrasza', 'Consecration', 'Sunwalker');0.8808864265927978
+('Alexstrasza', 'Consecration', 'The Black Knight');0.8670360110803325
+('Alexstrasza', 'Millhouse Manastorm', 'Sunwalker');0.8421052631578947
+('Alexstrasza', 'Millhouse Manastorm', 'The Black Knight');0.8310249307479224
+('Alexstrasza', 'Sunwalker', 'The Black Knight');0.8559556786703602
+('Consecration', 'Millhouse Manastorm', 'Stampeding Kodo');0.7811634349030471
+('Consecration', 'Millhouse Manastorm', 'Sunwalker');0.9473684210526315
+('Consecration', 'Millhouse Manastorm', 'The Black Knight');0.9279778393351801
+('Consecration', 'Stampeding Kodo', 'Sunwalker');0.8116343490304709
+('Consecration', 'Stampeding Kodo', 'The Black Knight');0.7894736842105263
+('Consecration', 'Sunwalker', 'The Black Knight');0.9556786703601108
+('Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker');0.7728531855955678
+('Millhouse Manastorm', 'Stampeding Kodo', 'The Black Knight');0.7534626038781164
+('Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.9196675900277008
+('Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.778393351800554
+('Aldor Peacekeeper', 'Consecration', 'Millhouse Manastorm', 'Sunwalker');0.775623268698061
+('Aldor Peacekeeper', 'Consecration', 'Millhouse Manastorm', 'The Black Knight');0.7645429362880887
+('Aldor Peacekeeper', 'Consecration', 'Sunwalker', 'The Black Knight');0.7728531855955678
+('Aldor Peacekeeper', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.7562326869806094
+('Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Sunwalker');0.8421052631578947
+('Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'The Black Knight');0.8310249307479224
+('Alexstrasza', 'Consecration', 'Sunwalker', 'The Black Knight');0.8559556786703602
+('Alexstrasza', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.8227146814404432
+('Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker');0.7728531855955678
+('Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'The Black Knight');0.7534626038781164
+('Consecration', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.9196675900277008
+('Consecration', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.778393351800554
+('Aldor Peacekeeper', 'Consecration', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.7562326869806094
+('Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.8227146814404432

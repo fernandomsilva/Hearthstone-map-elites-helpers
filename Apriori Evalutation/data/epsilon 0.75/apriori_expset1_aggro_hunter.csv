@@ -1,0 +1,8 @@
+('Earthen Ring Farseer',);0.9052924791086351
+('Hungry Crab',);0.9052924791086351
+('Priestess of Elune',);0.8272980501392758
+('Tundra Rhino',);0.7855153203342619
+('Earthen Ring Farseer', 'Hungry Crab');0.8133704735376045
+('Earthen Ring Farseer', 'Priestess of Elune');0.7632311977715878
+('Hungry Crab', 'Priestess of Elune');0.766016713091922
+('Earthen Ring Farseer', 'Hungry Crab', 'Priestess of Elune');0.7019498607242339

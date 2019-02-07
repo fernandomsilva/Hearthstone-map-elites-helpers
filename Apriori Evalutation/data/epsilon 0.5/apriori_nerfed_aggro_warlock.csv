@@ -1,0 +1,138 @@
+('Blood Knight',);0.5050251256281407
+('Bloodfen Raptor',);0.6809045226130653
+('Defender of Argus',);0.9673366834170855
+('Doomguard',);0.8919597989949749
+('Dread Infernal',);0.507537688442211
+('Faerie Dragon',);0.5477386934673367
+('Frostwolf Grunt',);0.8592964824120602
+('Hungry Crab',);0.592964824120603
+('King Mukla',);0.9120603015075377
+('Mind Control Tech',);0.6080402010050251
+('Mountain Giant',);0.7537688442211056
+('River Crocolisk',);0.5251256281407035
+('Siphon Soul',);0.6457286432160804
+('Sunfury Protector',);0.6834170854271356
+('The Black Knight',);0.5728643216080402
+('Violet Teacher',);0.7412060301507538
+('Wild Pyromancer',);0.5276381909547738
+('Bloodfen Raptor', 'Defender of Argus');0.6708542713567839
+('Bloodfen Raptor', 'Doomguard');0.592964824120603
+('Bloodfen Raptor', 'Frostwolf Grunt');0.5653266331658291
+('Bloodfen Raptor', 'King Mukla');0.635678391959799
+('Bloodfen Raptor', 'Mountain Giant');0.5628140703517588
+('Bloodfen Raptor', 'Sunfury Protector');0.5904522613065326
+('Bloodfen Raptor', 'The Black Knight');0.5376884422110553
+('Defender of Argus', 'Doomguard');0.8693467336683417
+('Defender of Argus', 'Faerie Dragon');0.5251256281407035
+('Defender of Argus', 'Frostwolf Grunt');0.8266331658291457
+('Defender of Argus', 'Hungry Crab');0.585427135678392
+('Defender of Argus', 'King Mukla');0.8944723618090452
+('Defender of Argus', 'Mind Control Tech');0.5778894472361809
+('Defender of Argus', 'Mountain Giant');0.7261306532663316
+('Defender of Argus', 'River Crocolisk');0.5251256281407035
+('Defender of Argus', 'Siphon Soul');0.6180904522613065
+('Defender of Argus', 'Sunfury Protector');0.6658291457286433
+('Defender of Argus', 'The Black Knight');0.5603015075376885
+('Defender of Argus', 'Violet Teacher');0.7085427135678392
+('Defender of Argus', 'Wild Pyromancer');0.5201005025125628
+('Doomguard', 'Faerie Dragon');0.5251256281407035
+('Doomguard', 'Frostwolf Grunt');0.7738693467336684
+('Doomguard', 'Hungry Crab');0.5100502512562815
+('Doomguard', 'King Mukla');0.8316582914572864
+('Doomguard', 'Mind Control Tech');0.5150753768844221
+('Doomguard', 'Mountain Giant');0.6658291457286433
+('Doomguard', 'Siphon Soul');0.5778894472361809
+('Doomguard', 'Sunfury Protector');0.5829145728643216
+('Doomguard', 'Violet Teacher');0.635678391959799
+('Frostwolf Grunt', 'King Mukla');0.7889447236180904
+('Frostwolf Grunt', 'Mind Control Tech');0.5125628140703518
+('Frostwolf Grunt', 'Mountain Giant');0.6381909547738693
+('Frostwolf Grunt', 'Siphon Soul');0.5628140703517588
+('Frostwolf Grunt', 'Sunfury Protector');0.585427135678392
+('Frostwolf Grunt', 'The Black Knight');0.5
+('Frostwolf Grunt', 'Violet Teacher');0.6331658291457286
+('Hungry Crab', 'King Mukla');0.5477386934673367
+('King Mukla', 'Mind Control Tech');0.5527638190954773
+('King Mukla', 'Mountain Giant');0.6909547738693468
+('King Mukla', 'Siphon Soul');0.5829145728643216
+('King Mukla', 'Sunfury Protector');0.6105527638190955
+('King Mukla', 'The Black Knight');0.5201005025125628
+('King Mukla', 'Violet Teacher');0.6859296482412061
+('Mind Control Tech', 'Violet Teacher');0.5829145728643216
+('Mountain Giant', 'Siphon Soul');0.5
+('Mountain Giant', 'Sunfury Protector');0.5552763819095478
+('Mountain Giant', 'Violet Teacher');0.5552763819095478
+('Siphon Soul', 'Violet Teacher');0.5025125628140703
+('Sunfury Protector', 'The Black Knight');0.5326633165829145
+('Bloodfen Raptor', 'Defender of Argus', 'Doomguard');0.5879396984924623
+('Bloodfen Raptor', 'Defender of Argus', 'Frostwolf Grunt');0.5552763819095478
+('Bloodfen Raptor', 'Defender of Argus', 'King Mukla');0.628140703517588
+('Bloodfen Raptor', 'Defender of Argus', 'Mountain Giant');0.5527638190954773
+('Bloodfen Raptor', 'Defender of Argus', 'Sunfury Protector');0.5829145728643216
+('Bloodfen Raptor', 'Defender of Argus', 'The Black Knight');0.5301507537688442
+('Bloodfen Raptor', 'Doomguard', 'King Mukla');0.5603015075376885
+('Bloodfen Raptor', 'Doomguard', 'Sunfury Protector');0.507537688442211
+('Bloodfen Raptor', 'Frostwolf Grunt', 'King Mukla');0.5326633165829145
+('Bloodfen Raptor', 'King Mukla', 'Mountain Giant');0.5326633165829145
+('Bloodfen Raptor', 'King Mukla', 'Sunfury Protector');0.5477386934673367
+('Bloodfen Raptor', 'Sunfury Protector', 'The Black Knight');0.5025125628140703
+('Defender of Argus', 'Doomguard', 'Faerie Dragon');0.507537688442211
+('Defender of Argus', 'Doomguard', 'Frostwolf Grunt');0.7512562814070352
+('Defender of Argus', 'Doomguard', 'Hungry Crab');0.5025125628140703
+('Defender of Argus', 'Doomguard', 'King Mukla');0.8165829145728644
+('Defender of Argus', 'Doomguard', 'Mountain Giant');0.6457286432160804
+('Defender of Argus', 'Doomguard', 'Siphon Soul');0.5552763819095478
+('Defender of Argus', 'Doomguard', 'Sunfury Protector');0.5753768844221105
+('Defender of Argus', 'Doomguard', 'Violet Teacher');0.6130653266331658
+('Defender of Argus', 'Frostwolf Grunt', 'King Mukla');0.7713567839195979
+('Defender of Argus', 'Frostwolf Grunt', 'Mountain Giant');0.6105527638190955
+('Defender of Argus', 'Frostwolf Grunt', 'Siphon Soul');0.535175879396985
+('Defender of Argus', 'Frostwolf Grunt', 'Sunfury Protector');0.5678391959798995
+('Defender of Argus', 'Frostwolf Grunt', 'Violet Teacher');0.6005025125628141
+('Defender of Argus', 'Hungry Crab', 'King Mukla');0.5452261306532663
+('Defender of Argus', 'King Mukla', 'Mind Control Tech');0.5376884422110553
+('Defender of Argus', 'King Mukla', 'Mountain Giant');0.6733668341708543
+('Defender of Argus', 'King Mukla', 'Siphon Soul');0.5653266331658291
+('Defender of Argus', 'King Mukla', 'Sunfury Protector');0.6030150753768844
+('Defender of Argus', 'King Mukla', 'The Black Knight');0.5150753768844221
+('Defender of Argus', 'King Mukla', 'Violet Teacher');0.6683417085427136
+('Defender of Argus', 'Mind Control Tech', 'Violet Teacher');0.5527638190954773
+('Defender of Argus', 'Mountain Giant', 'Sunfury Protector');0.5402010050251256
+('Defender of Argus', 'Mountain Giant', 'Violet Teacher');0.5276381909547738
+('Defender of Argus', 'Sunfury Protector', 'The Black Knight');0.5251256281407035
+('Doomguard', 'Frostwolf Grunt', 'King Mukla');0.7236180904522613
+('Doomguard', 'Frostwolf Grunt', 'Mountain Giant');0.5728643216080402
+('Doomguard', 'Frostwolf Grunt', 'Siphon Soul');0.507537688442211
+('Doomguard', 'Frostwolf Grunt', 'Sunfury Protector');0.5050251256281407
+('Doomguard', 'Frostwolf Grunt', 'Violet Teacher');0.5477386934673367
+('Doomguard', 'King Mukla', 'Mountain Giant');0.6256281407035176
+('Doomguard', 'King Mukla', 'Siphon Soul');0.5276381909547738
+('Doomguard', 'King Mukla', 'Sunfury Protector');0.5326633165829145
+('Doomguard', 'King Mukla', 'Violet Teacher');0.6055276381909548
+('Frostwolf Grunt', 'King Mukla', 'Mountain Giant');0.585427135678392
+('Frostwolf Grunt', 'King Mukla', 'Siphon Soul');0.5150753768844221
+('Frostwolf Grunt', 'King Mukla', 'Sunfury Protector');0.5276381909547738
+('Frostwolf Grunt', 'King Mukla', 'Violet Teacher');0.5829145728643216
+('King Mukla', 'Mind Control Tech', 'Violet Teacher');0.5301507537688442
+('King Mukla', 'Mountain Giant', 'Sunfury Protector');0.5025125628140703
+('King Mukla', 'Mountain Giant', 'Violet Teacher');0.5100502512562815
+('Bloodfen Raptor', 'Defender of Argus', 'Doomguard', 'King Mukla');0.5552763819095478
+('Bloodfen Raptor', 'Defender of Argus', 'Doomguard', 'Sunfury Protector');0.5050251256281407
+('Bloodfen Raptor', 'Defender of Argus', 'Frostwolf Grunt', 'King Mukla');0.5251256281407035
+('Bloodfen Raptor', 'Defender of Argus', 'King Mukla', 'Mountain Giant');0.5251256281407035
+('Bloodfen Raptor', 'Defender of Argus', 'King Mukla', 'Sunfury Protector');0.542713567839196
+('Defender of Argus', 'Doomguard', 'Frostwolf Grunt', 'King Mukla');0.7085427135678392
+('Defender of Argus', 'Doomguard', 'Frostwolf Grunt', 'Mountain Giant');0.5527638190954773
+('Defender of Argus', 'Doomguard', 'Frostwolf Grunt', 'Violet Teacher');0.5251256281407035
+('Defender of Argus', 'Doomguard', 'King Mukla', 'Mountain Giant');0.6105527638190955
+('Defender of Argus', 'Doomguard', 'King Mukla', 'Siphon Soul');0.5125628140703518
+('Defender of Argus', 'Doomguard', 'King Mukla', 'Sunfury Protector');0.5276381909547738
+('Defender of Argus', 'Doomguard', 'King Mukla', 'Violet Teacher');0.5904522613065326
+('Defender of Argus', 'Frostwolf Grunt', 'King Mukla', 'Mountain Giant');0.5678391959798995
+('Defender of Argus', 'Frostwolf Grunt', 'King Mukla', 'Sunfury Protector');0.5201005025125628
+('Defender of Argus', 'Frostwolf Grunt', 'King Mukla', 'Violet Teacher');0.5653266331658291
+('Defender of Argus', 'King Mukla', 'Mind Control Tech', 'Violet Teacher');0.5150753768844221
+('Doomguard', 'Frostwolf Grunt', 'King Mukla', 'Mountain Giant');0.535175879396985
+('Doomguard', 'Frostwolf Grunt', 'King Mukla', 'Violet Teacher');0.5175879396984925
+('Defender of Argus', 'Doomguard', 'Frostwolf Grunt', 'King Mukla', 'Mountain Giant');0.5201005025125628
+('Defender of Argus', 'Doomguard', 'Frostwolf Grunt', 'King Mukla', 'Violet Teacher');0.5025125628140703

@@ -1,0 +1,139 @@
+('Alexstrasza',);0.739612188365651
+('Animal Companion',);0.6897506925207756
+('Bloodsail Raider',);0.5623268698060941
+('Doomsayer',);0.631578947368421
+('Eaglehorn Bow',);0.7174515235457064
+('Explosive Shot',);0.6980609418282548
+('Faerie Dragon',);0.6509695290858726
+('Hogger',);0.853185595567867
+('King Mukla',);0.7479224376731302
+('Lord of the Arena',);0.5235457063711911
+('Mana Wraith',);0.5983379501385041
+('Multi-Shot',);0.5595567867036011
+('Raid Leader',);0.6426592797783933
+('Stormwind Champion',);0.5789473684210527
+('Stormwind Knight',);0.5152354570637119
+('Sunwalker',);0.6454293628808865
+('The Black Knight',);0.5955678670360111
+('Voodoo Doctor',);0.6731301939058172
+('Alexstrasza', 'Animal Companion');0.5318559556786704
+('Alexstrasza', 'Eaglehorn Bow');0.5457063711911357
+('Alexstrasza', 'Explosive Shot');0.5235457063711911
+('Alexstrasza', 'Faerie Dragon');0.554016620498615
+('Alexstrasza', 'Hogger');0.6592797783933518
+('Alexstrasza', 'King Mukla');0.5789473684210527
+('Alexstrasza', 'Raid Leader');0.556786703601108
+('Animal Companion', 'Eaglehorn Bow');0.5152354570637119
+('Animal Companion', 'Explosive Shot');0.5346260387811634
+('Animal Companion', 'Hogger');0.6204986149584487
+('Animal Companion', 'King Mukla');0.5678670360110804
+('Animal Companion', 'Sunwalker');0.5041551246537396
+('Animal Companion', 'The Black Knight');0.5124653739612188
+('Bloodsail Raider', 'Explosive Shot');0.5318559556786704
+('Bloodsail Raider', 'Hogger');0.5512465373961218
+('Bloodsail Raider', 'King Mukla');0.518005540166205
+('Bloodsail Raider', 'Sunwalker');0.5235457063711911
+('Doomsayer', 'Explosive Shot');0.5623268698060941
+('Doomsayer', 'Hogger');0.5872576177285319
+('Doomsayer', 'King Mukla');0.5623268698060941
+('Doomsayer', 'Mana Wraith');0.5124653739612188
+('Doomsayer', 'Stormwind Champion');0.5013850415512465
+('Doomsayer', 'Sunwalker');0.5623268698060941
+('Doomsayer', 'The Black Knight');0.518005540166205
+('Eaglehorn Bow', 'Explosive Shot');0.5207756232686981
+('Eaglehorn Bow', 'Hogger');0.6426592797783933
+('Eaglehorn Bow', 'King Mukla');0.5844875346260388
+('Explosive Shot', 'Hogger');0.6786703601108033
+('Explosive Shot', 'King Mukla');0.6066481994459834
+('Explosive Shot', 'Mana Wraith');0.5706371191135734
+('Explosive Shot', 'Multi-Shot');0.5069252077562327
+('Explosive Shot', 'Stormwind Champion');0.5429362880886427
+('Explosive Shot', 'Sunwalker');0.6011080332409973
+('Explosive Shot', 'The Black Knight');0.5401662049861495
+('Faerie Dragon', 'Hogger');0.554016620498615
+('Faerie Dragon', 'Raid Leader');0.5290858725761773
+('Hogger', 'King Mukla');0.6842105263157895
+('Hogger', 'Mana Wraith');0.5872576177285319
+('Hogger', 'Multi-Shot');0.5290858725761773
+('Hogger', 'Raid Leader');0.5623268698060941
+('Hogger', 'Stormwind Champion');0.554016620498615
+('Hogger', 'Stormwind Knight');0.5096952908587258
+('Hogger', 'Sunwalker');0.6177285318559557
+('Hogger', 'The Black Knight');0.5595567867036011
+('Hogger', 'Voodoo Doctor');0.5734072022160664
+('King Mukla', 'Mana Wraith');0.5457063711911357
+('King Mukla', 'Stormwind Champion');0.5207756232686981
+('King Mukla', 'Sunwalker');0.5872576177285319
+('King Mukla', 'The Black Knight');0.5263157894736842
+('Mana Wraith', 'Sunwalker');0.5457063711911357
+('Multi-Shot', 'Sunwalker');0.5041551246537396
+('Multi-Shot', 'The Black Knight');0.518005540166205
+('Stormwind Champion', 'Sunwalker');0.5373961218836565
+('Stormwind Champion', 'The Black Knight');0.5096952908587258
+('Sunwalker', 'The Black Knight');0.5290858725761773
+('Alexstrasza', 'Animal Companion', 'Hogger');0.518005540166205
+('Alexstrasza', 'Explosive Shot', 'Hogger');0.5207756232686981
+('Alexstrasza', 'Hogger', 'King Mukla');0.5346260387811634
+('Animal Companion', 'Explosive Shot', 'Hogger');0.5207756232686981
+('Animal Companion', 'Hogger', 'King Mukla');0.5512465373961218
+('Bloodsail Raider', 'Explosive Shot', 'Hogger');0.5290858725761773
+('Bloodsail Raider', 'Explosive Shot', 'King Mukla');0.5013850415512465
+('Bloodsail Raider', 'Explosive Shot', 'Sunwalker');0.5124653739612188
+('Bloodsail Raider', 'Hogger', 'King Mukla');0.5152354570637119
+('Bloodsail Raider', 'Hogger', 'Sunwalker');0.5235457063711911
+('Doomsayer', 'Explosive Shot', 'Hogger');0.5595567867036011
+('Doomsayer', 'Explosive Shot', 'King Mukla');0.518005540166205
+('Doomsayer', 'Explosive Shot', 'Sunwalker');0.5290858725761773
+('Doomsayer', 'Hogger', 'King Mukla');0.5457063711911357
+('Doomsayer', 'Hogger', 'Mana Wraith');0.5096952908587258
+('Doomsayer', 'Hogger', 'Sunwalker');0.5401662049861495
+('Doomsayer', 'King Mukla', 'Sunwalker');0.5152354570637119
+('Eaglehorn Bow', 'Explosive Shot', 'Hogger');0.5096952908587258
+('Eaglehorn Bow', 'Hogger', 'King Mukla');0.5484764542936288
+('Explosive Shot', 'Hogger', 'King Mukla');0.6011080332409973
+('Explosive Shot', 'Hogger', 'Mana Wraith');0.5650969529085873
+('Explosive Shot', 'Hogger', 'Multi-Shot');0.5041551246537396
+('Explosive Shot', 'Hogger', 'Stormwind Champion');0.5373961218836565
+('Explosive Shot', 'Hogger', 'Sunwalker');0.6011080332409973
+('Explosive Shot', 'Hogger', 'The Black Knight');0.5373961218836565
+('Explosive Shot', 'King Mukla', 'Mana Wraith');0.5207756232686981
+('Explosive Shot', 'King Mukla', 'Sunwalker');0.554016620498615
+('Explosive Shot', 'King Mukla', 'The Black Knight');0.5013850415512465
+('Explosive Shot', 'Mana Wraith', 'Sunwalker');0.5290858725761773
+('Explosive Shot', 'Stormwind Champion', 'Sunwalker');0.5152354570637119
+('Explosive Shot', 'Sunwalker', 'The Black Knight');0.5069252077562327
+('Hogger', 'King Mukla', 'Mana Wraith');0.5373961218836565
+('Hogger', 'King Mukla', 'Stormwind Champion');0.5152354570637119
+('Hogger', 'King Mukla', 'Sunwalker');0.5650969529085873
+('Hogger', 'King Mukla', 'The Black Knight');0.5207756232686981
+('Hogger', 'Mana Wraith', 'Sunwalker');0.5401662049861495
+('Hogger', 'Stormwind Champion', 'Sunwalker');0.5263157894736842
+('Hogger', 'Sunwalker', 'The Black Knight');0.518005540166205
+('King Mukla', 'Mana Wraith', 'Sunwalker');0.5041551246537396
+('Bloodsail Raider', 'Explosive Shot', 'Hogger', 'Sunwalker');0.5124653739612188
+('Doomsayer', 'Explosive Shot', 'Hogger', 'King Mukla');0.518005540166205
+('Doomsayer', 'Explosive Shot', 'Hogger', 'Sunwalker');0.5290858725761773
+('Explosive Shot', 'Hogger', 'King Mukla', 'Mana Wraith');0.518005540166205
+('Explosive Shot', 'Hogger', 'King Mukla', 'Sunwalker');0.554016620498615
+('Explosive Shot', 'Hogger', 'King Mukla', 'The Black Knight');0.5013850415512465
+('Explosive Shot', 'Hogger', 'Mana Wraith', 'Sunwalker');0.5290858725761773
+('Explosive Shot', 'Hogger', 'Stormwind Champion', 'Sunwalker');0.5152354570637119
+('Explosive Shot', 'Hogger', 'Sunwalker', 'The Black Knight');0.5069252077562327
+('Bloodsail Raider', 'Doomsayer', 'Explosive Shot', 'Hogger', 'Sunwalker');0.4487534626038781
+('Bloodsail Raider', 'Explosive Shot', 'Hogger', 'King Mukla', 'Sunwalker');0.481994459833795
+('Bloodsail Raider', 'Explosive Shot', 'Hogger', 'Mana Wraith', 'Sunwalker');0.4515235457063712
+('Bloodsail Raider', 'Explosive Shot', 'Hogger', 'Stormwind Champion', 'Sunwalker');0.45706371191135736
+('Bloodsail Raider', 'Explosive Shot', 'Hogger', 'Sunwalker', 'The Black Knight');0.45429362880886426
+('Doomsayer', 'Explosive Shot', 'Hogger', 'King Mukla', 'Sunwalker');0.48753462603878117
+('Doomsayer', 'Explosive Shot', 'Hogger', 'King Mukla', 'Mana Wraith');0.4515235457063712
+('Doomsayer', 'Explosive Shot', 'Hogger', 'King Mukla', 'The Black Knight');0.4404432132963989
+('Doomsayer', 'Explosive Shot', 'Hogger', 'Mana Wraith', 'Sunwalker');0.4626038781163435
+('Doomsayer', 'Explosive Shot', 'Hogger', 'Stormwind Champion', 'Sunwalker');0.45429362880886426
+('Doomsayer', 'Explosive Shot', 'Hogger', 'Sunwalker', 'The Black Knight');0.44598337950138506
+('Explosive Shot', 'Hogger', 'King Mukla', 'Mana Wraith', 'Sunwalker');0.48753462603878117
+('Explosive Shot', 'Hogger', 'King Mukla', 'Mana Wraith', 'The Black Knight');0.43213296398891965
+('Explosive Shot', 'Hogger', 'King Mukla', 'Sunwalker', 'The Black Knight');0.4709141274238227
+('Explosive Shot', 'Hogger', 'King Mukla', 'Stormwind Champion', 'Sunwalker');0.4792243767313019
+('Explosive Shot', 'Hogger', 'Mana Wraith', 'Stormwind Champion', 'Sunwalker');0.44598337950138506
+('Explosive Shot', 'Hogger', 'Mana Wraith', 'Sunwalker', 'The Black Knight');0.4376731301939058
+('Explosive Shot', 'Hogger', 'Stormwind Champion', 'Sunwalker', 'The Black Knight');0.45429362880886426

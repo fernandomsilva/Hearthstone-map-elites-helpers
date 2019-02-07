@@ -1,0 +1,22 @@
+('Booty Bay Bodyguard',);0.6620498614958449
+('Earthen Ring Farseer',);0.6897506925207756
+('Flesheating Ghoul',);0.9279778393351801
+('King Krush',);0.628808864265928
+('Millhouse Manastorm',);0.631578947368421
+('Pint-Sized Summoner',);0.6925207756232687
+('Sunwalker',);0.7146814404432132
+('Booty Bay Bodyguard', 'Flesheating Ghoul');0.6620498614958449
+('Booty Bay Bodyguard', 'Pint-Sized Summoner');0.5069252077562327
+('Earthen Ring Farseer', 'Flesheating Ghoul');0.6731301939058172
+('Earthen Ring Farseer', 'Pint-Sized Summoner');0.5069252077562327
+('Flesheating Ghoul', 'King Krush');0.592797783933518
+('Flesheating Ghoul', 'Millhouse Manastorm');0.5817174515235457
+('Flesheating Ghoul', 'Pint-Sized Summoner');0.6565096952908587
+('Flesheating Ghoul', 'Sunwalker');0.667590027700831
+('King Krush', 'Pint-Sized Summoner');0.5678670360110804
+('Booty Bay Bodyguard', 'Flesheating Ghoul', 'Pint-Sized Summoner');0.5069252077562327
+('Earthen Ring Farseer', 'Flesheating Ghoul', 'Pint-Sized Summoner');0.5013850415512465
+('Flesheating Ghoul', 'King Krush', 'Pint-Sized Summoner');0.556786703601108
+('Booty Bay Bodyguard', 'Earthen Ring Farseer', 'Flesheating Ghoul', 'Pint-Sized Summoner');0.3850415512465374
+('Booty Bay Bodyguard', 'Flesheating Ghoul', 'King Krush', 'Pint-Sized Summoner');0.4404432132963989
+('Earthen Ring Farseer', 'Flesheating Ghoul', 'King Krush', 'Pint-Sized Summoner');0.4515235457063712

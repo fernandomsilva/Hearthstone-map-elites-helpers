@@ -1,0 +1,935 @@
+('Acidic Swamp Ooze',);0.6759002770083102
+('Aldor Peacekeeper',);0.8060941828254847
+('Alexstrasza',);0.8919667590027701
+('Bloodfen Raptor',);0.7313019390581718
+('Consecration',);1.0
+('Crazed Alchemist',);0.5207756232686981
+('Earthen Ring Farseer',);0.590027700831025
+('Frostwolf Grunt',);0.5096952908587258
+('Hammer of Wrath',);0.7091412742382271
+('Magma Rager',);0.6260387811634349
+('Mana Wraith',);0.6731301939058172
+('Millhouse Manastorm',);0.9556786703601108
+('Mountain Giant',);0.6481994459833795
+('Questing Adventurer',);0.590027700831025
+('Southsea Deckhand',);0.5207756232686981
+('Stampeding Kodo',);0.8227146814404432
+('Sunwalker',);0.9889196675900277
+('Tauren Warrior',);0.739612188365651
+('The Black Knight',);0.9667590027700831
+('Tirion Fordring',);0.7257617728531855
+('Wild Pyromancer',);0.5595567867036011
+('Acidic Swamp Ooze', 'Aldor Peacekeeper');0.5512465373961218
+('Acidic Swamp Ooze', 'Alexstrasza');0.6066481994459834
+('Acidic Swamp Ooze', 'Consecration');0.6759002770083102
+('Acidic Swamp Ooze', 'Millhouse Manastorm');0.6537396121883656
+('Acidic Swamp Ooze', 'Stampeding Kodo');0.5263157894736842
+('Acidic Swamp Ooze', 'Sunwalker');0.6703601108033241
+('Acidic Swamp Ooze', 'The Black Knight');0.6454293628808865
+('Aldor Peacekeeper', 'Alexstrasza');0.7146814404432132
+('Aldor Peacekeeper', 'Bloodfen Raptor');0.5512465373961218
+('Aldor Peacekeeper', 'Consecration');0.8060941828254847
+('Aldor Peacekeeper', 'Hammer of Wrath');0.5706371191135734
+('Aldor Peacekeeper', 'Mana Wraith');0.6011080332409973
+('Aldor Peacekeeper', 'Millhouse Manastorm');0.7839335180055401
+('Aldor Peacekeeper', 'Mountain Giant');0.5429362880886427
+('Aldor Peacekeeper', 'Stampeding Kodo');0.6343490304709142
+('Aldor Peacekeeper', 'Sunwalker');0.7950138504155124
+('Aldor Peacekeeper', 'Tauren Warrior');0.6177285318559557
+('Aldor Peacekeeper', 'The Black Knight');0.7839335180055401
+('Aldor Peacekeeper', 'Tirion Fordring');0.5401662049861495
+('Aldor Peacekeeper', 'Wild Pyromancer');0.518005540166205
+('Alexstrasza', 'Bloodfen Raptor');0.6814404432132964
+('Alexstrasza', 'Consecration');0.8919667590027701
+('Alexstrasza', 'Earthen Ring Farseer');0.5207756232686981
+('Alexstrasza', 'Hammer of Wrath');0.6177285318559557
+('Alexstrasza', 'Magma Rager');0.590027700831025
+('Alexstrasza', 'Mana Wraith');0.5817174515235457
+('Alexstrasza', 'Millhouse Manastorm');0.850415512465374
+('Alexstrasza', 'Mountain Giant');0.5678670360110804
+('Alexstrasza', 'Questing Adventurer');0.556786703601108
+('Alexstrasza', 'Stampeding Kodo');0.7202216066481995
+('Alexstrasza', 'Sunwalker');0.8808864265927978
+('Alexstrasza', 'Tauren Warrior');0.6648199445983379
+('Alexstrasza', 'The Black Knight');0.8670360110803325
+('Alexstrasza', 'Tirion Fordring');0.6232686980609419
+('Bloodfen Raptor', 'Consecration');0.7313019390581718
+('Bloodfen Raptor', 'Hammer of Wrath');0.556786703601108
+('Bloodfen Raptor', 'Mana Wraith');0.5013850415512465
+('Bloodfen Raptor', 'Millhouse Manastorm');0.6925207756232687
+('Bloodfen Raptor', 'Stampeding Kodo');0.6786703601108033
+('Bloodfen Raptor', 'Sunwalker');0.7257617728531855
+('Bloodfen Raptor', 'Tauren Warrior');0.5041551246537396
+('Bloodfen Raptor', 'The Black Knight');0.7119113573407202
+('Bloodfen Raptor', 'Tirion Fordring');0.592797783933518
+('Consecration', 'Crazed Alchemist');0.5207756232686981
+('Consecration', 'Earthen Ring Farseer');0.590027700831025
+('Consecration', 'Frostwolf Grunt');0.5096952908587258
+('Consecration', 'Hammer of Wrath');0.7091412742382271
+('Consecration', 'Magma Rager');0.6260387811634349
+('Consecration', 'Mana Wraith');0.6731301939058172
+('Consecration', 'Millhouse Manastorm');0.9556786703601108
+('Consecration', 'Mountain Giant');0.6481994459833795
+('Consecration', 'Questing Adventurer');0.590027700831025
+('Consecration', 'Southsea Deckhand');0.5207756232686981
+('Consecration', 'Stampeding Kodo');0.8227146814404432
+('Consecration', 'Sunwalker');0.9889196675900277
+('Consecration', 'Tauren Warrior');0.739612188365651
+('Consecration', 'The Black Knight');0.9667590027700831
+('Consecration', 'Tirion Fordring');0.7257617728531855
+('Consecration', 'Wild Pyromancer');0.5595567867036011
+('Crazed Alchemist', 'Millhouse Manastorm');0.5041551246537396
+('Crazed Alchemist', 'Sunwalker');0.5207756232686981
+('Crazed Alchemist', 'The Black Knight');0.518005540166205
+('Earthen Ring Farseer', 'Millhouse Manastorm');0.556786703601108
+('Earthen Ring Farseer', 'Stampeding Kodo');0.5401662049861495
+('Earthen Ring Farseer', 'Sunwalker');0.5789473684210527
+('Earthen Ring Farseer', 'The Black Knight');0.5678670360110804
+('Frostwolf Grunt', 'Sunwalker');0.5096952908587258
+('Hammer of Wrath', 'Millhouse Manastorm');0.6869806094182825
+('Hammer of Wrath', 'Stampeding Kodo');0.6398891966759003
+('Hammer of Wrath', 'Sunwalker');0.7008310249307479
+('Hammer of Wrath', 'Tauren Warrior');0.5457063711911357
+('Hammer of Wrath', 'The Black Knight');0.6786703601108033
+('Hammer of Wrath', 'Tirion Fordring');0.5429362880886427
+('Magma Rager', 'Millhouse Manastorm');0.592797783933518
+('Magma Rager', 'Sunwalker');0.6177285318559557
+('Magma Rager', 'The Black Knight');0.6066481994459834
+('Mana Wraith', 'Millhouse Manastorm');0.6398891966759003
+('Mana Wraith', 'Stampeding Kodo');0.5844875346260388
+('Mana Wraith', 'Sunwalker');0.667590027700831
+('Mana Wraith', 'The Black Knight');0.6509695290858726
+('Mana Wraith', 'Tirion Fordring');0.5373961218836565
+('Millhouse Manastorm', 'Mountain Giant');0.6204986149584487
+('Millhouse Manastorm', 'Questing Adventurer');0.5623268698060941
+('Millhouse Manastorm', 'Southsea Deckhand');0.5041551246537396
+('Millhouse Manastorm', 'Stampeding Kodo');0.7811634349030471
+('Millhouse Manastorm', 'Sunwalker');0.9473684210526315
+('Millhouse Manastorm', 'Tauren Warrior');0.7174515235457064
+('Millhouse Manastorm', 'The Black Knight');0.9279778393351801
+('Millhouse Manastorm', 'Tirion Fordring');0.6842105263157895
+('Millhouse Manastorm', 'Wild Pyromancer');0.5346260387811634
+('Mountain Giant', 'Stampeding Kodo');0.5263157894736842
+('Mountain Giant', 'Sunwalker');0.6371191135734072
+('Mountain Giant', 'Tauren Warrior');0.5595567867036011
+('Mountain Giant', 'The Black Knight');0.6204986149584487
+('Questing Adventurer', 'Sunwalker');0.5817174515235457
+('Questing Adventurer', 'The Black Knight');0.5706371191135734
+('Southsea Deckhand', 'Sunwalker');0.5096952908587258
+('Southsea Deckhand', 'The Black Knight');0.5041551246537396
+('Stampeding Kodo', 'Sunwalker');0.8116343490304709
+('Stampeding Kodo', 'Tauren Warrior');0.590027700831025
+('Stampeding Kodo', 'The Black Knight');0.7894736842105263
+('Stampeding Kodo', 'Tirion Fordring');0.6565096952908587
+('Sunwalker', 'Tauren Warrior');0.7313019390581718
+('Sunwalker', 'The Black Knight');0.9556786703601108
+('Sunwalker', 'Tirion Fordring');0.7146814404432132
+('Sunwalker', 'Wild Pyromancer');0.5595567867036011
+('Tauren Warrior', 'The Black Knight');0.7119113573407202
+('The Black Knight', 'Tirion Fordring');0.6925207756232687
+('The Black Knight', 'Wild Pyromancer');0.5457063711911357
+('Acidic Swamp Ooze', 'Aldor Peacekeeper', 'Consecration');0.5512465373961218
+('Acidic Swamp Ooze', 'Aldor Peacekeeper', 'Millhouse Manastorm');0.5457063711911357
+('Acidic Swamp Ooze', 'Aldor Peacekeeper', 'Sunwalker');0.5457063711911357
+('Acidic Swamp Ooze', 'Aldor Peacekeeper', 'The Black Knight');0.5318559556786704
+('Acidic Swamp Ooze', 'Alexstrasza', 'Consecration');0.6066481994459834
+('Acidic Swamp Ooze', 'Alexstrasza', 'Millhouse Manastorm');0.5844875346260388
+('Acidic Swamp Ooze', 'Alexstrasza', 'Sunwalker');0.6011080332409973
+('Acidic Swamp Ooze', 'Alexstrasza', 'The Black Knight');0.5817174515235457
+('Acidic Swamp Ooze', 'Consecration', 'Millhouse Manastorm');0.6537396121883656
+('Acidic Swamp Ooze', 'Consecration', 'Stampeding Kodo');0.5263157894736842
+('Acidic Swamp Ooze', 'Consecration', 'Sunwalker');0.6703601108033241
+('Acidic Swamp Ooze', 'Consecration', 'The Black Knight');0.6454293628808865
+('Acidic Swamp Ooze', 'Millhouse Manastorm', 'Stampeding Kodo');0.5041551246537396
+('Acidic Swamp Ooze', 'Millhouse Manastorm', 'Sunwalker');0.6481994459833795
+('Acidic Swamp Ooze', 'Millhouse Manastorm', 'The Black Knight');0.628808864265928
+('Acidic Swamp Ooze', 'Stampeding Kodo', 'Sunwalker');0.5207756232686981
+('Acidic Swamp Ooze', 'Sunwalker', 'The Black Knight');0.6398891966759003
+('Aldor Peacekeeper', 'Alexstrasza', 'Bloodfen Raptor');0.5152354570637119
+('Aldor Peacekeeper', 'Alexstrasza', 'Consecration');0.7146814404432132
+('Aldor Peacekeeper', 'Alexstrasza', 'Mana Wraith');0.5207756232686981
+('Aldor Peacekeeper', 'Alexstrasza', 'Millhouse Manastorm');0.6952908587257618
+('Aldor Peacekeeper', 'Alexstrasza', 'Stampeding Kodo');0.5484764542936288
+('Aldor Peacekeeper', 'Alexstrasza', 'Sunwalker');0.703601108033241
+('Aldor Peacekeeper', 'Alexstrasza', 'Tauren Warrior');0.5512465373961218
+('Aldor Peacekeeper', 'Alexstrasza', 'The Black Knight');0.7008310249307479
+('Aldor Peacekeeper', 'Bloodfen Raptor', 'Consecration');0.5512465373961218
+('Aldor Peacekeeper', 'Bloodfen Raptor', 'Millhouse Manastorm');0.5346260387811634
+('Aldor Peacekeeper', 'Bloodfen Raptor', 'Stampeding Kodo');0.5041551246537396
+('Aldor Peacekeeper', 'Bloodfen Raptor', 'Sunwalker');0.5457063711911357
+('Aldor Peacekeeper', 'Bloodfen Raptor', 'The Black Knight');0.5429362880886427
+('Aldor Peacekeeper', 'Consecration', 'Hammer of Wrath');0.5706371191135734
+('Aldor Peacekeeper', 'Consecration', 'Mana Wraith');0.6011080332409973
+('Aldor Peacekeeper', 'Consecration', 'Millhouse Manastorm');0.7839335180055401
+('Aldor Peacekeeper', 'Consecration', 'Mountain Giant');0.5429362880886427
+('Aldor Peacekeeper', 'Consecration', 'Stampeding Kodo');0.6343490304709142
+('Aldor Peacekeeper', 'Consecration', 'Sunwalker');0.7950138504155124
+('Aldor Peacekeeper', 'Consecration', 'Tauren Warrior');0.6177285318559557
+('Aldor Peacekeeper', 'Consecration', 'The Black Knight');0.7839335180055401
+('Aldor Peacekeeper', 'Consecration', 'Tirion Fordring');0.5401662049861495
+('Aldor Peacekeeper', 'Consecration', 'Wild Pyromancer');0.518005540166205
+('Aldor Peacekeeper', 'Hammer of Wrath', 'Millhouse Manastorm');0.554016620498615
+('Aldor Peacekeeper', 'Hammer of Wrath', 'Stampeding Kodo');0.5069252077562327
+('Aldor Peacekeeper', 'Hammer of Wrath', 'Sunwalker');0.5623268698060941
+('Aldor Peacekeeper', 'Hammer of Wrath', 'The Black Knight');0.5512465373961218
+('Aldor Peacekeeper', 'Mana Wraith', 'Millhouse Manastorm');0.5817174515235457
+('Aldor Peacekeeper', 'Mana Wraith', 'Stampeding Kodo');0.518005540166205
+('Aldor Peacekeeper', 'Mana Wraith', 'Sunwalker');0.5955678670360111
+('Aldor Peacekeeper', 'Mana Wraith', 'The Black Knight');0.5789473684210527
+('Aldor Peacekeeper', 'Millhouse Manastorm', 'Mountain Giant');0.5235457063711911
+('Aldor Peacekeeper', 'Millhouse Manastorm', 'Stampeding Kodo');0.6149584487534626
+('Aldor Peacekeeper', 'Millhouse Manastorm', 'Sunwalker');0.775623268698061
+('Aldor Peacekeeper', 'Millhouse Manastorm', 'Tauren Warrior');0.6038781163434903
+('Aldor Peacekeeper', 'Millhouse Manastorm', 'The Black Knight');0.7645429362880887
+('Aldor Peacekeeper', 'Millhouse Manastorm', 'Tirion Fordring');0.5207756232686981
+('Aldor Peacekeeper', 'Millhouse Manastorm', 'Wild Pyromancer');0.5013850415512465
+('Aldor Peacekeeper', 'Mountain Giant', 'Sunwalker');0.5318559556786704
+('Aldor Peacekeeper', 'Mountain Giant', 'The Black Knight');0.5235457063711911
+('Aldor Peacekeeper', 'Stampeding Kodo', 'Sunwalker');0.6232686980609419
+('Aldor Peacekeeper', 'Stampeding Kodo', 'The Black Knight');0.6121883656509696
+('Aldor Peacekeeper', 'Sunwalker', 'Tauren Warrior');0.6094182825484764
+('Aldor Peacekeeper', 'Sunwalker', 'The Black Knight');0.7728531855955678
+('Aldor Peacekeeper', 'Sunwalker', 'Tirion Fordring');0.5290858725761773
+('Aldor Peacekeeper', 'Sunwalker', 'Wild Pyromancer');0.518005540166205
+('Aldor Peacekeeper', 'Tauren Warrior', 'The Black Knight');0.5983379501385041
+('Aldor Peacekeeper', 'The Black Knight', 'Tirion Fordring');0.518005540166205
+('Aldor Peacekeeper', 'The Black Knight', 'Wild Pyromancer');0.5041551246537396
+('Alexstrasza', 'Bloodfen Raptor', 'Consecration');0.6814404432132964
+('Alexstrasza', 'Bloodfen Raptor', 'Hammer of Wrath');0.5096952908587258
+('Alexstrasza', 'Bloodfen Raptor', 'Millhouse Manastorm');0.6426592797783933
+('Alexstrasza', 'Bloodfen Raptor', 'Stampeding Kodo');0.631578947368421
+('Alexstrasza', 'Bloodfen Raptor', 'Sunwalker');0.6759002770083102
+('Alexstrasza', 'Bloodfen Raptor', 'The Black Knight');0.6620498614958449
+('Alexstrasza', 'Bloodfen Raptor', 'Tirion Fordring');0.5429362880886427
+('Alexstrasza', 'Consecration', 'Earthen Ring Farseer');0.5207756232686981
+('Alexstrasza', 'Consecration', 'Hammer of Wrath');0.6177285318559557
+('Alexstrasza', 'Consecration', 'Magma Rager');0.590027700831025
+('Alexstrasza', 'Consecration', 'Mana Wraith');0.5817174515235457
+('Alexstrasza', 'Consecration', 'Millhouse Manastorm');0.850415512465374
+('Alexstrasza', 'Consecration', 'Mountain Giant');0.5678670360110804
+('Alexstrasza', 'Consecration', 'Questing Adventurer');0.556786703601108
+('Alexstrasza', 'Consecration', 'Stampeding Kodo');0.7202216066481995
+('Alexstrasza', 'Consecration', 'Sunwalker');0.8808864265927978
+('Alexstrasza', 'Consecration', 'Tauren Warrior');0.6648199445983379
+('Alexstrasza', 'Consecration', 'The Black Knight');0.8670360110803325
+('Alexstrasza', 'Consecration', 'Tirion Fordring');0.6232686980609419
+('Alexstrasza', 'Earthen Ring Farseer', 'Sunwalker');0.5096952908587258
+('Alexstrasza', 'Earthen Ring Farseer', 'The Black Knight');0.5041551246537396
+('Alexstrasza', 'Hammer of Wrath', 'Millhouse Manastorm');0.5983379501385041
+('Alexstrasza', 'Hammer of Wrath', 'Stampeding Kodo');0.5512465373961218
+('Alexstrasza', 'Hammer of Wrath', 'Sunwalker');0.6094182825484764
+('Alexstrasza', 'Hammer of Wrath', 'The Black Knight');0.5955678670360111
+('Alexstrasza', 'Magma Rager', 'Millhouse Manastorm');0.556786703601108
+('Alexstrasza', 'Magma Rager', 'Sunwalker');0.5817174515235457
+('Alexstrasza', 'Magma Rager', 'The Black Knight');0.5706371191135734
+('Alexstrasza', 'Mana Wraith', 'Millhouse Manastorm');0.5512465373961218
+('Alexstrasza', 'Mana Wraith', 'Sunwalker');0.5761772853185596
+('Alexstrasza', 'Mana Wraith', 'The Black Knight');0.5678670360110804
+('Alexstrasza', 'Millhouse Manastorm', 'Mountain Giant');0.5429362880886427
+('Alexstrasza', 'Millhouse Manastorm', 'Questing Adventurer');0.5290858725761773
+('Alexstrasza', 'Millhouse Manastorm', 'Stampeding Kodo');0.6814404432132964
+('Alexstrasza', 'Millhouse Manastorm', 'Sunwalker');0.8421052631578947
+('Alexstrasza', 'Millhouse Manastorm', 'Tauren Warrior');0.6454293628808865
+('Alexstrasza', 'Millhouse Manastorm', 'The Black Knight');0.8310249307479224
+('Alexstrasza', 'Millhouse Manastorm', 'Tirion Fordring');0.5844875346260388
+('Alexstrasza', 'Mountain Giant', 'Sunwalker');0.556786703601108
+('Alexstrasza', 'Mountain Giant', 'The Black Knight');0.5484764542936288
+('Alexstrasza', 'Questing Adventurer', 'Sunwalker');0.5484764542936288
+('Alexstrasza', 'Questing Adventurer', 'The Black Knight');0.5401662049861495
+('Alexstrasza', 'Stampeding Kodo', 'Sunwalker');0.7091412742382271
+('Alexstrasza', 'Stampeding Kodo', 'Tauren Warrior');0.518005540166205
+('Alexstrasza', 'Stampeding Kodo', 'The Black Knight');0.6952908587257618
+('Alexstrasza', 'Stampeding Kodo', 'Tirion Fordring');0.556786703601108
+('Alexstrasza', 'Sunwalker', 'Tauren Warrior');0.6565096952908587
+('Alexstrasza', 'Sunwalker', 'The Black Knight');0.8559556786703602
+('Alexstrasza', 'Sunwalker', 'Tirion Fordring');0.6121883656509696
+('Alexstrasza', 'Tauren Warrior', 'The Black Knight');0.6454293628808865
+('Alexstrasza', 'The Black Knight', 'Tirion Fordring');0.5983379501385041
+('Bloodfen Raptor', 'Consecration', 'Hammer of Wrath');0.556786703601108
+('Bloodfen Raptor', 'Consecration', 'Mana Wraith');0.5013850415512465
+('Bloodfen Raptor', 'Consecration', 'Millhouse Manastorm');0.6925207756232687
+('Bloodfen Raptor', 'Consecration', 'Stampeding Kodo');0.6786703601108033
+('Bloodfen Raptor', 'Consecration', 'Sunwalker');0.7257617728531855
+('Bloodfen Raptor', 'Consecration', 'Tauren Warrior');0.5041551246537396
+('Bloodfen Raptor', 'Consecration', 'The Black Knight');0.7119113573407202
+('Bloodfen Raptor', 'Consecration', 'Tirion Fordring');0.592797783933518
+('Bloodfen Raptor', 'Hammer of Wrath', 'Millhouse Manastorm');0.5401662049861495
+('Bloodfen Raptor', 'Hammer of Wrath', 'Stampeding Kodo');0.518005540166205
+('Bloodfen Raptor', 'Hammer of Wrath', 'Sunwalker');0.5512465373961218
+('Bloodfen Raptor', 'Hammer of Wrath', 'The Black Knight');0.5401662049861495
+('Bloodfen Raptor', 'Millhouse Manastorm', 'Stampeding Kodo');0.6426592797783933
+('Bloodfen Raptor', 'Millhouse Manastorm', 'Sunwalker');0.6869806094182825
+('Bloodfen Raptor', 'Millhouse Manastorm', 'The Black Knight');0.6786703601108033
+('Bloodfen Raptor', 'Millhouse Manastorm', 'Tirion Fordring');0.556786703601108
+('Bloodfen Raptor', 'Stampeding Kodo', 'Sunwalker');0.6731301939058172
+('Bloodfen Raptor', 'Stampeding Kodo', 'The Black Knight');0.6592797783933518
+('Bloodfen Raptor', 'Stampeding Kodo', 'Tirion Fordring');0.5512465373961218
+('Bloodfen Raptor', 'Sunwalker', 'Tauren Warrior');0.5013850415512465
+('Bloodfen Raptor', 'Sunwalker', 'The Black Knight');0.7063711911357341
+('Bloodfen Raptor', 'Sunwalker', 'Tirion Fordring');0.5872576177285319
+('Bloodfen Raptor', 'The Black Knight', 'Tirion Fordring');0.5734072022160664
+('Consecration', 'Crazed Alchemist', 'Millhouse Manastorm');0.5041551246537396
+('Consecration', 'Crazed Alchemist', 'Sunwalker');0.5207756232686981
+('Consecration', 'Crazed Alchemist', 'The Black Knight');0.518005540166205
+('Consecration', 'Earthen Ring Farseer', 'Millhouse Manastorm');0.556786703601108
+('Consecration', 'Earthen Ring Farseer', 'Stampeding Kodo');0.5401662049861495
+('Consecration', 'Earthen Ring Farseer', 'Sunwalker');0.5789473684210527
+('Consecration', 'Earthen Ring Farseer', 'The Black Knight');0.5678670360110804
+('Consecration', 'Frostwolf Grunt', 'Sunwalker');0.5096952908587258
+('Consecration', 'Hammer of Wrath', 'Millhouse Manastorm');0.6869806094182825
+('Consecration', 'Hammer of Wrath', 'Stampeding Kodo');0.6398891966759003
+('Consecration', 'Hammer of Wrath', 'Sunwalker');0.7008310249307479
+('Consecration', 'Hammer of Wrath', 'Tauren Warrior');0.5457063711911357
+('Consecration', 'Hammer of Wrath', 'The Black Knight');0.6786703601108033
+('Consecration', 'Hammer of Wrath', 'Tirion Fordring');0.5429362880886427
+('Consecration', 'Magma Rager', 'Millhouse Manastorm');0.592797783933518
+('Consecration', 'Magma Rager', 'Sunwalker');0.6177285318559557
+('Consecration', 'Magma Rager', 'The Black Knight');0.6066481994459834
+('Consecration', 'Mana Wraith', 'Millhouse Manastorm');0.6398891966759003
+('Consecration', 'Mana Wraith', 'Stampeding Kodo');0.5844875346260388
+('Consecration', 'Mana Wraith', 'Sunwalker');0.667590027700831
+('Consecration', 'Mana Wraith', 'The Black Knight');0.6509695290858726
+('Consecration', 'Mana Wraith', 'Tirion Fordring');0.5373961218836565
+('Consecration', 'Millhouse Manastorm', 'Mountain Giant');0.6204986149584487
+('Consecration', 'Millhouse Manastorm', 'Questing Adventurer');0.5623268698060941
+('Consecration', 'Millhouse Manastorm', 'Southsea Deckhand');0.5041551246537396
+('Consecration', 'Millhouse Manastorm', 'Stampeding Kodo');0.7811634349030471
+('Consecration', 'Millhouse Manastorm', 'Sunwalker');0.9473684210526315
+('Consecration', 'Millhouse Manastorm', 'Tauren Warrior');0.7174515235457064
+('Consecration', 'Millhouse Manastorm', 'The Black Knight');0.9279778393351801
+('Consecration', 'Millhouse Manastorm', 'Tirion Fordring');0.6842105263157895
+('Consecration', 'Millhouse Manastorm', 'Wild Pyromancer');0.5346260387811634
+('Consecration', 'Mountain Giant', 'Stampeding Kodo');0.5263157894736842
+('Consecration', 'Mountain Giant', 'Sunwalker');0.6371191135734072
+('Consecration', 'Mountain Giant', 'Tauren Warrior');0.5595567867036011
+('Consecration', 'Mountain Giant', 'The Black Knight');0.6204986149584487
+('Consecration', 'Questing Adventurer', 'Sunwalker');0.5817174515235457
+('Consecration', 'Questing Adventurer', 'The Black Knight');0.5706371191135734
+('Consecration', 'Southsea Deckhand', 'Sunwalker');0.5096952908587258
+('Consecration', 'Southsea Deckhand', 'The Black Knight');0.5041551246537396
+('Consecration', 'Stampeding Kodo', 'Sunwalker');0.8116343490304709
+('Consecration', 'Stampeding Kodo', 'Tauren Warrior');0.590027700831025
+('Consecration', 'Stampeding Kodo', 'The Black Knight');0.7894736842105263
+('Consecration', 'Stampeding Kodo', 'Tirion Fordring');0.6565096952908587
+('Consecration', 'Sunwalker', 'Tauren Warrior');0.7313019390581718
+('Consecration', 'Sunwalker', 'The Black Knight');0.9556786703601108
+('Consecration', 'Sunwalker', 'Tirion Fordring');0.7146814404432132
+('Consecration', 'Sunwalker', 'Wild Pyromancer');0.5595567867036011
+('Consecration', 'Tauren Warrior', 'The Black Knight');0.7119113573407202
+('Consecration', 'The Black Knight', 'Tirion Fordring');0.6925207756232687
+('Consecration', 'The Black Knight', 'Wild Pyromancer');0.5457063711911357
+('Crazed Alchemist', 'Millhouse Manastorm', 'Sunwalker');0.5041551246537396
+('Crazed Alchemist', 'Millhouse Manastorm', 'The Black Knight');0.5013850415512465
+('Crazed Alchemist', 'Sunwalker', 'The Black Knight');0.518005540166205
+('Earthen Ring Farseer', 'Millhouse Manastorm', 'Stampeding Kodo');0.5069252077562327
+('Earthen Ring Farseer', 'Millhouse Manastorm', 'Sunwalker');0.5484764542936288
+('Earthen Ring Farseer', 'Millhouse Manastorm', 'The Black Knight');0.5401662049861495
+('Earthen Ring Farseer', 'Stampeding Kodo', 'Sunwalker');0.5290858725761773
+('Earthen Ring Farseer', 'Stampeding Kodo', 'The Black Knight');0.518005540166205
+('Earthen Ring Farseer', 'Sunwalker', 'The Black Knight');0.556786703601108
+('Hammer of Wrath', 'Millhouse Manastorm', 'Stampeding Kodo');0.6204986149584487
+('Hammer of Wrath', 'Millhouse Manastorm', 'Sunwalker');0.6814404432132964
+('Hammer of Wrath', 'Millhouse Manastorm', 'Tauren Warrior');0.5318559556786704
+('Hammer of Wrath', 'Millhouse Manastorm', 'The Black Knight');0.6592797783933518
+('Hammer of Wrath', 'Millhouse Manastorm', 'Tirion Fordring');0.5235457063711911
+('Hammer of Wrath', 'Stampeding Kodo', 'Sunwalker');0.631578947368421
+('Hammer of Wrath', 'Stampeding Kodo', 'The Black Knight');0.6094182825484764
+('Hammer of Wrath', 'Stampeding Kodo', 'Tirion Fordring');0.5069252077562327
+('Hammer of Wrath', 'Sunwalker', 'Tauren Warrior');0.5401662049861495
+('Hammer of Wrath', 'Sunwalker', 'The Black Knight');0.6703601108033241
+('Hammer of Wrath', 'Sunwalker', 'Tirion Fordring');0.5346260387811634
+('Hammer of Wrath', 'Tauren Warrior', 'The Black Knight');0.5207756232686981
+('Hammer of Wrath', 'The Black Knight', 'Tirion Fordring');0.5124653739612188
+('Magma Rager', 'Millhouse Manastorm', 'Sunwalker');0.5872576177285319
+('Magma Rager', 'Millhouse Manastorm', 'The Black Knight');0.5789473684210527
+('Magma Rager', 'Sunwalker', 'The Black Knight');0.5983379501385041
+('Mana Wraith', 'Millhouse Manastorm', 'Stampeding Kodo');0.554016620498615
+('Mana Wraith', 'Millhouse Manastorm', 'Sunwalker');0.6343490304709142
+('Mana Wraith', 'Millhouse Manastorm', 'The Black Knight');0.6204986149584487
+('Mana Wraith', 'Millhouse Manastorm', 'Tirion Fordring');0.5069252077562327
+('Mana Wraith', 'Stampeding Kodo', 'Sunwalker');0.5789473684210527
+('Mana Wraith', 'Stampeding Kodo', 'The Black Knight');0.5623268698060941
+('Mana Wraith', 'Sunwalker', 'The Black Knight');0.6454293628808865
+('Mana Wraith', 'Sunwalker', 'Tirion Fordring');0.5318559556786704
+('Mana Wraith', 'The Black Knight', 'Tirion Fordring');0.5152354570637119
+('Millhouse Manastorm', 'Mountain Giant', 'Stampeding Kodo');0.5013850415512465
+('Millhouse Manastorm', 'Mountain Giant', 'Sunwalker');0.6121883656509696
+('Millhouse Manastorm', 'Mountain Giant', 'Tauren Warrior');0.5401662049861495
+('Millhouse Manastorm', 'Mountain Giant', 'The Black Knight');0.5983379501385041
+('Millhouse Manastorm', 'Questing Adventurer', 'Sunwalker');0.556786703601108
+('Millhouse Manastorm', 'Questing Adventurer', 'The Black Knight');0.5457063711911357
+('Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker');0.7728531855955678
+('Millhouse Manastorm', 'Stampeding Kodo', 'Tauren Warrior');0.5678670360110804
+('Millhouse Manastorm', 'Stampeding Kodo', 'The Black Knight');0.7534626038781164
+('Millhouse Manastorm', 'Stampeding Kodo', 'Tirion Fordring');0.6149584487534626
+('Millhouse Manastorm', 'Sunwalker', 'Tauren Warrior');0.7119113573407202
+('Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.9196675900277008
+('Millhouse Manastorm', 'Sunwalker', 'Tirion Fordring');0.6759002770083102
+('Millhouse Manastorm', 'Sunwalker', 'Wild Pyromancer');0.5346260387811634
+('Millhouse Manastorm', 'Tauren Warrior', 'The Black Knight');0.6952908587257618
+('Millhouse Manastorm', 'The Black Knight', 'Tirion Fordring');0.6565096952908587
+('Millhouse Manastorm', 'The Black Knight', 'Wild Pyromancer');0.5207756232686981
+('Mountain Giant', 'Stampeding Kodo', 'Sunwalker');0.5152354570637119
+('Mountain Giant', 'Sunwalker', 'Tauren Warrior');0.5512465373961218
+('Mountain Giant', 'Sunwalker', 'The Black Knight');0.6094182825484764
+('Mountain Giant', 'Tauren Warrior', 'The Black Knight');0.5346260387811634
+('Questing Adventurer', 'Sunwalker', 'The Black Knight');0.5623268698060941
+('Stampeding Kodo', 'Sunwalker', 'Tauren Warrior');0.5817174515235457
+('Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.778393351800554
+('Stampeding Kodo', 'Sunwalker', 'Tirion Fordring');0.6454293628808865
+('Stampeding Kodo', 'Tauren Warrior', 'The Black Knight');0.5623268698060941
+('Stampeding Kodo', 'The Black Knight', 'Tirion Fordring');0.6232686980609419
+('Sunwalker', 'Tauren Warrior', 'The Black Knight');0.703601108033241
+('Sunwalker', 'The Black Knight', 'Tirion Fordring');0.6814404432132964
+('Sunwalker', 'The Black Knight', 'Wild Pyromancer');0.5457063711911357
+('Acidic Swamp Ooze', 'Aldor Peacekeeper', 'Consecration', 'Millhouse Manastorm');0.5457063711911357
+('Acidic Swamp Ooze', 'Aldor Peacekeeper', 'Consecration', 'Sunwalker');0.5457063711911357
+('Acidic Swamp Ooze', 'Aldor Peacekeeper', 'Consecration', 'The Black Knight');0.5318559556786704
+('Acidic Swamp Ooze', 'Aldor Peacekeeper', 'Millhouse Manastorm', 'Sunwalker');0.5401662049861495
+('Acidic Swamp Ooze', 'Aldor Peacekeeper', 'Millhouse Manastorm', 'The Black Knight');0.5290858725761773
+('Acidic Swamp Ooze', 'Aldor Peacekeeper', 'Sunwalker', 'The Black Knight');0.5263157894736842
+('Acidic Swamp Ooze', 'Alexstrasza', 'Consecration', 'Millhouse Manastorm');0.5844875346260388
+('Acidic Swamp Ooze', 'Alexstrasza', 'Consecration', 'Sunwalker');0.6011080332409973
+('Acidic Swamp Ooze', 'Alexstrasza', 'Consecration', 'The Black Knight');0.5817174515235457
+('Acidic Swamp Ooze', 'Alexstrasza', 'Millhouse Manastorm', 'Sunwalker');0.5789473684210527
+('Acidic Swamp Ooze', 'Alexstrasza', 'Millhouse Manastorm', 'The Black Knight');0.5650969529085873
+('Acidic Swamp Ooze', 'Alexstrasza', 'Sunwalker', 'The Black Knight');0.5761772853185596
+('Acidic Swamp Ooze', 'Consecration', 'Millhouse Manastorm', 'Stampeding Kodo');0.5041551246537396
+('Acidic Swamp Ooze', 'Consecration', 'Millhouse Manastorm', 'Sunwalker');0.6481994459833795
+('Acidic Swamp Ooze', 'Consecration', 'Millhouse Manastorm', 'The Black Knight');0.628808864265928
+('Acidic Swamp Ooze', 'Consecration', 'Stampeding Kodo', 'Sunwalker');0.5207756232686981
+('Acidic Swamp Ooze', 'Consecration', 'Sunwalker', 'The Black Knight');0.6398891966759003
+('Acidic Swamp Ooze', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.6232686980609419
+('Aldor Peacekeeper', 'Alexstrasza', 'Bloodfen Raptor', 'Consecration');0.5152354570637119
+('Aldor Peacekeeper', 'Alexstrasza', 'Bloodfen Raptor', 'Sunwalker');0.5096952908587258
+('Aldor Peacekeeper', 'Alexstrasza', 'Bloodfen Raptor', 'The Black Knight');0.5069252077562327
+('Aldor Peacekeeper', 'Alexstrasza', 'Consecration', 'Mana Wraith');0.5207756232686981
+('Aldor Peacekeeper', 'Alexstrasza', 'Consecration', 'Millhouse Manastorm');0.6952908587257618
+('Aldor Peacekeeper', 'Alexstrasza', 'Consecration', 'Stampeding Kodo');0.5484764542936288
+('Aldor Peacekeeper', 'Alexstrasza', 'Consecration', 'Sunwalker');0.703601108033241
+('Aldor Peacekeeper', 'Alexstrasza', 'Consecration', 'Tauren Warrior');0.5512465373961218
+('Aldor Peacekeeper', 'Alexstrasza', 'Consecration', 'The Black Knight');0.7008310249307479
+('Aldor Peacekeeper', 'Alexstrasza', 'Mana Wraith', 'Millhouse Manastorm');0.5041551246537396
+('Aldor Peacekeeper', 'Alexstrasza', 'Mana Wraith', 'Sunwalker');0.5152354570637119
+('Aldor Peacekeeper', 'Alexstrasza', 'Mana Wraith', 'The Black Knight');0.5069252077562327
+('Aldor Peacekeeper', 'Alexstrasza', 'Millhouse Manastorm', 'Stampeding Kodo');0.5318559556786704
+('Aldor Peacekeeper', 'Alexstrasza', 'Millhouse Manastorm', 'Sunwalker');0.6869806094182825
+('Aldor Peacekeeper', 'Alexstrasza', 'Millhouse Manastorm', 'Tauren Warrior');0.5401662049861495
+('Aldor Peacekeeper', 'Alexstrasza', 'Millhouse Manastorm', 'The Black Knight');0.6842105263157895
+('Aldor Peacekeeper', 'Alexstrasza', 'Stampeding Kodo', 'Sunwalker');0.5373961218836565
+('Aldor Peacekeeper', 'Alexstrasza', 'Stampeding Kodo', 'The Black Knight');0.5346260387811634
+('Aldor Peacekeeper', 'Alexstrasza', 'Sunwalker', 'Tauren Warrior');0.5429362880886427
+('Aldor Peacekeeper', 'Alexstrasza', 'Sunwalker', 'The Black Knight');0.6897506925207756
+('Aldor Peacekeeper', 'Alexstrasza', 'Tauren Warrior', 'The Black Knight');0.5401662049861495
+('Aldor Peacekeeper', 'Bloodfen Raptor', 'Consecration', 'Millhouse Manastorm');0.5346260387811634
+('Aldor Peacekeeper', 'Bloodfen Raptor', 'Consecration', 'Stampeding Kodo');0.5041551246537396
+('Aldor Peacekeeper', 'Bloodfen Raptor', 'Consecration', 'Sunwalker');0.5457063711911357
+('Aldor Peacekeeper', 'Bloodfen Raptor', 'Consecration', 'The Black Knight');0.5429362880886427
+('Aldor Peacekeeper', 'Bloodfen Raptor', 'Millhouse Manastorm', 'Sunwalker');0.5290858725761773
+('Aldor Peacekeeper', 'Bloodfen Raptor', 'Millhouse Manastorm', 'The Black Knight');0.5290858725761773
+('Aldor Peacekeeper', 'Bloodfen Raptor', 'Sunwalker', 'The Black Knight');0.5373961218836565
+('Aldor Peacekeeper', 'Consecration', 'Hammer of Wrath', 'Millhouse Manastorm');0.554016620498615
+('Aldor Peacekeeper', 'Consecration', 'Hammer of Wrath', 'Stampeding Kodo');0.5069252077562327
+('Aldor Peacekeeper', 'Consecration', 'Hammer of Wrath', 'Sunwalker');0.5623268698060941
+('Aldor Peacekeeper', 'Consecration', 'Hammer of Wrath', 'The Black Knight');0.5512465373961218
+('Aldor Peacekeeper', 'Consecration', 'Mana Wraith', 'Millhouse Manastorm');0.5817174515235457
+('Aldor Peacekeeper', 'Consecration', 'Mana Wraith', 'Stampeding Kodo');0.518005540166205
+('Aldor Peacekeeper', 'Consecration', 'Mana Wraith', 'Sunwalker');0.5955678670360111
+('Aldor Peacekeeper', 'Consecration', 'Mana Wraith', 'The Black Knight');0.5789473684210527
+('Aldor Peacekeeper', 'Consecration', 'Millhouse Manastorm', 'Mountain Giant');0.5235457063711911
+('Aldor Peacekeeper', 'Consecration', 'Millhouse Manastorm', 'Stampeding Kodo');0.6149584487534626
+('Aldor Peacekeeper', 'Consecration', 'Millhouse Manastorm', 'Sunwalker');0.775623268698061
+('Aldor Peacekeeper', 'Consecration', 'Millhouse Manastorm', 'Tauren Warrior');0.6038781163434903
+('Aldor Peacekeeper', 'Consecration', 'Millhouse Manastorm', 'The Black Knight');0.7645429362880887
+('Aldor Peacekeeper', 'Consecration', 'Millhouse Manastorm', 'Tirion Fordring');0.5207756232686981
+('Aldor Peacekeeper', 'Consecration', 'Millhouse Manastorm', 'Wild Pyromancer');0.5013850415512465
+('Aldor Peacekeeper', 'Consecration', 'Mountain Giant', 'Sunwalker');0.5318559556786704
+('Aldor Peacekeeper', 'Consecration', 'Mountain Giant', 'The Black Knight');0.5235457063711911
+('Aldor Peacekeeper', 'Consecration', 'Stampeding Kodo', 'Sunwalker');0.6232686980609419
+('Aldor Peacekeeper', 'Consecration', 'Stampeding Kodo', 'The Black Knight');0.6121883656509696
+('Aldor Peacekeeper', 'Consecration', 'Sunwalker', 'Tauren Warrior');0.6094182825484764
+('Aldor Peacekeeper', 'Consecration', 'Sunwalker', 'The Black Knight');0.7728531855955678
+('Aldor Peacekeeper', 'Consecration', 'Sunwalker', 'Tirion Fordring');0.5290858725761773
+('Aldor Peacekeeper', 'Consecration', 'Sunwalker', 'Wild Pyromancer');0.518005540166205
+('Aldor Peacekeeper', 'Consecration', 'Tauren Warrior', 'The Black Knight');0.5983379501385041
+('Aldor Peacekeeper', 'Consecration', 'The Black Knight', 'Tirion Fordring');0.518005540166205
+('Aldor Peacekeeper', 'Consecration', 'The Black Knight', 'Wild Pyromancer');0.5041551246537396
+('Aldor Peacekeeper', 'Hammer of Wrath', 'Millhouse Manastorm', 'Sunwalker');0.5484764542936288
+('Aldor Peacekeeper', 'Hammer of Wrath', 'Millhouse Manastorm', 'The Black Knight');0.5346260387811634
+('Aldor Peacekeeper', 'Hammer of Wrath', 'Sunwalker', 'The Black Knight');0.5429362880886427
+('Aldor Peacekeeper', 'Mana Wraith', 'Millhouse Manastorm', 'Stampeding Kodo');0.5013850415512465
+('Aldor Peacekeeper', 'Mana Wraith', 'Millhouse Manastorm', 'Sunwalker');0.5761772853185596
+('Aldor Peacekeeper', 'Mana Wraith', 'Millhouse Manastorm', 'The Black Knight');0.5623268698060941
+('Aldor Peacekeeper', 'Mana Wraith', 'Stampeding Kodo', 'Sunwalker');0.5124653739612188
+('Aldor Peacekeeper', 'Mana Wraith', 'Sunwalker', 'The Black Knight');0.5734072022160664
+('Aldor Peacekeeper', 'Millhouse Manastorm', 'Mountain Giant', 'Sunwalker');0.5152354570637119
+('Aldor Peacekeeper', 'Millhouse Manastorm', 'Mountain Giant', 'The Black Knight');0.5069252077562327
+('Aldor Peacekeeper', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker');0.6066481994459834
+('Aldor Peacekeeper', 'Millhouse Manastorm', 'Stampeding Kodo', 'The Black Knight');0.5955678670360111
+('Aldor Peacekeeper', 'Millhouse Manastorm', 'Sunwalker', 'Tauren Warrior');0.5983379501385041
+('Aldor Peacekeeper', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.7562326869806094
+('Aldor Peacekeeper', 'Millhouse Manastorm', 'Sunwalker', 'Tirion Fordring');0.5124653739612188
+('Aldor Peacekeeper', 'Millhouse Manastorm', 'Sunwalker', 'Wild Pyromancer');0.5013850415512465
+('Aldor Peacekeeper', 'Millhouse Manastorm', 'Tauren Warrior', 'The Black Knight');0.5872576177285319
+('Aldor Peacekeeper', 'Millhouse Manastorm', 'The Black Knight', 'Tirion Fordring');0.5013850415512465
+('Aldor Peacekeeper', 'Mountain Giant', 'Sunwalker', 'The Black Knight');0.5124653739612188
+('Aldor Peacekeeper', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.6011080332409973
+('Aldor Peacekeeper', 'Sunwalker', 'Tauren Warrior', 'The Black Knight');0.590027700831025
+('Aldor Peacekeeper', 'Sunwalker', 'The Black Knight', 'Tirion Fordring');0.5069252077562327
+('Aldor Peacekeeper', 'Sunwalker', 'The Black Knight', 'Wild Pyromancer');0.5041551246537396
+('Alexstrasza', 'Bloodfen Raptor', 'Consecration', 'Hammer of Wrath');0.5096952908587258
+('Alexstrasza', 'Bloodfen Raptor', 'Consecration', 'Millhouse Manastorm');0.6426592797783933
+('Alexstrasza', 'Bloodfen Raptor', 'Consecration', 'Stampeding Kodo');0.631578947368421
+('Alexstrasza', 'Bloodfen Raptor', 'Consecration', 'Sunwalker');0.6759002770083102
+('Alexstrasza', 'Bloodfen Raptor', 'Consecration', 'The Black Knight');0.6620498614958449
+('Alexstrasza', 'Bloodfen Raptor', 'Consecration', 'Tirion Fordring');0.5429362880886427
+('Alexstrasza', 'Bloodfen Raptor', 'Hammer of Wrath', 'Sunwalker');0.5041551246537396
+('Alexstrasza', 'Bloodfen Raptor', 'Millhouse Manastorm', 'Stampeding Kodo');0.5955678670360111
+('Alexstrasza', 'Bloodfen Raptor', 'Millhouse Manastorm', 'Sunwalker');0.6371191135734072
+('Alexstrasza', 'Bloodfen Raptor', 'Millhouse Manastorm', 'The Black Knight');0.628808864265928
+('Alexstrasza', 'Bloodfen Raptor', 'Millhouse Manastorm', 'Tirion Fordring');0.5069252077562327
+('Alexstrasza', 'Bloodfen Raptor', 'Stampeding Kodo', 'Sunwalker');0.6260387811634349
+('Alexstrasza', 'Bloodfen Raptor', 'Stampeding Kodo', 'The Black Knight');0.6121883656509696
+('Alexstrasza', 'Bloodfen Raptor', 'Stampeding Kodo', 'Tirion Fordring');0.5041551246537396
+('Alexstrasza', 'Bloodfen Raptor', 'Sunwalker', 'The Black Knight');0.6565096952908587
+('Alexstrasza', 'Bloodfen Raptor', 'Sunwalker', 'Tirion Fordring');0.5373961218836565
+('Alexstrasza', 'Bloodfen Raptor', 'The Black Knight', 'Tirion Fordring');0.5235457063711911
+('Alexstrasza', 'Consecration', 'Earthen Ring Farseer', 'Sunwalker');0.5096952908587258
+('Alexstrasza', 'Consecration', 'Earthen Ring Farseer', 'The Black Knight');0.5041551246537396
+('Alexstrasza', 'Consecration', 'Hammer of Wrath', 'Millhouse Manastorm');0.5983379501385041
+('Alexstrasza', 'Consecration', 'Hammer of Wrath', 'Stampeding Kodo');0.5512465373961218
+('Alexstrasza', 'Consecration', 'Hammer of Wrath', 'Sunwalker');0.6094182825484764
+('Alexstrasza', 'Consecration', 'Hammer of Wrath', 'The Black Knight');0.5955678670360111
+('Alexstrasza', 'Consecration', 'Magma Rager', 'Millhouse Manastorm');0.556786703601108
+('Alexstrasza', 'Consecration', 'Magma Rager', 'Sunwalker');0.5817174515235457
+('Alexstrasza', 'Consecration', 'Magma Rager', 'The Black Knight');0.5706371191135734
+('Alexstrasza', 'Consecration', 'Mana Wraith', 'Millhouse Manastorm');0.5512465373961218
+('Alexstrasza', 'Consecration', 'Mana Wraith', 'Sunwalker');0.5761772853185596
+('Alexstrasza', 'Consecration', 'Mana Wraith', 'The Black Knight');0.5678670360110804
+('Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Mountain Giant');0.5429362880886427
+('Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Questing Adventurer');0.5290858725761773
+('Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Stampeding Kodo');0.6814404432132964
+('Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Sunwalker');0.8421052631578947
+('Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Tauren Warrior');0.6454293628808865
+('Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'The Black Knight');0.8310249307479224
+('Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Tirion Fordring');0.5844875346260388
+('Alexstrasza', 'Consecration', 'Mountain Giant', 'Sunwalker');0.556786703601108
+('Alexstrasza', 'Consecration', 'Mountain Giant', 'The Black Knight');0.5484764542936288
+('Alexstrasza', 'Consecration', 'Questing Adventurer', 'Sunwalker');0.5484764542936288
+('Alexstrasza', 'Consecration', 'Questing Adventurer', 'The Black Knight');0.5401662049861495
+('Alexstrasza', 'Consecration', 'Stampeding Kodo', 'Sunwalker');0.7091412742382271
+('Alexstrasza', 'Consecration', 'Stampeding Kodo', 'Tauren Warrior');0.518005540166205
+('Alexstrasza', 'Consecration', 'Stampeding Kodo', 'The Black Knight');0.6952908587257618
+('Alexstrasza', 'Consecration', 'Stampeding Kodo', 'Tirion Fordring');0.556786703601108
+('Alexstrasza', 'Consecration', 'Sunwalker', 'Tauren Warrior');0.6565096952908587
+('Alexstrasza', 'Consecration', 'Sunwalker', 'The Black Knight');0.8559556786703602
+('Alexstrasza', 'Consecration', 'Sunwalker', 'Tirion Fordring');0.6121883656509696
+('Alexstrasza', 'Consecration', 'Tauren Warrior', 'The Black Knight');0.6454293628808865
+('Alexstrasza', 'Consecration', 'The Black Knight', 'Tirion Fordring');0.5983379501385041
+('Alexstrasza', 'Hammer of Wrath', 'Millhouse Manastorm', 'Stampeding Kodo');0.5346260387811634
+('Alexstrasza', 'Hammer of Wrath', 'Millhouse Manastorm', 'Sunwalker');0.592797783933518
+('Alexstrasza', 'Hammer of Wrath', 'Millhouse Manastorm', 'The Black Knight');0.5789473684210527
+('Alexstrasza', 'Hammer of Wrath', 'Stampeding Kodo', 'Sunwalker');0.5429362880886427
+('Alexstrasza', 'Hammer of Wrath', 'Stampeding Kodo', 'The Black Knight');0.5290858725761773
+('Alexstrasza', 'Hammer of Wrath', 'Sunwalker', 'The Black Knight');0.5872576177285319
+('Alexstrasza', 'Magma Rager', 'Millhouse Manastorm', 'Sunwalker');0.5512465373961218
+('Alexstrasza', 'Magma Rager', 'Millhouse Manastorm', 'The Black Knight');0.5429362880886427
+('Alexstrasza', 'Magma Rager', 'Sunwalker', 'The Black Knight');0.5623268698060941
+('Alexstrasza', 'Mana Wraith', 'Millhouse Manastorm', 'Sunwalker');0.5457063711911357
+('Alexstrasza', 'Mana Wraith', 'Millhouse Manastorm', 'The Black Knight');0.5401662049861495
+('Alexstrasza', 'Mana Wraith', 'Sunwalker', 'The Black Knight');0.5623268698060941
+('Alexstrasza', 'Millhouse Manastorm', 'Mountain Giant', 'Sunwalker');0.5346260387811634
+('Alexstrasza', 'Millhouse Manastorm', 'Mountain Giant', 'The Black Knight');0.5290858725761773
+('Alexstrasza', 'Millhouse Manastorm', 'Questing Adventurer', 'Sunwalker');0.5235457063711911
+('Alexstrasza', 'Millhouse Manastorm', 'Questing Adventurer', 'The Black Knight');0.5152354570637119
+('Alexstrasza', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker');0.6731301939058172
+('Alexstrasza', 'Millhouse Manastorm', 'Stampeding Kodo', 'The Black Knight');0.6620498614958449
+('Alexstrasza', 'Millhouse Manastorm', 'Stampeding Kodo', 'Tirion Fordring');0.518005540166205
+('Alexstrasza', 'Millhouse Manastorm', 'Sunwalker', 'Tauren Warrior');0.6398891966759003
+('Alexstrasza', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.8227146814404432
+('Alexstrasza', 'Millhouse Manastorm', 'Sunwalker', 'Tirion Fordring');0.5761772853185596
+('Alexstrasza', 'Millhouse Manastorm', 'Tauren Warrior', 'The Black Knight');0.631578947368421
+('Alexstrasza', 'Millhouse Manastorm', 'The Black Knight', 'Tirion Fordring');0.5650969529085873
+('Alexstrasza', 'Mountain Giant', 'Sunwalker', 'The Black Knight');0.5373961218836565
+('Alexstrasza', 'Questing Adventurer', 'Sunwalker', 'The Black Knight');0.5318559556786704
+('Alexstrasza', 'Stampeding Kodo', 'Sunwalker', 'Tauren Warrior');0.5096952908587258
+('Alexstrasza', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.6842105263157895
+('Alexstrasza', 'Stampeding Kodo', 'Sunwalker', 'Tirion Fordring');0.5457063711911357
+('Alexstrasza', 'Stampeding Kodo', 'The Black Knight', 'Tirion Fordring');0.5318559556786704
+('Alexstrasza', 'Sunwalker', 'Tauren Warrior', 'The Black Knight');0.6371191135734072
+('Alexstrasza', 'Sunwalker', 'The Black Knight', 'Tirion Fordring');0.5872576177285319
+('Bloodfen Raptor', 'Consecration', 'Hammer of Wrath', 'Millhouse Manastorm');0.5401662049861495
+('Bloodfen Raptor', 'Consecration', 'Hammer of Wrath', 'Stampeding Kodo');0.518005540166205
+('Bloodfen Raptor', 'Consecration', 'Hammer of Wrath', 'Sunwalker');0.5512465373961218
+('Bloodfen Raptor', 'Consecration', 'Hammer of Wrath', 'The Black Knight');0.5401662049861495
+('Bloodfen Raptor', 'Consecration', 'Millhouse Manastorm', 'Stampeding Kodo');0.6426592797783933
+('Bloodfen Raptor', 'Consecration', 'Millhouse Manastorm', 'Sunwalker');0.6869806094182825
+('Bloodfen Raptor', 'Consecration', 'Millhouse Manastorm', 'The Black Knight');0.6786703601108033
+('Bloodfen Raptor', 'Consecration', 'Millhouse Manastorm', 'Tirion Fordring');0.556786703601108
+('Bloodfen Raptor', 'Consecration', 'Stampeding Kodo', 'Sunwalker');0.6731301939058172
+('Bloodfen Raptor', 'Consecration', 'Stampeding Kodo', 'The Black Knight');0.6592797783933518
+('Bloodfen Raptor', 'Consecration', 'Stampeding Kodo', 'Tirion Fordring');0.5512465373961218
+('Bloodfen Raptor', 'Consecration', 'Sunwalker', 'Tauren Warrior');0.5013850415512465
+('Bloodfen Raptor', 'Consecration', 'Sunwalker', 'The Black Knight');0.7063711911357341
+('Bloodfen Raptor', 'Consecration', 'Sunwalker', 'Tirion Fordring');0.5872576177285319
+('Bloodfen Raptor', 'Consecration', 'The Black Knight', 'Tirion Fordring');0.5734072022160664
+('Bloodfen Raptor', 'Hammer of Wrath', 'Millhouse Manastorm', 'Stampeding Kodo');0.5041551246537396
+('Bloodfen Raptor', 'Hammer of Wrath', 'Millhouse Manastorm', 'Sunwalker');0.5346260387811634
+('Bloodfen Raptor', 'Hammer of Wrath', 'Millhouse Manastorm', 'The Black Knight');0.5263157894736842
+('Bloodfen Raptor', 'Hammer of Wrath', 'Stampeding Kodo', 'Sunwalker');0.5124653739612188
+('Bloodfen Raptor', 'Hammer of Wrath', 'Stampeding Kodo', 'The Black Knight');0.5013850415512465
+('Bloodfen Raptor', 'Hammer of Wrath', 'Sunwalker', 'The Black Knight');0.5346260387811634
+('Bloodfen Raptor', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker');0.6371191135734072
+('Bloodfen Raptor', 'Millhouse Manastorm', 'Stampeding Kodo', 'The Black Knight');0.628808864265928
+('Bloodfen Raptor', 'Millhouse Manastorm', 'Stampeding Kodo', 'Tirion Fordring');0.5152354570637119
+('Bloodfen Raptor', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.6731301939058172
+('Bloodfen Raptor', 'Millhouse Manastorm', 'Sunwalker', 'Tirion Fordring');0.5512465373961218
+('Bloodfen Raptor', 'Millhouse Manastorm', 'The Black Knight', 'Tirion Fordring');0.5429362880886427
+('Bloodfen Raptor', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.6537396121883656
+('Bloodfen Raptor', 'Stampeding Kodo', 'Sunwalker', 'Tirion Fordring');0.5457063711911357
+('Bloodfen Raptor', 'Stampeding Kodo', 'The Black Knight', 'Tirion Fordring');0.5318559556786704
+('Bloodfen Raptor', 'Sunwalker', 'The Black Knight', 'Tirion Fordring');0.5678670360110804
+('Consecration', 'Crazed Alchemist', 'Millhouse Manastorm', 'Sunwalker');0.5041551246537396
+('Consecration', 'Crazed Alchemist', 'Millhouse Manastorm', 'The Black Knight');0.5013850415512465
+('Consecration', 'Crazed Alchemist', 'Sunwalker', 'The Black Knight');0.518005540166205
+('Consecration', 'Earthen Ring Farseer', 'Millhouse Manastorm', 'Stampeding Kodo');0.5069252077562327
+('Consecration', 'Earthen Ring Farseer', 'Millhouse Manastorm', 'Sunwalker');0.5484764542936288
+('Consecration', 'Earthen Ring Farseer', 'Millhouse Manastorm', 'The Black Knight');0.5401662049861495
+('Consecration', 'Earthen Ring Farseer', 'Stampeding Kodo', 'Sunwalker');0.5290858725761773
+('Consecration', 'Earthen Ring Farseer', 'Stampeding Kodo', 'The Black Knight');0.518005540166205
+('Consecration', 'Earthen Ring Farseer', 'Sunwalker', 'The Black Knight');0.556786703601108
+('Consecration', 'Hammer of Wrath', 'Millhouse Manastorm', 'Stampeding Kodo');0.6204986149584487
+('Consecration', 'Hammer of Wrath', 'Millhouse Manastorm', 'Sunwalker');0.6814404432132964
+('Consecration', 'Hammer of Wrath', 'Millhouse Manastorm', 'Tauren Warrior');0.5318559556786704
+('Consecration', 'Hammer of Wrath', 'Millhouse Manastorm', 'The Black Knight');0.6592797783933518
+('Consecration', 'Hammer of Wrath', 'Millhouse Manastorm', 'Tirion Fordring');0.5235457063711911
+('Consecration', 'Hammer of Wrath', 'Stampeding Kodo', 'Sunwalker');0.631578947368421
+('Consecration', 'Hammer of Wrath', 'Stampeding Kodo', 'The Black Knight');0.6094182825484764
+('Consecration', 'Hammer of Wrath', 'Stampeding Kodo', 'Tirion Fordring');0.5069252077562327
+('Consecration', 'Hammer of Wrath', 'Sunwalker', 'Tauren Warrior');0.5401662049861495
+('Consecration', 'Hammer of Wrath', 'Sunwalker', 'The Black Knight');0.6703601108033241
+('Consecration', 'Hammer of Wrath', 'Sunwalker', 'Tirion Fordring');0.5346260387811634
+('Consecration', 'Hammer of Wrath', 'Tauren Warrior', 'The Black Knight');0.5207756232686981
+('Consecration', 'Hammer of Wrath', 'The Black Knight', 'Tirion Fordring');0.5124653739612188
+('Consecration', 'Magma Rager', 'Millhouse Manastorm', 'Sunwalker');0.5872576177285319
+('Consecration', 'Magma Rager', 'Millhouse Manastorm', 'The Black Knight');0.5789473684210527
+('Consecration', 'Magma Rager', 'Sunwalker', 'The Black Knight');0.5983379501385041
+('Consecration', 'Mana Wraith', 'Millhouse Manastorm', 'Stampeding Kodo');0.554016620498615
+('Consecration', 'Mana Wraith', 'Millhouse Manastorm', 'Sunwalker');0.6343490304709142
+('Consecration', 'Mana Wraith', 'Millhouse Manastorm', 'The Black Knight');0.6204986149584487
+('Consecration', 'Mana Wraith', 'Millhouse Manastorm', 'Tirion Fordring');0.5069252077562327
+('Consecration', 'Mana Wraith', 'Stampeding Kodo', 'Sunwalker');0.5789473684210527
+('Consecration', 'Mana Wraith', 'Stampeding Kodo', 'The Black Knight');0.5623268698060941
+('Consecration', 'Mana Wraith', 'Sunwalker', 'The Black Knight');0.6454293628808865
+('Consecration', 'Mana Wraith', 'Sunwalker', 'Tirion Fordring');0.5318559556786704
+('Consecration', 'Mana Wraith', 'The Black Knight', 'Tirion Fordring');0.5152354570637119
+('Consecration', 'Millhouse Manastorm', 'Mountain Giant', 'Stampeding Kodo');0.5013850415512465
+('Consecration', 'Millhouse Manastorm', 'Mountain Giant', 'Sunwalker');0.6121883656509696
+('Consecration', 'Millhouse Manastorm', 'Mountain Giant', 'Tauren Warrior');0.5401662049861495
+('Consecration', 'Millhouse Manastorm', 'Mountain Giant', 'The Black Knight');0.5983379501385041
+('Consecration', 'Millhouse Manastorm', 'Questing Adventurer', 'Sunwalker');0.556786703601108
+('Consecration', 'Millhouse Manastorm', 'Questing Adventurer', 'The Black Knight');0.5457063711911357
+('Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker');0.7728531855955678
+('Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'Tauren Warrior');0.5678670360110804
+('Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'The Black Knight');0.7534626038781164
+('Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'Tirion Fordring');0.6149584487534626
+('Consecration', 'Millhouse Manastorm', 'Sunwalker', 'Tauren Warrior');0.7119113573407202
+('Consecration', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.9196675900277008
+('Consecration', 'Millhouse Manastorm', 'Sunwalker', 'Tirion Fordring');0.6759002770083102
+('Consecration', 'Millhouse Manastorm', 'Sunwalker', 'Wild Pyromancer');0.5346260387811634
+('Consecration', 'Millhouse Manastorm', 'Tauren Warrior', 'The Black Knight');0.6952908587257618
+('Consecration', 'Millhouse Manastorm', 'The Black Knight', 'Tirion Fordring');0.6565096952908587
+('Consecration', 'Millhouse Manastorm', 'The Black Knight', 'Wild Pyromancer');0.5207756232686981
+('Consecration', 'Mountain Giant', 'Stampeding Kodo', 'Sunwalker');0.5152354570637119
+('Consecration', 'Mountain Giant', 'Sunwalker', 'Tauren Warrior');0.5512465373961218
+('Consecration', 'Mountain Giant', 'Sunwalker', 'The Black Knight');0.6094182825484764
+('Consecration', 'Mountain Giant', 'Tauren Warrior', 'The Black Knight');0.5346260387811634
+('Consecration', 'Questing Adventurer', 'Sunwalker', 'The Black Knight');0.5623268698060941
+('Consecration', 'Stampeding Kodo', 'Sunwalker', 'Tauren Warrior');0.5817174515235457
+('Consecration', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.778393351800554
+('Consecration', 'Stampeding Kodo', 'Sunwalker', 'Tirion Fordring');0.6454293628808865
+('Consecration', 'Stampeding Kodo', 'Tauren Warrior', 'The Black Knight');0.5623268698060941
+('Consecration', 'Stampeding Kodo', 'The Black Knight', 'Tirion Fordring');0.6232686980609419
+('Consecration', 'Sunwalker', 'Tauren Warrior', 'The Black Knight');0.703601108033241
+('Consecration', 'Sunwalker', 'The Black Knight', 'Tirion Fordring');0.6814404432132964
+('Consecration', 'Sunwalker', 'The Black Knight', 'Wild Pyromancer');0.5457063711911357
+('Crazed Alchemist', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.5013850415512465
+('Earthen Ring Farseer', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.5318559556786704
+('Earthen Ring Farseer', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.5069252077562327
+('Hammer of Wrath', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker');0.6149584487534626
+('Hammer of Wrath', 'Millhouse Manastorm', 'Stampeding Kodo', 'The Black Knight');0.592797783933518
+('Hammer of Wrath', 'Millhouse Manastorm', 'Sunwalker', 'Tauren Warrior');0.5290858725761773
+('Hammer of Wrath', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.6537396121883656
+('Hammer of Wrath', 'Millhouse Manastorm', 'Sunwalker', 'Tirion Fordring');0.518005540166205
+('Hammer of Wrath', 'Millhouse Manastorm', 'Tauren Warrior', 'The Black Knight');0.5096952908587258
+('Hammer of Wrath', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.6011080332409973
+('Hammer of Wrath', 'Sunwalker', 'Tauren Warrior', 'The Black Knight');0.5152354570637119
+('Hammer of Wrath', 'Sunwalker', 'The Black Knight', 'Tirion Fordring');0.5041551246537396
+('Magma Rager', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.5734072022160664
+('Mana Wraith', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker');0.5484764542936288
+('Mana Wraith', 'Millhouse Manastorm', 'Stampeding Kodo', 'The Black Knight');0.5346260387811634
+('Mana Wraith', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.6149584487534626
+('Mana Wraith', 'Millhouse Manastorm', 'Sunwalker', 'Tirion Fordring');0.5013850415512465
+('Mana Wraith', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.556786703601108
+('Mana Wraith', 'Sunwalker', 'The Black Knight', 'Tirion Fordring');0.5096952908587258
+('Millhouse Manastorm', 'Mountain Giant', 'Sunwalker', 'Tauren Warrior');0.5346260387811634
+('Millhouse Manastorm', 'Mountain Giant', 'Sunwalker', 'The Black Knight');0.590027700831025
+('Millhouse Manastorm', 'Mountain Giant', 'Tauren Warrior', 'The Black Knight');0.5207756232686981
+('Millhouse Manastorm', 'Questing Adventurer', 'Sunwalker', 'The Black Knight');0.5401662049861495
+('Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker', 'Tauren Warrior');0.5623268698060941
+('Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.7451523545706371
+('Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker', 'Tirion Fordring');0.6066481994459834
+('Millhouse Manastorm', 'Stampeding Kodo', 'Tauren Warrior', 'The Black Knight');0.5457063711911357
+('Millhouse Manastorm', 'Stampeding Kodo', 'The Black Knight', 'Tirion Fordring');0.5872576177285319
+('Millhouse Manastorm', 'Sunwalker', 'Tauren Warrior', 'The Black Knight');0.6897506925207756
+('Millhouse Manastorm', 'Sunwalker', 'The Black Knight', 'Tirion Fordring');0.6481994459833795
+('Millhouse Manastorm', 'Sunwalker', 'The Black Knight', 'Wild Pyromancer');0.5207756232686981
+('Mountain Giant', 'Sunwalker', 'Tauren Warrior', 'The Black Knight');0.5263157894736842
+('Stampeding Kodo', 'Sunwalker', 'Tauren Warrior', 'The Black Knight');0.554016620498615
+('Stampeding Kodo', 'Sunwalker', 'The Black Knight', 'Tirion Fordring');0.6121883656509696
+('Acidic Swamp Ooze', 'Aldor Peacekeeper', 'Consecration', 'Millhouse Manastorm', 'Sunwalker');0.5401662049861495
+('Acidic Swamp Ooze', 'Aldor Peacekeeper', 'Consecration', 'Millhouse Manastorm', 'The Black Knight');0.5290858725761773
+('Acidic Swamp Ooze', 'Aldor Peacekeeper', 'Consecration', 'Sunwalker', 'The Black Knight');0.5263157894736842
+('Acidic Swamp Ooze', 'Aldor Peacekeeper', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.5235457063711911
+('Acidic Swamp Ooze', 'Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Sunwalker');0.5789473684210527
+('Acidic Swamp Ooze', 'Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'The Black Knight');0.5650969529085873
+('Acidic Swamp Ooze', 'Alexstrasza', 'Consecration', 'Sunwalker', 'The Black Knight');0.5761772853185596
+('Acidic Swamp Ooze', 'Alexstrasza', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.5595567867036011
+('Acidic Swamp Ooze', 'Consecration', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.6232686980609419
+('Aldor Peacekeeper', 'Alexstrasza', 'Bloodfen Raptor', 'Consecration', 'Sunwalker');0.5096952908587258
+('Aldor Peacekeeper', 'Alexstrasza', 'Bloodfen Raptor', 'Consecration', 'The Black Knight');0.5069252077562327
+('Aldor Peacekeeper', 'Alexstrasza', 'Bloodfen Raptor', 'Sunwalker', 'The Black Knight');0.5013850415512465
+('Aldor Peacekeeper', 'Alexstrasza', 'Consecration', 'Mana Wraith', 'Millhouse Manastorm');0.5041551246537396
+('Aldor Peacekeeper', 'Alexstrasza', 'Consecration', 'Mana Wraith', 'Sunwalker');0.5152354570637119
+('Aldor Peacekeeper', 'Alexstrasza', 'Consecration', 'Mana Wraith', 'The Black Knight');0.5069252077562327
+('Aldor Peacekeeper', 'Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Stampeding Kodo');0.5318559556786704
+('Aldor Peacekeeper', 'Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Sunwalker');0.6869806094182825
+('Aldor Peacekeeper', 'Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Tauren Warrior');0.5401662049861495
+('Aldor Peacekeeper', 'Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'The Black Knight');0.6842105263157895
+('Aldor Peacekeeper', 'Alexstrasza', 'Consecration', 'Stampeding Kodo', 'Sunwalker');0.5373961218836565
+('Aldor Peacekeeper', 'Alexstrasza', 'Consecration', 'Stampeding Kodo', 'The Black Knight');0.5346260387811634
+('Aldor Peacekeeper', 'Alexstrasza', 'Consecration', 'Sunwalker', 'Tauren Warrior');0.5429362880886427
+('Aldor Peacekeeper', 'Alexstrasza', 'Consecration', 'Sunwalker', 'The Black Knight');0.6897506925207756
+('Aldor Peacekeeper', 'Alexstrasza', 'Consecration', 'Tauren Warrior', 'The Black Knight');0.5401662049861495
+('Aldor Peacekeeper', 'Alexstrasza', 'Mana Wraith', 'Sunwalker', 'The Black Knight');0.5013850415512465
+('Aldor Peacekeeper', 'Alexstrasza', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker');0.5235457063711911
+('Aldor Peacekeeper', 'Alexstrasza', 'Millhouse Manastorm', 'Stampeding Kodo', 'The Black Knight');0.5207756232686981
+('Aldor Peacekeeper', 'Alexstrasza', 'Millhouse Manastorm', 'Sunwalker', 'Tauren Warrior');0.5346260387811634
+('Aldor Peacekeeper', 'Alexstrasza', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.6759002770083102
+('Aldor Peacekeeper', 'Alexstrasza', 'Millhouse Manastorm', 'Tauren Warrior', 'The Black Knight');0.5318559556786704
+('Aldor Peacekeeper', 'Alexstrasza', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.5235457063711911
+('Aldor Peacekeeper', 'Alexstrasza', 'Sunwalker', 'Tauren Warrior', 'The Black Knight');0.5318559556786704
+('Aldor Peacekeeper', 'Bloodfen Raptor', 'Consecration', 'Millhouse Manastorm', 'Sunwalker');0.5290858725761773
+('Aldor Peacekeeper', 'Bloodfen Raptor', 'Consecration', 'Millhouse Manastorm', 'The Black Knight');0.5290858725761773
+('Aldor Peacekeeper', 'Bloodfen Raptor', 'Consecration', 'Sunwalker', 'The Black Knight');0.5373961218836565
+('Aldor Peacekeeper', 'Bloodfen Raptor', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.5235457063711911
+('Aldor Peacekeeper', 'Consecration', 'Hammer of Wrath', 'Millhouse Manastorm', 'Sunwalker');0.5484764542936288
+('Aldor Peacekeeper', 'Consecration', 'Hammer of Wrath', 'Millhouse Manastorm', 'The Black Knight');0.5346260387811634
+('Aldor Peacekeeper', 'Consecration', 'Hammer of Wrath', 'Sunwalker', 'The Black Knight');0.5429362880886427
+('Aldor Peacekeeper', 'Consecration', 'Mana Wraith', 'Millhouse Manastorm', 'Stampeding Kodo');0.5013850415512465
+('Aldor Peacekeeper', 'Consecration', 'Mana Wraith', 'Millhouse Manastorm', 'Sunwalker');0.5761772853185596
+('Aldor Peacekeeper', 'Consecration', 'Mana Wraith', 'Millhouse Manastorm', 'The Black Knight');0.5623268698060941
+('Aldor Peacekeeper', 'Consecration', 'Mana Wraith', 'Stampeding Kodo', 'Sunwalker');0.5124653739612188
+('Aldor Peacekeeper', 'Consecration', 'Mana Wraith', 'Sunwalker', 'The Black Knight');0.5734072022160664
+('Aldor Peacekeeper', 'Consecration', 'Millhouse Manastorm', 'Mountain Giant', 'Sunwalker');0.5152354570637119
+('Aldor Peacekeeper', 'Consecration', 'Millhouse Manastorm', 'Mountain Giant', 'The Black Knight');0.5069252077562327
+('Aldor Peacekeeper', 'Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker');0.6066481994459834
+('Aldor Peacekeeper', 'Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'The Black Knight');0.5955678670360111
+('Aldor Peacekeeper', 'Consecration', 'Millhouse Manastorm', 'Sunwalker', 'Tauren Warrior');0.5983379501385041
+('Aldor Peacekeeper', 'Consecration', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.7562326869806094
+('Aldor Peacekeeper', 'Consecration', 'Millhouse Manastorm', 'Sunwalker', 'Tirion Fordring');0.5124653739612188
+('Aldor Peacekeeper', 'Consecration', 'Millhouse Manastorm', 'Sunwalker', 'Wild Pyromancer');0.5013850415512465
+('Aldor Peacekeeper', 'Consecration', 'Millhouse Manastorm', 'Tauren Warrior', 'The Black Knight');0.5872576177285319
+('Aldor Peacekeeper', 'Consecration', 'Millhouse Manastorm', 'The Black Knight', 'Tirion Fordring');0.5013850415512465
+('Aldor Peacekeeper', 'Consecration', 'Mountain Giant', 'Sunwalker', 'The Black Knight');0.5124653739612188
+('Aldor Peacekeeper', 'Consecration', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.6011080332409973
+('Aldor Peacekeeper', 'Consecration', 'Sunwalker', 'Tauren Warrior', 'The Black Knight');0.590027700831025
+('Aldor Peacekeeper', 'Consecration', 'Sunwalker', 'The Black Knight', 'Tirion Fordring');0.5069252077562327
+('Aldor Peacekeeper', 'Consecration', 'Sunwalker', 'The Black Knight', 'Wild Pyromancer');0.5041551246537396
+('Aldor Peacekeeper', 'Hammer of Wrath', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.5290858725761773
+('Aldor Peacekeeper', 'Mana Wraith', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.556786703601108
+('Aldor Peacekeeper', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.5872576177285319
+('Aldor Peacekeeper', 'Millhouse Manastorm', 'Sunwalker', 'Tauren Warrior', 'The Black Knight');0.5817174515235457
+('Alexstrasza', 'Bloodfen Raptor', 'Consecration', 'Hammer of Wrath', 'Sunwalker');0.5041551246537396
+('Alexstrasza', 'Bloodfen Raptor', 'Consecration', 'Millhouse Manastorm', 'Stampeding Kodo');0.5955678670360111
+('Alexstrasza', 'Bloodfen Raptor', 'Consecration', 'Millhouse Manastorm', 'Sunwalker');0.6371191135734072
+('Alexstrasza', 'Bloodfen Raptor', 'Consecration', 'Millhouse Manastorm', 'The Black Knight');0.628808864265928
+('Alexstrasza', 'Bloodfen Raptor', 'Consecration', 'Millhouse Manastorm', 'Tirion Fordring');0.5069252077562327
+('Alexstrasza', 'Bloodfen Raptor', 'Consecration', 'Stampeding Kodo', 'Sunwalker');0.6260387811634349
+('Alexstrasza', 'Bloodfen Raptor', 'Consecration', 'Stampeding Kodo', 'The Black Knight');0.6121883656509696
+('Alexstrasza', 'Bloodfen Raptor', 'Consecration', 'Stampeding Kodo', 'Tirion Fordring');0.5041551246537396
+('Alexstrasza', 'Bloodfen Raptor', 'Consecration', 'Sunwalker', 'The Black Knight');0.6565096952908587
+('Alexstrasza', 'Bloodfen Raptor', 'Consecration', 'Sunwalker', 'Tirion Fordring');0.5373961218836565
+('Alexstrasza', 'Bloodfen Raptor', 'Consecration', 'The Black Knight', 'Tirion Fordring');0.5235457063711911
+('Alexstrasza', 'Bloodfen Raptor', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker');0.590027700831025
+('Alexstrasza', 'Bloodfen Raptor', 'Millhouse Manastorm', 'Stampeding Kodo', 'The Black Knight');0.5817174515235457
+('Alexstrasza', 'Bloodfen Raptor', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.6232686980609419
+('Alexstrasza', 'Bloodfen Raptor', 'Millhouse Manastorm', 'Sunwalker', 'Tirion Fordring');0.5013850415512465
+('Alexstrasza', 'Bloodfen Raptor', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.6066481994459834
+('Alexstrasza', 'Bloodfen Raptor', 'Sunwalker', 'The Black Knight', 'Tirion Fordring');0.518005540166205
+('Alexstrasza', 'Consecration', 'Hammer of Wrath', 'Millhouse Manastorm', 'Stampeding Kodo');0.5346260387811634
+('Alexstrasza', 'Consecration', 'Hammer of Wrath', 'Millhouse Manastorm', 'Sunwalker');0.592797783933518
+('Alexstrasza', 'Consecration', 'Hammer of Wrath', 'Millhouse Manastorm', 'The Black Knight');0.5789473684210527
+('Alexstrasza', 'Consecration', 'Hammer of Wrath', 'Stampeding Kodo', 'Sunwalker');0.5429362880886427
+('Alexstrasza', 'Consecration', 'Hammer of Wrath', 'Stampeding Kodo', 'The Black Knight');0.5290858725761773
+('Alexstrasza', 'Consecration', 'Hammer of Wrath', 'Sunwalker', 'The Black Knight');0.5872576177285319
+('Alexstrasza', 'Consecration', 'Magma Rager', 'Millhouse Manastorm', 'Sunwalker');0.5512465373961218
+('Alexstrasza', 'Consecration', 'Magma Rager', 'Millhouse Manastorm', 'The Black Knight');0.5429362880886427
+('Alexstrasza', 'Consecration', 'Magma Rager', 'Sunwalker', 'The Black Knight');0.5623268698060941
+('Alexstrasza', 'Consecration', 'Mana Wraith', 'Millhouse Manastorm', 'Sunwalker');0.5457063711911357
+('Alexstrasza', 'Consecration', 'Mana Wraith', 'Millhouse Manastorm', 'The Black Knight');0.5401662049861495
+('Alexstrasza', 'Consecration', 'Mana Wraith', 'Sunwalker', 'The Black Knight');0.5623268698060941
+('Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Mountain Giant', 'Sunwalker');0.5346260387811634
+('Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Mountain Giant', 'The Black Knight');0.5290858725761773
+('Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Questing Adventurer', 'Sunwalker');0.5235457063711911
+('Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Questing Adventurer', 'The Black Knight');0.5152354570637119
+('Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker');0.6731301939058172
+('Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'The Black Knight');0.6620498614958449
+('Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'Tirion Fordring');0.518005540166205
+('Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Sunwalker', 'Tauren Warrior');0.6398891966759003
+('Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.8227146814404432
+('Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Sunwalker', 'Tirion Fordring');0.5761772853185596
+('Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Tauren Warrior', 'The Black Knight');0.631578947368421
+('Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'The Black Knight', 'Tirion Fordring');0.5650969529085873
+('Alexstrasza', 'Consecration', 'Mountain Giant', 'Sunwalker', 'The Black Knight');0.5373961218836565
+('Alexstrasza', 'Consecration', 'Questing Adventurer', 'Sunwalker', 'The Black Knight');0.5318559556786704
+('Alexstrasza', 'Consecration', 'Stampeding Kodo', 'Sunwalker', 'Tauren Warrior');0.5096952908587258
+('Alexstrasza', 'Consecration', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.6842105263157895
+('Alexstrasza', 'Consecration', 'Stampeding Kodo', 'Sunwalker', 'Tirion Fordring');0.5457063711911357
+('Alexstrasza', 'Consecration', 'Stampeding Kodo', 'The Black Knight', 'Tirion Fordring');0.5318559556786704
+('Alexstrasza', 'Consecration', 'Sunwalker', 'Tauren Warrior', 'The Black Knight');0.6371191135734072
+('Alexstrasza', 'Consecration', 'Sunwalker', 'The Black Knight', 'Tirion Fordring');0.5872576177285319
+('Alexstrasza', 'Hammer of Wrath', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker');0.5290858725761773
+('Alexstrasza', 'Hammer of Wrath', 'Millhouse Manastorm', 'Stampeding Kodo', 'The Black Knight');0.5152354570637119
+('Alexstrasza', 'Hammer of Wrath', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.5734072022160664
+('Alexstrasza', 'Hammer of Wrath', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.5207756232686981
+('Alexstrasza', 'Magma Rager', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.5373961218836565
+('Alexstrasza', 'Mana Wraith', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.5346260387811634
+('Alexstrasza', 'Millhouse Manastorm', 'Mountain Giant', 'Sunwalker', 'The Black Knight');0.5207756232686981
+('Alexstrasza', 'Millhouse Manastorm', 'Questing Adventurer', 'Sunwalker', 'The Black Knight');0.5096952908587258
+('Alexstrasza', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.6537396121883656
+('Alexstrasza', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker', 'Tirion Fordring');0.5096952908587258
+('Alexstrasza', 'Millhouse Manastorm', 'Sunwalker', 'Tauren Warrior', 'The Black Knight');0.6260387811634349
+('Alexstrasza', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight', 'Tirion Fordring');0.556786703601108
+('Alexstrasza', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight', 'Tirion Fordring');0.5207756232686981
+('Bloodfen Raptor', 'Consecration', 'Hammer of Wrath', 'Millhouse Manastorm', 'Stampeding Kodo');0.5041551246537396
+('Bloodfen Raptor', 'Consecration', 'Hammer of Wrath', 'Millhouse Manastorm', 'Sunwalker');0.5346260387811634
+('Bloodfen Raptor', 'Consecration', 'Hammer of Wrath', 'Millhouse Manastorm', 'The Black Knight');0.5263157894736842
+('Bloodfen Raptor', 'Consecration', 'Hammer of Wrath', 'Stampeding Kodo', 'Sunwalker');0.5124653739612188
+('Bloodfen Raptor', 'Consecration', 'Hammer of Wrath', 'Stampeding Kodo', 'The Black Knight');0.5013850415512465
+('Bloodfen Raptor', 'Consecration', 'Hammer of Wrath', 'Sunwalker', 'The Black Knight');0.5346260387811634
+('Bloodfen Raptor', 'Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker');0.6371191135734072
+('Bloodfen Raptor', 'Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'The Black Knight');0.628808864265928
+('Bloodfen Raptor', 'Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'Tirion Fordring');0.5152354570637119
+('Bloodfen Raptor', 'Consecration', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.6731301939058172
+('Bloodfen Raptor', 'Consecration', 'Millhouse Manastorm', 'Sunwalker', 'Tirion Fordring');0.5512465373961218
+('Bloodfen Raptor', 'Consecration', 'Millhouse Manastorm', 'The Black Knight', 'Tirion Fordring');0.5429362880886427
+('Bloodfen Raptor', 'Consecration', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.6537396121883656
+('Bloodfen Raptor', 'Consecration', 'Stampeding Kodo', 'Sunwalker', 'Tirion Fordring');0.5457063711911357
+('Bloodfen Raptor', 'Consecration', 'Stampeding Kodo', 'The Black Knight', 'Tirion Fordring');0.5318559556786704
+('Bloodfen Raptor', 'Consecration', 'Sunwalker', 'The Black Knight', 'Tirion Fordring');0.5678670360110804
+('Bloodfen Raptor', 'Hammer of Wrath', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.5207756232686981
+('Bloodfen Raptor', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.6232686980609419
+('Bloodfen Raptor', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker', 'Tirion Fordring');0.5096952908587258
+('Bloodfen Raptor', 'Millhouse Manastorm', 'Stampeding Kodo', 'The Black Knight', 'Tirion Fordring');0.5013850415512465
+('Bloodfen Raptor', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight', 'Tirion Fordring');0.5373961218836565
+('Bloodfen Raptor', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight', 'Tirion Fordring');0.5263157894736842
+('Consecration', 'Crazed Alchemist', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.5013850415512465
+('Consecration', 'Earthen Ring Farseer', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.5318559556786704
+('Consecration', 'Earthen Ring Farseer', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.5069252077562327
+('Consecration', 'Hammer of Wrath', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker');0.6149584487534626
+('Consecration', 'Hammer of Wrath', 'Millhouse Manastorm', 'Stampeding Kodo', 'The Black Knight');0.592797783933518
+('Consecration', 'Hammer of Wrath', 'Millhouse Manastorm', 'Sunwalker', 'Tauren Warrior');0.5290858725761773
+('Consecration', 'Hammer of Wrath', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.6537396121883656
+('Consecration', 'Hammer of Wrath', 'Millhouse Manastorm', 'Sunwalker', 'Tirion Fordring');0.518005540166205
+('Consecration', 'Hammer of Wrath', 'Millhouse Manastorm', 'Tauren Warrior', 'The Black Knight');0.5096952908587258
+('Consecration', 'Hammer of Wrath', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.6011080332409973
+('Consecration', 'Hammer of Wrath', 'Sunwalker', 'Tauren Warrior', 'The Black Knight');0.5152354570637119
+('Consecration', 'Hammer of Wrath', 'Sunwalker', 'The Black Knight', 'Tirion Fordring');0.5041551246537396
+('Consecration', 'Magma Rager', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.5734072022160664
+('Consecration', 'Mana Wraith', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker');0.5484764542936288
+('Consecration', 'Mana Wraith', 'Millhouse Manastorm', 'Stampeding Kodo', 'The Black Knight');0.5346260387811634
+('Consecration', 'Mana Wraith', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.6149584487534626
+('Consecration', 'Mana Wraith', 'Millhouse Manastorm', 'Sunwalker', 'Tirion Fordring');0.5013850415512465
+('Consecration', 'Mana Wraith', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.556786703601108
+('Consecration', 'Mana Wraith', 'Sunwalker', 'The Black Knight', 'Tirion Fordring');0.5096952908587258
+('Consecration', 'Millhouse Manastorm', 'Mountain Giant', 'Sunwalker', 'Tauren Warrior');0.5346260387811634
+('Consecration', 'Millhouse Manastorm', 'Mountain Giant', 'Sunwalker', 'The Black Knight');0.590027700831025
+('Consecration', 'Millhouse Manastorm', 'Mountain Giant', 'Tauren Warrior', 'The Black Knight');0.5207756232686981
+('Consecration', 'Millhouse Manastorm', 'Questing Adventurer', 'Sunwalker', 'The Black Knight');0.5401662049861495
+('Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker', 'Tauren Warrior');0.5623268698060941
+('Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.7451523545706371
+('Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker', 'Tirion Fordring');0.6066481994459834
+('Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'Tauren Warrior', 'The Black Knight');0.5457063711911357
+('Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'The Black Knight', 'Tirion Fordring');0.5872576177285319
+('Consecration', 'Millhouse Manastorm', 'Sunwalker', 'Tauren Warrior', 'The Black Knight');0.6897506925207756
+('Consecration', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight', 'Tirion Fordring');0.6481994459833795
+('Consecration', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight', 'Wild Pyromancer');0.5207756232686981
+('Consecration', 'Mountain Giant', 'Sunwalker', 'Tauren Warrior', 'The Black Knight');0.5263157894736842
+('Consecration', 'Stampeding Kodo', 'Sunwalker', 'Tauren Warrior', 'The Black Knight');0.554016620498615
+('Consecration', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight', 'Tirion Fordring');0.6121883656509696
+('Hammer of Wrath', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.5872576177285319
+('Hammer of Wrath', 'Millhouse Manastorm', 'Sunwalker', 'Tauren Warrior', 'The Black Knight');0.5069252077562327
+('Mana Wraith', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.5290858725761773
+('Millhouse Manastorm', 'Mountain Giant', 'Sunwalker', 'Tauren Warrior', 'The Black Knight');0.5152354570637119
+('Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker', 'Tauren Warrior', 'The Black Knight');0.5401662049861495
+('Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight', 'Tirion Fordring');0.5789473684210527
+('Acidic Swamp Ooze', 'Aldor Peacekeeper', 'Consecration', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.5235457063711911
+('Acidic Swamp Ooze', 'Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.5595567867036011
+('Aldor Peacekeeper', 'Alexstrasza', 'Bloodfen Raptor', 'Consecration', 'Sunwalker', 'The Black Knight');0.5013850415512465
+('Aldor Peacekeeper', 'Alexstrasza', 'Consecration', 'Mana Wraith', 'Sunwalker', 'The Black Knight');0.5013850415512465
+('Aldor Peacekeeper', 'Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker');0.5235457063711911
+('Aldor Peacekeeper', 'Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'The Black Knight');0.5207756232686981
+('Aldor Peacekeeper', 'Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Sunwalker', 'Tauren Warrior');0.5346260387811634
+('Aldor Peacekeeper', 'Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.6759002770083102
+('Aldor Peacekeeper', 'Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Tauren Warrior', 'The Black Knight');0.5318559556786704
+('Aldor Peacekeeper', 'Alexstrasza', 'Consecration', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.5235457063711911
+('Aldor Peacekeeper', 'Alexstrasza', 'Consecration', 'Sunwalker', 'Tauren Warrior', 'The Black Knight');0.5318559556786704
+('Aldor Peacekeeper', 'Alexstrasza', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.5124653739612188
+('Aldor Peacekeeper', 'Alexstrasza', 'Millhouse Manastorm', 'Sunwalker', 'Tauren Warrior', 'The Black Knight');0.5263157894736842
+('Aldor Peacekeeper', 'Bloodfen Raptor', 'Consecration', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.5235457063711911
+('Aldor Peacekeeper', 'Consecration', 'Hammer of Wrath', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.5290858725761773
+('Aldor Peacekeeper', 'Consecration', 'Mana Wraith', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.556786703601108
+('Aldor Peacekeeper', 'Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.5872576177285319
+('Aldor Peacekeeper', 'Consecration', 'Millhouse Manastorm', 'Sunwalker', 'Tauren Warrior', 'The Black Knight');0.5817174515235457
+('Alexstrasza', 'Bloodfen Raptor', 'Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker');0.590027700831025
+('Alexstrasza', 'Bloodfen Raptor', 'Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'The Black Knight');0.5817174515235457
+('Alexstrasza', 'Bloodfen Raptor', 'Consecration', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.6232686980609419
+('Alexstrasza', 'Bloodfen Raptor', 'Consecration', 'Millhouse Manastorm', 'Sunwalker', 'Tirion Fordring');0.5013850415512465
+('Alexstrasza', 'Bloodfen Raptor', 'Consecration', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.6066481994459834
+('Alexstrasza', 'Bloodfen Raptor', 'Consecration', 'Sunwalker', 'The Black Knight', 'Tirion Fordring');0.518005540166205
+('Alexstrasza', 'Bloodfen Raptor', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.5761772853185596
+('Alexstrasza', 'Consecration', 'Hammer of Wrath', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker');0.5290858725761773
+('Alexstrasza', 'Consecration', 'Hammer of Wrath', 'Millhouse Manastorm', 'Stampeding Kodo', 'The Black Knight');0.5152354570637119
+('Alexstrasza', 'Consecration', 'Hammer of Wrath', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.5734072022160664
+('Alexstrasza', 'Consecration', 'Hammer of Wrath', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.5207756232686981
+('Alexstrasza', 'Consecration', 'Magma Rager', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.5373961218836565
+('Alexstrasza', 'Consecration', 'Mana Wraith', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.5346260387811634
+('Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Mountain Giant', 'Sunwalker', 'The Black Knight');0.5207756232686981
+('Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Questing Adventurer', 'Sunwalker', 'The Black Knight');0.5096952908587258
+('Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.6537396121883656
+('Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker', 'Tirion Fordring');0.5096952908587258
+('Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Sunwalker', 'Tauren Warrior', 'The Black Knight');0.6260387811634349
+('Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight', 'Tirion Fordring');0.556786703601108
+('Alexstrasza', 'Consecration', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight', 'Tirion Fordring');0.5207756232686981
+('Alexstrasza', 'Hammer of Wrath', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.5096952908587258
+('Bloodfen Raptor', 'Consecration', 'Hammer of Wrath', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight');0.5207756232686981
+('Bloodfen Raptor', 'Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.6232686980609419
+('Bloodfen Raptor', 'Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker', 'Tirion Fordring');0.5096952908587258
+('Bloodfen Raptor', 'Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'The Black Knight', 'Tirion Fordring');0.5013850415512465
+('Bloodfen Raptor', 'Consecration', 'Millhouse Manastorm', 'Sunwalker', 'The Black Knight', 'Tirion Fordring');0.5373961218836565
+('Bloodfen Raptor', 'Consecration', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight', 'Tirion Fordring');0.5263157894736842
+('Consecration', 'Hammer of Wrath', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.5872576177285319
+('Consecration', 'Hammer of Wrath', 'Millhouse Manastorm', 'Sunwalker', 'Tauren Warrior', 'The Black Knight');0.5069252077562327
+('Consecration', 'Mana Wraith', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.5290858725761773
+('Consecration', 'Millhouse Manastorm', 'Mountain Giant', 'Sunwalker', 'Tauren Warrior', 'The Black Knight');0.5152354570637119
+('Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker', 'Tauren Warrior', 'The Black Knight');0.5401662049861495
+('Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight', 'Tirion Fordring');0.5789473684210527
+('Aldor Peacekeeper', 'Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.5124653739612188
+('Aldor Peacekeeper', 'Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Sunwalker', 'Tauren Warrior', 'The Black Knight');0.5263157894736842
+('Alexstrasza', 'Bloodfen Raptor', 'Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.5761772853185596
+('Alexstrasza', 'Consecration', 'Hammer of Wrath', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.5096952908587258
+('Aldor Peacekeeper', 'Alexstrasza', 'Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker', 'Tauren Warrior', 'The Black Knight');0.3850415512465374
+('Aldor Peacekeeper', 'Alexstrasza', 'Bloodfen Raptor', 'Consecration', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.44598337950138506
+('Aldor Peacekeeper', 'Alexstrasza', 'Consecration', 'Hammer of Wrath', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.40443213296398894
+('Alexstrasza', 'Bloodfen Raptor', 'Consecration', 'Hammer of Wrath', 'Millhouse Manastorm', 'Stampeding Kodo', 'Sunwalker', 'The Black Knight');0.4404432132963989

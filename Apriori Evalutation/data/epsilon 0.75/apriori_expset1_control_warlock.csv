@@ -1,0 +1,109 @@
+('Alexstrasza',);0.817174515235457
+('Amani Berserker',);0.9362880886426593
+('Bloodfen Raptor',);0.8310249307479224
+('Bloodsail Raider',);0.96398891966759
+('Defender of Argus',);0.850415512465374
+('Dire Wolf Alpha',);0.8725761772853186
+('Doomguard',);0.7617728531855956
+('Flesheating Ghoul',);0.9584487534626038
+('Illidan Stormrage',);0.7590027700831025
+('Mountain Giant',);0.8836565096952909
+('Scarlet Crusader',);0.814404432132964
+("Sen'jin Shieldmasta",);0.8337950138504155
+('Sunwalker',);0.8836565096952909
+('Voodoo Doctor',);0.8227146814404432
+('Wild Pyromancer',);0.7728531855955678
+('Alexstrasza', 'Amani Berserker');0.7922437673130194
+('Alexstrasza', 'Bloodsail Raider');0.7894736842105263
+('Alexstrasza', 'Flesheating Ghoul');0.8088642659279779
+('Alexstrasza', "Sen'jin Shieldmasta");0.7534626038781164
+('Alexstrasza', 'Sunwalker');0.7728531855955678
+('Amani Berserker', 'Bloodfen Raptor');0.814404432132964
+('Amani Berserker', 'Bloodsail Raider');0.9141274238227147
+('Amani Berserker', 'Defender of Argus');0.7922437673130194
+('Amani Berserker', 'Dire Wolf Alpha');0.817174515235457
+('Amani Berserker', 'Flesheating Ghoul');0.9362880886426593
+('Amani Berserker', 'Mountain Giant');0.8254847645429363
+('Amani Berserker', 'Scarlet Crusader');0.7728531855955678
+('Amani Berserker', "Sen'jin Shieldmasta");0.8227146814404432
+('Amani Berserker', 'Sunwalker');0.8559556786703602
+('Amani Berserker', 'Voodoo Doctor');0.7922437673130194
+('Amani Berserker', 'Wild Pyromancer');0.7534626038781164
+('Bloodfen Raptor', 'Bloodsail Raider');0.8116343490304709
+('Bloodfen Raptor', 'Flesheating Ghoul');0.8310249307479224
+('Bloodsail Raider', 'Defender of Argus');0.817174515235457
+('Bloodsail Raider', 'Dire Wolf Alpha');0.8393351800554016
+('Bloodsail Raider', 'Flesheating Ghoul');0.9362880886426593
+('Bloodsail Raider', 'Mountain Giant');0.8476454293628809
+('Bloodsail Raider', 'Scarlet Crusader');0.7922437673130194
+('Bloodsail Raider', "Sen'jin Shieldmasta");0.814404432132964
+('Bloodsail Raider', 'Sunwalker');0.853185595567867
+('Bloodsail Raider', 'Voodoo Doctor');0.7894736842105263
+('Bloodsail Raider', 'Wild Pyromancer');0.7562326869806094
+('Defender of Argus', 'Flesheating Ghoul');0.8116343490304709
+('Defender of Argus', 'Mountain Giant');0.7506925207756233
+('Dire Wolf Alpha', 'Flesheating Ghoul');0.8337950138504155
+('Dire Wolf Alpha', 'Mountain Giant');0.7811634349030471
+('Dire Wolf Alpha', 'Sunwalker');0.7617728531855956
+('Doomguard', 'Flesheating Ghoul');0.7617728531855956
+('Flesheating Ghoul', 'Mountain Giant');0.8421052631578947
+('Flesheating Ghoul', 'Scarlet Crusader');0.7922437673130194
+('Flesheating Ghoul', "Sen'jin Shieldmasta");0.8310249307479224
+('Flesheating Ghoul', 'Sunwalker');0.8698060941828255
+('Flesheating Ghoul', 'Voodoo Doctor');0.8060941828254847
+('Flesheating Ghoul', 'Wild Pyromancer');0.7673130193905817
+('Mountain Giant', 'Sunwalker');0.7673130193905817
+('Mountain Giant', 'Voodoo Doctor');0.7673130193905817
+("Sen'jin Shieldmasta", 'Sunwalker');0.8005540166204986
+('Alexstrasza', 'Amani Berserker', 'Bloodsail Raider');0.7728531855955678
+('Alexstrasza', 'Amani Berserker', 'Flesheating Ghoul');0.7922437673130194
+('Alexstrasza', 'Amani Berserker', 'Sunwalker');0.7562326869806094
+('Alexstrasza', 'Bloodsail Raider', 'Flesheating Ghoul');0.7894736842105263
+('Alexstrasza', 'Flesheating Ghoul', "Sen'jin Shieldmasta");0.7534626038781164
+('Alexstrasza', 'Flesheating Ghoul', 'Sunwalker');0.7645429362880887
+('Amani Berserker', 'Bloodfen Raptor', 'Bloodsail Raider');0.7950138504155124
+('Amani Berserker', 'Bloodfen Raptor', 'Flesheating Ghoul');0.814404432132964
+('Amani Berserker', 'Bloodsail Raider', 'Defender of Argus');0.7700831024930748
+('Amani Berserker', 'Bloodsail Raider', 'Dire Wolf Alpha');0.7977839335180056
+('Amani Berserker', 'Bloodsail Raider', 'Flesheating Ghoul');0.9141274238227147
+('Amani Berserker', 'Bloodsail Raider', 'Mountain Giant');0.8033240997229917
+('Amani Berserker', 'Bloodsail Raider', 'Scarlet Crusader');0.7534626038781164
+('Amani Berserker', 'Bloodsail Raider', "Sen'jin Shieldmasta");0.8033240997229917
+('Amani Berserker', 'Bloodsail Raider', 'Sunwalker');0.8365650969529086
+('Amani Berserker', 'Bloodsail Raider', 'Voodoo Doctor');0.7700831024930748
+('Amani Berserker', 'Defender of Argus', 'Flesheating Ghoul');0.7922437673130194
+('Amani Berserker', 'Dire Wolf Alpha', 'Flesheating Ghoul');0.817174515235457
+('Amani Berserker', 'Flesheating Ghoul', 'Mountain Giant');0.8254847645429363
+('Amani Berserker', 'Flesheating Ghoul', 'Scarlet Crusader');0.7728531855955678
+('Amani Berserker', 'Flesheating Ghoul', "Sen'jin Shieldmasta");0.8227146814404432
+('Amani Berserker', 'Flesheating Ghoul', 'Sunwalker');0.8559556786703602
+('Amani Berserker', 'Flesheating Ghoul', 'Voodoo Doctor');0.7922437673130194
+('Amani Berserker', 'Flesheating Ghoul', 'Wild Pyromancer');0.7534626038781164
+('Amani Berserker', "Sen'jin Shieldmasta", 'Sunwalker');0.7922437673130194
+('Bloodfen Raptor', 'Bloodsail Raider', 'Flesheating Ghoul');0.8116343490304709
+('Bloodsail Raider', 'Defender of Argus', 'Flesheating Ghoul');0.7894736842105263
+('Bloodsail Raider', 'Dire Wolf Alpha', 'Flesheating Ghoul');0.814404432132964
+('Bloodsail Raider', 'Flesheating Ghoul', 'Mountain Giant');0.8199445983379502
+('Bloodsail Raider', 'Flesheating Ghoul', 'Scarlet Crusader');0.7728531855955678
+('Bloodsail Raider', 'Flesheating Ghoul', "Sen'jin Shieldmasta");0.8116343490304709
+('Bloodsail Raider', 'Flesheating Ghoul', 'Sunwalker');0.850415512465374
+('Bloodsail Raider', 'Flesheating Ghoul', 'Voodoo Doctor');0.7839335180055401
+('Bloodsail Raider', 'Flesheating Ghoul', 'Wild Pyromancer');0.7506925207756233
+('Bloodsail Raider', "Sen'jin Shieldmasta", 'Sunwalker');0.7811634349030471
+('Flesheating Ghoul', 'Mountain Giant', 'Sunwalker');0.7534626038781164
+('Flesheating Ghoul', 'Mountain Giant', 'Voodoo Doctor');0.7506925207756233
+('Flesheating Ghoul', "Sen'jin Shieldmasta", 'Sunwalker');0.8005540166204986
+('Alexstrasza', 'Amani Berserker', 'Bloodsail Raider', 'Flesheating Ghoul');0.7728531855955678
+('Alexstrasza', 'Amani Berserker', 'Flesheating Ghoul', 'Sunwalker');0.7562326869806094
+('Amani Berserker', 'Bloodfen Raptor', 'Bloodsail Raider', 'Flesheating Ghoul');0.7950138504155124
+('Amani Berserker', 'Bloodsail Raider', 'Defender of Argus', 'Flesheating Ghoul');0.7700831024930748
+('Amani Berserker', 'Bloodsail Raider', 'Dire Wolf Alpha', 'Flesheating Ghoul');0.7977839335180056
+('Amani Berserker', 'Bloodsail Raider', 'Flesheating Ghoul', 'Mountain Giant');0.8033240997229917
+('Amani Berserker', 'Bloodsail Raider', 'Flesheating Ghoul', 'Scarlet Crusader');0.7534626038781164
+('Amani Berserker', 'Bloodsail Raider', 'Flesheating Ghoul', "Sen'jin Shieldmasta");0.8033240997229917
+('Amani Berserker', 'Bloodsail Raider', 'Flesheating Ghoul', 'Sunwalker');0.8365650969529086
+('Amani Berserker', 'Bloodsail Raider', 'Flesheating Ghoul', 'Voodoo Doctor');0.7700831024930748
+('Amani Berserker', 'Bloodsail Raider', "Sen'jin Shieldmasta", 'Sunwalker');0.7728531855955678
+('Amani Berserker', 'Flesheating Ghoul', "Sen'jin Shieldmasta", 'Sunwalker');0.7922437673130194
+('Bloodsail Raider', 'Flesheating Ghoul', "Sen'jin Shieldmasta", 'Sunwalker');0.7811634349030471
+('Amani Berserker', 'Bloodsail Raider', 'Flesheating Ghoul', "Sen'jin Shieldmasta", 'Sunwalker');0.7728531855955678

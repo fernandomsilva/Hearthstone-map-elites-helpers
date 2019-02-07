@@ -1,0 +1,140 @@
+('Baron Geddon',);0.7270194986072424
+('Bluegill Warrior',);0.6100278551532033
+('Defender of Argus',);0.6462395543175488
+('Earthen Ring Farseer',);0.9052924791086351
+('Explosive Shot',);0.6295264623955432
+('Grimscale Oracle',);0.5013927576601671
+('Houndmaster',);0.5766016713091922
+('Hungry Crab',);0.9052924791086351
+('Master Swordsmith',);0.6072423398328691
+('Nightblade',);0.7409470752089137
+('Priestess of Elune',);0.8272980501392758
+('Stormpike Commando',);0.6295264623955432
+('Tundra Rhino',);0.7855153203342619
+('Baron Geddon', 'Earthen Ring Farseer');0.6350974930362117
+('Baron Geddon', 'Explosive Shot');0.5236768802228412
+('Baron Geddon', 'Hungry Crab');0.6935933147632312
+('Baron Geddon', 'Nightblade');0.6128133704735376
+('Baron Geddon', 'Priestess of Elune');0.6072423398328691
+('Baron Geddon', 'Tundra Rhino');0.5738161559888579
+('Bluegill Warrior', 'Earthen Ring Farseer');0.5933147632311978
+('Bluegill Warrior', 'Explosive Shot');0.5264623955431755
+('Bluegill Warrior', 'Hungry Crab');0.5793871866295265
+('Bluegill Warrior', 'Master Swordsmith');0.5125348189415042
+('Bluegill Warrior', 'Nightblade');0.5654596100278552
+('Bluegill Warrior', 'Priestess of Elune');0.532033426183844
+('Bluegill Warrior', 'Tundra Rhino');0.5181058495821727
+('Defender of Argus', 'Earthen Ring Farseer');0.5682451253481894
+('Defender of Argus', 'Hungry Crab');0.5877437325905293
+('Defender of Argus', 'Priestess of Elune');0.5403899721448467
+('Defender of Argus', 'Tundra Rhino');0.5431754874651811
+('Earthen Ring Farseer', 'Explosive Shot');0.6100278551532033
+('Earthen Ring Farseer', 'Houndmaster');0.5598885793871866
+('Earthen Ring Farseer', 'Hungry Crab');0.8133704735376045
+('Earthen Ring Farseer', 'Master Swordsmith');0.5905292479108635
+('Earthen Ring Farseer', 'Nightblade');0.6685236768802229
+('Earthen Ring Farseer', 'Priestess of Elune');0.7632311977715878
+('Earthen Ring Farseer', 'Stormpike Commando');0.6267409470752089
+('Earthen Ring Farseer', 'Tundra Rhino');0.7325905292479109
+('Explosive Shot', 'Houndmaster');0.5264623955431755
+('Explosive Shot', 'Hungry Crab');0.5988857938718662
+('Explosive Shot', 'Master Swordsmith');0.5515320334261838
+('Explosive Shot', 'Nightblade');0.5487465181058496
+('Explosive Shot', 'Priestess of Elune');0.5431754874651811
+('Explosive Shot', 'Tundra Rhino');0.5069637883008357
+('Houndmaster', 'Hungry Crab');0.5543175487465181
+('Houndmaster', 'Master Swordsmith');0.5013927576601671
+('Houndmaster', 'Nightblade');0.5125348189415042
+('Hungry Crab', 'Master Swordsmith');0.5682451253481894
+('Hungry Crab', 'Nightblade');0.7019498607242339
+('Hungry Crab', 'Priestess of Elune');0.766016713091922
+('Hungry Crab', 'Stormpike Commando');0.5821727019498607
+('Hungry Crab', 'Tundra Rhino');0.7298050139275766
+('Master Swordsmith', 'Nightblade');0.5236768802228412
+('Master Swordsmith', 'Priestess of Elune');0.5264623955431755
+('Nightblade', 'Priestess of Elune');0.6211699164345403
+('Nightblade', 'Tundra Rhino');0.6462395543175488
+('Priestess of Elune', 'Stormpike Commando');0.5598885793871866
+('Priestess of Elune', 'Tundra Rhino');0.6852367688022284
+('Stormpike Commando', 'Tundra Rhino');0.5459610027855153
+('Baron Geddon', 'Earthen Ring Farseer', 'Explosive Shot');0.5041782729805014
+('Baron Geddon', 'Earthen Ring Farseer', 'Hungry Crab');0.6044568245125348
+('Baron Geddon', 'Earthen Ring Farseer', 'Nightblade');0.5431754874651811
+('Baron Geddon', 'Earthen Ring Farseer', 'Priestess of Elune');0.5459610027855153
+('Baron Geddon', 'Earthen Ring Farseer', 'Tundra Rhino');0.520891364902507
+('Baron Geddon', 'Explosive Shot', 'Hungry Crab');0.5013927576601671
+('Baron Geddon', 'Hungry Crab', 'Nightblade');0.5877437325905293
+('Baron Geddon', 'Hungry Crab', 'Priestess of Elune');0.5793871866295265
+('Baron Geddon', 'Hungry Crab', 'Tundra Rhino');0.5487465181058496
+('Baron Geddon', 'Nightblade', 'Priestess of Elune');0.5125348189415042
+('Baron Geddon', 'Nightblade', 'Tundra Rhino');0.5376044568245125
+('Bluegill Warrior', 'Earthen Ring Farseer', 'Explosive Shot');0.5181058495821727
+('Bluegill Warrior', 'Earthen Ring Farseer', 'Hungry Crab');0.5626740947075209
+('Bluegill Warrior', 'Earthen Ring Farseer', 'Master Swordsmith');0.5041782729805014
+('Bluegill Warrior', 'Earthen Ring Farseer', 'Nightblade');0.5487465181058496
+('Bluegill Warrior', 'Earthen Ring Farseer', 'Priestess of Elune');0.5153203342618384
+('Bluegill Warrior', 'Earthen Ring Farseer', 'Tundra Rhino');0.5097493036211699
+('Bluegill Warrior', 'Explosive Shot', 'Nightblade');0.5125348189415042
+('Bluegill Warrior', 'Hungry Crab', 'Nightblade');0.5376044568245125
+('Bluegill Warrior', 'Hungry Crab', 'Priestess of Elune');0.5013927576601671
+('Defender of Argus', 'Earthen Ring Farseer', 'Hungry Crab');0.5125348189415042
+('Earthen Ring Farseer', 'Explosive Shot', 'Houndmaster');0.5097493036211699
+('Earthen Ring Farseer', 'Explosive Shot', 'Hungry Crab');0.5793871866295265
+('Earthen Ring Farseer', 'Explosive Shot', 'Master Swordsmith');0.5348189415041783
+('Earthen Ring Farseer', 'Explosive Shot', 'Nightblade');0.5403899721448467
+('Earthen Ring Farseer', 'Explosive Shot', 'Priestess of Elune');0.5292479108635098
+('Earthen Ring Farseer', 'Houndmaster', 'Hungry Crab');0.5376044568245125
+('Earthen Ring Farseer', 'Houndmaster', 'Nightblade');0.5041782729805014
+('Earthen Ring Farseer', 'Hungry Crab', 'Master Swordsmith');0.5515320334261838
+('Earthen Ring Farseer', 'Hungry Crab', 'Nightblade');0.6323119777158774
+('Earthen Ring Farseer', 'Hungry Crab', 'Priestess of Elune');0.7019498607242339
+('Earthen Ring Farseer', 'Hungry Crab', 'Stormpike Commando');0.5793871866295265
+('Earthen Ring Farseer', 'Hungry Crab', 'Tundra Rhino');0.6768802228412256
+('Earthen Ring Farseer', 'Master Swordsmith', 'Nightblade');0.5153203342618384
+('Earthen Ring Farseer', 'Master Swordsmith', 'Priestess of Elune');0.5125348189415042
+('Earthen Ring Farseer', 'Nightblade', 'Priestess of Elune');0.5710306406685237
+('Earthen Ring Farseer', 'Nightblade', 'Tundra Rhino');0.5988857938718662
+('Earthen Ring Farseer', 'Priestess of Elune', 'Stormpike Commando');0.5571030640668524
+('Earthen Ring Farseer', 'Priestess of Elune', 'Tundra Rhino');0.6573816155988857
+('Earthen Ring Farseer', 'Stormpike Commando', 'Tundra Rhino');0.5431754874651811
+('Explosive Shot', 'Houndmaster', 'Hungry Crab');0.5069637883008357
+('Explosive Shot', 'Hungry Crab', 'Master Swordsmith');0.5236768802228412
+('Explosive Shot', 'Hungry Crab', 'Nightblade');0.520891364902507
+('Explosive Shot', 'Hungry Crab', 'Priestess of Elune');0.5125348189415042
+('Hungry Crab', 'Nightblade', 'Priestess of Elune');0.5877437325905293
+('Hungry Crab', 'Nightblade', 'Tundra Rhino');0.6128133704735376
+('Hungry Crab', 'Priestess of Elune', 'Stormpike Commando');0.5125348189415042
+('Hungry Crab', 'Priestess of Elune', 'Tundra Rhino');0.6295264623955432
+('Hungry Crab', 'Stormpike Commando', 'Tundra Rhino');0.5041782729805014
+('Nightblade', 'Priestess of Elune', 'Tundra Rhino');0.5598885793871866
+('Baron Geddon', 'Earthen Ring Farseer', 'Hungry Crab', 'Nightblade');0.520891364902507
+('Baron Geddon', 'Earthen Ring Farseer', 'Hungry Crab', 'Priestess of Elune');0.5181058495821727
+('Baron Geddon', 'Hungry Crab', 'Nightblade', 'Tundra Rhino');0.5153203342618384
+('Bluegill Warrior', 'Earthen Ring Farseer', 'Explosive Shot', 'Nightblade');0.5041782729805014
+('Bluegill Warrior', 'Earthen Ring Farseer', 'Hungry Crab', 'Nightblade');0.520891364902507
+('Earthen Ring Farseer', 'Explosive Shot', 'Hungry Crab', 'Master Swordsmith');0.5069637883008357
+('Earthen Ring Farseer', 'Explosive Shot', 'Hungry Crab', 'Nightblade');0.5125348189415042
+('Earthen Ring Farseer', 'Hungry Crab', 'Nightblade', 'Priestess of Elune');0.5376044568245125
+('Earthen Ring Farseer', 'Hungry Crab', 'Nightblade', 'Tundra Rhino');0.5654596100278552
+('Earthen Ring Farseer', 'Hungry Crab', 'Priestess of Elune', 'Stormpike Commando');0.5097493036211699
+('Earthen Ring Farseer', 'Hungry Crab', 'Priestess of Elune', 'Tundra Rhino');0.6016713091922006
+('Earthen Ring Farseer', 'Hungry Crab', 'Stormpike Commando', 'Tundra Rhino');0.5013927576601671
+('Earthen Ring Farseer', 'Nightblade', 'Priestess of Elune', 'Tundra Rhino');0.532033426183844
+('Hungry Crab', 'Nightblade', 'Priestess of Elune', 'Tundra Rhino');0.5264623955431755
+('Baron Geddon', 'Earthen Ring Farseer', 'Hungry Crab', 'Nightblade', 'Priestess of Elune');0.4428969359331476
+('Baron Geddon', 'Earthen Ring Farseer', 'Hungry Crab', 'Nightblade', 'Tundra Rhino');0.467966573816156
+('Baron Geddon', 'Bluegill Warrior', 'Earthen Ring Farseer', 'Hungry Crab', 'Nightblade');0.42618384401114207
+('Baron Geddon', 'Earthen Ring Farseer', 'Explosive Shot', 'Hungry Crab', 'Nightblade');0.4206128133704735
+('Baron Geddon', 'Earthen Ring Farseer', 'Hungry Crab', 'Priestess of Elune', 'Stormpike Commando');0.38997214484679665
+('Baron Geddon', 'Earthen Ring Farseer', 'Hungry Crab', 'Priestess of Elune', 'Tundra Rhino');0.43454038997214484
+('Baron Geddon', 'Hungry Crab', 'Nightblade', 'Priestess of Elune', 'Tundra Rhino');0.43454038997214484
+('Bluegill Warrior', 'Earthen Ring Farseer', 'Explosive Shot', 'Hungry Crab', 'Nightblade');0.479108635097493
+('Bluegill Warrior', 'Earthen Ring Farseer', 'Hungry Crab', 'Nightblade', 'Priestess of Elune');0.44846796657381616
+('Bluegill Warrior', 'Earthen Ring Farseer', 'Hungry Crab', 'Nightblade', 'Tundra Rhino');0.4596100278551532
+('Earthen Ring Farseer', 'Explosive Shot', 'Hungry Crab', 'Master Swordsmith', 'Nightblade');0.44846796657381616
+('Earthen Ring Farseer', 'Explosive Shot', 'Hungry Crab', 'Nightblade', 'Priestess of Elune');0.4401114206128134
+('Earthen Ring Farseer', 'Explosive Shot', 'Hungry Crab', 'Nightblade', 'Tundra Rhino');0.4568245125348189
+('Earthen Ring Farseer', 'Hungry Crab', 'Nightblade', 'Priestess of Elune', 'Tundra Rhino');0.4986072423398329
+('Earthen Ring Farseer', 'Hungry Crab', 'Nightblade', 'Priestess of Elune', 'Stormpike Commando');0.41225626740947074
+('Earthen Ring Farseer', 'Hungry Crab', 'Nightblade', 'Stormpike Commando', 'Tundra Rhino');0.42618384401114207
+('Earthen Ring Farseer', 'Hungry Crab', 'Priestess of Elune', 'Stormpike Commando', 'Tundra Rhino');0.45403899721448465

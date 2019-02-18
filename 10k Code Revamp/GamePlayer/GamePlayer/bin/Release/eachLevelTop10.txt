@@ -1,0 +1,88 @@
+Deck:61* Evaluation:---9.945**
+Deck:10* Evaluation:---12.405**
+Deck:37* Evaluation:---12.84**
+Deck:66* Evaluation:---12.93**
+Deck:36* Evaluation:---14.06**
+Deck:17* Evaluation:---14.595**
+Deck:49* Evaluation:---16.65**
+Deck:25* Evaluation:---16.655**
+Deck:82* Evaluation:---16.79**
+Deck:30* Evaluation:---16.855**
+
+Deck:10* Evaluation:---11.12**
+Deck:61* Evaluation:---11.135**
+Deck:66* Evaluation:---12.88**
+Deck:79* Evaluation:---14.025**
+Deck:36* Evaluation:---14.235**
+Deck:17* Evaluation:---15.69**
+Deck:29* Evaluation:---15.755**
+Deck:37* Evaluation:---16.125**
+Deck:6* Evaluation:---16.545**
+Deck:50* Evaluation:---16.555**
+
+Deck:37* Evaluation:---11.195**
+Deck:61* Evaluation:---11.68**
+Deck:10* Evaluation:---11.92**
+Deck:66* Evaluation:---12.765**
+Deck:79* Evaluation:---14.375**
+Deck:36* Evaluation:---15.05**
+Deck:29* Evaluation:---15.6**
+Deck:26* Evaluation:---15.805**
+Deck:50* Evaluation:---16.45**
+Deck:71* Evaluation:---16.46**
+
+Deck:61* Evaluation:---11.205**
+Deck:37* Evaluation:---12.555**
+Deck:10* Evaluation:---12.64**
+Deck:66* Evaluation:---13.215**
+Deck:36* Evaluation:---14.465**
+Deck:79* Evaluation:---15.185**
+Deck:26* Evaluation:---15.57**
+Deck:99* Evaluation:---15.75**
+Deck:78* Evaluation:---15.92**
+Deck:49* Evaluation:---16.005**
+
+Deck:61* Evaluation:---10.535**
+Deck:10* Evaluation:---10.83**
+Deck:66* Evaluation:---12.765**
+Deck:36* Evaluation:---13.17**
+Deck:74* Evaluation:---13.32**
+Deck:99* Evaluation:---14.64**
+Deck:56* Evaluation:---14.895**
+Deck:26* Evaluation:---15.025**
+Deck:75* Evaluation:---15.91**
+Deck:37* Evaluation:---15.935**
+
+Deck:10* Evaluation:---12.085**
+Deck:61* Evaluation:---13.1**
+Deck:66* Evaluation:---13.105**
+Deck:79* Evaluation:---13.305**
+Deck:37* Evaluation:---13.59**
+Deck:27* Evaluation:---14.575**
+Deck:56* Evaluation:---14.795**
+Deck:26* Evaluation:---14.965**
+Deck:50* Evaluation:---15.45**
+Deck:99* Evaluation:---15.55**
+
+Deck:61* Evaluation:---8.935**
+Deck:10* Evaluation:---12.865**
+Deck:66* Evaluation:---12.99**
+Deck:79* Evaluation:---13.73**
+Deck:56* Evaluation:---13.8**
+Deck:37* Evaluation:---14.02**
+Deck:74* Evaluation:---14.055**
+Deck:36* Evaluation:---14.06**
+Deck:46* Evaluation:---14.575**
+Deck:27* Evaluation:---15.105**
+
+Deck:61* Evaluation:---11.675**
+Deck:66* Evaluation:---12.31**
+Deck:37* Evaluation:---12.78**
+Deck:36* Evaluation:---12.925**
+Deck:10* Evaluation:---13.02**
+Deck:99* Evaluation:---14.215**
+Deck:56* Evaluation:---14.225**
+Deck:46* Evaluation:---14.25**
+Deck:79* Evaluation:---14.91**
+Deck:27* Evaluation:---15.275**
+

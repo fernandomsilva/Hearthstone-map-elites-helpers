@@ -1,8 +1,0 @@
-c:\users\aditya\source\repos\GamePlayer\GamePlayer\bin\Debug\GamePlayer.exe.config
-c:\users\aditya\source\repos\GamePlayer\GamePlayer\bin\Debug\GamePlayer.exe
-c:\users\aditya\source\repos\GamePlayer\GamePlayer\bin\Debug\GamePlayer.pdb
-c:\users\aditya\source\repos\GamePlayer\GamePlayer\bin\Debug\SabberStoneCore.dll
-c:\users\aditya\source\repos\GamePlayer\GamePlayer\obj\Debug\GamePlayer.csprojResolveAssemblyReference.cache
-c:\users\aditya\source\repos\GamePlayer\GamePlayer\obj\Debug\GamePlayer.csproj.CoreCompileInputs.cache
-c:\users\aditya\source\repos\GamePlayer\GamePlayer\obj\Debug\GamePlayer.exe
-c:\users\aditya\source\repos\GamePlayer\GamePlayer\obj\Debug\GamePlayer.pdb

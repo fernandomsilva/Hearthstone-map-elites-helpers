@@ -1,7 +1,0 @@
-C:\Users\Aditya\source\repos\GamePlayer\GamePlayer\bin\Release\GamePlayer.exe.config
-C:\Users\Aditya\source\repos\GamePlayer\GamePlayer\bin\Release\GamePlayer.exe
-C:\Users\Aditya\source\repos\GamePlayer\GamePlayer\bin\Release\GamePlayer.pdb
-C:\Users\Aditya\source\repos\GamePlayer\GamePlayer\obj\Release\GamePlayer.csproj.CoreCompileInputs.cache
-C:\Users\Aditya\source\repos\GamePlayer\GamePlayer\obj\Release\GamePlayer.exe
-C:\Users\Aditya\source\repos\GamePlayer\GamePlayer\obj\Release\GamePlayer.pdb
-C:\Users\Aditya\source\repos\GamePlayer\GamePlayer\obj\Release\GamePlayer.csprojResolveAssemblyReference.cache

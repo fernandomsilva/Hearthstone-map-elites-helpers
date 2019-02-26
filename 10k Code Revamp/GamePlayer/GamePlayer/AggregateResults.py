@@ -44,6 +44,8 @@ for dir1 in os.listdir(path):
 									entry["cardData"][key] += int(value)
 						
 						file_data.close()
+				
+				print(path + "/" + dir1 + "/" + dir2 + " DONE!")
 
 winRate_output_file = open(output_winRate, 'w')
 

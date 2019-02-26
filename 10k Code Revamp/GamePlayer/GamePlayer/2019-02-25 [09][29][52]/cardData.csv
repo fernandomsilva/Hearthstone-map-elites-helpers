@@ -1,0 +1,340 @@
+deck,card,number of times played
+Exp1_Hunter_Aggro,Timber Wolf,9
+Exp1_Hunter_Aggro,Earthen Ring Farseer,9
+Exp1_Hunter_Aggro,Animal Companion,9
+Exp1_Hunter_Aggro,Worgen Infiltrator,7
+Exp1_Hunter_Aggro,Wisp,7
+Exp1_Hunter_Aggro,Eaglehorn Bow,7
+Exp1_Hunter_Aggro,The Coin,6
+Exp1_Hunter_Aggro,Silvermoon Guardian,6
+Exp1_Hunter_Aggro,Nightblade,6
+Exp1_Hunter_Aggro,Murloc Raider,6
+Exp1_Hunter_Aggro,Leper Gnome,6
+Exp1_Hunter_Aggro,Young Priestess,5
+Exp1_Hunter_Aggro,River Crocolisk,5
+Exp1_Hunter_Aggro,Dark Iron Dwarf,5
+Exp1_Hunter_Aggro,Abomination,5
+Exp1_Hunter_Aggro,Tundra Rhino,4
+Exp1_Hunter_Aggro,Stormpike Commando,4
+Exp1_Hunter_Aggro,Razorfen Hunter,4
+Exp1_Hunter_Aggro,Hungry Crab,4
+Exp1_Hunter_Aggro,Defender of Argus,4
+Exp1_Hunter_Aggro,Arcane Golem,4
+Exp1_Hunter_Aggro,Southsea Deckhand,3
+Exp1_Hunter_Aggro,Reckless Rocketeer,3
+Exp1_Hunter_Aggro,Bananas,3
+Exp1_Hunter_Aggro,Unleash the Hounds,2
+Exp1_Hunter_Aggro,Snake Trap,2
+Exp1_Hunter_Aggro,Priestess of Elune,2
+Exp1_Hunter_Aggro,Kobold Geomancer,2
+Exp1_Hunter_Aggro,Fen Creeper,2
+Exp1_Hunter_Aggro,Pint-Sized Summoner,1
+Exp1_Hunter_Control,Pint-Sized Summoner,11
+Exp1_Hunter_Control,Knife Juggler,11
+Exp1_Hunter_Control,Flesheating Ghoul,11
+Exp1_Hunter_Control,Sen,8
+Exp1_Hunter_Control,Venture Co. Mercenary,7
+Exp1_Hunter_Control,Booty Bay Bodyguard,7
+Exp1_Hunter_Control,Worgen Infiltrator,6
+Exp1_Hunter_Control,Scavenging Hyena,6
+Exp1_Hunter_Control,Master Swordsmith,6
+Exp1_Hunter_Control,Lightwarden,6
+Exp1_Hunter_Control,Ironforge Rifleman,6
+Exp1_Hunter_Control,Demolisher,6
+Exp1_Hunter_Control,Bloodfen Raptor,6
+Exp1_Hunter_Control,Priestess of Elune,5
+Exp1_Hunter_Control,Onyxia,5
+Exp1_Hunter_Control,Earthen Ring Farseer,5
+Exp1_Hunter_Control,Bloodsail Raider,5
+Exp1_Hunter_Control,Argent Commander,5
+Exp1_Hunter_Control,Young Priestess,4
+Exp1_Hunter_Control,Sunwalker,4
+Exp1_Hunter_Control,Stormpike Commando,4
+Exp1_Hunter_Control,Dire Wolf Alpha,4
+Exp1_Hunter_Control,Bananas,4
+Exp1_Hunter_Control,Wild Pyromancer,3
+Exp1_Hunter_Control,Voodoo Doctor,3
+Exp1_Hunter_Control,The Coin,3
+Exp1_Hunter_Control,Lorewalker Cho,3
+Exp1_Hunter_Control,King Krush,3
+Exp1_Hunter_Control,Bloodsail Corsair,3
+Exp1_Hunter_Control,Blessing of Might,2
+Exp1_Hunter_Control,Consecration,1
+Exp1_Paladin_Aggro,Voodoo Doctor,10
+Exp1_Paladin_Aggro,Lightwarden,10
+Exp1_Paladin_Aggro,Consecration,8
+Exp1_Paladin_Aggro,The Coin,7
+Exp1_Paladin_Aggro,Avenging Wrath,6
+Exp1_Paladin_Aggro,Truesilver Champion,5
+Exp1_Paladin_Aggro,Secretkeeper,5
+Exp1_Paladin_Aggro,Scarlet Crusader,5
+Exp1_Paladin_Aggro,Dire Wolf Alpha,5
+Exp1_Paladin_Aggro,Blessing of Kings,5
+Exp1_Paladin_Aggro,Young Priestess,4
+Exp1_Paladin_Aggro,Mana Addict,4
+Exp1_Paladin_Aggro,King Mukla,4
+Exp1_Paladin_Aggro,Acidic Swamp Ooze,4
+Exp1_Paladin_Aggro,Worgen Infiltrator,3
+Exp1_Paladin_Aggro,Stampeding Kodo,3
+Exp1_Paladin_Aggro,Murloc Tidehunter,3
+Exp1_Paladin_Aggro,Millhouse Manastorm,3
+Exp1_Paladin_Aggro,Lay on Hands,3
+Exp1_Paladin_Aggro,The Beast,2
+Exp1_Paladin_Aggro,Goldshire Footman,2
+Exp1_Paladin_Aggro,Eye for an Eye,2
+Exp1_Paladin_Aggro,Baron Geddon,2
+Exp1_Paladin_Aggro,Bananas,2
+Exp1_Paladin_Aggro,Sunfury Protector,1
+Exp1_Paladin_Aggro,Southsea Captain,1
+Exp1_Paladin_Aggro,Ironfur Grizzly,1
+Exp1_Paladin_Control,Consecration,12
+Exp1_Paladin_Control,Mind Control Tech,10
+Exp1_Paladin_Control,Bloodsail Raider,9
+Exp1_Paladin_Control,Raging Worgen,8
+Exp1_Paladin_Control,The Coin,7
+Exp1_Paladin_Control,Raid Leader,7
+Exp1_Paladin_Control,Imp Master,7
+Exp1_Paladin_Control,Sunwalker,6
+Exp1_Paladin_Control,Fen Creeper,6
+Exp1_Paladin_Control,Dark Iron Dwarf,6
+Exp1_Paladin_Control,Coldlight Seer,6
+Exp1_Paladin_Control,Bananas,6
+Exp1_Paladin_Control,Tirion Fordring,5
+Exp1_Paladin_Control,Thrallmar Farseer,5
+Exp1_Paladin_Control,Stormwind Champion,5
+Exp1_Paladin_Control,Stonetusk Boar,5
+Exp1_Paladin_Control,Murloc Warleader,5
+Exp1_Paladin_Control,Hungry Crab,5
+Exp1_Paladin_Control,Alexstrasza,5
+Exp1_Paladin_Control,Questing Adventurer,4
+Exp1_Paladin_Control,Priestess of Elune,4
+Exp1_Paladin_Control,Master Swordsmith,4
+Exp1_Paladin_Control,Wild Pyromancer,3
+Exp1_Paladin_Control,Shattered Sun Cleric,3
+Exp1_Paladin_Control,Light,3
+Exp1_Paladin_Control,Ironfur Grizzly,3
+Exp1_Paladin_Control,Young Priestess,2
+Exp1_Warlock_Aggro,Faerie Dragon,13
+Exp1_Warlock_Aggro,Worgen Infiltrator,9
+Exp1_Warlock_Aggro,Dark Iron Dwarf,9
+Exp1_Warlock_Aggro,Youthful Brewmaster,7
+Exp1_Warlock_Aggro,The Coin,7
+Exp1_Warlock_Aggro,Sea Giant,7
+Exp1_Warlock_Aggro,Scarlet Crusader,7
+Exp1_Warlock_Aggro,King Mukla,7
+Exp1_Warlock_Aggro,Injured Blademaster,7
+Exp1_Warlock_Aggro,Wild Pyromancer,6
+Exp1_Warlock_Aggro,Mortal Coil,6
+Exp1_Warlock_Aggro,Southsea Deckhand,5
+Exp1_Warlock_Aggro,Sen,5
+Exp1_Warlock_Aggro,Pint-Sized Summoner,5
+Exp1_Warlock_Aggro,Murloc Tidecaller,5
+Exp1_Warlock_Aggro,Bloodsail Raider,5
+Exp1_Warlock_Aggro,Succubus,4
+Exp1_Warlock_Aggro,Novice Engineer,4
+Exp1_Warlock_Aggro,Nightblade,4
+Exp1_Warlock_Aggro,Murloc Warleader,4
+Exp1_Warlock_Aggro,Lord of the Arena,4
+Exp1_Warlock_Aggro,Leper Gnome,4
+Exp1_Warlock_Aggro,Blood Knight,4
+Exp1_Warlock_Aggro,Bananas,4
+Exp1_Warlock_Aggro,Angry Chicken,4
+Exp1_Warlock_Aggro,Young Priestess,3
+Exp1_Warlock_Aggro,Wisp,3
+Exp1_Warlock_Aggro,Defender of Argus,3
+Exp1_Warlock_Aggro,Lightwarden,2
+Exp1_Warlock_Control,Bloodfen Raptor,13
+Exp1_Warlock_Control,Sen,12
+Exp1_Warlock_Control,Amani Berserker,11
+Exp1_Warlock_Control,Illidan Stormrage,7
+Exp1_Warlock_Control,Void Terror,6
+Exp1_Warlock_Control,Silverback Patriarch,6
+Exp1_Warlock_Control,Murloc Tidecaller,6
+Exp1_Warlock_Control,Mogu,6
+Exp1_Warlock_Control,Millhouse Manastorm,6
+Exp1_Warlock_Control,Doomguard,6
+Exp1_Warlock_Control,Bananas,6
+Exp1_Warlock_Control,Sunwalker,5
+Exp1_Warlock_Control,Siphon Soul,5
+Exp1_Warlock_Control,Ravenholdt Assassin,5
+Exp1_Warlock_Control,Mind Control Tech,5
+Exp1_Warlock_Control,Loot Hoarder,5
+Exp1_Warlock_Control,Knife Juggler,5
+Exp1_Warlock_Control,Flesheating Ghoul,5
+Exp1_Warlock_Control,Dalaran Mage,5
+Exp1_Warlock_Control,Voodoo Doctor,4
+Exp1_Warlock_Control,Dire Wolf Alpha,4
+Exp1_Warlock_Control,The Coin,3
+Exp1_Warlock_Control,The Black Knight,3
+Exp1_Warlock_Control,Scarlet Crusader,3
+Exp1_Warlock_Control,Fen Creeper,3
+Exp1_Warlock_Control,Bloodsail Raider,3
+Exp1_Warlock_Control,Alexstrasza,3
+Exp1_Warlock_Control,Defender of Argus,2
+Exp2 Hunter Aggro,The Coin,10
+Exp2 Hunter Aggro,The Black Knight,9
+Exp2 Hunter Aggro,Earthen Ring Farseer,8
+Exp2 Hunter Aggro,Murloc Tidehunter,6
+Exp2 Hunter Aggro,Bluegill Warrior,6
+Exp2 Hunter Aggro,Wisp,5
+Exp2 Hunter Aggro,Scavenging Hyena,5
+Exp2 Hunter Aggro,Explosive Shot,5
+Exp2 Hunter Aggro,Elven Archer,5
+Exp2 Hunter Aggro,Archmage,5
+Exp2 Hunter Aggro,Wolfrider,4
+Exp2 Hunter Aggro,River Crocolisk,4
+Exp2 Hunter Aggro,Murloc Tidecaller,4
+Exp2 Hunter Aggro,Animal Companion,4
+Exp2 Hunter Aggro,Wild Pyromancer,3
+Exp2 Hunter Aggro,Lightwarden,3
+Exp2 Hunter Aggro,Leeroy Jenkins,3
+Exp2 Hunter Aggro,Knife Juggler,3
+Exp2 Hunter Aggro,Kill Command,3
+Exp2 Hunter Aggro,Injured Blademaster,3
+Exp2 Hunter Aggro,Hungry Crab,3
+Exp2 Hunter Aggro,Doomsayer,3
+Exp2 Hunter Aggro,Worgen Infiltrator,2
+Exp2 Hunter Aggro,Ravenholdt Assassin,2
+Exp2 Hunter Aggro,Core Hound,2
+Exp2 Hunter Aggro,Bananas,2
+Exp2 Hunter Aggro,Reckless Rocketeer,1
+Exp2 Hunter Aggro,Mountain Giant,1
+Exp2 Hunter Control,Shattered Sun Cleric,11
+Exp2 Hunter Control,Young Priestess,9
+Exp2 Hunter Control,Magma Rager,9
+Exp2 Hunter Control,Imp Master,9
+Exp2 Hunter Control,Sen,8
+Exp2 Hunter Control,Young Dragonhawk,7
+Exp2 Hunter Control,Voodoo Doctor,7
+Exp2 Hunter Control,The Coin,7
+Exp2 Hunter Control,Stonetusk Boar,7
+Exp2 Hunter Control,River Crocolisk,7
+Exp2 Hunter Control,Millhouse Manastorm,7
+Exp2 Hunter Control,Fen Creeper,7
+Exp2 Hunter Control,Dragonling Mechanic,6
+Exp2 Hunter Control,Thrallmar Farseer,5
+Exp2 Hunter Control,Silver Hand Knight,5
+Exp2 Hunter Control,Murloc Raider,5
+Exp2 Hunter Control,King Mukla,5
+Exp2 Hunter Control,Jungle Panther,4
+Exp2 Hunter Control,Faerie Dragon,4
+Exp2 Hunter Control,Amani Berserker,4
+Exp2 Hunter Control,Raid Leader,3
+Exp2 Hunter Control,Novice Engineer,3
+Exp2 Hunter Control,Nat Pagle,3
+Exp2 Hunter Control,Eaglehorn Bow,3
+Exp2 Hunter Control,Argent Squire,3
+Exp2 Hunter Control,Frostwolf Grunt,2
+Exp2 Hunter Control,Bananas,2
+Exp2 Hunter Control,Animal Companion,2
+Exp2 Paladin Aggro,Consecration,12
+Exp2 Paladin Aggro,Blessing of Kings,9
+Exp2 Paladin Aggro,Young Dragonhawk,8
+Exp2 Paladin Aggro,Wild Pyromancer,7
+Exp2 Paladin Aggro,Nightblade,7
+Exp2 Paladin Aggro,The Coin,6
+Exp2 Paladin Aggro,Mana Addict,6
+Exp2 Paladin Aggro,Frostwolf Warlord,6
+Exp2 Paladin Aggro,Argent Squire,6
+Exp2 Paladin Aggro,Young Priestess,5
+Exp2 Paladin Aggro,Voodoo Doctor,5
+Exp2 Paladin Aggro,Flesheating Ghoul,5
+Exp2 Paladin Aggro,Dire Wolf Alpha,5
+Exp2 Paladin Aggro,Blessing of Might,5
+Exp2 Paladin Aggro,Worgen Infiltrator,4
+Exp2 Paladin Aggro,Tirion Fordring,4
+Exp2 Paladin Aggro,Shattered Sun Cleric,4
+Exp2 Paladin Aggro,Bloodsail Raider,4
+Exp2 Paladin Aggro,Mana Wraith,3
+Exp2 Paladin Aggro,Ironbeak Owl,3
+Exp2 Paladin Aggro,Equality,3
+Exp2 Paladin Aggro,Dread Corsair,3
+Exp2 Paladin Aggro,Dalaran Mage,3
+Exp2 Paladin Aggro,Argent Commander,3
+Exp2 Paladin Aggro,Master Swordsmith,1
+Exp2 Paladin Aggro,Hungry Crab,1
+Exp2 Paladin Aggro,Bluegill Warrior,1
+Exp2 Paladin Control,Consecration,11
+Exp2 Paladin Control,Pint-Sized Summoner,10
+Exp2 Paladin Control,Sunwalker,9
+Exp2 Paladin Control,Light,9
+Exp2 Paladin Control,Hammer of Wrath,9
+Exp2 Paladin Control,Tirion Fordring,8
+Exp2 Paladin Control,Razorfen Hunter,8
+Exp2 Paladin Control,Imp Master,8
+Exp2 Paladin Control,Frostwolf Warlord,8
+Exp2 Paladin Control,Coldlight Seer,8
+Exp2 Paladin Control,Tauren Warrior,7
+Exp2 Paladin Control,Nozdormu,7
+Exp2 Paladin Control,Earthen Ring Farseer,7
+Exp2 Paladin Control,Worgen Infiltrator,6
+Exp2 Paladin Control,Wild Pyromancer,6
+Exp2 Paladin Control,The Black Knight,6
+Exp2 Paladin Control,Stampeding Kodo,6
+Exp2 Paladin Control,Crazed Alchemist,6
+Exp2 Paladin Control,Bananas,6
+Exp2 Paladin Control,Raging Worgen,5
+Exp2 Paladin Control,Emperor Cobra,5
+Exp2 Paladin Control,Booty Bay Bodyguard,5
+Exp2 Paladin Control,Alexstrasza,5
+Exp2 Paladin Control,Aldor Peacekeeper,5
+Exp2 Paladin Control,Young Priestess,4
+Exp2 Paladin Control,The Coin,4
+Exp2 Paladin Control,Millhouse Manastorm,3
+Exp2 Paladin Control,Murloc Warleader,2
+Exp2 Paladin Control,Mana Wraith,2
+Exp2 Warlock Aggro,Faerie Dragon,12
+Exp2 Warlock Aggro,Voodoo Doctor,11
+Exp2 Warlock Aggro,Dire Wolf Alpha,11
+Exp2 Warlock Aggro,Murloc Warleader,10
+Exp2 Warlock Aggro,Worgen Infiltrator,9
+Exp2 Warlock Aggro,Stampeding Kodo,9
+Exp2 Warlock Aggro,Southsea Deckhand,8
+Exp2 Warlock Aggro,Argent Commander,8
+Exp2 Warlock Aggro,Young Dragonhawk,6
+Exp2 Warlock Aggro,The Coin,6
+Exp2 Warlock Aggro,Succubus,6
+Exp2 Warlock Aggro,Voidwalker,5
+Exp2 Warlock Aggro,Sunfury Protector,5
+Exp2 Warlock Aggro,Doomguard,5
+Exp2 Warlock Aggro,Angry Chicken,5
+Exp2 Warlock Aggro,Wolfrider,4
+Exp2 Warlock Aggro,Void Terror,4
+Exp2 Warlock Aggro,Shieldbearer,4
+Exp2 Warlock Aggro,Pint-Sized Summoner,4
+Exp2 Warlock Aggro,Bananas,4
+Exp2 Warlock Aggro,Tinkmaster Overspark,3
+Exp2 Warlock Aggro,Murloc Tidehunter,3
+Exp2 Warlock Aggro,Mind Control Tech,3
+Exp2 Warlock Aggro,Loot Hoarder,3
+Exp2 Warlock Aggro,Demolisher,3
+Exp2 Warlock Aggro,Mortal Coil,2
+Exp2 Warlock Aggro,Malygos,2
+Exp2 Warlock Control,Dire Wolf Alpha,12
+Exp2 Warlock Control,Master Swordsmith,11
+Exp2 Warlock Control,The Coin,9
+Exp2 Warlock Control,Fen Creeper,9
+Exp2 Warlock Control,Abusive Sergeant,9
+Exp2 Warlock Control,King Mukla,8
+Exp2 Warlock Control,Alexstrasza,8
+Exp2 Warlock Control,Sunfury Protector,7
+Exp2 Warlock Control,Darkscale Healer,7
+Exp2 Warlock Control,The Beast,6
+Exp2 Warlock Control,Stormwind Knight,6
+Exp2 Warlock Control,River Crocolisk,6
+Exp2 Warlock Control,Raging Worgen,6
+Exp2 Warlock Control,Priestess of Elune,6
+Exp2 Warlock Control,Mortal Coil,6
+Exp2 Warlock Control,Mana Wraith,6
+Exp2 Warlock Control,Lorewalker Cho,6
+Exp2 Warlock Control,Leper Gnome,6
+Exp2 Warlock Control,Harvest Golem,6
+Exp2 Warlock Control,Emperor Cobra,6
+Exp2 Warlock Control,Young Priestess,5
+Exp2 Warlock Control,Wild Pyromancer,5
+Exp2 Warlock Control,Sunwalker,5
+Exp2 Warlock Control,Succubus,5
+Exp2 Warlock Control,Dark Iron Dwarf,5
+Exp2 Warlock Control,Voodoo Doctor,4
+Exp2 Warlock Control,Loot Hoarder,4
+Exp2 Warlock Control,Kobold Geomancer,4

@@ -1,0 +1,17 @@
+1;0;
+Southsea Deckhand;1;
+The Coin;1;
+Worgen Infiltrator;1;
+Succubus;1;
+Sunfury Protector;1;
+Dire Wolf Alpha;1;
+Voidwalker;1;
+Stampeding Kodo;1;
+Argent Commander;1;
+Tinkmaster Overspark;1;
+Faerie Dragon;2;
+Voodoo Doctor;1;
+Angry Chicken;1;
+Murloc Warleader;1;
+Young Dragonhawk;1;
+

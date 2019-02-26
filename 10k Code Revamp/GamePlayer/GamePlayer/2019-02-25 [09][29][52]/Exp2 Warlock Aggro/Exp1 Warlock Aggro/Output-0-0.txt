@@ -1,0 +1,13 @@
+1;1;
+Southsea Deckhand;1;
+The Coin;1;
+Young Dragonhawk;1;
+Pint-Sized Summoner;1;
+Faerie Dragon;1;
+Bananas;2;
+Doomguard;1;
+Argent Commander;1;
+Void Terror;1;
+Angry Chicken;1;
+Murloc Tidehunter;1;
+

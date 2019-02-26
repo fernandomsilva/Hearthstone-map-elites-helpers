@@ -1,0 +1,9 @@
+1;1;
+Questing Adventurer;1;
+Coldlight Seer;1;
+Stonetusk Boar;1;
+Bloodsail Raider;1;
+Raid Leader;1;
+Sunwalker;1;
+Stormwind Champion;1;
+

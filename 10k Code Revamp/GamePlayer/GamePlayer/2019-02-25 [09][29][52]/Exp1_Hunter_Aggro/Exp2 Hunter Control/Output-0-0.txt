@@ -1,0 +1,9 @@
+1;0;
+Eaglehorn Bow;1;
+Defender of Argus;1;
+Nightblade;1;
+Silvermoon Guardian;1;
+Murloc Raider;1;
+Wisp;1;
+Young Priestess;1;
+

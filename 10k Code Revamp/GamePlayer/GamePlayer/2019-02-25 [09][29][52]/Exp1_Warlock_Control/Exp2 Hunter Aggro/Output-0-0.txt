@@ -1,0 +1,11 @@
+1;1;
+Bloodfen Raptor;1;
+Mind Control Tech;1;
+Mogu;1;
+Knife Juggler;1;
+Flesheating Ghoul;1;
+Doomguard;1;
+Illidan Stormrage;1;
+Amani Berserker;1;
+Void Terror;1;
+

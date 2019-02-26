@@ -1,0 +1,17 @@
+1;1;
+The Coin;1;
+Master Swordsmith;1;
+Earthen Ring Farseer;1;
+Sen;1;
+Stormpike Commando;1;
+Demolisher;1;
+Bloodsail Corsair;1;
+Pint-Sized Summoner;1;
+Venture Co. Mercenary;1;
+Worgen Infiltrator;1;
+Bananas;2;
+Wild Pyromancer;1;
+Knife Juggler;1;
+Flesheating Ghoul;1;
+Argent Commander;1;
+

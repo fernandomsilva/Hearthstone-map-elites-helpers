@@ -1,0 +1,11 @@
+1;1;
+Wild Pyromancer;1;
+King Mukla;1;
+Injured Blademaster;1;
+Mortal Coil;1;
+Faerie Dragon;1;
+Scarlet Crusader;1;
+Lord of the Arena;1;
+Nightblade;1;
+Angry Chicken;1;
+

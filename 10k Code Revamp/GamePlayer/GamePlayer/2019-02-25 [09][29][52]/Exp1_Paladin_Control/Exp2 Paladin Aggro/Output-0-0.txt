@@ -1,0 +1,12 @@
+1;0;
+The Coin;1;
+Ironfur Grizzly;1;
+Dark Iron Dwarf;1;
+Shattered Sun Cleric;1;
+Sunwalker;1;
+Consecration;1;
+Murloc Warleader;1;
+Fen Creeper;1;
+Stormwind Champion;1;
+Questing Adventurer;1;
+

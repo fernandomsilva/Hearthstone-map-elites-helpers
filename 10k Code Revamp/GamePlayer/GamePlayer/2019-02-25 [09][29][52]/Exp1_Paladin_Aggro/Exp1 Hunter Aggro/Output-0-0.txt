@@ -1,0 +1,10 @@
+1;1;
+Voodoo Doctor;1;
+Worgen Infiltrator;1;
+Eye for an Eye;1;
+Millhouse Manastorm;1;
+Truesilver Champion;1;
+Murloc Tidehunter;1;
+Scarlet Crusader;1;
+Avenging Wrath;1;
+

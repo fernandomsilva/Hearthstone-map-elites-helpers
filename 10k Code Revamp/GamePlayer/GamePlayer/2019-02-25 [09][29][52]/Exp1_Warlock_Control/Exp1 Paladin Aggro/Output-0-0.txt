@@ -1,0 +1,11 @@
+1;1;
+The Coin;1;
+Amani Berserker;1;
+Murloc Tidecaller;1;
+Void Terror;1;
+Sen;2;
+Doomguard;1;
+Bananas;2;
+Dire Wolf Alpha;1;
+Ravenholdt Assassin;1;
+

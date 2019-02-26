@@ -1,0 +1,16 @@
+1;0;
+The Coin;1;
+Succubus;1;
+Leper Gnome;1;
+Injured Blademaster;1;
+Scarlet Crusader;1;
+Dark Iron Dwarf;1;
+Blood Knight;1;
+Novice Engineer;1;
+Nightblade;1;
+Faerie Dragon;1;
+Sen;1;
+Wild Pyromancer;1;
+Young Priestess;1;
+Sea Giant;1;
+

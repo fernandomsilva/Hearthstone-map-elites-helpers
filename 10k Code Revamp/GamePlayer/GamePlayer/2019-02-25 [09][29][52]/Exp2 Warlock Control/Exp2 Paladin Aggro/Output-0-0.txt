@@ -1,0 +1,14 @@
+1;1;
+The Coin;1;
+Sunfury Protector;1;
+Leper Gnome;1;
+Dire Wolf Alpha;1;
+Stormwind Knight;1;
+Fen Creeper;1;
+Dark Iron Dwarf;1;
+Abusive Sergeant;1;
+Master Swordsmith;2;
+Harvest Golem;1;
+Raging Worgen;1;
+Alexstrasza;1;
+

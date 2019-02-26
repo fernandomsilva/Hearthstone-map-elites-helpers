@@ -1,0 +1,16 @@
+1;1;
+The Coin;1;
+Consecration;2;
+Bloodsail Raider;1;
+Raging Worgen;1;
+Dark Iron Dwarf;1;
+Coldlight Seer;1;
+Imp Master;1;
+Mind Control Tech;1;
+Raid Leader;1;
+Bananas;2;
+Sunwalker;1;
+Hungry Crab;1;
+Alexstrasza;1;
+Light;1;
+

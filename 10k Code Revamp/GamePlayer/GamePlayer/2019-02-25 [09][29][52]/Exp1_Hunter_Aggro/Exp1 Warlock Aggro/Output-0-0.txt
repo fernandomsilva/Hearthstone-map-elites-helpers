@@ -1,0 +1,10 @@
+1;0;
+Wisp;1;
+The Coin;1;
+River Crocolisk;1;
+Razorfen Hunter;1;
+Dark Iron Dwarf;1;
+Abomination;1;
+Stormpike Commando;1;
+Bananas;1;
+

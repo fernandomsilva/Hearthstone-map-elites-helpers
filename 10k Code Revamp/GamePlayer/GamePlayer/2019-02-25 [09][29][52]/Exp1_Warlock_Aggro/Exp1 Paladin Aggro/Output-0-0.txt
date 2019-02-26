@@ -1,0 +1,16 @@
+1;0;
+Southsea Deckhand;1;
+Pint-Sized Summoner;1;
+King Mukla;1;
+The Coin;1;
+Succubus;1;
+Dark Iron Dwarf;1;
+Bananas;2;
+Mortal Coil;1;
+Blood Knight;1;
+Sen;1;
+Faerie Dragon;2;
+Wild Pyromancer;1;
+Worgen Infiltrator;1;
+Injured Blademaster;1;
+

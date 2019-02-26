@@ -1,0 +1,9 @@
+1;1;
+Amani Berserker;2;
+Voodoo Doctor;1;
+Sen;2;
+Bloodfen Raptor;2;
+Millhouse Manastorm;1;
+Ravenholdt Assassin;1;
+Murloc Tidecaller;1;
+

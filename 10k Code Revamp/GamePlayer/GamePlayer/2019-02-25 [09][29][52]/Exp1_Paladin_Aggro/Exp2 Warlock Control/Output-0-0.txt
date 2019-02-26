@@ -1,0 +1,13 @@
+1;1;
+Young Priestess;1;
+The Coin;1;
+Voodoo Doctor;1;
+Acidic Swamp Ooze;1;
+Secretkeeper;1;
+Consecration;2;
+Worgen Infiltrator;1;
+Blessing of Kings;1;
+Murloc Tidehunter;1;
+Eye for an Eye;1;
+Scarlet Crusader;1;
+

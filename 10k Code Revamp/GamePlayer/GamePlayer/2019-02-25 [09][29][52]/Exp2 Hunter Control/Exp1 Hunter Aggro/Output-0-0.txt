@@ -1,0 +1,14 @@
+1;1;
+The Coin;1;
+Imp Master;2;
+Thrallmar Farseer;1;
+King Mukla;1;
+Magma Rager;1;
+Jungle Panther;1;
+Animal Companion;1;
+Raid Leader;1;
+Millhouse Manastorm;1;
+Voodoo Doctor;1;
+Fen Creeper;1;
+Eaglehorn Bow;1;
+

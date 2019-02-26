@@ -1,0 +1,14 @@
+1;0;
+Light;1;
+Crazed Alchemist;1;
+Raging Worgen;1;
+Hammer of Wrath;1;
+Razorfen Hunter;1;
+Consecration;1;
+Worgen Infiltrator;1;
+Coldlight Seer;1;
+Tirion Fordring;1;
+Stampeding Kodo;1;
+Young Priestess;1;
+Frostwolf Warlord;1;
+

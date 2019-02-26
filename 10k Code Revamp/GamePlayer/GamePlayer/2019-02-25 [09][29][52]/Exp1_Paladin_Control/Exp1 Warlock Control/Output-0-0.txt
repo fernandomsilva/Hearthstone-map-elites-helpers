@@ -1,0 +1,16 @@
+1;1;
+The Coin;1;
+Wild Pyromancer;1;
+Raid Leader;1;
+Dark Iron Dwarf;1;
+Raging Worgen;2;
+Priestess of Elune;1;
+Stormwind Champion;1;
+Murloc Warleader;1;
+Thrallmar Farseer;1;
+Alexstrasza;1;
+Fen Creeper;1;
+Imp Master;1;
+Consecration;1;
+Mind Control Tech;1;
+

@@ -1,0 +1,10 @@
+1;0;
+Wisp;1;
+Southsea Deckhand;1;
+Timber Wolf;1;
+Worgen Infiltrator;1;
+Hungry Crab;1;
+Eaglehorn Bow;1;
+Reckless Rocketeer;1;
+Nightblade;1;
+

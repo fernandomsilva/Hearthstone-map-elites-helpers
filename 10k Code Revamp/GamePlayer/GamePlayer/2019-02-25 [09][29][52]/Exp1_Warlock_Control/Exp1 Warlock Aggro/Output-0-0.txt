@@ -1,0 +1,13 @@
+1;1;
+Knife Juggler;1;
+Bloodsail Raider;1;
+Amani Berserker;1;
+Loot Hoarder;1;
+Fen Creeper;1;
+Illidan Stormrage;1;
+Silverback Patriarch;1;
+Mind Control Tech;1;
+The Black Knight;1;
+Bananas;2;
+Alexstrasza;1;
+

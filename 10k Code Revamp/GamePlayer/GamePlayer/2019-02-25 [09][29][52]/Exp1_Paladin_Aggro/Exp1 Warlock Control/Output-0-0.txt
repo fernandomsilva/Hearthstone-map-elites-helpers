@@ -1,0 +1,12 @@
+1;1;
+The Coin;1;
+Acidic Swamp Ooze;1;
+Voodoo Doctor;1;
+Secretkeeper;1;
+Dire Wolf Alpha;1;
+Goldshire Footman;1;
+Lightwarden;1;
+King Mukla;1;
+Scarlet Crusader;1;
+Avenging Wrath;1;
+

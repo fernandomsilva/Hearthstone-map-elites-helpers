@@ -1,0 +1,11 @@
+1;1;
+Succubus;1;
+Murloc Warleader;1;
+Mortal Coil;1;
+Wolfrider;1;
+Stampeding Kodo;1;
+Argent Commander;1;
+Shieldbearer;1;
+Voidwalker;1;
+Voodoo Doctor;1;
+

@@ -1,0 +1,16 @@
+1;1;
+The Coin;1;
+Dire Wolf Alpha;1;
+Pint-Sized Summoner;1;
+Mind Control Tech;1;
+Shieldbearer;1;
+Stampeding Kodo;1;
+Young Dragonhawk;1;
+Voodoo Doctor;1;
+Faerie Dragon;1;
+Murloc Warleader;1;
+Southsea Deckhand;1;
+Doomguard;1;
+Voidwalker;1;
+Angry Chicken;1;
+

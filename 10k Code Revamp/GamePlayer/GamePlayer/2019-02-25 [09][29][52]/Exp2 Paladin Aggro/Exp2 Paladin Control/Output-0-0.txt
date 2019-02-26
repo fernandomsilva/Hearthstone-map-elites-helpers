@@ -1,0 +1,14 @@
+1;0;
+The Coin;1;
+Wild Pyromancer;1;
+Young Priestess;1;
+Flesheating Ghoul;1;
+Consecration;2;
+Frostwolf Warlord;1;
+Blessing of Kings;2;
+Young Dragonhawk;1;
+Voodoo Doctor;1;
+Hungry Crab;1;
+Bloodsail Raider;1;
+Master Swordsmith;1;
+

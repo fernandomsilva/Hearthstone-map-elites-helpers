@@ -1,0 +1,17 @@
+1;0;
+Dire Wolf Alpha;1;
+King Mukla;1;
+Dark Iron Dwarf;1;
+Mana Wraith;1;
+Lorewalker Cho;1;
+Stormwind Knight;1;
+Mortal Coil;1;
+Darkscale Healer;1;
+Emperor Cobra;1;
+Harvest Golem;1;
+Priestess of Elune;1;
+Voodoo Doctor;1;
+Alexstrasza;1;
+Master Swordsmith;1;
+Wild Pyromancer;1;
+

@@ -1,0 +1,11 @@
+1;1;
+Voodoo Doctor;2;
+Mana Addict;1;
+King Mukla;1;
+Scarlet Crusader;1;
+Stampeding Kodo;1;
+Southsea Captain;1;
+Baron Geddon;1;
+Lay on Hands;1;
+Avenging Wrath;1;
+

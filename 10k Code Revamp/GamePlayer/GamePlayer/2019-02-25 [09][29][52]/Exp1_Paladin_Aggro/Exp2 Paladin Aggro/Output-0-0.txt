@@ -1,0 +1,9 @@
+1;1;
+Voodoo Doctor;1;
+The Coin;1;
+Young Priestess;1;
+Murloc Tidehunter;1;
+Dire Wolf Alpha;1;
+Lightwarden;1;
+Blessing of Kings;1;
+

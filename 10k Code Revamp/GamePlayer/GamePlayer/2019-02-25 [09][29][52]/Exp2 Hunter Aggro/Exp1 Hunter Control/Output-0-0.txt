@@ -1,0 +1,12 @@
+1;0;
+Lightwarden;1;
+Scavenging Hyena;1;
+Kill Command;1;
+Wolfrider;1;
+Murloc Tidehunter;1;
+The Black Knight;1;
+Explosive Shot;1;
+Bluegill Warrior;1;
+Wisp;1;
+Archmage;1;
+

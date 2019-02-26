@@ -1,0 +1,14 @@
+1;1;
+Bloodfen Raptor;1;
+Knife Juggler;2;
+Sen;1;
+Bloodsail Raider;1;
+Flesheating Ghoul;1;
+Lorewalker Cho;1;
+Pint-Sized Summoner;1;
+Priestess of Elune;1;
+Blessing of Might;2;
+Venture Co. Mercenary;1;
+Onyxia;1;
+Master Swordsmith;1;
+

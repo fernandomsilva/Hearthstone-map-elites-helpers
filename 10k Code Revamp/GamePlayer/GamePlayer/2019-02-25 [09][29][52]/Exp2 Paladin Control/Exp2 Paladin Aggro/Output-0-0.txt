@@ -1,0 +1,13 @@
+1;1;
+The Coin;1;
+Aldor Peacekeeper;1;
+Consecration;1;
+Booty Bay Bodyguard;1;
+The Black Knight;1;
+Sunwalker;1;
+Light;1;
+Hammer of Wrath;1;
+Emperor Cobra;1;
+Nozdormu;1;
+Alexstrasza;1;
+

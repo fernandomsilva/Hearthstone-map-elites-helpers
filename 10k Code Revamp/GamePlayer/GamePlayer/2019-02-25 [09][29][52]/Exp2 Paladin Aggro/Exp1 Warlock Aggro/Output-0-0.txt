@@ -1,0 +1,9 @@
+1;1;
+The Coin;1;
+Bluegill Warrior;1;
+Argent Squire;1;
+Mana Addict;1;
+Blessing of Kings;2;
+Consecration;1;
+Equality;1;
+

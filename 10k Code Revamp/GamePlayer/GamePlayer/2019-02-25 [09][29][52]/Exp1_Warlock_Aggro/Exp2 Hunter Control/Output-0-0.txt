@@ -1,0 +1,11 @@
+1;1;
+Worgen Infiltrator;2;
+The Coin;1;
+Faerie Dragon;1;
+Scarlet Crusader;1;
+Wisp;1;
+Dark Iron Dwarf;1;
+Bloodsail Raider;1;
+King Mukla;1;
+Lord of the Arena;1;
+

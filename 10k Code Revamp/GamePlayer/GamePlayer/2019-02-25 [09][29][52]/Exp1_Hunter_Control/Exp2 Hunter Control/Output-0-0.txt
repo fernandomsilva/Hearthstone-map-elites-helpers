@@ -1,0 +1,17 @@
+1;1;
+Lightwarden;1;
+Flesheating Ghoul;2;
+Dire Wolf Alpha;1;
+Worgen Infiltrator;1;
+Booty Bay Bodyguard;1;
+Priestess of Elune;1;
+Sunwalker;1;
+Bloodsail Raider;1;
+Master Swordsmith;1;
+Earthen Ring Farseer;1;
+Onyxia;1;
+Pint-Sized Summoner;1;
+Scavenging Hyena;1;
+Demolisher;1;
+Knife Juggler;1;
+

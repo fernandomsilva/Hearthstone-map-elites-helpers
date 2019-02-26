@@ -1,10 +1,4 @@
-﻿//using System;
-//using System.Collections.Generic;
-//using System.Linq;
-//using System.Text;
-//using System.Threading.Tasks;
-
-using System;
+﻿using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -23,102 +17,220 @@ using System.Text;
 using System.Xml;
 using System.Xml.Linq;
 using System.IO;
-using System.Diagnostics;
-//using System.Data.DataSet;
-//For Paladin
+
+public static class StringExtensions
+{
+    public static string[] Split2(this string source, char delim)
+    {
+        // argument null checking etc omitted for brevity
+		List<string> result = new List<string>();
+
+        int oldIndex = 0, newIndex;
+        while ((newIndex = source.IndexOf(delim, oldIndex)) != -1)
+        {
+            result.Add(source.Substring(oldIndex, newIndex - oldIndex));
+            oldIndex = newIndex + 1;//delim.Length;
+        }
+		result.Add(source.Substring(oldIndex));
+        
+		return result.ToArray();
+    }
+}
+
 namespace GamePlayer
 {
     internal class Program
     {
-        private static readonly Random Rnd = new Random();
-        static Dictionary<string, int> cardname = new Dictionary<string, int>();
-
         private static int maxDepth = 13;//maxDepth = 10 and maxWidth = 500 is optimal 
         private static int maxWidth = 4;//keep maxDepth high(around 13) and maxWidth very low (4) for maximum speed
-        private static Dictionary<string, int> cardStats = new Dictionary<string, int>(); //Store the amount of times each card is played PER GAME
-        private static int parallelThreads = 1;// number of parallel running threads//not important
-        private static int testsInEachThread = 1;//number of games in each thread//ae ere
+        //private static int parallelThreads = 1;// number of parallel running threads//not important
+        //private static int testsInEachThread = 1;//number of games in each thread//ae ere
                                                  //you are advised not to set more than 3 parallel threads if you are doing this on your laptop, otherwise the laptop will not survive
-        private static int parallelThreadsInner = 1;//this his what is important
-        private static int testsInEachThreadInner = 1;//linearly
+        //private static int parallelThreadsInner = 1;//this his what is important
+        //private static int testsInEachThreadInner = 2;//linearly
 
-        private static bool parallelOrNot = true;
-
-        private static Stopwatch stopwatch2 = new Stopwatch();
-        //static string friendDeckClass = "";
-        //static string enemyDeckClass = ""; 
+		private static int GPUID;
+		private static string folderName;
+		private static int numGames;
+		private static int stepSize;
+		private static bool record_log;
+		private static string player_decks_file;
+		private static string opponent_decks_file;
+		
+		public static void parseArgs(string[] args)
+		{
+			for (int i=0; i<args.Length; i++)
+			{
+				string argument = args[i].ToLower();
+				
+				if (argument.Contains("gpuid="))
+				{
+					GPUID = int.Parse(argument.Substring(6)) - 1;
+				}
+				else if (argument.Contains("folder="))
+				{
+					folderName = args[i].Substring(7);
+				}
+				else if (argument.Contains("numgames="))
+				{
+					numGames = int.Parse(argument.Substring(9));
+				}
+				else if (argument.Contains("stepsize="))
+				{
+					stepSize = int.Parse(argument.Substring(9));
+				}
+				else if (argument.Contains("playerdecks="))
+				{
+					player_decks_file = argument.Substring(12);
+				}
+				else if (argument.Contains("opponentdecks="))
+				{
+					opponent_decks_file = argument.Substring(14);
+				}
+				else if (argument.Contains("log="))
+				{
+					if (argument[4] == 't')
+					{
+						record_log = true;
+					}
+					else
+					{
+						record_log = false;
+					}
+				}
+			}
+		}
 
         private static void Main(string[] args)
         {
-            Dictionary<int, Dictionary<int, List<Card>>> victoryMany = new Dictionary<int, Dictionary<int, List<Card>>>();
-
-            Dictionary<int, float> winRates = new Dictionary<int, float>();
-
-            Dictionary<int, string> results = new Dictionary<int, string>();
-            Dictionary<int, List<Card>> resultsMutated = new Dictionary<int, List<Card>>();
-			
 			List<List<object>> players; //= new List<List<object>>();
 			List<List<object>> opponents; //= new List<List<object>>();
 
-            bool end = false;
-
-            stopwatch2.Start();
-
             ParallelOptions parallelOptions = new ParallelOptions();
-            parallelOptions.MaxDegreeOfParallelism = parallelThreads;
+            parallelOptions.MaxDegreeOfParallelism = 1;//parallelThreads;
 
-            int GPUID = int.Parse(args[0]) - 1;//1;//1;// -1 for Ms hoover0;// 0;//
-
-            string folderName = args[1].ToString();//"22-02-2018-23-54-44";// "starter-0";/"starter-0";//
-            int numGames = int.Parse(args[2]);//200;// 100;// 100;//100;//
-            int deckIncrement = int.Parse(args[3]); //2;// 0;//  0;//
-
-            int deckID = GPUID / numGames;
-            int remainder = GPUID % numGames;
-
-            //Console.WriteLine("here for Hunter Deck GPUID=" + GPUID + "numgames=" + numGames + "folderanme=" + folderName);
-            //Console.WriteLine("here GPUID=" + GPUID + "numgames=" + numGames + "folderanme=" + folderName);
-            string path = folderName + "/Decks.txt";
-            int level = int.Parse(folderName.Split('-')[1]);
-            /*int GPUID = 1;//1;//1;// -1 for Ms hoover0;// 0;//
-
-            string folderName = "";
-            int numGames = 0;
-            int deckIncrement = 0;
-
-            int deckID = 1;
-            int remainder = 1;
-
-            string path = "/Decks.txt";
-            int level = 1;*/
+			GPUID = 0;
+			folderName = "";
+			numGames = 2;
+			stepSize = 0;
+			player_decks_file = "player_decks.csv";
+			opponent_decks_file = "opponent_decks.csv";
 			
-			players = getPlayersFromFile("test.txt");
+			parseArgs(args);
 			
-			/*for (int i=0; i < players.Count; i++)
+			if (folderName == "") { folderName = DateTime.Now.ToString("yyyy-MM-dd.hh.mm.ss"); }
+			
+			if (stepSize == 0) { stepSize = numGames; }
+			if (numGames < stepSize || (numGames % stepSize) > 0)
 			{
-				Console.WriteLine(players[i][0] + " / " + players[i][1] + " / " + players[i][2]);
-				List<Card> deck = (List<Card>) players[i][3];
-				for (int j=0; j<deck.Count; j++)
-				{
-					Console.Write(deck[j] + ", ");
-				}
-				Console.Write('\n');
-			}*/
+				Console.WriteLine("\'numGames / stepSize\' must result in an integer bigger than 0");
+				return;
+			}
 			
-			//List<object> p1 = players[0];
-			//List<object> p2 = players[1];
-			//string log_text = "";
+			int number_of_loops = numGames / stepSize;
 			
-			//Console.WriteLine(FullGame((string) p1[1], (string) p1[2], (List<Card>) p1[3], 0, (string) p2[1], (string) p2[2], (List<Card>) p2[3], ref log_text));
-			Dictionary<string, int> playerCardPlayCount = new Dictionary<string, int>();
-			//Dictionary<string, int> opponentCardPlayCount = new Dictionary<string, int>();
+			players = getPlayersFromFile(player_decks_file);
+			opponents = getPlayersFromFile(opponent_decks_file);
+			
+			if (!Directory.Exists(folderName))
+			{
+				Directory.CreateDirectory(folderName);
+			}
+			Thread.Sleep(10000);
 
-			foreach(var line in log_text.Split('\n'))//new string[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries))
+			int j = 0;
+			
+			foreach (List<object> player in players)
+			{
+				foreach (List<object> opponent in opponents)
+				{
+					j = 0;
+					
+					while (j < number_of_loops)
+					{
+						string winRate = "";
+						bool retry = true;
+						int tries = 0;
+						
+						while (retry)
+						{
+							try
+							{
+								string player1Class = (string) player[1];
+								string player1Strategy = (string) player[2];
+								List<Card> player1Deck = (List<Card>) player[3];
+								string player2Class = (string) opponent[1];
+								string player2Strategy = (string) opponent[2];
+								List<Card> player2Deck = (List<Card>) opponent[3];
+								
+								//Console.WriteLine("Start Thread");
+								var thread = new Thread(() =>
+								{
+									winRate = getWinRate(player1Class, player1Strategy, player1Deck, player2Class, player2Strategy, player2Deck);
+								});
+								
+								thread.Start();
+								
+								bool finished = thread.Join(600000);
+
+								//Console.WriteLine("Thread End");
+								
+								if (!finished)
+								{
+									retry = true;
+
+									tries++;
+									continue;
+								}
+								else
+								{
+									retry = false;
+
+								}
+							}
+							catch (Exception e)
+							{
+								Console.WriteLine(e.Message);
+							}
+							if (tries > 3)
+							{
+								break;
+							}
+						}
+						
+						string overallGameStat = folderName + "/" + player[0] + "/" + opponent[0];
+						if (!Directory.Exists(overallGameStat))
+						{
+							Directory.CreateDirectory(overallGameStat);
+						}
+						try
+						{
+							overallGameStat = overallGameStat + "/Output-" + GPUID + "-" + j + ".txt";
+							using (StreamWriter tw = File.AppendText(overallGameStat))
+							{
+								tw.WriteLine(winRate);
+
+								tw.Close();
+							}
+						}
+						catch (Exception e)
+						{
+							Console.WriteLine(e.Message);
+						}
+						j++;
+					}
+				}
+			}
+        }
+		
+		public static void registerLogPlayStats(string log_text, ref Dictionary<string, int> playerCardPlayCount)
+		{
+			foreach(var line in log_text.Split2('\n'))//new string[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries))
 			{
 				if (line.Contains("[Player 1] play"))
 				{
-					string key = line.Split('\'')[1];
-					key = key.Split('[')[0];
+					string key = line.Split2('\'')[1];
+					key = key.Split2('[')[0];
 					if (playerCardPlayCount.ContainsKey(key))
 					{
 						playerCardPlayCount[key] = playerCardPlayCount[key] + 1;
@@ -129,125 +241,43 @@ namespace GamePlayer
 					}
 				}
 			}
-			
-			//foreach (KeyValuePair<string, int> kvp in playerCardPlayCount)
-			//{
-			//	Console.WriteLine("Key = {0}, Value = {1}", kvp.Key, kvp.Value);
-			//}
-			//return;
-			
-            while (true)
-            {
-                while (Directory.Exists(folderName))
-                {
-                    //Console.WriteLine(" this code is for Fernando to run on Sir HPC count of results=" + results.Count);
-                    //Console.WriteLine("Found " + folderName);
-                    Thread.Sleep(10000);
-                    path = folderName + "/Decks.txt";
 
-                    int j = 0;
-                    int currDeckID = deckID;
-                    while (j < 25)
-                    {
-                        List<Card> playerDeck2 = getDeckFromFile(folderName+"/EnemyDeck.txt");
-                        List<Card> playerDeck = getDeckFromFile(folderName+"/FriendDeck.txt"); //nDecks[currDeckID];
-                        //Console.WriteLine("Enemy deck:-size=" + playerDeck2.Count);
-                        //Console.WriteLine("Friend deck:- size=" + playerDeck.Count);
-                        string gameLogAddr = folderName + "/Deck" + currDeckID;
-                        //enemyDeckClass = getClassFromFile(folderName + "/EnemyDeck.txt");
-                        //friendDeckClass = getClassFromFile(folderName + "/FriendDeck.txt");
-                        //Console.WriteLine("currently on deck =" + currDeckID);
-                        gameLogAddr += "/" + GPUID + "-" + j + ".txt";
+		}
 
-                        //Stopwatch stopwatch = new Stopwatch();
-                        if (!results.ContainsKey(j))
-                        {
-                            string winRate = "";
-                            stopwatch.Start();
-                            bool retry = true;
-                            int tries = 0;
-                            while (retry)
-                            {
-                                try
-                                {
-                                    var thread = new Thread(() =>
-                                    {
-                                        //winRate_timeMean = "GPUID:" + GPUID + "-" + j + " Game Deck:" + currDeckID + ": " + getWinRateTimeMean(playerDeck, j, playerDeck2, gameLogAddr);
-										winRate = getWinRate(player1Class, player1Strategy, player1Deck, int where, player2Class, player2Strategy, player2Deck, ref string gameLogAddr);
-                                    });
-                                    thread.Start();
-                                    bool finished = thread.Join(600000);
-                                    if (!finished)
-                                    {
-                                        retry = true;
-                                        //Console.WriteLine("had to continue here for deck=" + currDeckID);
-
-                                        tries++;
-                                        continue;
-                                    }
-                                    else
-                                    {
-                                        retry = false;
-
-                                    }
-                                }
-                                catch (Exception e)
-                                {
-                                    Console.WriteLine(e.Message);
-                                }
-                                if (tries > 3)
-                                {
-                                    break;
-                                }
-                            }
-
-                            if (!results.ContainsKey(j))
-                            {
-                                results.Add(j, winRate);
-                            }
-                            j++;
-                            currDeckID += deckIncrement;
-                            GC.Collect();
-                            cardStats.Clear();
-                            long memory = GC.GetTotalMemory(false);
-                            Console.WriteLine("Memory usage here:" + memory);
-                        }
-                    }
-                    level++;
-                    folderName = folderName.Split('-')[0] + "-" + level.ToString();
-                    results.Clear();
-
-                    //Console.WriteLine("trying to find " + folderName);
-                }
-            }
-        }
-
-        //public static string getWinRateTimeMean(List<Card> player1Deck, int where, List<Card> player2Deck, string gameLogAddr)
-		public static string getWinRate(string player1Class, string player1Strategy, List<Card> player1Deck, int where, string player2Class, string player2Strategy, List<Card> player2Deck, ref string gameLogAddr)
+		public static string getWinRate(string player1Class, string player1Strategy, List<Card> player1Deck, string player2Class, string player2Strategy, List<Card> player2Deck)
         {
             int[] wins = Enumerable.Repeat(0, 1000).ToArray();
-            long sum_Timetaken = 0;
-            int winss = 0;
+			string[] game_log_list = new string[1000];
 
+			Dictionary<string, int> playerCardPlayCount = new Dictionary<string, int>();
+			
             ParallelOptions parallel_options = new ParallelOptions();
             parallel_options.MaxDegreeOfParallelism = 8;// parallelThreads;// Environment.ProcessorCount;//parallelThreadsInner+10;
                                                        // Console.WriteLine(Environment.ProcessorCountCount);
-            //object[] stopwatches = temp();
+													   
+			for (int k=0; k<game_log_list.Length; k++)
+			{
+				game_log_list[k] = "";
+			}
+			
             string res = "";
-            Parallel.For(0, parallelThreadsInner * testsInEachThreadInner, parallel_options, j =>
+            Parallel.For(0, stepSize, parallel_options, j =>//parallelThreadsInner * testsInEachThreadInner, parallel_options, j =>
             {
                 int i = j;
-
-                //((Stopwatch)stopwatches[i]).Start();
+				//Console.WriteLine(i);
 
                 string s = "";
+				string game_log = "";
                 bool retry = true;
-                while (retry)
+                
+				while (retry)
                 {
                     try
                     {
-                        s = FullGame(player1Class, player1Deck, i, player2Class, player2Deck, ref gameLogAddr);
-                        //Console.WriteLine(s);
+						//Console.WriteLine("Start Game!");
+                        s = FullGame(player1Class, player1Strategy, player1Deck, player2Class, player2Strategy, player2Deck, ref game_log);
+						game_log_list[j] = game_log;
+						//Console.WriteLine("Game End!");
                     }
                     catch (Exception e)
                     {
@@ -266,27 +296,34 @@ namespace GamePlayer
                         retry = false;
                     }
                 }
-                //((Stopwatch)stopwatches[i]).Stop();
-                //long seconds = (((Stopwatch)stopwatches[i]).ElapsedMilliseconds / 1000);
-
-                //sum_Timetaken = sum_Timetaken + seconds;
 
                 if (s.Contains("Player1: WON"))
                 {
                     wins[i]++;
                 }
-
-                res = s;
             });
-            //TimeSpan t = TimeSpan.FromSeconds(sum_Timetaken / (parallelThreadsInner * testsInEachThreadInner));
 
-            return res;// + " and average time of game (hh:mm:ss) = " + t.ToString();
+			res = "" + stepSize + ";" + wins.Sum() + ";\n";
+			
+			if (record_log)
+			{
+				for (int k=0; k<game_log_list.Length; k++)
+				{
+					registerLogPlayStats(game_log_list[k], ref playerCardPlayCount);
+				}
+				foreach (KeyValuePair<string, int> kvp in playerCardPlayCount)
+				{
+					res = res + kvp.Key + ";" + kvp.Value + ";\n";
+				}
+			}
+			
+            return res;
         }
 
         public static List<List<object>> getPlayersFromFile(string path)
         {
 			List<List<object>> result = new List<List<object>>();
-            //List<Card> deck = new List<Card>();
+
             string[] file_data = System.IO.File.ReadAllLines(path);
 			
 			for (int i=0; i<file_data.Length; i++)
@@ -294,8 +331,8 @@ namespace GamePlayer
 				string textLines = file_data[i];
 				List<object> new_entry = new List<object>();
 				
-				string[] playerInfo = textLines.Split(';');
-				string[] cards = playerInfo[3].Split('*');
+				string[] playerInfo = textLines.Split2(';');
+				string[] cards = playerInfo[3].Split2('*');
 				List<Card> deck = new List<Card>();
 				for (int j = 0; j < 30; j++)
 				{
@@ -311,15 +348,6 @@ namespace GamePlayer
 			}
 			
             return result;
-        }
-
-        public static string getClassFromFile(string path)
-        {
-            List<Card> opponent = new List<Card>();
-            string[] textLines = System.IO.File.ReadAllLines(path);
-            Console.WriteLine("lines size=" + textLines.Length + "in path=" + path);
-            string Class = textLines[0].Trim().ToLower();
-            return Class;
         }
 
         public static Game getGame(string player1Class, List<Card> player1Deck, string player2Class, List<Card> player2Deck)
@@ -385,12 +413,13 @@ namespace GamePlayer
             return game;
         }
 
-        public static string FullGame(string player1Class, string player1Strategy, List<Card> player1Deck, int where, string player2Class, string player2Strategy, List<Card> player2Deck, ref string gameLogAddr)
+        public static string FullGame(string player1Class, string player1Strategy, List<Card> player1Deck, string player2Class, string player2Strategy, List<Card> player2Deck, ref string gameLogAddr)
         {
             string logsbuild = "";
             var game = getGame(player1Class, player1Deck, player2Class, player2Deck);
-            //Console.WriteLine("game heroes:" + game.Heroes[0].ToString() + " and " + game.Heroes[1].ToString());
+
             game.StartGame();
+
             string startPlayer = game.CurrentPlayer.Name;
             object aiPlayer1 = new AggroScore();
             object aiPlayer2 = new AggroScore();
@@ -458,16 +487,6 @@ namespace GamePlayer
                     {
                         logsbuild += task.FullPrint() + "\n";
 
-                        string printedTask = task.FullPrint();//CONNOR CODE
-                        if (printedTask.IndexOf("play") != -1)//CONNOR CODE
-                        {//CONNOR CODE
-                            string card = task.Source.ToString();//CONNOR CODE
-                            CalculateFreqs(card);//CONNOR CODE
-                        }//CONNOR CODE
-                        else//CONNOR CODE
-                        {//CONNOR CODE
-                         // Console.WriteLine("Else: " + printedTask);//CONNOR CODE
-                        }//CONNOR CODE
                         game.Process(task);
                         if (game.CurrentPlayer.Choice != null)
                         {
@@ -497,7 +516,6 @@ namespace GamePlayer
                         }
                     }
                 }
-                GC.Collect();
             }
             int healthdiff = game.Player1.Hero.Health - game.Player2.Hero.Health;
             logsbuild += "Game: {game.State}, Player1: " + game.Player1.PlayState + " / Player2:" + game.Player2.PlayState + "healthdiff:" + healthdiff + "& turns:" + game.Turn;
@@ -505,44 +523,6 @@ namespace GamePlayer
 
             return "start player=" + startPlayer + ", Game: {game.State}, Player1: " + game.Player1.PlayState + " / Player2:" + game.Player2.PlayState + "healthdiff:" + healthdiff + "& turns:" + game.Turn;
         }
-        /*static Dictionary<int, Dictionary<string, int>> calcuated = new Dictionary<int, Dictionary<string, int>>();//global
-        static void calcukateCardFreq(string printed, int idgame, Dictionary<string, int> cardnames)
-        {
-
-            string namecard = "";
-
-            if (cardnames.ContainsKey(namecard))
-            {
-                calcuated[idgame].Add(namecard, 0);
-            }
-        }*/
-        public static void CalculateFreqs(string thisCard)
-        {
-            String[] cardDetails = thisCard.Split('[');
-            string cardNeeded = cardDetails[0].Remove(0, 1);
-            cardNeeded = "[" + cardNeeded + "]";
-            if (cardStats.ContainsKey(cardNeeded))
-            {
-                cardStats[cardNeeded] += 1;
-            }
-            else
-            {
-                cardStats.Add(cardNeeded, 1);
-            }
-        }
-
-        public static string produceCardStatsString()
-        {
-            string build = "";
-            var ordered = cardStats.OrderByDescending(pair => pair.Value).ToDictionary(pair => pair.Key, pair => pair.Value);
-            foreach (string key in cardStats.Keys)
-            {
-                build += key + "*" + ordered[key] + "**";
-            }
-
-            return build;
-        }
-
     }
 }
 

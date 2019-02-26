@@ -1,0 +1,10 @@
+1;1;
+Voodoo Doctor;1;
+The Coin;1;
+Scarlet Crusader;1;
+Blessing of Kings;1;
+Truesilver Champion;1;
+Lightwarden;1;
+Consecration;1;
+Baron Geddon;1;
+

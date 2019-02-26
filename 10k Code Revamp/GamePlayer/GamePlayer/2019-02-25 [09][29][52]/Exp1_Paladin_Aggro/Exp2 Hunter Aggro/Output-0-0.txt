@@ -1,0 +1,8 @@
+1;1;
+Voodoo Doctor;1;
+Dire Wolf Alpha;1;
+Sunfury Protector;1;
+Blessing of Kings;1;
+Stampeding Kodo;1;
+Avenging Wrath;1;
+

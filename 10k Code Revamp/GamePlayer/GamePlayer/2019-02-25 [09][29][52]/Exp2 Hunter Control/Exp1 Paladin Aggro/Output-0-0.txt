@@ -1,0 +1,11 @@
+1;1;
+Millhouse Manastorm;1;
+Shattered Sun Cleric;1;
+Raid Leader;1;
+Jungle Panther;1;
+Novice Engineer;1;
+Imp Master;1;
+River Crocolisk;1;
+Voodoo Doctor;1;
+Faerie Dragon;1;
+

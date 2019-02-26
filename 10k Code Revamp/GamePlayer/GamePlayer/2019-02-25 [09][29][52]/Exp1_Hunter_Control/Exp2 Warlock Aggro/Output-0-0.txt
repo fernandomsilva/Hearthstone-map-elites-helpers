@@ -1,0 +1,12 @@
+1;1;
+Dire Wolf Alpha;1;
+Pint-Sized Summoner;2;
+Worgen Infiltrator;1;
+Sen;1;
+Bloodsail Corsair;1;
+Priestess of Elune;1;
+Stormpike Commando;1;
+Flesheating Ghoul;1;
+Venture Co. Mercenary;1;
+Bloodsail Raider;1;
+

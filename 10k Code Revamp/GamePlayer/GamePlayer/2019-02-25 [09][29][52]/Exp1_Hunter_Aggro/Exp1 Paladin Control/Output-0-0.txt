@@ -1,0 +1,14 @@
+1;0;
+Wisp;1;
+Worgen Infiltrator;1;
+Eaglehorn Bow;1;
+Arcane Golem;1;
+Razorfen Hunter;1;
+Reckless Rocketeer;1;
+Abomination;1;
+River Crocolisk;1;
+Timber Wolf;1;
+Animal Companion;2;
+Silvermoon Guardian;1;
+Leper Gnome;1;
+

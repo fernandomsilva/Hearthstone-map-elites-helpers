@@ -1,0 +1,13 @@
+1;0;
+Dire Wolf Alpha;1;
+Flesheating Ghoul;1;
+Mogu;1;
+Dalaran Mage;1;
+Illidan Stormrage;1;
+Siphon Soul;1;
+Doomguard;1;
+Bloodfen Raptor;1;
+Silverback Patriarch;1;
+Sen;1;
+Sunwalker;1;
+

@@ -1,0 +1,12 @@
+1;0;
+Timber Wolf;1;
+Eaglehorn Bow;1;
+Silvermoon Guardian;1;
+Animal Companion;2;
+Leper Gnome;1;
+Worgen Infiltrator;1;
+Razorfen Hunter;1;
+Arcane Golem;1;
+Young Priestess;1;
+Unleash the Hounds;1;
+

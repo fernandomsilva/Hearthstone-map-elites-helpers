@@ -1,0 +1,11 @@
+1;1;
+The Coin;1;
+Bloodsail Raider;1;
+Dalaran Mage;1;
+Consecration;1;
+Nightblade;1;
+Frostwolf Warlord;1;
+Blessing of Might;1;
+Wild Pyromancer;1;
+Flesheating Ghoul;1;
+

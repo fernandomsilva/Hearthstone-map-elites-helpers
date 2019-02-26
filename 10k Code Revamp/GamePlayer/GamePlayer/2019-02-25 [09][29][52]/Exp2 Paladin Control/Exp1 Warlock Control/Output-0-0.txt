@@ -1,0 +1,22 @@
+1;0;
+The Coin;1;
+Crazed Alchemist;1;
+Razorfen Hunter;1;
+Light;1;
+Booty Bay Bodyguard;1;
+Frostwolf Warlord;1;
+Stampeding Kodo;1;
+Mana Wraith;1;
+The Black Knight;1;
+Young Priestess;1;
+Tirion Fordring;1;
+Coldlight Seer;1;
+Hammer of Wrath;1;
+Imp Master;1;
+Raging Worgen;1;
+Sunwalker;1;
+Worgen Infiltrator;1;
+Pint-Sized Summoner;1;
+Tauren Warrior;1;
+Nozdormu;1;
+

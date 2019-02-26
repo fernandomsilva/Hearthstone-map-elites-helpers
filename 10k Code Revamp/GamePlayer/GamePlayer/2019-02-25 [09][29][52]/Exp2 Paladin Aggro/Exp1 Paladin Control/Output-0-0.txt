@@ -1,0 +1,14 @@
+1;1;
+Worgen Infiltrator;1;
+Young Dragonhawk;1;
+Argent Squire;1;
+Shattered Sun Cleric;1;
+Mana Wraith;1;
+Frostwolf Warlord;1;
+Nightblade;1;
+Blessing of Might;1;
+Dread Corsair;1;
+Wild Pyromancer;1;
+Tirion Fordring;1;
+Young Priestess;1;
+

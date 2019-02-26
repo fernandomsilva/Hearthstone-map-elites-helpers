@@ -1,0 +1,16 @@
+1;0;
+Stonetusk Boar;1;
+Frostwolf Grunt;1;
+Young Dragonhawk;1;
+Millhouse Manastorm;1;
+Shattered Sun Cleric;1;
+Young Priestess;2;
+Fen Creeper;1;
+Imp Master;2;
+Silver Hand Knight;1;
+River Crocolisk;1;
+Magma Rager;1;
+Voodoo Doctor;1;
+Sen;1;
+Amani Berserker;1;
+

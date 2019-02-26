@@ -1,0 +1,14 @@
+1;1;
+Elven Archer;1;
+The Coin;1;
+Earthen Ring Farseer;1;
+Injured Blademaster;1;
+Doomsayer;1;
+Knife Juggler;1;
+Animal Companion;1;
+The Black Knight;1;
+Explosive Shot;1;
+Wisp;1;
+Archmage;1;
+Hungry Crab;1;
+

@@ -1,0 +1,15 @@
+1;1;
+Young Priestess;1;
+The Coin;1;
+Imp Master;1;
+Thrallmar Farseer;1;
+Dark Iron Dwarf;1;
+Raging Worgen;1;
+Consecration;2;
+Mind Control Tech;1;
+Raid Leader;2;
+Shattered Sun Cleric;1;
+Fen Creeper;1;
+Murloc Warleader;1;
+Stonetusk Boar;1;
+

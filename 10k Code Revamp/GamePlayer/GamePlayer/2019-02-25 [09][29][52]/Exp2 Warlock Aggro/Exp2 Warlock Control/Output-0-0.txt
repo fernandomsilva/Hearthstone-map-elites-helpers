@@ -1,0 +1,12 @@
+1;0;
+Young Dragonhawk;1;
+Faerie Dragon;1;
+Succubus;1;
+Southsea Deckhand;1;
+Void Terror;1;
+Argent Commander;1;
+Murloc Tidehunter;1;
+Wolfrider;1;
+Worgen Infiltrator;1;
+Malygos;1;
+

@@ -1,0 +1,17 @@
+1;1;
+Young Priestess;1;
+Knife Juggler;1;
+Bloodsail Raider;1;
+Demolisher;1;
+Stormpike Commando;1;
+Priestess of Elune;1;
+Ironforge Rifleman;1;
+Lightwarden;1;
+Argent Commander;1;
+Onyxia;1;
+King Krush;1;
+Booty Bay Bodyguard;1;
+Pint-Sized Summoner;1;
+Flesheating Ghoul;1;
+Bloodfen Raptor;1;
+

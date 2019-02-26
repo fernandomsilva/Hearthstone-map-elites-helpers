@@ -1,0 +1,16 @@
+1;1;
+Wild Pyromancer;1;
+Hungry Crab;1;
+Thrallmar Farseer;1;
+Fen Creeper;1;
+Priestess of Elune;1;
+Consecration;1;
+Bananas;2;
+Stonetusk Boar;1;
+Sunwalker;1;
+Tirion Fordring;1;
+Imp Master;1;
+Mind Control Tech;1;
+Raid Leader;1;
+Coldlight Seer;1;
+

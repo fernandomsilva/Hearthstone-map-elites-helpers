@@ -1,0 +1,8 @@
+1;1;
+Young Priestess;1;
+The Coin;1;
+Bloodsail Raider;1;
+Wild Pyromancer;1;
+Consecration;1;
+Nightblade;1;
+

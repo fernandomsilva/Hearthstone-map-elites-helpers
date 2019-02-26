@@ -1,0 +1,13 @@
+1;1;
+Murloc Raider;1;
+The Coin;1;
+Leper Gnome;1;
+Timber Wolf;1;
+Earthen Ring Farseer;1;
+Dark Iron Dwarf;1;
+Tundra Rhino;1;
+Snake Trap;1;
+Animal Companion;1;
+Hungry Crab;1;
+Stormpike Commando;1;
+

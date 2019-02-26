@@ -1,0 +1,8 @@
+1;1;
+Voodoo Doctor;1;
+Shattered Sun Cleric;1;
+Blessing of Kings;1;
+Nightblade;1;
+Frostwolf Warlord;1;
+Young Dragonhawk;1;
+

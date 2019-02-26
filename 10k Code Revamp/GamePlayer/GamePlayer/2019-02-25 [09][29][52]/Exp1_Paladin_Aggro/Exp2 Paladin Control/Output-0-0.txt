@@ -1,0 +1,9 @@
+1;0;
+Voodoo Doctor;1;
+The Coin;1;
+Secretkeeper;1;
+Ironfur Grizzly;1;
+Consecration;1;
+Truesilver Champion;1;
+Lightwarden;1;
+

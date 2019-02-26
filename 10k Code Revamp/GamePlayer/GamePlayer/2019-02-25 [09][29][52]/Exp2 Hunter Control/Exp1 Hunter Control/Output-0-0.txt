@@ -1,0 +1,15 @@
+1;0;
+Murloc Raider;1;
+The Coin;1;
+Shattered Sun Cleric;1;
+Magma Rager;1;
+Stonetusk Boar;1;
+Imp Master;1;
+Fen Creeper;1;
+Dragonling Mechanic;1;
+River Crocolisk;1;
+Faerie Dragon;1;
+Eaglehorn Bow;1;
+Argent Squire;1;
+King Mukla;1;
+

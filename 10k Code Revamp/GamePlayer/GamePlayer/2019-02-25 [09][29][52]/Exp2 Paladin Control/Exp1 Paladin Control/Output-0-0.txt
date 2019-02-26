@@ -1,0 +1,22 @@
+1;0;
+Worgen Infiltrator;1;
+Pint-Sized Summoner;1;
+Earthen Ring Farseer;1;
+Emperor Cobra;1;
+Young Priestess;1;
+Light;1;
+Aldor Peacekeeper;1;
+Consecration;1;
+Tauren Warrior;1;
+Sunwalker;1;
+Booty Bay Bodyguard;1;
+Frostwolf Warlord;1;
+Nozdormu;1;
+The Black Knight;1;
+Hammer of Wrath;1;
+Millhouse Manastorm;1;
+Coldlight Seer;1;
+Raging Worgen;1;
+Imp Master;1;
+Razorfen Hunter;1;
+

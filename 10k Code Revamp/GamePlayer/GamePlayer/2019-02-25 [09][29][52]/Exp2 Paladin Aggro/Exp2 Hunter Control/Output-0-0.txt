@@ -1,0 +1,13 @@
+1;1;
+Mana Wraith;1;
+Voodoo Doctor;1;
+Young Dragonhawk;1;
+Consecration;2;
+Nightblade;1;
+Dire Wolf Alpha;1;
+Blessing of Kings;1;
+Frostwolf Warlord;1;
+Tirion Fordring;1;
+Flesheating Ghoul;1;
+Argent Squire;1;
+

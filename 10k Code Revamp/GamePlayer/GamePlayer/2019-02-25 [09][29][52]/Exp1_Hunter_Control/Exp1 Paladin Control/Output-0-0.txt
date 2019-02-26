@@ -1,0 +1,15 @@
+1;0;
+Lightwarden;1;
+The Coin;1;
+Flesheating Ghoul;1;
+Lorewalker Cho;1;
+Wild Pyromancer;1;
+Bloodfen Raptor;1;
+Sen;1;
+Consecration;1;
+Scavenging Hyena;1;
+Booty Bay Bodyguard;1;
+Argent Commander;1;
+Master Swordsmith;1;
+Onyxia;1;
+

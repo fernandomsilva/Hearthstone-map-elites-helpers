@@ -1,8 +1,9 @@
-﻿using System;
+﻿	using System;
 using System.Collections.Generic;
 using System.Linq;
 using SabberStoneCore.Enums;
 using SabberStoneCore.Model;
+using SabberStoneCore.Model.Entities;
 using SabberStoneCore.Tasks;
 using GamePlayer.Score;
 
@@ -22,9 +23,9 @@ namespace GamePlayer.Nodes
             public string Hash;
 
             private int _gameState = 0;
-            public bool IsWon => _gameState > 0;
+            //public bool IsWon => _gameState > 0;
 
-            public bool IsLost => _gameState < 0;
+            //public bool IsLost => _gameState < 0;
 
             public bool IsRunning => _gameState == 0;
 
@@ -63,18 +64,18 @@ namespace GamePlayer.Nodes
 
                 SabberStoneCore.Model.Entities.Controller controller = _game.ControllerById(_playerId);
 
-                _gameState = _game.State == State.RUNNING ? 0
-                    : (controller.PlayState == PlayState.WON ? 1 : -1);
+                _gameState = _game.State == State.RUNNING ? 0 : 1;
+                    //: (controller.PlayState == PlayState.WON ? 1 : -1);
 
                 _endTurn = _game.CurrentPlayer.Id != _playerId ? 1 : 0;
 
                 Hash = _game.Hash(GameTag.LAST_CARD_PLAYED, GameTag.ENTITY_ID);
 
-                if (IsEndTurn || !IsRunning)
-                {
-                    Scoring.Controller = controller;
-                    Score = Scoring.Rate();
-                }
+                //if (IsEndTurn || !IsRunning)
+                //{
+				Scoring.Controller = controller;
+				Score = Scoring.Rate();
+                //}
             }
 
             public void PlayerTasks(ref List<PlayerTask> list)
@@ -88,7 +89,7 @@ namespace GamePlayer.Nodes
 
             public void Options(ref Dictionary<string, OptionNode> optionNodes)
             {
-                List<PlayerTask> options = _game.ControllerById(_playerId).Options(!_isOpponentTurn);
+                List<PlayerTask> options = _game.ControllerById(_playerId).Options(/*!_isOpponentTurn*/); // ### FMS
 
                 foreach (PlayerTask option in options)
                 {
@@ -110,7 +111,7 @@ namespace GamePlayer.Nodes
                         option.Options(ref nextDepthNodes);
                     }
 
-                    endTurnNodes.AddRange(nextDepthNodes.Values.Where(p => p.IsEndTurn || p.IsWon));
+                    endTurnNodes.AddRange(nextDepthNodes.Values.Where(p => p.IsEndTurn || !p.IsRunning));//p.IsWon));  ### FMS
 
                     depthNodes = nextDepthNodes
                         .Where(p => !p.Value.IsEndTurn && p.Value.IsRunning)

@@ -1,9 +1,0 @@
-1;0;
-Murloc Tidecaller;1;
-Bluegill Warrior;1;
-Earthen Ring Farseer;1;
-Archmage;1;
-Wisp;1;
-Ravenholdt Assassin;1;
-Mountain Giant;1;
-

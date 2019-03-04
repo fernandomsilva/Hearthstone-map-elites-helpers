@@ -1,8 +1,0 @@
-1;1;
-The Coin;1;
-Dire Wolf Alpha;1;
-Lightwarden;2;
-King Mukla;1;
-Blessing of Kings;1;
-Consecration;1;
-

@@ -98,6 +98,44 @@ namespace GamePlayer
 						record_log = false;
 					}
 				}
+				else if (argument.Contains("nerf="))
+				{
+					string nerf_data_filepath = argument.Substring(5);
+					
+					NerfCards(nerf_data_filepath);
+				}			
+			}
+		}
+		
+		private static void NerfCards(string nerf_filepath)
+		{
+			List<string[]> nerfs = new List<string[]>();
+
+            string[] file_data = System.IO.File.ReadAllLines(nerf_filepath);
+			
+			for (int i=0; i<file_data.Length; i++)
+			{
+				string textLine = file_data[i];				
+				string[] nerf_data = textLine.Split2(';');
+				nerfs.Add(nerf_data);
+			}
+			
+			foreach (string[] nerf in nerfs)
+			{
+				Card nerfed_card = Cards.FromName(nerf[0]);
+				
+				if (!string.IsNullOrEmpty(nerf[1]))
+				{
+					nerfed_card.Tags[GameTag.COST] = int.Parse(nerf[1]);
+				}
+				if (!string.IsNullOrEmpty(nerf[2]))
+				{
+					nerfed_card.Tags[GameTag.ATK] = int.Parse(nerf[2]);
+				}
+				if (!string.IsNullOrEmpty(nerf[3]))
+				{
+					nerfed_card.Tags[GameTag.HEALTH] = int.Parse(nerf[3]);
+				}
 			}
 		}
 

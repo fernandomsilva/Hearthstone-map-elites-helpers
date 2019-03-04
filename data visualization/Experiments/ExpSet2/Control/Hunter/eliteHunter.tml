@@ -25,3 +25,7 @@ Name = "DeckManaSum"
 
 [[Map.Features]]
 Name = "DeckManaVariance"
+
+[[Nerfs]]
+CardName = "Explosive Shot"
+NewManaCost = 5

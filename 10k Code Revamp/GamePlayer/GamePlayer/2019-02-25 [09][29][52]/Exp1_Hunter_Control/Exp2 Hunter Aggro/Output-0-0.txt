@@ -1,7 +1,0 @@
-1;1;
-Worgen Infiltrator;1;
-Pint-Sized Summoner;1;
-Knife Juggler;1;
-Venture Co. Mercenary;1;
-Earthen Ring Farseer;1;
-

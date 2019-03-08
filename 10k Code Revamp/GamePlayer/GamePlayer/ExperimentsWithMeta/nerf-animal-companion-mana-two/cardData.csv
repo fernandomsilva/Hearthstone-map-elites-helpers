@@ -1,0 +1,136 @@
+deck,card,number of times played
+Exp1_Hunter_Aggro,Earthen Ring Farseer,68295
+Exp1_Hunter_Aggro,Animal Companion,63205
+Exp1_Hunter_Aggro,The Coin,60051
+Exp1_Hunter_Aggro,Nightblade,40864
+Exp1_Hunter_Aggro,Wisp,34494
+Exp1_Hunter_Aggro,Stormpike Commando,33417
+Exp1_Hunter_Aggro,Unleash the Hounds,29465
+Exp1_Hunter_Aggro,Worgen Infiltrator,28852
+Exp1_Hunter_Aggro,Southsea Deckhand,28808
+Exp1_Hunter_Aggro,Young Priestess,28758
+Exp1_Hunter_Aggro,Priestess of Elune,28717
+Exp1_Hunter_Aggro,Murloc Raider,28534
+Exp1_Hunter_Aggro,Dark Iron Dwarf,26910
+Exp1_Hunter_Aggro,Timber Wolf,26242
+Exp1_Hunter_Aggro,Hungry Crab,25731
+Exp1_Hunter_Aggro,Leper Gnome,24026
+Exp1_Hunter_Aggro,Reckless Rocketeer,19257
+Exp1_Hunter_Aggro,Pint-Sized Summoner,16930
+Exp1_Hunter_Aggro,River Crocolisk,16901
+Exp1_Hunter_Aggro,Kobold Geomancer,16764
+Exp1_Hunter_Aggro,Arcane Golem,15126
+Exp1_Hunter_Aggro,Eaglehorn Bow,14295
+Exp1_Hunter_Aggro,Razorfen Hunter,10012
+Exp1_Hunter_Aggro,Defender of Argus,8276
+Exp1_Hunter_Aggro,Bananas,7441
+Exp1_Hunter_Aggro,Tundra Rhino,6208
+Exp1_Hunter_Aggro,Abomination,5241
+Exp1_Hunter_Aggro,Silvermoon Guardian,4880
+Exp1_Hunter_Aggro,Fen Creeper,1842
+Exp1_Hunter_Aggro,Snake Trap,280
+Exp1_Hunter_Aggro,Mortal Coil,131
+Exp1_Hunter_Control,Knife Juggler,74288
+Exp1_Hunter_Control,Pint-Sized Summoner,74045
+Exp1_Hunter_Control,Flesheating Ghoul,67921
+Exp1_Hunter_Control,The Coin,59922
+Exp1_Hunter_Control,Sen,50493
+Exp1_Hunter_Control,Booty Bay Bodyguard,49304
+Exp1_Hunter_Control,Stormpike Commando,48497
+Exp1_Hunter_Control,Sunwalker,45080
+Exp1_Hunter_Control,Voodoo Doctor,40668
+Exp1_Hunter_Control,Ironforge Rifleman,39950
+Exp1_Hunter_Control,Earthen Ring Farseer,39838
+Exp1_Hunter_Control,Young Priestess,39121
+Exp1_Hunter_Control,Worgen Infiltrator,38936
+Exp1_Hunter_Control,Dire Wolf Alpha,38769
+Exp1_Hunter_Control,Bloodfen Raptor,38234
+Exp1_Hunter_Control,Wild Pyromancer,38205
+Exp1_Hunter_Control,Lightwarden,37891
+Exp1_Hunter_Control,Bloodsail Corsair,37792
+Exp1_Hunter_Control,Priestess of Elune,36950
+Exp1_Hunter_Control,Scavenging Hyena,36916
+Exp1_Hunter_Control,Bloodsail Raider,36899
+Exp1_Hunter_Control,Venture Co. Mercenary,35662
+Exp1_Hunter_Control,Master Swordsmith,34800
+Exp1_Hunter_Control,Lorewalker Cho,32837
+Exp1_Hunter_Control,Argent Commander,30180
+Exp1_Hunter_Control,Demolisher,27398
+Exp1_Hunter_Control,Onyxia,16553
+Exp1_Hunter_Control,Bananas,15182
+Exp1_Hunter_Control,King Krush,10220
+Exp1_Hunter_Control,Consecration,3813
+Exp1_Hunter_Control,Animal Companion,1514
+Exp1_Hunter_Control,Mortal Coil,720
+Exp1_Hunter_Control,Siphon Soul,603
+Exp1_Hunter_Control,Avenging Wrath,475
+Exp1_Hunter_Control,Kill Command,310
+Exp1_Hunter_Control,Blessing of Kings,273
+Exp1_Hunter_Control,Unleash the Hounds,249
+Exp1_Hunter_Control,Explosive Shot,179
+Exp1_Hunter_Control,Blessing of Might,146
+Exp1_Hunter_Control,Lay on Hands,129
+Exp1_Hunter_Control,Hammer of Wrath,102
+Exp1_Hunter_Control,Equality,31
+Exp1_Hunter_Control,Eye for an Eye,7
+Exp2_Hunter_Aggro,Animal Companion,66493
+Exp2_Hunter_Aggro,Bluegill Warrior,62032
+Exp2_Hunter_Aggro,The Coin,60258
+Exp2_Hunter_Aggro,Hungry Crab,57364
+Exp2_Hunter_Aggro,Leeroy Jenkins,36085
+Exp2_Hunter_Aggro,Kill Command,35191
+Exp2_Hunter_Aggro,Wisp,34378
+Exp2_Hunter_Aggro,Earthen Ring Farseer,34242
+Exp2_Hunter_Aggro,Elven Archer,34193
+Exp2_Hunter_Aggro,Wolfrider,30752
+Exp2_Hunter_Aggro,Worgen Infiltrator,30293
+Exp2_Hunter_Aggro,Lightwarden,27792
+Exp2_Hunter_Aggro,Murloc Tidecaller,27627
+Exp2_Hunter_Aggro,Murloc Tidehunter,26789
+Exp2_Hunter_Aggro,Wild Pyromancer,26214
+Exp2_Hunter_Aggro,Knife Juggler,21657
+Exp2_Hunter_Aggro,Injured Blademaster,20517
+Exp2_Hunter_Aggro,Scavenging Hyena,19703
+Exp2_Hunter_Aggro,River Crocolisk,19659
+Exp2_Hunter_Aggro,Reckless Rocketeer,18949
+Exp2_Hunter_Aggro,Explosive Shot,16648
+Exp2_Hunter_Aggro,The Black Knight,14926
+Exp2_Hunter_Aggro,Bananas,9023
+Exp2_Hunter_Aggro,Archmage,3241
+Exp2_Hunter_Aggro,Doomsayer,2709
+Exp2_Hunter_Aggro,Core Hound,1804
+Exp2_Hunter_Aggro,Ravenholdt Assassin,1126
+Exp2_Hunter_Aggro,Mountain Giant,271
+Exp2_Hunter_Aggro,Mortal Coil,79
+Exp2_Hunter_Aggro,Ysera,6
+Exp2_Hunter_Aggro,Nightmare,1
+Exp2_Hunter_Control,Young Priestess,82041
+Exp2_Hunter_Control,Shattered Sun Cleric,78598
+Exp2_Hunter_Control,Imp Master,60829
+Exp2_Hunter_Control,The Coin,59745
+Exp2_Hunter_Control,Sen,51874
+Exp2_Hunter_Control,Fen Creeper,51303
+Exp2_Hunter_Control,Dragonling Mechanic,50592
+Exp2_Hunter_Control,Silver Hand Knight,49002
+Exp2_Hunter_Control,Animal Companion,42578
+Exp2_Hunter_Control,Voodoo Doctor,42342
+Exp2_Hunter_Control,Frostwolf Grunt,41734
+Exp2_Hunter_Control,Millhouse Manastorm,41064
+Exp2_Hunter_Control,Murloc Raider,40915
+Exp2_Hunter_Control,Raid Leader,40473
+Exp2_Hunter_Control,King Mukla,40227
+Exp2_Hunter_Control,Magma Rager,40151
+Exp2_Hunter_Control,Faerie Dragon,40139
+Exp2_Hunter_Control,Stonetusk Boar,39577
+Exp2_Hunter_Control,Argent Squire,39273
+Exp2_Hunter_Control,Young Dragonhawk,39227
+Exp2_Hunter_Control,Amani Berserker,38583
+Exp2_Hunter_Control,River Crocolisk,38390
+Exp2_Hunter_Control,Jungle Panther,37281
+Exp2_Hunter_Control,Novice Engineer,34839
+Exp2_Hunter_Control,Thrallmar Farseer,32589
+Exp2_Hunter_Control,Nat Pagle,30986
+Exp2_Hunter_Control,Eaglehorn Bow,19093
+Exp2_Hunter_Control,Bananas,15373
+Exp2_Hunter_Control,Deathwing,3112
+Exp2_Hunter_Control,Mortal Coil,230

@@ -41,8 +41,8 @@ namespace GamePlayer
 {
     internal class Program
     {
-        private static int maxDepth = 13;//maxDepth = 10 and maxWidth = 500 is optimal 
-        private static int maxWidth = 4;//keep maxDepth high(around 13) and maxWidth very low (4) for maximum speed
+        private static int maxDepth; //= 13;//maxDepth = 10 and maxWidth = 500 is optimal 
+        private static int maxWidth; //= 4;//keep maxDepth high(around 13) and maxWidth very low (4) for maximum speed
         //private static int parallelThreads = 1;// number of parallel running threads//not important
         //private static int testsInEachThread = 1;//number of games in each thread//ae ere
                                                  //you are advised not to set more than 3 parallel threads if you are doing this on your laptop, otherwise the laptop will not survive
@@ -103,7 +103,15 @@ namespace GamePlayer
 					string nerf_data_filepath = argument.Substring(5);
 					
 					NerfCards(nerf_data_filepath);
-				}			
+				}
+				else if (argument.Contains("maxwidth="))
+				{
+					maxWidth = int.Parse(argument.Substring(9));
+				}
+				else if (argument.Contains("maxdepth="))
+				{
+					maxDepth = int.Parse(argument.Substring(9));
+				}
 			}
 		}
 		
@@ -147,6 +155,8 @@ namespace GamePlayer
             ParallelOptions parallelOptions = new ParallelOptions();
             parallelOptions.MaxDegreeOfParallelism = 1;//parallelThreads;
 
+			maxDepth = 13;
+			maxWidth = 4;
 			GPUID = 0;
 			folderName = "";
 			numGames = 2;
@@ -155,6 +165,9 @@ namespace GamePlayer
 			opponent_decks_file = "opponent_decks.csv";
 			
 			parseArgs(args);
+			
+			Console.WriteLine("maxDepth = " + maxDepth);
+			Console.WriteLine("maxWidth = " + maxWidth);
 			
 			if (folderName == "") { folderName = DateTime.Now.ToString("yyyy-MM-dd.hh.mm.ss"); }
 			

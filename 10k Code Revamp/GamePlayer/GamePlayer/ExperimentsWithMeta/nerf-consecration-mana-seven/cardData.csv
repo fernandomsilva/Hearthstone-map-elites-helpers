@@ -1,0 +1,117 @@
+deck,card,number of times played
+Exp1_Paladin_Aggro,Voodoo Doctor,70546
+Exp1_Paladin_Aggro,Lightwarden,63099
+Exp1_Paladin_Aggro,Secretkeeper,62927
+Exp1_Paladin_Aggro,Scarlet Crusader,60017
+Exp1_Paladin_Aggro,The Coin,59852
+Exp1_Paladin_Aggro,Blessing of Kings,43929
+Exp1_Paladin_Aggro,King Mukla,33927
+Exp1_Paladin_Aggro,Millhouse Manastorm,33898
+Exp1_Paladin_Aggro,Consecration,33878
+Exp1_Paladin_Aggro,Dire Wolf Alpha,33306
+Exp1_Paladin_Aggro,Worgen Infiltrator,32418
+Exp1_Paladin_Aggro,Young Priestess,32356
+Exp1_Paladin_Aggro,Acidic Swamp Ooze,32075
+Exp1_Paladin_Aggro,Avenging Wrath,31903
+Exp1_Paladin_Aggro,Murloc Tidehunter,31648
+Exp1_Paladin_Aggro,Goldshire Footman,31118
+Exp1_Paladin_Aggro,Sunfury Protector,30006
+Exp1_Paladin_Aggro,Southsea Captain,29763
+Exp1_Paladin_Aggro,Ironfur Grizzly,29247
+Exp1_Paladin_Aggro,Mana Addict,28794
+Exp1_Paladin_Aggro,Stampeding Kodo,27278
+Exp1_Paladin_Aggro,The Beast,19350
+Exp1_Paladin_Aggro,Truesilver Champion,19061
+Exp1_Paladin_Aggro,Bananas,15758
+Exp1_Paladin_Aggro,Eye for an Eye,13393
+Exp1_Paladin_Aggro,Lay on Hands,10771
+Exp1_Paladin_Aggro,Baron Geddon,7516
+Exp1_Paladin_Aggro,Mortal Coil,72
+Exp1_Paladin_Control,Mind Control Tech,75422
+Exp1_Paladin_Control,Raid Leader,74487
+Exp1_Paladin_Control,Bloodsail Raider,72589
+Exp1_Paladin_Control,Raging Worgen,68115
+Exp1_Paladin_Control,Consecration,61153
+Exp1_Paladin_Control,The Coin,59678
+Exp1_Paladin_Control,Fen Creeper,50820
+Exp1_Paladin_Control,Dark Iron Dwarf,47345
+Exp1_Paladin_Control,Sunwalker,46198
+Exp1_Paladin_Control,Ironfur Grizzly,40474
+Exp1_Paladin_Control,Young Priestess,38752
+Exp1_Paladin_Control,Stonetusk Boar,37986
+Exp1_Paladin_Control,Shattered Sun Cleric,37882
+Exp1_Paladin_Control,Wild Pyromancer,37833
+Exp1_Paladin_Control,Priestess of Elune,37454
+Exp1_Paladin_Control,Hungry Crab,36883
+Exp1_Paladin_Control,Master Swordsmith,34573
+Exp1_Paladin_Control,Murloc Warleader,34113
+Exp1_Paladin_Control,Light,31282
+Exp1_Paladin_Control,Tirion Fordring,28293
+Exp1_Paladin_Control,Coldlight Seer,27843
+Exp1_Paladin_Control,Questing Adventurer,27323
+Exp1_Paladin_Control,Thrallmar Farseer,26385
+Exp1_Paladin_Control,Imp Master,25506
+Exp1_Paladin_Control,Stormwind Champion,24389
+Exp1_Paladin_Control,Alexstrasza,15436
+Exp1_Paladin_Control,Bananas,13568
+Exp1_Paladin_Control,Mortal Coil,229
+Exp2_Paladin_Aggro,Blessing of Kings,78827
+Exp2_Paladin_Aggro,Dire Wolf Alpha,62186
+Exp2_Paladin_Aggro,The Coin,58984
+Exp2_Paladin_Aggro,Nightblade,40715
+Exp2_Paladin_Aggro,Voodoo Doctor,33320
+Exp2_Paladin_Aggro,Blessing of Might,31203
+Exp2_Paladin_Aggro,Young Priestess,30827
+Exp2_Paladin_Aggro,Shattered Sun Cleric,30512
+Exp2_Paladin_Aggro,Worgen Infiltrator,30437
+Exp2_Paladin_Aggro,Wild Pyromancer,29960
+Exp2_Paladin_Aggro,Bluegill Warrior,29624
+Exp2_Paladin_Aggro,Young Dragonhawk,29375
+Exp2_Paladin_Aggro,Hungry Crab,29254
+Exp2_Paladin_Aggro,Argent Squire,29047
+Exp2_Paladin_Aggro,Consecration,29041
+Exp2_Paladin_Aggro,Bloodsail Raider,28156
+Exp2_Paladin_Aggro,Mana Wraith,27981
+Exp2_Paladin_Aggro,Dread Corsair,27004
+Exp2_Paladin_Aggro,Frostwolf Warlord,26987
+Exp2_Paladin_Aggro,Ironbeak Owl,26672
+Exp2_Paladin_Aggro,Ironfur Grizzly,26524
+Exp2_Paladin_Aggro,Master Swordsmith,25219
+Exp2_Paladin_Aggro,Mana Addict,23586
+Exp2_Paladin_Aggro,Flesheating Ghoul,22268
+Exp2_Paladin_Aggro,Argent Commander,19532
+Exp2_Paladin_Aggro,Dalaran Mage,14734
+Exp2_Paladin_Aggro,Equality,12044
+Exp2_Paladin_Aggro,Bananas,11620
+Exp2_Paladin_Aggro,Tirion Fordring,4726
+Exp2_Paladin_Aggro,Mortal Coil,83
+Exp2_Paladin_Control,Earthen Ring Farseer,80622
+Exp2_Paladin_Control,Pint-Sized Summoner,71953
+Exp2_Paladin_Control,Consecration,65677
+Exp2_Paladin_Control,The Coin,59923
+Exp2_Paladin_Control,Booty Bay Bodyguard,50266
+Exp2_Paladin_Control,Sunwalker,47167
+Exp2_Paladin_Control,Stampeding Kodo,43456
+Exp2_Paladin_Control,Tauren Warrior,41675
+Exp2_Paladin_Control,Razorfen Hunter,40952
+Exp2_Paladin_Control,Millhouse Manastorm,40121
+Exp2_Paladin_Control,Young Priestess,39605
+Exp2_Paladin_Control,Worgen Infiltrator,39499
+Exp2_Paladin_Control,Crazed Alchemist,38954
+Exp2_Paladin_Control,Wild Pyromancer,37735
+Exp2_Paladin_Control,Frostwolf Warlord,37222
+Exp2_Paladin_Control,Mana Wraith,35999
+Exp2_Paladin_Control,The Black Knight,35194
+Exp2_Paladin_Control,Aldor Peacekeeper,34877
+Exp2_Paladin_Control,Murloc Warleader,34416
+Exp2_Paladin_Control,Light,34404
+Exp2_Paladin_Control,Raging Worgen,34185
+Exp2_Paladin_Control,Hammer of Wrath,33969
+Exp2_Paladin_Control,Tirion Fordring,31807
+Exp2_Paladin_Control,Coldlight Seer,29224
+Exp2_Paladin_Control,Emperor Cobra,27919
+Exp2_Paladin_Control,Imp Master,26189
+Exp2_Paladin_Control,Bananas,16897
+Exp2_Paladin_Control,Alexstrasza,16708
+Exp2_Paladin_Control,Nozdormu,8077
+Exp2_Paladin_Control,Mortal Coil,211

@@ -36,12 +36,19 @@ for dir1 in os.listdir(path):
 						
 						for line in file_data:
 							if ';' in line:
-								key, value, empty = line.split(';')
+								key, matches_played, win_when_played, matches_played_twice, win_when_played_twice, draws, win_when_drawn, empty = line.split(';')
 								
 								if key not in entry["cardData"]:
-									entry["cardData"][key] = int(value)
+									#entry["cardData"][key] = int(value)
+									entry["cardData"][key] = {"matches_played": int(matches_played), "win_when_played": int(win_when_played), "matches_played_twice": int(matches_played_twice), "win_when_played_twice": int(win_when_played_twice), "draws": int(draws), "win_when_drawn": int(win_when_drawn) }
 								else:
-									entry["cardData"][key] += int(value)
+									#entry["cardData"][key] += int(value)
+									entry["cardData"][key]["matches_played"] += int(matches_played)
+									entry["cardData"][key]["win_when_played"] += int(win_when_played)
+									entry["cardData"][key]["matches_played_twice"] += int(matches_played_twice)
+									entry["cardData"][key]["win_when_played_twice"] += int(win_when_played_twice)
+									entry["cardData"][key]["draws"] += int(draws)
+									entry["cardData"][key]["win_when_drawn"] += int(win_when_drawn)
 						
 						file_data.close()
 				
@@ -68,7 +75,7 @@ winRate_output_file.close()
 
 cardData_output_file = open(output_cardData, 'w')
 
-column_header = "deck,card,number of times played"
+column_header = "deck,card,# matches played,# wins when played,# matches played twice,# wins when played twice,# times drawn,# wins when drawn"
 cardData_output_file.write(column_header + '\n')
 
 for k1 in results:
@@ -76,14 +83,26 @@ for k1 in results:
 	for k2 in results[k1]:
 		for key in results[k1][k2]["cardData"]:
 			if key not in result_dict:
-				result_dict[key] = results[k1][k2]["cardData"][key]
+				result_dict[key] = {"plays": 0, "wins_play": 0, "play_twice": 0, "wins_played_twice": 0, "draws": 0, "win_draws": 0}
+				result_dict[key]["plays"] = results[k1][k2]["cardData"][key]["matches_played"]
+				result_dict[key]["wins_play"] = results[k1][k2]["cardData"][key]["win_when_played"]
+				result_dict[key]["play_twice"] = results[k1][k2]["cardData"][key]["matches_played_twice"]
+				result_dict[key]["wins_played_twice"] = results[k1][k2]["cardData"][key]["win_when_played_twice"]
+				result_dict[key]["draws"] = results[k1][k2]["cardData"][key]["draws"]
+				result_dict[key]["win_draws"] = results[k1][k2]["cardData"][key]["win_when_drawn"]
 			else:
-				result_dict[key] += results[k1][k2]["cardData"][key]
+				result_dict[key]["plays"] += results[k1][k2]["cardData"][key]["matches_played"]
+				result_dict[key]["wins_play"] += results[k1][k2]["cardData"][key]["win_when_played"]
+				result_dict[key]["play_twice"] += results[k1][k2]["cardData"][key]["matches_played_twice"]
+				result_dict[key]["wins_played_twice"] += results[k1][k2]["cardData"][key]["win_when_played_twice"]
+				result_dict[key]["draws"] += results[k1][k2]["cardData"][key]["draws"]
+				result_dict[key]["win_draws"] += results[k1][k2]["cardData"][key]["win_when_drawn"]
+
 	
 	#Printing results ordered by value
-	dict_view = [ (v,k) for k,v in result_dict.items() ]
+	dict_view = [ (result_dict[k]["plays"],k) for k in result_dict.keys() ]
 	dict_view.sort(reverse=True)
 	for value, card in dict_view:
-		cardData_output_file.write(k1 + "," + card + "," + str(result_dict[card]) + '\n')
+		cardData_output_file.write(k1 + "," + card + "," + str(result_dict[card]["plays"]) + "," + str(result_dict[card]["wins_play"]) + "," + str(result_dict[card]["play_twice"]) + "," + str(result_dict[card]["wins_played_twice"]) + "," + str(result_dict[card]["draws"]) + "," + str(result_dict[card]["win_draws"]) + '\n')
 
 cardData_output_file.close()

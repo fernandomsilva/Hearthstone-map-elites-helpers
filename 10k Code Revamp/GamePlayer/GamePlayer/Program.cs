@@ -274,8 +274,10 @@ namespace GamePlayer
 			}
         }
 		
-		public static void registerLogPlayStats(string log_text, ref Dictionary<string, int> playerCardPlayCount)
+		public static void registerLogPlayStats(string log_text, ref Dictionary<string, int[]> playerCardPlayCount, bool won)
 		{
+			string visited = "";
+
 			foreach(var line in log_text.Split2('\n'))//new string[] { Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries))
 			{
 				if (line.Contains("[Player 1] play"))
@@ -284,23 +286,86 @@ namespace GamePlayer
 					key = key.Split2('[')[0];
 					if (playerCardPlayCount.ContainsKey(key))
 					{
-						playerCardPlayCount[key] = playerCardPlayCount[key] + 1;
+						if (!visited.Contains(key))
+						{
+							playerCardPlayCount[key][0] = playerCardPlayCount[key][0] + 1;
+							if (won)
+							{
+								playerCardPlayCount[key][1] = playerCardPlayCount[key][1] + 1;
+							}
+						}
+						else
+						{
+							playerCardPlayCount[key][2] = playerCardPlayCount[key][2] + 1;
+							if (won)
+							{
+								playerCardPlayCount[key][3] = playerCardPlayCount[key][3] + 1;
+							}
+						}
 					}
 					else
 					{
-						playerCardPlayCount[key] = 1;
+						playerCardPlayCount[key] = new int[6];
+						playerCardPlayCount[key][0] = 1;
+						if (won)
+						{
+							playerCardPlayCount[key][1] = 1;
+						}
+						playerCardPlayCount[key][2] = 0;
+						playerCardPlayCount[key][3] = 0;
+					}
+						
+					visited += key + " , ";
+				}
+				else if (line.Contains("Hand<P1>"))
+				{
+					registerLogHandStats(line, ref playerCardPlayCount, won);
+				}
+			}
+		}
+		
+		public static void registerLogHandStats(string log_text, ref Dictionary<string, int[]> playerCardPlayCount, bool won)
+		{
+			string visited = "";
+			
+			foreach (var name in log_text.Split2(','))
+			{
+				if (!name.Contains("Hand<P1>") && !string.Equals(name, ""))
+				{
+					if (!visited.Contains(name))
+					{
+						if (playerCardPlayCount.ContainsKey(name))
+						{
+							playerCardPlayCount[name][4] = playerCardPlayCount[name][4] + 1;
+							if (won)
+							{
+								playerCardPlayCount[name][5] = playerCardPlayCount[name][5] + 1;
+							}
+						}
+						else
+						{
+							playerCardPlayCount[name] = new int[6];
+							playerCardPlayCount[name][4] = 1;
+							if (won)
+							{
+								playerCardPlayCount[name][5] = 1;
+							}
+							playerCardPlayCount[name][2] = 0;
+							playerCardPlayCount[name][3] = 0;
+						}
+						
+						visited += name + " , ";
 					}
 				}
 			}
-
 		}
 
 		public static string getWinRate(string player1Class, string player1Strategy, List<Card> player1Deck, string player2Class, string player2Strategy, List<Card> player2Deck)
         {
-            int[] wins = Enumerable.Repeat(0, 1000).ToArray();
-			string[] game_log_list = new string[1000];
+            int[] wins = Enumerable.Repeat(0, stepSize).ToArray();
+			string[] game_log_list = new string[stepSize];
 
-			Dictionary<string, int> playerCardPlayCount = new Dictionary<string, int>();
+			Dictionary<string, int[]> playerCardPlayCount = new Dictionary<string, int[]>();
 			
             ParallelOptions parallel_options = new ParallelOptions();
             parallel_options.MaxDegreeOfParallelism = 8;// parallelThreads;// Environment.ProcessorCount;//parallelThreadsInner+10;
@@ -360,11 +425,11 @@ namespace GamePlayer
 			{
 				for (int k=0; k<game_log_list.Length; k++)
 				{
-					registerLogPlayStats(game_log_list[k], ref playerCardPlayCount);
+					registerLogPlayStats(game_log_list[k], ref playerCardPlayCount, game_log_list[k].Contains("Player1: WON"));
 				}
-				foreach (KeyValuePair<string, int> kvp in playerCardPlayCount)
+				foreach (KeyValuePair<string, int[]> kvp in playerCardPlayCount)
 				{
-					res = res + kvp.Key + ";" + kvp.Value + ";\n";
+					res = res + kvp.Key + ";" + kvp.Value[0] + ";" + kvp.Value[1] + ";" + kvp.Value[2] + ";" + kvp.Value[3] + ";" + kvp.Value[4] + ";" + kvp.Value[5] + ";\n";
 				}
 			}
 			
@@ -512,6 +577,9 @@ namespace GamePlayer
             logsbuild += "\n";
             logsbuild += $"Player2: Mulligan {string.Join(",", mulligan2)}";
             logsbuild += "\n";
+			
+			string hand_log = "Hand<P1>,";
+			string temp_hand_log = "";
 
             game.Process(ChooseTask.Mulligan(game.Player1, mulligan1));
             game.Process(ChooseTask.Mulligan(game.Player2, mulligan2));
@@ -523,8 +591,17 @@ namespace GamePlayer
 				logsbuild += $"Player1: {game.Player1.PlayState} / Player2: {game.Player2.PlayState} - " +
                     $"ROUND {(game.Turn + 1) / 2} - {game.CurrentPlayer.Name}" + "\n";
                 logsbuild += $"Hero[P1]: {game.Player1.Hero.Health} / Hero[P2]: {game.Player2.Hero.Health}" + "\n";
+				for (int i=0; i < game.Player1.HandZone.Count; i++)
+				{
+					temp_hand_log = $"{game.Player1.HandZone[i]}";
+					hand_log += temp_hand_log.Substring(1, temp_hand_log.Length-1);
+					hand_log = hand_log.Split2('[')[0] + ",";
+				}
                 logsbuild += "\n";
 
+				//Console.WriteLine(logsbuild);
+				//registerLogHandStats(logsbuild);
+				
                 while (game.State == State.RUNNING && game.CurrentPlayer == game.Player1)
                 {
                     logsbuild += $"* Calculating solutions *** Player 1 ***" + "\n";
@@ -568,9 +645,13 @@ namespace GamePlayer
                     }
                 }
             }
+			
+			//hand_log = hand_log + "\n";
+			//Console.WriteLine(hand_log);
+			
             int healthdiff = game.Player1.Hero.Health - game.Player2.Hero.Health;
             logsbuild += "Game: {game.State}, Player1: " + game.Player1.PlayState + " / Player2:" + game.Player2.PlayState + "healthdiff:" + healthdiff + "& turns:" + game.Turn;
-			gameLogAddr = logsbuild;
+			gameLogAddr = logsbuild + "\n" + hand_log;
 
             return "start player=" + startPlayer + ", Game: {game.State}, Player1: " + game.Player1.PlayState + " / Player2:" + game.Player2.PlayState + "healthdiff:" + healthdiff + "& turns:" + game.Turn;
         }

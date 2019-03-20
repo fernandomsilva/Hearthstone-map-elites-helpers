@@ -1,0 +1,1 @@
+mcs /reference:SabberStoneCore.dll,System.Xml.Linq.dll,System.Runtime.dll,System.Collections.dll evolutionWorker.cs Meta/*.cs Nodes/*.cs Score/*.cs

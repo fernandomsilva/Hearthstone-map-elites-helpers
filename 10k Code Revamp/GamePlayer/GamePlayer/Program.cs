@@ -149,6 +149,8 @@ namespace GamePlayer
 
         private static void Main(string[] args)
         {
+			Stopwatch timer = new Stopwatch();
+			
 			List<List<object>> players; //= new List<List<object>>();
 			List<List<object>> opponents; //= new List<List<object>>();
 
@@ -190,6 +192,8 @@ namespace GamePlayer
 			Thread.Sleep(10000);
 
 			int j = 0;
+			
+			timer.Start();
 			
 			foreach (List<object> player in players)
 			{
@@ -272,6 +276,9 @@ namespace GamePlayer
 					}
 				}
 			}
+			
+			timer.Stop();
+			Console.WriteLine("Time: {0}", timer.Elapsed);
         }
 		
 		public static void registerLogPlayStats(string log_text, ref Dictionary<string, int[]> playerCardPlayCount, bool won)

@@ -98,12 +98,12 @@ namespace GamePlayer
 						record_log = false;
 					}
 				}
-				else if (argument.Contains("nerf="))
+				/*else if (argument.Contains("nerf="))
 				{
 					string nerf_data_filepath = argument.Substring(5);
 					
 					NerfCards(nerf_data_filepath);
-				}
+				}*/
 				else if (argument.Contains("maxwidth="))
 				{
 					maxWidth = int.Parse(argument.Substring(9));
@@ -115,43 +115,93 @@ namespace GamePlayer
 			}
 		}
 		
-		private static void NerfCards(string nerf_filepath)
+		private static void NerfCards(List<int> nerf_list, List<List<object>> default_card_data)
 		{
-			List<string[]> nerfs = new List<string[]>();
-
-            string[] file_data = System.IO.File.ReadAllLines(nerf_filepath);
+			int k = 0;
+			int mana_base, atk_base, hp_base;
+			int mana_result, atk_result, hp_result;
 			
-			for (int i=0; i<file_data.Length; i++)
+			for (int i=0; i < default_card_data.Count; i++)
 			{
-				string textLine = file_data[i];				
-				string[] nerf_data = textLine.Split2(';');
-				nerfs.Add(nerf_data);
-			}
-			
-			foreach (string[] nerf in nerfs)
-			{
-				Card nerfed_card = Cards.FromName(nerf[0]);
+				Card nerfed_card = Cards.FromName((string) default_card_data[i][0]);
 				
-				if (!string.IsNullOrEmpty(nerf[1]))
+				mana_base = (int) default_card_data[i][1];
+				atk_base = (int) default_card_data[i][2];
+				hp_base = (int) default_card_data[i][3];
+				
+				mana_result = mana_base + nerf_list[k];
+				
+				if (mana_result < 0)
 				{
-					nerfed_card.Tags[GameTag.COST] = int.Parse(nerf[1]);
+					mana_result = 0;
 				}
-				if (!string.IsNullOrEmpty(nerf[2]))
+				else if (mana_result > 10)
 				{
-					nerfed_card.Tags[GameTag.ATK] = int.Parse(nerf[2]);
+					mana_result = 10;
 				}
-				if (!string.IsNullOrEmpty(nerf[3]))
+				
+				nerfed_card.Tags[GameTag.COST] = mana_result;
+				k = k + 1;
+
+				if (atk_base >= 0)
 				{
-					nerfed_card.Tags[GameTag.HEALTH] = int.Parse(nerf[3]);
+					atk_result = atk_base + nerf_list[k];
+					hp_result = hp_base + nerf_list[k+1];
+					
+					if (atk_result < 0)
+					{
+						atk_result = 0;
+					}
+					if (hp_result < 0)
+					{
+						hp_result = 0;
+					}
+
+					nerfed_card.Tags[GameTag.ATK] = atk_result;
+					nerfed_card.Tags[GameTag.HEALTH] = hp_result;
+					
+					k = k + 2;
 				}
 			}
 		}
+		
+        public static List<List<object>> getDefaultCardData(string path)
+        {
+			List<List<object>> result = new List<List<object>>();
+
+            string[] file_data = System.IO.File.ReadAllLines(path);
+			
+			for (int i=0; i<file_data.Length; i++)
+			{
+				string textLines = file_data[i];
+				List<object> new_entry = new List<object>();
+				
+				string[] cardInfo = textLines.Split2(';');
+				
+				new_entry.Add(cardInfo[0].Trim());
+				new_entry.Add(int.Parse(cardInfo[1].Trim()));
+				if (string.IsNullOrEmpty((string) cardInfo[2]))
+				{
+					new_entry.Add(-1);
+					new_entry.Add(-1);
+				}
+				else
+				{
+					new_entry.Add(int.Parse(cardInfo[2].Trim()));
+					new_entry.Add(int.Parse(cardInfo[3].Trim()));
+				}
+				
+				result.Add(new_entry);
+			}
+			
+            return result;
+        }
 
         private static void Main(string[] args)
         {
 			List<List<object>> players; //= new List<List<object>>();
 			List<List<object>> opponents; //= new List<List<object>>();
-
+			
             ParallelOptions parallelOptions = new ParallelOptions();
             parallelOptions.MaxDegreeOfParallelism = 1;//parallelThreads;
 
@@ -165,6 +215,8 @@ namespace GamePlayer
 			opponent_decks_file = "opponent_decks.csv";
 			
 			parseArgs(args);
+
+			List<List<object>> default_card_data = getDefaultCardData(folderName + "/default_card_stats.csv");
 			
 			Console.WriteLine("maxDepth = " + maxDepth);
 			Console.WriteLine("maxWidth = " + maxWidth);
@@ -207,6 +259,8 @@ namespace GamePlayer
 				//foreach (List<object> player in players)
 				foreach (List<int> meta in meta_values)
 				{
+					NerfCards(meta, default_card_data);
+					
 					for (int x=0; x<players.Count-1; x++)
 					{
 						//foreach (List<object> opponent in opponents)
@@ -272,6 +326,7 @@ namespace GamePlayer
 									j++;
 								}
 							}
+							//Console.WriteLine(x + ", " + y);
 						}
 					}
 				}
@@ -288,7 +343,7 @@ namespace GamePlayer
 					{
 						foreach (string line in winRate)
 						{
-							tw.WriteLine(winRate);
+							tw.WriteLine(line);
 						}
 						
 						tw.Close();

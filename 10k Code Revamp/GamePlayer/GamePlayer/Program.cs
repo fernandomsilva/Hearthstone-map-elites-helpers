@@ -149,8 +149,6 @@ namespace GamePlayer
 
         private static void Main(string[] args)
         {
-			Stopwatch timer = new Stopwatch();
-			
 			List<List<object>> players; //= new List<List<object>>();
 			List<List<object>> opponents; //= new List<List<object>>();
 
@@ -193,92 +191,98 @@ namespace GamePlayer
 
 			int j = 0;
 			
-			timer.Start();
-			
-			foreach (List<object> player in players)
+			//foreach (List<object> player in players)
+			//{
+			//	foreach (List<object> opponent in opponents)
+			//	{
+			for (int x=0; x<players.Count-1; x++)
 			{
-				foreach (List<object> opponent in opponents)
+				//foreach (List<object> opponent in opponents)
+				for (int y=0; y<opponents.Count; y++)
 				{
-					j = 0;
-					
-					while (j < number_of_loops)
+					if (x < y)
 					{
-						string winRate = "";
-						bool retry = true;
-						int tries = 0;
+						List<object> player = players[x];
+						List<object> opponent = opponents[y];
+
+						j = 0;
 						
-						while (retry)
+						while (j < number_of_loops)
 						{
+							string winRate = "";
+							bool retry = true;
+							int tries = 0;
+							
+							while (retry)
+							{
+								try
+								{
+									string player1Class = (string) player[1];
+									string player1Strategy = (string) player[2];
+									List<Card> player1Deck = (List<Card>) player[3];
+									string player2Class = (string) opponent[1];
+									string player2Strategy = (string) opponent[2];
+									List<Card> player2Deck = (List<Card>) opponent[3];
+									
+									//Console.WriteLine("Start Thread");
+									var thread = new Thread(() =>
+									{
+										winRate = getWinRate(player1Class, player1Strategy, player1Deck, player2Class, player2Strategy, player2Deck);
+									});
+									
+									thread.Start();
+									
+									bool finished = thread.Join(600000);
+
+									//Console.WriteLine("Thread End");
+									
+									if (!finished)
+									{
+										retry = true;
+
+										tries++;
+										continue;
+									}
+									else
+									{
+										retry = false;
+
+									}
+								}
+								catch (Exception e)
+								{
+									Console.WriteLine(e.Message);
+								}
+								if (tries > 3)
+								{
+									break;
+								}
+							}
+							
+							string overallGameStat = folderName + "/" + player[0] + "/" + opponent[0];
+							if (!Directory.Exists(overallGameStat))
+							{
+								Directory.CreateDirectory(overallGameStat);
+							}
 							try
 							{
-								string player1Class = (string) player[1];
-								string player1Strategy = (string) player[2];
-								List<Card> player1Deck = (List<Card>) player[3];
-								string player2Class = (string) opponent[1];
-								string player2Strategy = (string) opponent[2];
-								List<Card> player2Deck = (List<Card>) opponent[3];
-								
-								//Console.WriteLine("Start Thread");
-								var thread = new Thread(() =>
+								overallGameStat = overallGameStat + "/Output-" + GPUID + "-" + j + ".txt";
+								using (StreamWriter tw = File.AppendText(overallGameStat))
 								{
-									winRate = getWinRate(player1Class, player1Strategy, player1Deck, player2Class, player2Strategy, player2Deck);
-								});
-								
-								thread.Start();
-								
-								bool finished = thread.Join(600000);
+									tw.WriteLine(winRate);
 
-								//Console.WriteLine("Thread End");
-								
-								if (!finished)
-								{
-									retry = true;
-
-									tries++;
-									continue;
-								}
-								else
-								{
-									retry = false;
-
+									tw.Close();
 								}
 							}
 							catch (Exception e)
 							{
 								Console.WriteLine(e.Message);
 							}
-							if (tries > 3)
-							{
-								break;
-							}
+							j++;
 						}
-						
-						string overallGameStat = folderName + "/" + player[0] + "/" + opponent[0];
-						if (!Directory.Exists(overallGameStat))
-						{
-							Directory.CreateDirectory(overallGameStat);
-						}
-						try
-						{
-							overallGameStat = overallGameStat + "/Output-" + GPUID + "-" + j + ".txt";
-							using (StreamWriter tw = File.AppendText(overallGameStat))
-							{
-								tw.WriteLine(winRate);
-
-								tw.Close();
-							}
-						}
-						catch (Exception e)
-						{
-							Console.WriteLine(e.Message);
-						}
-						j++;
 					}
 				}
 			}
-			
-			timer.Stop();
-			Console.WriteLine("Time: {0}", timer.Elapsed);
         }
 		
 		public static void registerLogPlayStats(string log_text, ref Dictionary<string, int[]> playerCardPlayCount, bool won)

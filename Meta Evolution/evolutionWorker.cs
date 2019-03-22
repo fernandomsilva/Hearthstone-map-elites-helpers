@@ -56,6 +56,7 @@ namespace GamePlayer
 		private static bool record_log;
 		private static string player_decks_file;
 		private static string opponent_decks_file;
+		private static int numWorkersNeeded;
 		
 		public static void parseArgs(string[] args)
 		{
@@ -78,6 +79,10 @@ namespace GamePlayer
 				else if (argument.Contains("stepsize="))
 				{
 					stepSize = int.Parse(argument.Substring(9));
+				}
+				else if (argument.Contains("numworkers="))
+				{
+					numWorkersNeeded = int.Parse(argument.Substring(11));
 				}
 				else if (argument.Contains("playerdecks="))
 				{
@@ -213,6 +218,7 @@ namespace GamePlayer
 			stepSize = 0;
 			player_decks_file = "player_decks.csv";
 			opponent_decks_file = "opponent_decks.csv";
+			numWorkersNeeded = 400;
 			
 			parseArgs(args);
 
@@ -238,6 +244,8 @@ namespace GamePlayer
 			List<List<int>> meta_values;
 			List<string> winRate = new List<string>();
 			
+			int number_of_files = 0;
+			
 			//if (!Directory.Exists(folderName))
 			//{
 			//	Directory.CreateDirectory(folderName);
@@ -255,6 +263,8 @@ namespace GamePlayer
 				
 				meta_values = getIndividualsFromFile(folderName + "/gen" + g + "/input.txt");
 				winRate = new List<string>();
+				
+				number_of_files = 0;
 
 				//foreach (List<object> player in players)
 				foreach (List<int> meta in meta_values)
@@ -269,7 +279,7 @@ namespace GamePlayer
 							if (x < y)
 							{
 								List<object> player = players[x];
-								List<object> opponent = opponents[x];
+								List<object> opponent = opponents[y];
 
 								j = 0;
 								
@@ -313,6 +323,11 @@ namespace GamePlayer
 												retry = false;
 
 											}
+											number_of_files = Directory.GetFiles(folderName + "/gen" + g + "/worker_data", "*", SearchOption.TopDirectoryOnly).Length;
+											if (number_of_files >= numWorkersNeeded)
+											{
+												break;
+											}
 										}
 										catch (Exception e)
 										{
@@ -324,36 +339,57 @@ namespace GamePlayer
 										}
 									}
 									j++;
+									
+									if (number_of_files >= numWorkersNeeded)
+									{
+										break;
+									}
 								}
+								if (number_of_files >= numWorkersNeeded)
+								{
+									break;
+								}
+							}
+							if (number_of_files >= numWorkersNeeded)
+							{
+								break;
 							}
 							//Console.WriteLine(x + ", " + y);
 						}
-					}
-				}
-				
-				string overallGameStat = folderName + "/gen" + g + "/worker_data";
-				//if (!Directory.Exists(overallGameStat))
-				//{
-				//	Directory.CreateDirectory(overallGameStat);
-				//}
-				try
-				{
-					overallGameStat = overallGameStat + "/Output-" + GPUID + "-" + j + ".txt";
-					using (StreamWriter tw = File.AppendText(overallGameStat))
-					{
-						foreach (string line in winRate)
+						if (number_of_files >= numWorkersNeeded)
 						{
-							tw.WriteLine(line);
+							break;
 						}
-						
-						tw.Close();
+					}
+					if (number_of_files >= numWorkersNeeded)
+					{
+						break;
 					}
 				}
-				catch (Exception e)
-				{
-					Console.WriteLine(e.Message);
-				}
 				
+				number_of_files = Directory.GetFiles(folderName + "/gen" + g + "/worker_data", "*", SearchOption.TopDirectoryOnly).Length;
+				if (number_of_files < numWorkersNeeded)
+				{
+					string overallGameStat = folderName + "/gen" + g + "/worker_data";
+
+					try
+					{
+						overallGameStat = overallGameStat + "/Output-" + GPUID + "-" + j + ".txt";
+						using (StreamWriter tw = File.AppendText(overallGameStat))
+						{
+							foreach (string line in winRate)
+							{
+								tw.WriteLine(line);
+							}
+							
+							tw.Close();
+						}
+					}
+					catch (Exception e)
+					{
+						Console.WriteLine(e.Message);
+					}					
+				}
 				g += 1;
 			}
         }

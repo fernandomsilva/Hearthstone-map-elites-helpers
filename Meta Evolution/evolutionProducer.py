@@ -83,7 +83,7 @@ def main():
 	while (number_of_workers > len([name for name in os.listdir(directory + '/gen' + str(g) + "/worker_data") if os.path.isfile(directory + '/gen' + str(g) + "/worker_data/" + name)])):
 		time.sleep(10) #sleep for 10 seconds
 	
-	winrate_vectors = pwf.parseWorkerFiles(directory + '/gen' + str(g), number_of_matchups)
+	winrate_vectors = pwf.parseWorkerFiles(directory + '/gen' + str(g), number_of_matchups, number_of_workers)
 	fitness_results = [euclideanDistanceToWinRateCenter(winrate_vectors[i]) for i in range(0, len(winrate_vectors))]
 	
 	# Evaluate the entire population
@@ -135,7 +135,7 @@ def main():
 		while (number_of_workers > len([name for name in os.listdir(directory + '/gen' + str(g) + "/worker_data") if os.path.isfile(directory + '/gen' + str(g) + "/worker_data/" + name)])):
 			time.sleep(10) #sleep for 10 seconds
 
-		winrate_vectors = pwf.parseWorkerFiles(directory + '/gen' + str(g), number_of_matchups)
+		winrate_vectors = pwf.parseWorkerFiles(directory + '/gen' + str(g), number_of_matchups, number_of_workers)
 		fitness_results = [euclideanDistanceToWinRateCenter(winrate_vectors[i]) for i in range(0, len(winrate_vectors))]
 	
 		fitnesses = map(functools.partial(toolbox.evaluate, fitness_results=fitness_results), range(0, len(invalid_ind)))

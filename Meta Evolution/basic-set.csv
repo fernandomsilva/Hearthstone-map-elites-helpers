@@ -6,7 +6,7 @@ Arcane Explosion;Free;Spell;; Mage;2 ;;;Deal 1 damage to all enemy minions. This
 Arcane Intellect;Free;Spell;; Mage;3 ;;;Draw 2 cards. Playing this card makes you SMARTER. And let's face it: we could all stand to be a little smarter.;
 Arcane Missiles;Free;Spell;; Mage;1 ;;;Deal 3 damage randomly split among all enemies. You'd think you'd be able to control your missiles a little better since you're a powerful mage and all.;
 Arcane Shot;Free;Spell;; Hunter;1 ;;;Deal 2 damage. Magi conjured arcane arrows to sell to hunters, until hunters learned just enough magic to do it themselves. The resulting loss of jobs sent Stormwind into a minor recession.;
-Arcanite Reaper;Free;Weapon;; Warrior;5 ;5 ;2 ;No… actually you should fear the Reaper.;
+Arcanite Reaper;Free;Weapon;; Warrior;5 ;5 ;2 ;No actually you should fear the Reaper.;
 Archmage;Free;Minion;General; Any;6 ;4 ;7 ;Spell Damage +1 You earn the title of Archmage when you can destroy anyone who calls you on it.;
 Assassin's Blade;Free;Weapon;; Rogue;5 ;3 ;4 ;Guaranteed to have been owned by a real assassin. Certificate of authenticity included.;
 Assassinate;Free;Spell;; Rogue;5 ;;;Destroy an enemy minion. If you don't want to be assassinated, move to the Barrens and change your name. Good luck!;
@@ -21,9 +21,9 @@ Boulderfist Ogre;Free;Minion;General; Any;6 ;6 ;7 ;"ME HAVE GOOD STATS FOR THE C
 Charge;Free;Spell;; Warrior;1 ;;;Give a friendly minion Charge. It can't attack heroes this turn. "Guys! Guys! Slow down!" - some kind of non-warrior minion;
 Chillwind Yeti;Free;Minion;General; Any;4 ;4 ;5 ;He always dreamed of coming down from the mountains and opening a noodle shop, but he never got the nerve.;
 Claw;Free;Spell;; Druid;1 ;;;Give your hero +2 Attack this turn and 2 Armor. The claw decides who will stay and who will go.;
-Cleave;Free;Spell;; Warrior;2 ;;;Deal 2 damage to two random enemy minions. Hey you two…could you stand next to each other for a second…;
+Cleave;Free;Spell;; Warrior;2 ;;;Deal 2 damage to two random enemy minions. Hey you two could you stand next to each other for a second;
 Consecration;Free;Spell;; Paladin;4 ;;;Deal 2 damage to all enemies. Consecrated ground glows with Holy energy. But it smells a little, too.;
-Core Hound;Free;Minion;Beast; Any;7 ;9 ;5 ;You don’t tame a Core Hound. You just train it to eat someone else before it eats you.;
+Core Hound;Free;Minion;Beast; Any;7 ;9 ;5 ;You don't tame a Core Hound. You just train it to eat someone else before it eats you.;
 Corruption;Free;Spell;; Warlock;1 ;;;Choose an enemy minion. At the start of your turn, destroy it. It starts with stealing a pen from work, and before you know it, BOOM! Corrupted!;
 Dalaran Mage;Free;Minion;General; Any;3 ;1 ;4 ;Spell Damage +1 You don't see a lot of Dalaran warriors.;
 Darkscale Healer;Free;Minion;General; Any;5 ;4 ;5 ;Battlecry: Restore 2 Health to all friendly characters. Healing is just something she does in her free time. It's more of a hobby really.;
@@ -47,11 +47,11 @@ Frostwolf Grunt;Free;Minion;General; Any;2 ;2 ;2 ;Taunt Grunting is what his fat
 Frostwolf Warlord;Free;Minion;General; Any;5 ;4 ;4 ;Battlecry: Gain +1/+1 for each other friendly minion on the battlefield. The Frostwolves are locked in combat with the Stormpike Expedition over control of Alterac Valley. Every attempt at peace-talks has ended with Captain Galvangar killing the mediator.;
 Gnomish Inventor;Free;Minion;General; Any;4 ;2 ;4 ;Battlecry: Draw a card. She's never quite sure what she's making, she just knows it's AWESOME!;
 Goldshire Footman;Free;Minion;General; Any;1 ;1 ;2 ;Taunt If 1/2 minions are all that is defending Goldshire, you would think it would have been overrun years ago.;
-Grimscale Oracle;Free;Minion;Murloc; Any;1 ;1 ;1 ;Your other Murlocs have +1 Attack. These are the brainy murlocs. It turns out that doesn’t mean much.;
-Guardian of Kings;Free;Minion;General; Paladin;7 ;5 ;6 ;Battlecry: Restore 6 Health to your hero. Holy beings from the beyond are so cliché!;
+Grimscale Oracle;Free;Minion;Murloc; Any;1 ;1 ;1 ;Your other Murlocs have +1 Attack. These are the brainy murlocs. It turns out that doesn't mean much.;
+Guardian of Kings;Free;Minion;General; Paladin;7 ;5 ;6 ;Battlecry: Restore 6 Health to your hero. Holy beings from the beyond are so cliche!;
 Gurubashi Berserker;Free;Minion;General; Any;5 ;2 ;7 ;Whenever this minion takes damage, gain +3 Attack. No Pain, No Gain.;
 Hammer of Wrath;Free;Spell;; Paladin;4 ;;;Deal 3 damage. Draw a card. A good paladin has many tools. Hammer of Wrath, Pliers of Vengeance, Hacksaw of Justice, etc.;
-Hand of Protection;Free;Spell;; Paladin;1 ;;;Give a minion Divine Shield. This spell has been renamed so many times, even paladins don’t know what it should be called anymore.;
+Hand of Protection;Free;Spell;; Paladin;1 ;;;Give a minion Divine Shield. This spell has been renamed so many times, even paladins don't know what it should be called anymore.;
 Healing Touch;Free;Spell;; Druid;3 ;;;Restore 8 Health. 8 Health, no waiting.;
 Hellfire;Free;Spell;; Warlock;4 ;;;Deal 3 damage to ALL characters. It's spells like these that make it hard for Warlocks to get decent help.;
 Heroic Strike;Free;Spell;; Warrior;2 ;;;Give your hero +4 Attack this turn. Really, if you're a hero, this is every strike.;
@@ -84,7 +84,7 @@ Murloc Raider;Free;Minion;Murloc; Any;1 ;2 ;1 ;Mrrraggglhlhghghlgh, mrgaaag blar
 Murloc Tidehunter;Free;Minion;Murloc; Any;2 ;2 ;1 ;Battlecry: Summon a 1/1 Murloc Scout. "Death will rise, from the tides!";
 Nightblade;Free;Minion;General; Any;5 ;4 ;4 ;Battlecry: Deal 3 damage to the enemy hero. Your face is the place you'd probably least like a dagger, and where rogues are most likely to deliver them.;
 Northshire Cleric;Free;Minion;General; Priest;1 ;1 ;3 ;Whenever a minion is healed, draw a card. They help the downtrodden and distressed. Also they sell cookies.;
-Novice Engineer;Free;Minion;General; Any;2 ;1 ;1 ;Battlecry: Draw a card. "Half of this class will not graduate… since they'll have been turned to chickens." - Tinkmaster Overspark, teaching Gizmos 101.;
+Novice Engineer;Free;Minion;General; Any;2 ;1 ;1 ;Battlecry: Draw a card. "Half of this class will not graduate since they'll have been turned to chickens." - Tinkmaster Overspark, teaching Gizmos 101.;
 Oasis Snapjaw;Free;Minion;Beast; Any;4 ;2 ;7 ;His dreams of flying and breathing fire like his idol will never be realized.;
 Ogre Magi;Free;Minion;General; Any;4 ;4 ;4 ;Spell Damage +1 Training Ogres in the art of spellcasting is a questionable decision.;
 Polymorph;Free;Spell;; Mage;4 ;;;Transform a minion into a 1/1 Sheep. There was going to be a pun in this flavor text, but it just came out baa-d.;
@@ -98,10 +98,10 @@ Sacrificial Pact;Free;Spell;; Warlock;0 ;;;Destroy a Demon. Restore 5 Health to 
 Sap;Free;Spell;; Rogue;2 ;;;Return an enemy minion to your opponent's hand. Rogues love sappy movies.;
 Savage Roar;Free;Spell;; Druid;3 ;;;Give your characters +2 Attack this turn. What do they roar? Nobody can quite tell, but it sounds like "Elephant Macho Breeze". It's probably not that, though.;
 Sen'jin Shieldmasta;Free;Minion;General; Any;4 ;3 ;5 ;Taunt Sen'jin Villiage is nice, if you like trolls and dust.;
-Shadow Bolt;Free;Spell;; Warlock;3 ;;;Deal 4 damage to a minion. It’s a Bolt. Its made out of Shadow. What more do you need to know!;
+Shadow Bolt;Free;Spell;; Warlock;3 ;;;Deal 4 damage to a minion. It's a Bolt. Its made out of Shadow. What more do you need to know!;
 Shadow Word: Death;Free;Spell;; Priest;3 ;;;Destroy a minion with an Attack of 5 or more. If you miss, it leaves a lightning-bolt-shaped scar on your target.;
 Shadow Word: Pain;Free;Spell;; Priest;2 ;;;Destroy a minion with 3 or less Attack. A step up from a spell cast by many beginning acolytes: "Shadow Word: Annoy".;
-Shattered Sun Cleric;Free;Minion;General; Any;3 ;3 ;2 ;Battlecry: Give a friendly minion +1/+1. They always have a spare flask of Sunwell Energy Drink™!;
+Shattered Sun Cleric;Free;Minion;General; Any;3 ;3 ;2 ;Battlecry: Give a friendly minion +1/+1. They always have a spare flask of Sunwell Energy Drink!;
 Shield Block;Free;Spell;; Warrior;3 ;;;Gain 5 Armor. Draw a card. Shields were invented because Face Block is USELESS.;
 Shiv;Free;Spell;; Rogue;2 ;;;Deal 1 damage. Draw a card. Rogues are experts at SHIV-al-ry.;
 Silverback Patriarch;Free;Minion;Beast; Any;3 ;1 ;4 ;Taunt He likes to act like he's in charge, but the silverback matriarch actually runs things.;

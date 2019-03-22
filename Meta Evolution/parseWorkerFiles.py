@@ -9,14 +9,15 @@ def aggregateToVector(data, vectors):
 			vectors[i][j][0] += data[i][j][0]
 			vectors[i][j][1] += data[i][j][1]
 
-def parseWorkerFiles(filepath, number_of_matchups):
+def parseWorkerFiles(filepath, number_of_matchups, number_of_workers=-1):
 	files = [name for name in os.listdir(filepath + "/worker_data") if os.path.isfile(filepath + "/worker_data/" + name)]
 	
 	file_data = []
 	result_vectors = []
 	
+	total_files_parsed = 0
 	for file in files:
-		print(file)
+		#print(file)
 		input_file = open(filepath + "/worker_data/" + file, 'r')
 		
 		count = 0
@@ -36,6 +37,10 @@ def parseWorkerFiles(filepath, number_of_matchups):
 		
 		aggregateToVector(file_data, result_vectors)
 		file_data = []
+		
+		total_files_parsed += 1
+		if number_of_workers > 0 and total_files_parsed >= number_of_workers:
+			break
 	
 	vectors = []
 	

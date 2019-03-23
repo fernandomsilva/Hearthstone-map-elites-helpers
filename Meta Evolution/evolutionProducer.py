@@ -9,7 +9,7 @@ from deap import tools
 
 range_of_variable = 3
 #size_of_individual = 5
-num_of_individuals = 100
+num_of_individuals = 3
 
 def make_dir(dir):
 	if not os.path.exists(dir):

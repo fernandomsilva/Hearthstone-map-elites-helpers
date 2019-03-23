@@ -56,16 +56,45 @@ for dir1 in os.listdir(path):
 
 winRate_output_file = open(output_winRate, 'w')
 
+list_of_decks = set()
+
+for key in results:
+	list_of_decks.add(key)
+	for k2 in results[key]:
+		list_of_decks.add(k2)
+
+for deck in list_of_decks:
+	if deck not in results:
+		results[deck] = {}
+
+order_to_print = []
+temp = []
+
+for deck in list_of_decks:
+	temp.append((deck, sum([results[deck][x]["numGames"] for x in results[deck]])))
+
+temp = sorted(temp, key=lambda k:k[1], reverse=True)
+order_to_print = [temp[i][0] for i in range(0, len(temp))]
+
+for key in results:
+	for deck in list_of_decks:
+		if deck not in results[key]:
+			results[key][deck] = {"numGames": -1, "numWins": 0, "cardData": {}}
+
 column_header = ","
-for key in results[list(results.keys())[0]]:
+#for key in results[list(results.keys())[0]]:
+for key in order_to_print:
 	column_header += key + ","
 column_header = column_header[:-1] #remove the extra comma
 winRate_output_file.write(column_header + '\n')
 
-for k1 in results:
+for k1 in column_header[1:].split(','):
 	row = k1 + ","
-	for k2 in results[k1]:
-		row += str(float(results[k1][k2]["numWins"] / results[k1][k2]["numGames"])) + ","
+	for k2 in column_header[1:].split(','):
+		if results[k1][k2]["numGames"] == -1:
+			row += ","
+		else:
+			row += str(float(results[k1][k2]["numWins"] / results[k1][k2]["numGames"])) + ","
 		print((results[k1][k2]["numWins"], results[k1][k2]["numGames"]))
 	
 	row = row[:-1]

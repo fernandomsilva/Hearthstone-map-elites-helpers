@@ -190,22 +190,24 @@ namespace GamePlayer
 			Thread.Sleep(10000);
 
 			int j = 0;
-			
+			string previous_matchups = "";
 			//foreach (List<object> player in players)
 			//{
 			//	foreach (List<object> opponent in opponents)
 			//	{
-			for (int x=0; x<players.Count-1; x++)
+			for (int x=0; x<players.Count; x++)
 			{
 				//foreach (List<object> opponent in opponents)
 				for (int y=0; y<opponents.Count; y++)
 				{
-					if (x < y)
-					{
-						List<object> player = players[x];
-						List<object> opponent = opponents[y];
+					List<object> player = players[x];
+					List<object> opponent = opponents[y];
 
+					if (player[0] != opponent[0] && !previous_matchups.Contains("|" + player[0] + "X" + opponent[0] + "|"))
+					{
 						j = 0;
+						
+						previous_matchups += "|" + player[0] + "X" + opponent[0] + "|";
 						
 						while (j < number_of_loops)
 						{

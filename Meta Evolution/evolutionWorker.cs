@@ -49,7 +49,7 @@ namespace GamePlayer
         //private static int parallelThreadsInner = 1;//this his what is important
         //private static int testsInEachThreadInner = 2;//linearly
 
-		private static int GPUID;
+		private static string GPUID;
 		private static string folderName;
 		private static int numGames;
 		private static int stepSize;
@@ -66,7 +66,7 @@ namespace GamePlayer
 				
 				if (argument.Contains("gpuid="))
 				{
-					GPUID = int.Parse(argument.Substring(6)) - 1;
+					GPUID = argument.Substring(6);
 				}
 				else if (argument.Contains("folder="))
 				{
@@ -212,7 +212,7 @@ namespace GamePlayer
 
 			maxDepth = 13;
 			maxWidth = 4;
-			GPUID = 0;
+			GPUID = "0";
 			folderName = "";
 			numGames = 2;
 			stepSize = 0;

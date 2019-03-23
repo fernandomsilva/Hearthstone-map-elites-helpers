@@ -203,7 +203,7 @@ namespace GamePlayer
 					List<object> player = players[x];
 					List<object> opponent = opponents[y];
 
-					if (player[0] != opponent[0] && !previous_matchups.Contains("|" + player[0] + "X" + opponent[0] + "|"))
+					if (!string.Equals((string) player[0], (string) opponent[0]) && !previous_matchups.Contains("|" + player[0] + "X" + opponent[0] + "|"))
 					{
 						j = 0;
 						

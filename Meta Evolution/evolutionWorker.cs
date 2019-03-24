@@ -252,7 +252,7 @@ namespace GamePlayer
 			//}
 			//Thread.Sleep(10000);
 
-			int j = 0, g = 0;
+			int j = 0, g = 0, run = 0;
 			
 			while (true)
 			{
@@ -266,80 +266,88 @@ namespace GamePlayer
 				
 				number_of_files = 0;
 
-				//foreach (List<object> player in players)
-				foreach (List<int> meta in meta_values)
+				run = 0;
+				while (true)
 				{
-					NerfCards(meta, default_card_data);
-					
-					for (int x=0; x<players.Count-1; x++)
+					run += 1;
+					foreach (List<int> meta in meta_values)
 					{
-						//foreach (List<object> opponent in opponents)
-						for (int y=0; y<opponents.Count; y++)
+						NerfCards(meta, default_card_data);
+						
+						for (int x=0; x<players.Count-1; x++)
 						{
-							if (x < y)
+							//foreach (List<object> opponent in opponents)
+							for (int y=0; y<opponents.Count; y++)
 							{
-								List<object> player = players[x];
-								List<object> opponent = opponents[y];
-
-								j = 0;
-								
-								while (j < number_of_loops)
+								if (x < y)
 								{
-									bool retry = true;
-									int tries = 0;
+									List<object> player = players[x];
+									List<object> opponent = opponents[y];
+
+									j = 0;
 									
-									while (retry)
+									while (j < number_of_loops)
 									{
-										try
+										bool retry = true;
+										int tries = 0;
+										
+										while (retry)
 										{
-											string player1Class = (string) player[1];
-											string player1Strategy = (string) player[2];
-											List<Card> player1Deck = (List<Card>) player[3];
-											string player2Class = (string) opponent[1];
-											string player2Strategy = (string) opponent[2];
-											List<Card> player2Deck = (List<Card>) opponent[3];
-											
-											//Console.WriteLine("Start Thread");
-											var thread = new Thread(() =>
+											try
 											{
-												winRate.Add(getWinRate(player1Class, player1Strategy, player1Deck, player2Class, player2Strategy, player2Deck));
-											});
-											
-											thread.Start();
-											
-											bool finished = thread.Join(600000);
+												string player1Class = (string) player[1];
+												string player1Strategy = (string) player[2];
+												List<Card> player1Deck = (List<Card>) player[3];
+												string player2Class = (string) opponent[1];
+												string player2Strategy = (string) opponent[2];
+												List<Card> player2Deck = (List<Card>) opponent[3];
+												
+												//Console.WriteLine("Start Thread");
+												var thread = new Thread(() =>
+												{
+													winRate.Add(getWinRate(player1Class, player1Strategy, player1Deck, player2Class, player2Strategy, player2Deck));
+												});
+												
+												thread.Start();
+												
+												bool finished = thread.Join(600000);
 
-											//Console.WriteLine("Thread End");
-											
-											if (!finished)
-											{
-												retry = true;
+												//Console.WriteLine("Thread End");
+												
+												if (!finished)
+												{
+													retry = true;
 
-												tries++;
-												continue;
+													tries++;
+													continue;
+												}
+												else
+												{
+													retry = false;
+
+												}
+												number_of_files = Directory.GetFiles(folderName + "/gen" + g + "/worker_data", "*", SearchOption.TopDirectoryOnly).Length;
+												if (number_of_files >= numWorkersNeeded)
+												{
+													break;
+												}
 											}
-											else
+											catch (Exception e)
 											{
-												retry = false;
-
+												Console.WriteLine(e.Message);
 											}
-											number_of_files = Directory.GetFiles(folderName + "/gen" + g + "/worker_data", "*", SearchOption.TopDirectoryOnly).Length;
-											if (number_of_files >= numWorkersNeeded)
+											if (tries > 3)
 											{
 												break;
 											}
 										}
-										catch (Exception e)
-										{
-											Console.WriteLine(e.Message);
-										}
-										if (tries > 3)
+										j++;
+										
+										if (number_of_files >= numWorkersNeeded)
 										{
 											break;
 										}
 									}
-									j++;
-									
 									if (number_of_files >= numWorkersNeeded)
 									{
 										break;
@@ -349,46 +357,47 @@ namespace GamePlayer
 								{
 									break;
 								}
+								//Console.WriteLine(x + ", " + y);
 							}
 							if (number_of_files >= numWorkersNeeded)
 							{
 								break;
 							}
-							//Console.WriteLine(x + ", " + y);
 						}
 						if (number_of_files >= numWorkersNeeded)
 						{
 							break;
 						}
 					}
+					
+					number_of_files = Directory.GetFiles(folderName + "/gen" + g + "/worker_data", "*", SearchOption.TopDirectoryOnly).Length;
+					if (number_of_files < numWorkersNeeded)
+					{
+						string overallGameStat = folderName + "/gen" + g + "/worker_data";
+
+						try
+						{
+							overallGameStat = overallGameStat + "/Output-" + GPUID + "-" + j + "-" + run + ".txt";
+							using (StreamWriter tw = File.AppendText(overallGameStat))
+							{
+								foreach (string line in winRate)
+								{
+									tw.WriteLine(line);
+								}
+								
+								tw.Close();
+							}
+						}
+						catch (Exception e)
+						{
+							Console.WriteLine(e.Message);
+						}					
+					}
+					number_of_files = Directory.GetFiles(folderName + "/gen" + g + "/worker_data", "*", SearchOption.TopDirectoryOnly).Length;
 					if (number_of_files >= numWorkersNeeded)
 					{
 						break;
 					}
-				}
-				
-				number_of_files = Directory.GetFiles(folderName + "/gen" + g + "/worker_data", "*", SearchOption.TopDirectoryOnly).Length;
-				if (number_of_files < numWorkersNeeded)
-				{
-					string overallGameStat = folderName + "/gen" + g + "/worker_data";
-
-					try
-					{
-						overallGameStat = overallGameStat + "/Output-" + GPUID + "-" + j + ".txt";
-						using (StreamWriter tw = File.AppendText(overallGameStat))
-						{
-							foreach (string line in winRate)
-							{
-								tw.WriteLine(line);
-							}
-							
-							tw.Close();
-						}
-					}
-					catch (Exception e)
-					{
-						Console.WriteLine(e.Message);
-					}					
 				}
 				g += 1;
 			}

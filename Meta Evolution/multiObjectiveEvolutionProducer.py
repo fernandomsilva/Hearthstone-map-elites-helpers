@@ -38,7 +38,7 @@ def saveToFile(filepath, input_str_list):
 		file_data.write(str(line) + "\n")
 	file_data.close()
 
-creator.create("FitnessMin", base.Fitness, weights=(-1.0,))
+creator.create("FitnessMin", base.Fitness, weights=(-1.0,-1.0))
 creator.create("Individual", list, fitness=creator.FitnessMin)
 
 toolbox = base.Toolbox()
@@ -67,6 +67,7 @@ def evalOneMin(individual, fitness_results):
 
 
 def evalMultiMin(individual, fitness_results, cost_results):
+	print ([fitness_results[individual], cost_results[individual]])
 	return [fitness_results[individual], cost_results[individual]]
 
 
@@ -95,9 +96,15 @@ def main():
 
 	# Evaluate the entire population
 	fitnesses = list(map(functools.partial(toolbox.evaluate, fitness_results=fitness_results, cost_results = cost_results), range(0, len(pop))))
+	print("Initial ffitnesses" + str(fitnesses))
+	print(list(zip(pop,fitnesses)))
 	for ind, fit in zip(pop, fitnesses):
+		print ("fit " + str(fit))
 		ind.fitness.values = fit
-	
+		print (ind.fitness.values)
+
+
+
 	# CXPB  is the probability with which two individuals
 	#       are crossed
 	#
@@ -105,7 +112,7 @@ def main():
 	CXPB, MUTPB = 0.35, 0.2
 	
 	# Extracting all the fitnesses of 
-	fits = [ind.fitness.values[0] for ind in pop]
+	fits = [ind.fitness.values for ind in pop]
 	
 	files_to_delete = [name for name in os.listdir(directory + '/gen' + str(g) + "/worker_data") if os.path.isfile(directory + '/gen' + str(g) + "/worker_data/" + name)]
 	for file in files_to_delete:
@@ -113,7 +120,7 @@ def main():
 	saveToFile(directory + '/gen' + str(g) + '/output.txt', zip(pop, fits))
 
 	# Begin the evolution
-	while min(fits) > range_of_variable*(-1)*size_of_individual and g < 1000:
+	while g < 1000:
 		# A new generation
 		g = g + 1
 		print("-- Generation %i --" % g)
@@ -144,33 +151,46 @@ def main():
 
 		winrate_vectors = pwf.parseWorkerFiles(directory + '/gen' + str(g), number_of_matchups, number_of_workers)
 		fitness_results = [euclideanDistanceToWinRateCenter(winrate_vectors[i]) for i in range(0, len(winrate_vectors))]
-		cost_results = [sumBuffsNerfsAbs(ind) for ind in offspring]
+		cost_results = [sumBuffsNerfsAbs(ind) for ind in invalid_ind]
+		print ("fitness dimension 1 (win rate differentials) " + str(fitness_results))
+		print ("fitness dimension 2 (cost of nerfs/buffs) " +str(cost_results))
 
 		fitnesses = map(functools.partial(toolbox.evaluate, fitness_results=fitness_results, cost_results = cost_results), range(0, len(invalid_ind)))
 		#fitnesses = map(toolbox.evaluate, invalid_ind)
-		for ind, fit in zip(invalid_ind, fitnesses):
+		print("list fitnesses of invalid individuals " + str(list(fitnesses)))
+		print("invalid individuals " + str(invalid_ind))
+		print (len(list(fitnesses)))
+		print (len (invalid_ind))
+		print ("zip of invalid  individuals and fitnesses " + str(list(zip(invalid_ind, fitnesses))))
+		for ind, fit in zip(invalid_ind, list(fitnesses)):
 			ind.fitness.values = fit
+			print ("HERE " + str(ind.fitnesses.vaules))
 
 		pop[:] = offspring
 		
 		# Gather all the fitnesses in one list and print the stats
-		fits = [ind.fitness.values[0] for ind in pop]
+		print ([ind.fitness.values for ind in pop])
+		multiFitness = [list(ind.fitness.values) for ind in pop]
+		# fits = [ind.fitness.values[0] for ind in pop]
+
+		print("multiFitness")
+		print(multiFitness)
 
 		files_to_delete = [name for name in os.listdir(directory + '/gen' + str(g) + "/worker_data") if os.path.isfile(directory + '/gen' + str(g) + "/worker_data/" + name)]
 		for file in files_to_delete:
 			os.remove(directory + '/gen' + str(g) + "/worker_data/" + file)
-		saveToFile(directory + '/gen' + str(g) + '/output.txt', zip(pop, fits))
+		saveToFile(directory + '/gen' + str(g) + '/output.txt', zip(pop, multiFitness))
 
-		length = len(pop)
-		mean = sum(fits) / length
-		sum2 = sum(x*x for x in fits)
-		std = abs(sum2 / length - mean**2)**0.5
+		# length = len(pop)
+		# mean = sum(fits) / length
+		# sum2 = sum(x*x for x in fits)
+		# std = abs(sum2 / length - mean**2)**0.5
 
-		print("  Pop %s" % len(pop))
-		print("  Min %s" % min(fits))
-		print("  Max %s" % max(fits))
-		print("  Avg %s" % mean)
-		print("  Std %s" % std)
+		# print("  Pop %s" % len(pop))
+		# print("  Min %s" % min(fits))
+		# print("  Max %s" % max(fits))
+		# print("  Avg %s" % mean)
+		# print("  Std %s" % std)
 		
 	print("-- End of (successful) evolution --")
 

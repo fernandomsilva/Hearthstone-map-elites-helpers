@@ -14,5 +14,5 @@
 module purge
 module load mono/intel/4.8.0
 
-srun mono evolutionWorker.exe gpuid=$SGE_TASK_ID numGames=1 folder=results-multiobj playerdecks=player_decks.csv opponentdecks=player_decks.csv maxwidth=12 maxdepth=3 numworkers=300
+srun mono evolutionWorker.exe gpuid=$SLURM_ARRAY_TASK_ID numGames=1 folder=results-multiobj playerdecks=player_decks.csv opponentdecks=player_decks.csv maxwidth=12 maxdepth=3 numworkers=300
 

@@ -11,4 +11,4 @@
 
 module load anaconda
 
-python "/home/a/ahoover/EvoMeta/multiObjectiveEvolutionProducer.py" results-multiObj 300 3
+python "/home/a/ahoover/EvoMeta/multiObjectiveEvolutionProducer.py" results-multiobj 300 3

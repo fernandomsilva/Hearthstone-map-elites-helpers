@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-#SBATCH --job-name=Producer_MultiOBJ
+#SBATCH --job-name=Worker_MultiOBJ
 #SBATCH --nodes=1
 #SBATCH --ntasks-per-node=1
 #SBATCH --cpus-per-task=1

@@ -9,7 +9,7 @@ from deap import tools
 
 range_of_variable = 3
 #size_of_individual = 5
-num_of_individuals = 3
+num_of_individuals = 100
 
 def make_dir(dir):
 	if not os.path.exists(dir):
@@ -90,17 +90,18 @@ def main():
 		time.sleep(10) #sleep for 10 seconds
 	
 	winrate_vectors = pwf.parseWorkerFiles(directory + '/gen' + str(g), number_of_matchups, number_of_workers)
+	# print("winrate_vectors " + str(winrate_vectors) )
 	fitness_results = [euclideanDistanceToWinRateCenter(winrate_vectors[i]) for i in range(0, len(winrate_vectors))]
 	cost_results = [sumBuffsNerfsAbs(ind) for ind in pop]
 
 	# Evaluate the entire population
 	fitnesses = list(map(functools.partial(toolbox.evaluate, fitness_results=fitness_results, cost_results = cost_results), range(0, len(pop))))
-	print("Initial ffitnesses" + str(fitnesses))
-	print(list(zip(pop,fitnesses)))
+	# print("Initial ffitnesses" + str(fitnesses))
+	# print(list(zip(pop,fitnesses)))
 	for ind, fit in zip(pop, fitnesses):
-		print ("fit " + str(fit))
+		# print ("fit " + str(fit))
 		ind.fitness.values = fit
-		print (ind.fitness.values)
+		# print (ind.fitness.values)
 
 
 
@@ -151,8 +152,8 @@ def main():
 		winrate_vectors = pwf.parseWorkerFiles(directory + '/gen' + str(g), number_of_matchups, number_of_workers)
 		fitness_results = [euclideanDistanceToWinRateCenter(winrate_vectors[i]) for i in range(0, len(winrate_vectors))]
 		cost_results = [sumBuffsNerfsAbs(ind) for ind in invalid_ind]
-		print ("fitness dimension 1 (win rate differentials) " + str(fitness_results))
-		print ("fitness dimension 2 (cost of nerfs/buffs) " +str(cost_results))
+		# print ("fitness dimension 1 (win rate differentials) " + str(fitness_results))
+		# print ("fitness dimension 2 (cost of nerfs/buffs) " +str(cost_results))
 
 		fitnesses = map(functools.partial(toolbox.evaluate, fitness_results=fitness_results, cost_results = cost_results), range(0, len(invalid_ind)))
 		#fitnesses = map(toolbox.evaluate, invalid_ind)
@@ -172,17 +173,24 @@ def main():
 		pop[:] = offspring
 		
 		# Gather all the fitnesses in one list and print the stats
-		print ([ind.fitness.values for ind in pop])
+		# print ([ind.fitness.values for ind in pop])
 		multiFitness = [list(ind.fitness.values) for ind in pop]
 		# fits = [ind.fitness.values[0] for ind in pop]
 
-		print("multiFitness")
-		print(multiFitness)
+		# print("multiFitness")
+		# print(multiFitness)
+
+		print("Results for generation " + str(g))
+		print(list(zip(pop,multiFitness)))
 
 		files_to_delete = [name for name in os.listdir(directory + '/gen' + str(g) + "/worker_data") if os.path.isfile(directory + '/gen' + str(g) + "/worker_data/" + name)]
 		for file in files_to_delete:
 			os.remove(directory + '/gen' + str(g) + "/worker_data/" + file)
 		saveToFile(directory + '/gen' + str(g) + '/output.txt', zip(pop, multiFitness))
+
+		# nonDominated = tools.sortNondominated(pop, len(pop))
+		# print("Individuals sorted by nondomination levels for generation " + str(g))
+		# print(nonDominated)
 
 		# length = len(pop)
 		# mean = sum(fits) / length
@@ -197,7 +205,7 @@ def main():
 		
 	print("-- End of (successful) evolution --")
 
-	best_ind = tools.selBest(pop, 1)[0]
-	print("Best individual is %s, %s" % (best_ind, best_ind.fitness.values))
+	# best_ind = tools.selBest(pop, 1)[0]
+	# print("Best individual is %s, %s" % (best_ind, best_ind.fitness.values))
 
 main()

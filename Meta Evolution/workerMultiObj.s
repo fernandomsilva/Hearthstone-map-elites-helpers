@@ -24,5 +24,5 @@
 # Load CUDA module
 module load mono
 #Full path to executable
-mono "/home/a/ahoover/EvoMeta/evolutionWorker.exe" gpuid=$SGE_TASK_ID numGames=1 folder=results-multiObj playerdecks=player_decks.csv opponentdecks=player_decks.csv maxwidth=12 maxdepth=3 numworkers=300
+mono "/home/a/ahoover/EvoMeta/evolutionWorker.exe" gpuid=$SGE_TASK_ID numGames=1 folder=results-multiobj playerdecks=player_decks.csv opponentdecks=player_decks.csv maxwidth=12 maxdepth=3 numworkers=300
 

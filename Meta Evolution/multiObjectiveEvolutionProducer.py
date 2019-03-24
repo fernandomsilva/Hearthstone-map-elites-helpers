@@ -71,7 +71,6 @@ def evalMultiMin(individual, fitness_results, cost_results):
 	return [fitness_results[individual], cost_results[individual]]
 
 
-	
 toolbox.register("evaluate", evalMultiMin)
 toolbox.register("mate", tools.cxTwoPoint)
 toolbox.register("mutate", tools.mutFlipBit, indpb=0.05)
@@ -157,14 +156,18 @@ def main():
 
 		fitnesses = map(functools.partial(toolbox.evaluate, fitness_results=fitness_results, cost_results = cost_results), range(0, len(invalid_ind)))
 		#fitnesses = map(toolbox.evaluate, invalid_ind)
-		print("list fitnesses of invalid individuals " + str(list(fitnesses)))
-		print("invalid individuals " + str(invalid_ind))
-		print (len(list(fitnesses)))
-		print (len (invalid_ind))
-		print ("zip of invalid  individuals and fitnesses " + str(list(zip(invalid_ind, fitnesses))))
-		for ind, fit in zip(invalid_ind, list(fitnesses)):
+		copy_of_fitnesses = [x for x in fitnesses]
+		#print("list fitnesses of invalid individuals " + str(list(fitnesses)) + " /\ " + str(len(list(fitnesses))))
+		#print("invalid individuals " + str(invalid_ind))
+		#print (len(list(fitnesses)))
+		#print (len (invalid_ind))
+		#print(len(copy_of_fitnesses))
+		#print ("zip of invalid  individuals and fitnesses " + str(list(zip(invalid_ind, fitnesses))))
+		#print ("zip of invalid  individuals and copyfitnesses " + str(list(zip(invalid_ind, copy_of_fitnesses))))
+		#for ind, fit in zip(invalid_ind, fitnesses):
+		for ind, fit in zip(invalid_ind, copy_of_fitnesses):
 			ind.fitness.values = fit
-			print ("HERE " + str(ind.fitnesses.vaules))
+			#print ("HERE " + str(ind.fitness.vaules))
 
 		pop[:] = offspring
 		

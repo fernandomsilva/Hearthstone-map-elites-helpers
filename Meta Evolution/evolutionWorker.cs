@@ -327,7 +327,7 @@ namespace GamePlayer
 
 												}
 												number_of_files = Directory.GetFiles(folderName + "/gen" + g + "/worker_data", "*", SearchOption.TopDirectoryOnly).Length;
-												if (number_of_files >= numWorkersNeeded)
+												if (number_of_files >= numWorkersNeeded || File.Exists(folderName + "/gen" + g + "/output.txt"))
 												{
 													break;
 												}
@@ -343,28 +343,28 @@ namespace GamePlayer
 										}
 										j++;
 										
-										if (number_of_files >= numWorkersNeeded)
+										if (number_of_files >= numWorkersNeeded || File.Exists(folderName + "/gen" + g + "/output.txt"))
 										{
 											break;
 										}
 									}
-									if (number_of_files >= numWorkersNeeded)
+									if (number_of_files >= numWorkersNeeded || File.Exists(folderName + "/gen" + g + "/output.txt"))
 									{
 										break;
 									}
 								}
-								if (number_of_files >= numWorkersNeeded)
+								if (number_of_files >= numWorkersNeeded || File.Exists(folderName + "/gen" + g + "/output.txt"))
 								{
 									break;
 								}
 								//Console.WriteLine(x + ", " + y);
 							}
-							if (number_of_files >= numWorkersNeeded)
+							if (number_of_files >= numWorkersNeeded || File.Exists(folderName + "/gen" + g + "/output.txt"))
 							{
 								break;
 							}
 						}
-						if (number_of_files >= numWorkersNeeded)
+						if (number_of_files >= numWorkersNeeded || File.Exists(folderName + "/gen" + g + "/output.txt"))
 						{
 							break;
 						}
@@ -394,7 +394,7 @@ namespace GamePlayer
 						}					
 					}
 					number_of_files = Directory.GetFiles(folderName + "/gen" + g + "/worker_data", "*", SearchOption.TopDirectoryOnly).Length;
-					if (number_of_files >= numWorkersNeeded)
+					if (number_of_files >= numWorkersNeeded || File.Exists(folderName + "/gen" + g + "/output.txt"))
 					{
 						break;
 					}

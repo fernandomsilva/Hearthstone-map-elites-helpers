@@ -2,6 +2,7 @@ import random, os, sys, time, math, functools
 
 import GenerateCardVector as gcv
 import parseWorkerFiles as pwf
+import numpy as np
 
 from deap import base
 from deap import creator
@@ -10,6 +11,8 @@ from deap import tools
 range_of_variable = 3
 #size_of_individual = 5
 num_of_individuals = 100
+
+best_individual_single_objective = [0, 1, -3, 3, -1, 0, 1, -2, 2, 0, -2, 3, -1, -3, 3, -3, 3, 2, -1, 0, -1, -2, -2, 0, 1, 0, -2, 3, 3, 1, 1, -2, -1, 0, 0, 1, 2, -2, -3, 3, 3, -2, 2, -2, -2, -3, 1, 3, 0, 0, -1, 0, 0, 0, -2, -1, 1, 0, -1, -3, 2, 0, 2, 3, 0, -1, 1, 0, 2, 0, -2, 2, 0, -2, 0, 0, -2, 3, -1, -2, 2, -3, 0, 2, 3, -2, -2, 1, -2, 0, 1, 0, 3, 3, -3, -3, 1, 1, -1, -2, 3, 0, 0, 2, 1, -1, -3, 0, 3, 3, -2, -1, -1, 1, -3, -2, -1, 0, -1, -3, -2, -3, 0, -2, 0, -3, 1, 2, 1, 0, -3, 0, 2, 3, -2, 0, -2, 3, 3, 1, 2, 2, -2, -3, 3, -1, -3, -3, 1, -2, -1, -1, 3, 2, -2, 3, -1, 3, -1, 2, 3, 3, -1, -1, 0, 2, -3, 2, -3, -2, -2, -1, -3, -3, -1, -3, 1, -3, -2, 1]
 
 def make_dir(dir):
 	if not os.path.exists(dir):
@@ -80,6 +83,8 @@ toolbox.register("select", tools.selNSGA2)
 
 def main():
 	pop = toolbox.population(n=num_of_individuals)
+	pop[0] = np.zeros(size_of_individual).tolist()
+	pop[1] = best_individual_single_objective
 	number_of_matchups = math.factorial(number_of_decks) / (2 * math.factorial(number_of_decks-2))
 	
 	# Variable keeping track of the number of generations

@@ -83,8 +83,8 @@ toolbox.register("select", tools.selNSGA2)
 
 def main():
 	pop = toolbox.population(n=num_of_individuals)
-	pop[0] = np.zeros(size_of_individual).tolist()
-	pop[1] = best_individual_single_objective
+	pop[0] = creator.Individual([0] * size_of_individual)
+	pop[1] = creator.Individual(best_individual_single_objective)
 	number_of_matchups = math.factorial(number_of_decks) / (2 * math.factorial(number_of_decks-2))
 	
 	# Variable keeping track of the number of generations
